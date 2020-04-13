@@ -7,9 +7,6 @@ https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8
 #https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169473~exp=9007200830910464~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=de134c99dd118bcb1cdf9ce6f79f4c8f97cc6c76d8a22ced11105b72fd70aadd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="Local", MNC TV VIDIO
 #https://etslive-2-vidio-com.akamaized.net/exp=1586760752~acl=/hls-b/ingest_870_*/*~hmac=8e5e1d49a6bcedb731a37df2b7356cf738310c7b806616f49626ce82e8119cc2/hls-b/ingest_870_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png" group-title="Local", RCTI
-https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8
-#https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png" group-title="Local", RCTI VIDIO
 #https://etslive-2-vidio-com.akamaized.net/exp=1586760757~acl=/hls-b/ingest_665_*/*~hmac=8e32dc80f46a9f8952ac23f2015ec51f4261a053a6995b0ba00e80b2c1ce7b3e/hls-b/ingest_665_720p/index.m3u8
 #EXTINF:0 tvg-logo="https://imgur.com/hAkcBVR.png" group-title="Local", GLOBAL TV
