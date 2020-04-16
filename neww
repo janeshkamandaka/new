@@ -2,7 +2,7 @@
 
 #Local
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="Local", Gundala
-https://drive.google.com/file/d/1BdL9fVX3Me6T3QQFlDcGum8QMqKb6mRH/view
+https://video.google.com/api/stats/qoe?event=streamingstats&fmt=18&cpn=fiIVWMCLmG3lZQ2W&el=embedded&docid=1BdL9fVX3Me6T3QQFlDcGum8QMqKb6mRH&ns=gd&fexp=23735347%2C23744176%2C23804281%2C23836792%2C23837040%2C23837993%2C23839597%2C23856950%2C23857948%2C23859802%2C23859863%2C23866394%2C23873928%2C23876178%2C23876458%2C23877713%2C23878654%2C23879395%2C23879430%2C23880177%2C23880987%2C23881946%2C23882034%2C23882513%2C23882558%2C23882685%2C23885572%2C23887051%2C23887733%2C23889578%2C23890810%2C23894619%2C23895350%2C9449243&cl=306339945&seq=7&c=WEB_EMBEDDED_PLAYER&cver=20200415&cplayer=UNIPLAYER&cbr=Firefox&
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="Local", MNC TV
 https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="Local", MNC TV 1
