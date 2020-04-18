@@ -1,5 +1,6 @@
 #EXTINF
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="REALTIME CORONA VIRUS", COVID 19
+https://etslive-2-vidio-com.akamaized.net/exp=1587225278~acl=/hls-p/ingest_6886_*/*~hmac=5bfb61f9b7bebd34d53b6fa25df5391f5c9fe10ee49c80e475ed8224074b73a6/hls-p/ingest_6886_720p/index.m3u8
 #Local
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="Local", MNC TV
 https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8
