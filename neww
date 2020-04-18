@@ -183,15 +183,18 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_big.png" group-title="MOVIE", Celestial Movies
 https://delivery.macan.live/stream/cm/index.m3u8?token=OpCKsDAP
-#https://anevia115.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_big.png" group-title="MOVIE", Celestial Movies 1
+https://anevia115.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_ccm.png" group-title="MOVIE", Celestial Classic Movies
 https://delivery.macan.live/stream/ccm/index.m3u8?token=OpCKsDAP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_ccm.png" group-title="MOVIE", Celestial Classic Movies 1
 #https://anevia115.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_cinemax.png" group-title="MOVIE", CINEMAX
 https://delivery.macan.live/stream/cinemax/index.m3u8?token=OpCKsDAP
-#https://anevia115.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_cinemax.png" group-title="MOVIE", CINEMAX 1
+https://anevia115.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", Citra Bioskop
 https://delivery.macan.live/stream/citra_bioskop/index.m3u8?token=OpCKsDAP
@@ -204,43 +207,55 @@ https://delivery.macan.live/stream/flik/index.m3u8?token=OpCKsDAP
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_foxm.png" group-title="MOVIE", FOX Movies
 https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=OpCKsDAP
-#https://anevia115.mncnow.id/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_foxm.png" group-title="MOVIE", FOX Movies 1
+https://anevia115.mncnow.id/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_foxam.png" group-title="MOVIE", FOX Action Movies
 https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=OpCKsDAP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_foxam.png" group-title="MOVIE", FOX Action Movies 1
 #https://anevia115.mncnow.id/live/eds/FoxActionMovies/sa_hls/FoxActionMovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_foxfm.png" group-title="MOVIE", FOX Family Movies
 https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=OpCKsDAP
-#https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/m3u/FoxFamilyMovies.m3u8
-#https://anevia115.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies.m3u8
-#http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA0966E59174C0D6805DBB39&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_foxfm.png" group-title="MOVIE", FOX Family Movies 1
+https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/m3u/FoxFamilyMovies.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_foxfm.png" group-title="MOVIE", FOX Family Movies 2
+https://anevia115.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_foxfm.png" group-title="MOVIE", FOX Family Movies 3
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA0966E59174C0D6805DBB39&profile=pass
 
 #EXTINF:-1 tvg-logo="KOSONG" group-title="MOVIE", Galaxy
 https://delivery.macan.live/stream/galaxy_premium/index.m3u8?token=OpCKsDAP
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hbo.png" group-title="MOVIE", HBO
 https://delivery.macan.live/stream/hbo/index.m3u8?token=OpCKsDAP
-#https://anevia115.mncnow.id/live/eds/HBO/sa_hls/HBO.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hbo.png" group-title="MOVIE", HBO 1
+https://anevia115.mncnow.id/live/eds/HBO/sa_hls/HBO.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hboh.png" group-title="MOVIE", HBO Hits
 https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=OpCKsDAP
-#http://streamku.live:8888/live/YvwPz6hzUP/zKNJFAHOiy/578.ts
-#https://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hboh.png" group-title="MOVIE", HBO Hits 1
+http://streamku.live:8888/live/YvwPz6hzUP/zKNJFAHOiy/578.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hboh.png" group-title="MOVIE", HBO Hits 2
+https://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hbof.png" group-title="MOVIE", HBO Family
 https://delivery.macan.live/stream/hbo_family/index.m3u8?token=OpCKsDAP
-#http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
-#https://anevia115.mncnow.id/live/eds/HBOFamily/sa_hls/HBOFamily.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hbof.png" group-title="MOVIE", HBO Family 1
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hbof.png" group-title="MOVIE", HBO Family 2
+https://anevia115.mncnow.id/live/eds/HBOFamily/sa_hls/HBOFamily.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hbos.png" group-title="MOVIE", HBO Signature
 https://delivery.macan.live/stream/hbo_signature/index.m3u8?token=OpCKsDAP
-#https://anevia115.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hbos.png" group-title="MOVIE", HBO Signature 1
+https://anevia115.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hits.png" group-title="MOVIE", Hits
 https://delivery.macan.live/stream/hits/index.m3u8?token=OpCKsDAP
-#https://anevia115.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hits.png" group-title="MOVIE", Hits 1
+https://anevia115.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_hitsm.png" group-title="MOVIE", Hits Movies
 https://delivery.macan.live/stream/hits_movies/index.m3u8?token=OpCKsDAP
@@ -256,15 +271,14 @@ https://delivery.macan.live/stream/redhbo/index.m3u8?token=OpCKsDAP
 https://delivery.macan.live/stream/sinema_indonesia/index.m3u8?token=OpCKsDAP
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_scm.png" group-title="MOVIE", Star Chinese Movies
-https://delivery.macan.live/stream/id_scm/index.m3u8?token=OpCKsDAP
 #https://anevia115.mncnow.id/live/eds/SCM/sa_hls/SCM.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_scml.png" group-title="MOVIE", Star Chinese Movies Legend
 https://delivery.macan.live/stream/scmlegend/index.m3u8?token=OpCKsDAP
-#https://anevia115.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fadhilspooky/indiahome/master/assets/images/channels/logo_scml.png" group-title="MOVIE", Star Chinese Movies Legend 1
+https://anevia115.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_big1.png" group-title="MOVIE", Zee Bioskop
-https://delivery.macan.live/stream/zeebioskop/index.m3u8?token=OpCKsDAP
 #https://anevia115.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
 
 
