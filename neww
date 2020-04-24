@@ -1,11 +1,7 @@
 #EXTINF
-#EXTINF:-1 group-title="REALTIME CORONA VIRUS", COVID 19
-https://etslive-2-vidio-com.akamaized.net/exp=1587225278~acl=/hls-p/ingest_6886_*/*~hmac=5bfb61f9b7bebd34d53b6fa25df5391f5c9fe10ee49c80e475ed8224074b73a6/hls-p/ingest_6886_720p/index.m3u8
 #Local
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="Local", MNC TV
 https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="Local", MNC TV 1
-https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169473~exp=9007200830910464~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=de134c99dd118bcb1cdf9ce6f79f4c8f97cc6c76d8a22ced11105b72fd70aadd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png" group-title="Local", RCTI
 https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png" group-title="Local", RCTI OK
@@ -83,8 +79,6 @@ https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1
 https://livetvhooq.akamaized.net/e97d916eaf2a4c888a0a43cb633c54e3/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1575560426~exp=9007200830301417~acl=/e97d916eaf2a4c888a0a43cb633c54e3/*/profile_0/chunklist.m3u8*~hmac=587ebf4832a5ed23a09f2e7d851d945ae20655c988eda38237f6b6e09e146de6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2s2qKQj/tvri.png" group-title="Local", TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2s2qKQj/tvri.png" group-title="Local", TVRI vidio
-https://etslive-2-vidio-com.akamaized.net/exp=1587359044~acl=/hls-b/ingest_6441_*/*~hmac=d990986d41595362d00e1b2cbd67cbc43db68e9bb0e29c508a5beabadc5a21c4/hls-b/ingest_6441_720p/index.m3u8
 
 #Religi
 
@@ -149,18 +143,20 @@ http://210.210.155.66/h/h141/index.m3u8
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qjYLXF3/warner.png" group-title="Movies", Warner tv
 https://dl.dropboxusercontent.com/s/ckq9svw348mvnwy/WARNERTV.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movies",WARNER
+https://vcdnjt.useetv.com/joss/15/warner/chunklist_w462988346_b1344100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk0DF8z/hbo.png" group-title="Movies", HBO
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NzYzOTY5NX19fV19&Signature=ByWvgLq~1k3288RIxTh7RlpH7hizNc7gJ95bA2sqh7jMOIy9PXRnAAgu7nSSEdqAdeTmnGwIvY0sGSb5ZoiZH3jOwMt3sq70fa7TnLBIQ2FO9Aj7sg5nY-KczozFmJLdDsSs0~kmrDX3vc3z~CQCjaUhFW-7kJXDpaLMNOaHnNX7bKYP9gfg9vmX2DaWA0eP9BndIQ44Ldo1Lc56vhVX0qEA-aXZ1DkqkHxgZWWV2qayJb6iO~GwT4bRNEEEA4sg4OUJzX40aHCvp1FvZAEj9j4vSYQSuosDlD62hQqSQK5GExYMRYkZAAzrMBjTMG9IZ-ZNH2hj5njTWvD4FPf6dA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NzgxMjQ5N319fV19&Signature=f~S~tzOATuYABYOhYLYABfEEtuzHJAmpPcBb~JVgVrKdvAM3ef7MGLR5xZclQycnSCDmaXqVV8KaZIwB7N7X5O7z015HgB-KTSVvXieo67FyNF6TtwvGnEBKPmuWSfHyxnj0OMP3Qk8sIUlLGZyzaeCVPAEIKqdkKE9GMMUQ5O0-fUuKeaQK9SWxx6zqw1QRXUDZObFpFpFWZQPcanCVGkiS7qpPOVlRmgTi4wtixJSvbAwPXcYHjabSqFCLzmc20S-3i3nvr55JMym1o~HdVn~o3Gyne3EL3neS11TN8EHyr8YzdpEfFfqloL0HAFiNOB8Wf7smrmf0qcdiF0WwTg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tD7TNy/hbo-hits.png" group-title="Movies", HBO Hits
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NzYzOTY5NX19fV19&Signature=ByWvgLq~1k3288RIxTh7RlpH7hizNc7gJ95bA2sqh7jMOIy9PXRnAAgu7nSSEdqAdeTmnGwIvY0sGSb5ZoiZH3jOwMt3sq70fa7TnLBIQ2FO9Aj7sg5nY-KczozFmJLdDsSs0~kmrDX3vc3z~CQCjaUhFW-7kJXDpaLMNOaHnNX7bKYP9gfg9vmX2DaWA0eP9BndIQ44Ldo1Lc56vhVX0qEA-aXZ1DkqkHxgZWWV2qayJb6iO~GwT4bRNEEEA4sg4OUJzX40aHCvp1FvZAEj9j4vSYQSuosDlD62hQqSQK5GExYMRYkZAAzrMBjTMG9IZ-ZNH2hj5njTWvD4FPf6dA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NzgxMjQ5N319fV19&Signature=f~S~tzOATuYABYOhYLYABfEEtuzHJAmpPcBb~JVgVrKdvAM3ef7MGLR5xZclQycnSCDmaXqVV8KaZIwB7N7X5O7z015HgB-KTSVvXieo67FyNF6TtwvGnEBKPmuWSfHyxnj0OMP3Qk8sIUlLGZyzaeCVPAEIKqdkKE9GMMUQ5O0-fUuKeaQK9SWxx6zqw1QRXUDZObFpFpFWZQPcanCVGkiS7qpPOVlRmgTi4wtixJSvbAwPXcYHjabSqFCLzmc20S-3i3nvr55JMym1o~HdVn~o3Gyne3EL3neS11TN8EHyr8YzdpEfFfqloL0HAFiNOB8Wf7smrmf0qcdiF0WwTg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SJZfnHB/HBO-Signature-Asia.png" group-title="Movies", HBO Signature
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NzYzOTY5NX19fV19&Signature=ByWvgLq~1k3288RIxTh7RlpH7hizNc7gJ95bA2sqh7jMOIy9PXRnAAgu7nSSEdqAdeTmnGwIvY0sGSb5ZoiZH3jOwMt3sq70fa7TnLBIQ2FO9Aj7sg5nY-KczozFmJLdDsSs0~kmrDX3vc3z~CQCjaUhFW-7kJXDpaLMNOaHnNX7bKYP9gfg9vmX2DaWA0eP9BndIQ44Ldo1Lc56vhVX0qEA-aXZ1DkqkHxgZWWV2qayJb6iO~GwT4bRNEEEA4sg4OUJzX40aHCvp1FvZAEj9j4vSYQSuosDlD62hQqSQK5GExYMRYkZAAzrMBjTMG9IZ-ZNH2hj5njTWvD4FPf6dA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NzgxMjQ5N319fV19&Signature=f~S~tzOATuYABYOhYLYABfEEtuzHJAmpPcBb~JVgVrKdvAM3ef7MGLR5xZclQycnSCDmaXqVV8KaZIwB7N7X5O7z015HgB-KTSVvXieo67FyNF6TtwvGnEBKPmuWSfHyxnj0OMP3Qk8sIUlLGZyzaeCVPAEIKqdkKE9GMMUQ5O0-fUuKeaQK9SWxx6zqw1QRXUDZObFpFpFWZQPcanCVGkiS7qpPOVlRmgTi4wtixJSvbAwPXcYHjabSqFCLzmc20S-3i3nvr55JMym1o~HdVn~o3Gyne3EL3neS11TN8EHyr8YzdpEfFfqloL0HAFiNOB8Wf7smrmf0qcdiF0WwTg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pxtLMDC/HBO-Family-logo.png" group-title="Movies", HBO Family
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NzYzOTY5NX19fV19&Signature=ByWvgLq~1k3288RIxTh7RlpH7hizNc7gJ95bA2sqh7jMOIy9PXRnAAgu7nSSEdqAdeTmnGwIvY0sGSb5ZoiZH3jOwMt3sq70fa7TnLBIQ2FO9Aj7sg5nY-KczozFmJLdDsSs0~kmrDX3vc3z~CQCjaUhFW-7kJXDpaLMNOaHnNX7bKYP9gfg9vmX2DaWA0eP9BndIQ44Ldo1Lc56vhVX0qEA-aXZ1DkqkHxgZWWV2qayJb6iO~GwT4bRNEEEA4sg4OUJzX40aHCvp1FvZAEj9j4vSYQSuosDlD62hQqSQK5GExYMRYkZAAzrMBjTMG9IZ-ZNH2hj5njTWvD4FPf6dA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NzgxMjQ5N319fV19&Signature=f~S~tzOATuYABYOhYLYABfEEtuzHJAmpPcBb~JVgVrKdvAM3ef7MGLR5xZclQycnSCDmaXqVV8KaZIwB7N7X5O7z015HgB-KTSVvXieo67FyNF6TtwvGnEBKPmuWSfHyxnj0OMP3Qk8sIUlLGZyzaeCVPAEIKqdkKE9GMMUQ5O0-fUuKeaQK9SWxx6zqw1QRXUDZObFpFpFWZQPcanCVGkiS7qpPOVlRmgTi4wtixJSvbAwPXcYHjabSqFCLzmc20S-3i3nvr55JMym1o~HdVn~o3Gyne3EL3neS11TN8EHyr8YzdpEfFfqloL0HAFiNOB8Wf7smrmf0qcdiF0WwTg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M8MX7F5/Cinemax.png" group-title="Movies", Cinemax
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NzYzOTY5NX19fV19&Signature=ByWvgLq~1k3288RIxTh7RlpH7hizNc7gJ95bA2sqh7jMOIy9PXRnAAgu7nSSEdqAdeTmnGwIvY0sGSb5ZoiZH3jOwMt3sq70fa7TnLBIQ2FO9Aj7sg5nY-KczozFmJLdDsSs0~kmrDX3vc3z~CQCjaUhFW-7kJXDpaLMNOaHnNX7bKYP9gfg9vmX2DaWA0eP9BndIQ44Ldo1Lc56vhVX0qEA-aXZ1DkqkHxgZWWV2qayJb6iO~GwT4bRNEEEA4sg4OUJzX40aHCvp1FvZAEj9j4vSYQSuosDlD62hQqSQK5GExYMRYkZAAzrMBjTMG9IZ-ZNH2hj5njTWvD4FPf6dA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NzgxMjQ5N319fV19&Signature=f~S~tzOATuYABYOhYLYABfEEtuzHJAmpPcBb~JVgVrKdvAM3ef7MGLR5xZclQycnSCDmaXqVV8KaZIwB7N7X5O7z015HgB-KTSVvXieo67FyNF6TtwvGnEBKPmuWSfHyxnj0OMP3Qk8sIUlLGZyzaeCVPAEIKqdkKE9GMMUQ5O0-fUuKeaQK9SWxx6zqw1QRXUDZObFpFpFWZQPcanCVGkiS7qpPOVlRmgTi4wtixJSvbAwPXcYHjabSqFCLzmc20S-3i3nvr55JMym1o~HdVn~o3Gyne3EL3neS11TN8EHyr8YzdpEfFfqloL0HAFiNOB8Wf7smrmf0qcdiF0WwTg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XLfMD3v/Red-HBO.png" group-title="Movies", Red by HBO
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NzYzOTY5NX19fV19&Signature=ByWvgLq~1k3288RIxTh7RlpH7hizNc7gJ95bA2sqh7jMOIy9PXRnAAgu7nSSEdqAdeTmnGwIvY0sGSb5ZoiZH3jOwMt3sq70fa7TnLBIQ2FO9Aj7sg5nY-KczozFmJLdDsSs0~kmrDX3vc3z~CQCjaUhFW-7kJXDpaLMNOaHnNX7bKYP9gfg9vmX2DaWA0eP9BndIQ44Ldo1Lc56vhVX0qEA-aXZ1DkqkHxgZWWV2qayJb6iO~GwT4bRNEEEA4sg4OUJzX40aHCvp1FvZAEj9j4vSYQSuosDlD62hQqSQK5GExYMRYkZAAzrMBjTMG9IZ-ZNH2hj5njTWvD4FPf6dA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NzgxMjQ5N319fV19&Signature=f~S~tzOATuYABYOhYLYABfEEtuzHJAmpPcBb~JVgVrKdvAM3ef7MGLR5xZclQycnSCDmaXqVV8KaZIwB7N7X5O7z015HgB-KTSVvXieo67FyNF6TtwvGnEBKPmuWSfHyxnj0OMP3Qk8sIUlLGZyzaeCVPAEIKqdkKE9GMMUQ5O0-fUuKeaQK9SWxx6zqw1QRXUDZObFpFpFWZQPcanCVGkiS7qpPOVlRmgTi4wtixJSvbAwPXcYHjabSqFCLzmc20S-3i3nvr55JMym1o~HdVn~o3Gyne3EL3neS11TN8EHyr8YzdpEfFfqloL0HAFiNOB8Wf7smrmf0qcdiF0WwTg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yVNzVfb/Fox.png" group-title="Movies", FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D1Ycnz4/Fox-Action-Movies.png" group-title="Movies", FOX Action Movies
@@ -172,6 +168,19 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=0ECF990E8CD52A7B029
 http://45.126.83.51/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cDvsmsj/Blue-ant-entertainment.png" group-title="Movies", Blue Ant Entertainment
 http://210.210.155.35:80/session/64482514-73b6-11e9-aa69-b31e84bc1f0f/dr9445/h/h16/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qk0DF8z/hbo.png" group-title="Movies", HBO
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NzgxMjQ5N319fV19&Signature=f~S~tzOATuYABYOhYLYABfEEtuzHJAmpPcBb~JVgVrKdvAM3ef7MGLR5xZclQycnSCDmaXqVV8KaZIwB7N7X5O7z015HgB-KTSVvXieo67FyNF6TtwvGnEBKPmuWSfHyxnj0OMP3Qk8sIUlLGZyzaeCVPAEIKqdkKE9GMMUQ5O0-fUuKeaQK9SWxx6zqw1QRXUDZObFpFpFWZQPcanCVGkiS7qpPOVlRmgTi4wtixJSvbAwPXcYHjabSqFCLzmc20S-3i3nvr55JMym1o~HdVn~o3Gyne3EL3neS11TN8EHyr8YzdpEfFfqloL0HAFiNOB8Wf7smrmf0qcdiF0WwTg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tD7TNy/hbo-hits.png" group-title="Movies", HBO Hits
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NzgxMjQ5N319fV19&Signature=f~S~tzOATuYABYOhYLYABfEEtuzHJAmpPcBb~JVgVrKdvAM3ef7MGLR5xZclQycnSCDmaXqVV8KaZIwB7N7X5O7z015HgB-KTSVvXieo67FyNF6TtwvGnEBKPmuWSfHyxnj0OMP3Qk8sIUlLGZyzaeCVPAEIKqdkKE9GMMUQ5O0-fUuKeaQK9SWxx6zqw1QRXUDZObFpFpFWZQPcanCVGkiS7qpPOVlRmgTi4wtixJSvbAwPXcYHjabSqFCLzmc20S-3i3nvr55JMym1o~HdVn~o3Gyne3EL3neS11TN8EHyr8YzdpEfFfqloL0HAFiNOB8Wf7smrmf0qcdiF0WwTg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SJZfnHB/HBO-Signature-Asia.png" group-title="Movies", HBO Signature
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NzgxMjQ5N319fV19&Signature=f~S~tzOATuYABYOhYLYABfEEtuzHJAmpPcBb~JVgVrKdvAM3ef7MGLR5xZclQycnSCDmaXqVV8KaZIwB7N7X5O7z015HgB-KTSVvXieo67FyNF6TtwvGnEBKPmuWSfHyxnj0OMP3Qk8sIUlLGZyzaeCVPAEIKqdkKE9GMMUQ5O0-fUuKeaQK9SWxx6zqw1QRXUDZObFpFpFWZQPcanCVGkiS7qpPOVlRmgTi4wtixJSvbAwPXcYHjabSqFCLzmc20S-3i3nvr55JMym1o~HdVn~o3Gyne3EL3neS11TN8EHyr8YzdpEfFfqloL0HAFiNOB8Wf7smrmf0qcdiF0WwTg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pxtLMDC/HBO-Family-logo.png" group-title="Movies", HBO Family
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NzgxMjQ5N319fV19&Signature=f~S~tzOATuYABYOhYLYABfEEtuzHJAmpPcBb~JVgVrKdvAM3ef7MGLR5xZclQycnSCDmaXqVV8KaZIwB7N7X5O7z015HgB-KTSVvXieo67FyNF6TtwvGnEBKPmuWSfHyxnj0OMP3Qk8sIUlLGZyzaeCVPAEIKqdkKE9GMMUQ5O0-fUuKeaQK9SWxx6zqw1QRXUDZObFpFpFWZQPcanCVGkiS7qpPOVlRmgTi4wtixJSvbAwPXcYHjabSqFCLzmc20S-3i3nvr55JMym1o~HdVn~o3Gyne3EL3neS11TN8EHyr8YzdpEfFfqloL0HAFiNOB8Wf7smrmf0qcdiF0WwTg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M8MX7F5/Cinemax.png" group-title="Movies", Cinemax
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NzgxMjQ5N319fV19&Signature=f~S~tzOATuYABYOhYLYABfEEtuzHJAmpPcBb~JVgVrKdvAM3ef7MGLR5xZclQycnSCDmaXqVV8KaZIwB7N7X5O7z015HgB-KTSVvXieo67FyNF6TtwvGnEBKPmuWSfHyxnj0OMP3Qk8sIUlLGZyzaeCVPAEIKqdkKE9GMMUQ5O0-fUuKeaQK9SWxx6zqw1QRXUDZObFpFpFWZQPcanCVGkiS7qpPOVlRmgTi4wtixJSvbAwPXcYHjabSqFCLzmc20S-3i3nvr55JMym1o~HdVn~o3Gyne3EL3neS11TN8EHyr8YzdpEfFfqloL0HAFiNOB8Wf7smrmf0qcdiF0WwTg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XLfMD3v/Red-HBO.png" group-title="Movies", Red by HBO
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4NzgxMjQ5N319fV19&Signature=f~S~tzOATuYABYOhYLYABfEEtuzHJAmpPcBb~JVgVrKdvAM3ef7MGLR5xZclQycnSCDmaXqVV8KaZIwB7N7X5O7z015HgB-KTSVvXieo67FyNF6TtwvGnEBKPmuWSfHyxnj0OMP3Qk8sIUlLGZyzaeCVPAEIKqdkKE9GMMUQ5O0-fUuKeaQK9SWxx6zqw1QRXUDZObFpFpFWZQPcanCVGkiS7qpPOVlRmgTi4wtixJSvbAwPXcYHjabSqFCLzmc20S-3i3nvr55JMym1o~HdVn~o3Gyne3EL3neS11TN8EHyr8YzdpEfFfqloL0HAFiNOB8Wf7smrmf0qcdiF0WwTg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+
 
 #Knowledge
 
@@ -221,43 +230,28 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 #http://203.153.218.28:9981/stream/channelid/1943600623?ticket=B9755D3F6F97FAC8FEFC0E14BC05B2F2CE0CDB76&profile=pass
 
 #Sports
-
-#EXTINF:-1 group-title="Sports",beIN Sport 1
-https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w523080819_b1344100_sleng.m3u8?CY6m_NEXbRgX6j2coUhb4Q1582823596
-#EXTINF:-1 group-title="Sports",beIN Sport 1 
-https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1648431936_b894100_sleng.m3u8?8PvnoXsGymO96K7pNjFrhQ1579972981
-#EXTINF:-1 group-title="Sports",beIN Sport 2
-https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w115517397_b1344100_sleng.m3u8?BXcMrtNJnpCf5bYyw0o_UQ1582823785
-#EXTINF:-1 group-title="Sports",beIN Sport 2
-https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w4177110_b894100_sleng.m3u8?qD23Cbq7AehL15T2-nKP4Q1579973235
-#EXTINF:-1 group-title="Sports",UseeSport 1
-https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w1916892499_b1344100_sleng.m3u8?MVPqEGd1odJ4UedaV_Ysrw1582823852
-#EXTINF:-1 group-title="Sports",UseeSport 1
-https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w1738092985_b894100_sleng.m3u8?cMzdCNf3c8JKyb-SBvPLEQ1580315337
-#EXTINF:-1 group-title="Sports",UseeSport 2
-https://vcdnjt.useetv.com/joss/15/useesports2/chunklist_w843853858_b1344100_sleng.m3u8?kJiQZ4cxlRZus27J5SUaTw1582823932
-#EXTINF:-1 group-title="Sports",UseeSport 2
-https://vcdnjt.useetv.com/joss/15/useesports2/chunklist_w449574219_b1344100_sleng.m3u8?ujn3CLZpCyiVO7XTGw2Jng1579974135
-#EXTINF:-1 group-title="Sports",Champion TV 1
-https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w379993603_b1344100_sleng.m3u8?l-OdPssifNY_01I3hQ5VPw1582823993
-#EXTINF:-1 group-title="Sports",Champion TV 1
-https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w1050782478_b894100_sleng.m3u8?opYP2yP8tzvelbxUScZMRA1580315817
-#EXTINF:-1 group-title="Sports",Champion TV 2
-https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w727818557_b1344100_sleng.m3u8?6DBDHGenkyrnLmv1Qt29Aw1582824044
-#EXTINF:-1 group-title="Sports",Champion TV 2
-https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w1042868137_b1344100_sleng.m3u8?flLKvDsyYzqbWOJFMZYr4Q1579973645
-#EXTINF:-1 group-title="Sports",Fox Sport 1
-https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w825701812_b1344100_sleng.m3u8?ouw5njTyp4T1uhgbQN1vAw1579973729
-#EXTINF:-1 group-title="Sports",Fox Sport 1
-https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w651554190_b1344100_sleng.m3u8?K7gUdglHIbSocE7-4tqd8A1582824082
-#EXTINF:-1 group-title="Sports",Fox Sport 2
-https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w2130220114_b1344100_sleng.m3u8?_3Xas0p5c8J0Xn9LyKD6xA1582824126
-#EXTINF:-1 group-title="Sports",Fox Sport 2
-https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w127489706_b894100_sleng.m3u8?s2hUhDE3hOM62qT1Eb3aTg1579973884
-#EXTINF:-1 group-title="Sports",Fox Sport 3
-https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w1427889370_b1344100_sleng.m3u8?OEhUm0U_dj1lHeYcHzN6Qg1582824155
-#EXTINF:-1 group-title="Sports",Fox Sport 3
-https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w1297063490_b894100_sleng.m3u8?uh8dD8dFy-B8cu5xsokT-w1579518292
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="Sports",BEINSPORT 1
+https://cdnbdsa1.useetv.com/joss/15/bein1/chunklist_w1594363800_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png" group-title="Sports",BEINSPORT 2
+https://cdnbdsa1.useetv.com/joss/15/bein2/chunklist_w1196834445_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="Sports",USEE SPORT
+https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w1949459549_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="Sports",USEE SPORT2
+https://cdnjt25.useetv.com/joss/15/useesports2/chunklist_w1014607818_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="Sports",FOX SPORT 1
+https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w1258343085_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="Sports",FOX SPORT 2
+https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w1841416974_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="Sports",FOX SPORT 3
+https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w2031462582_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png" group-title="Sports",EGG SPORT
+https://cdnbpp1.useetv.com/joss/14/egg/chunklist_w417731917_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Sports",CHAMPIONS 1
+https://edgejt6.useetv.com/joss/15/champion1/chunklist_w1312234693_b494100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="Sports",CHAMPIONS 2
+https://cdnbpp1.useetv.com/joss/15/champion2/chunklist_w1090555272_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png" group-title="Sports",NBA TV
+https://cdnkbl2.useetv.com/joss/15/nba/chunklist_w1163536387_b684100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGbbwRm/useesport-1.png" group-title="Sports", Liga Indonesia 1
 https://dl.dropboxusercontent.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGbbwRm/useesport-1.png" group-title="Sports", Liga Indonesia 
