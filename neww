@@ -168,6 +168,8 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=0ECF990E8CD52A7B029
 http://45.126.83.51/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cDvsmsj/Blue-ant-entertainment.png" group-title="Movies", Blue Ant Entertainment
 http://210.210.155.35:80/session/64482514-73b6-11e9-aa69-b31e84bc1f0f/dr9445/h/h16/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XLfMD3v/Red-HBO.png" group-title="Movies", Red by HBO 1
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/10.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4ODA3MTcwMH19fV19&Signature=bYEav8TE6LcpXlYemzDVEzTmpkmwOl5FkCLNhGBaOR-6oyvGF2HdF1oVODUwOuhe18K4Ra6vGqtUT212GrHrx1EsEuZ7sEO9fwExo7NZ1W0JrRvqog0pTYcQKzk6KQ1kU2Q0u1~f5OvR~EF~6fTGYlUTn6IF4SyG11BqpBGap9-RoMkUMrqkdn7HeASoy-WXO~41xHZKrKldTRPIdCrROBEe66gJ37ggUEDlOZPwsMPhO1U~CUWlSgiE9CSTjQTKt15J--KiEF7MZMRWLAYEL0yRAESX4v22uJfkBzCsdQR0o2MeiQy2qDzHQ5cRMyn-NrVj0LQ9LdV-ET78McrONQ__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 
 #Knowledge
 
