@@ -551,7 +551,7 @@ https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=Yq91Jdf0
 https://cdnmdc2.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="USEE",ANTV
 https://cdnkbl1.useetv.com/joss/15/antv/chunklist_w1883490665_b894100_sleng_.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="SEE",SCTV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="USEE",SCTV
 https://cdnmdc1.useetv.com/joss/15/sctv/chunklist_w1626501149_b1344100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://imgshare.io/images/2019/09/30/rcti.png" group-title="USEE",RCTI
 https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-mp4a_64000=2.m3u8
