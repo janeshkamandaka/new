@@ -1,20 +1,11 @@
 #EXTINF
 #Local
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="Local", MNC TV
-#https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="Local", MNC TV 1
-https://cdn-livetv1.metube.id/hls/mnctv_480/index.m3u8
+https://linier3.rctiplus.id/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png" group-title="Local", RCTI
-https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png" group-title="Local", RCTI OK
-#https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png" group-title="Local", RCTI OK 1
-https://cdn-livetv1.metube.id/hls/rcti_480/index.m3u8
+https://linier3.rctiplus.id/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8
 #EXTINF:0 tvg-logo="https://imgur.com/hAkcBVR.png" group-title="Local", GLOBAL TV
-#https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8
-#EXTINF:0 tvg-logo="https://imgur.com/hAkcBVR.png" group-title="Local", GLOBAL TV 2
-https://cdn-livetv1.metube.id/hls/globaltv_480/index.m3u8
-#EXTINF:0 tvg-logo="https://imgur.com/hAkcBVR.png" group-title="Local", GLOBAL TV 1
+https://linier3.rctiplus.id/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169544~exp=9007200830910535~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_0/chunklist.m3u8*~hmac=d7640975f61c8be6c7bad787980b52a8c3026cd2052635850f4d16637b741fbc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sy3qdRJ/Trans-tv.png" group-title="Local", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
@@ -160,24 +151,29 @@ https://dl.dropboxusercontent.com/s/ckq9svw348mvnwy/WARNERTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movies",WARNER
 https://vcdnjt.useetv.com/joss/15/warner/chunklist_w462988346_b1344100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk0DF8z/hbo.png" group-title="Movies", HBO
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4OTM2NzcxNX19fV19&Signature=hxKCCdOPDg2RZE0XrydiC0D-XiTxTyudOG54txoj-CptOU-Miz2CnUDoNbZ2t6BnJ7fmstaGjrNkYLX2bKRYadnW~SA81x9GXfIX~IxfNnNtky2D6SJeaIe5PgsD9-aaPr7gwm9WazIbTFSqf7IjvBoGlgEPXbCXOODtchR3tFJd0a2ZZ9HDq1WzJ0OPKZTecmITDFw66n99MTvxJSlgBk2x2g-6nce7WxIm53rtZ9RftJ0Sg7rTwwDhUi5HBNLywFH-RExQyV-T-gOyLVY-fYimclqIx4bbFxAOH~3MMNt00B2XJeqW7r137CO6CY06Cki0vhYof8vGMtXEJ9L77w__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4OTc5OTcyMH19fV19&Signature=dvwj334qQ7OAdboSOQceeKTz7n7VJQL5iQyTf36cAh0d5HCRLfIQQAg2AILFrKLk4VefLemi4lh~TIPNy0~YAIdgyyZibIzcPUj8UemAdx8TLooGeMYgS6hGhz7Mwwjejh2iSL9J67wz46ubK4zrn8I8RvEPe5e1Q0x1O07O6eq28KlxfW7UkIsBGfzxmIjkpZ9IieLHd7kRv6b4J4uHCudZjahKV7gC31JmUOlgQcVW0gOMg7nNZlWT0R4KVudp3EuV9cvAXP39udEeCrsqycrUc~GrowtVvj53Ojb364vLpAsgqWVF0O70UcthJd~8gtVRSg1LPDx-qZMj5oQHaw__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tD7TNy/hbo-hits.png" group-title="Movies", HBO Hits
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4OTM2NzcxNX19fV19&Signature=hxKCCdOPDg2RZE0XrydiC0D-XiTxTyudOG54txoj-CptOU-Miz2CnUDoNbZ2t6BnJ7fmstaGjrNkYLX2bKRYadnW~SA81x9GXfIX~IxfNnNtky2D6SJeaIe5PgsD9-aaPr7gwm9WazIbTFSqf7IjvBoGlgEPXbCXOODtchR3tFJd0a2ZZ9HDq1WzJ0OPKZTecmITDFw66n99MTvxJSlgBk2x2g-6nce7WxIm53rtZ9RftJ0Sg7rTwwDhUi5HBNLywFH-RExQyV-T-gOyLVY-fYimclqIx4bbFxAOH~3MMNt00B2XJeqW7r137CO6CY06Cki0vhYof8vGMtXEJ9L77w__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4OTc5OTcyMH19fV19&Signature=dvwj334qQ7OAdboSOQceeKTz7n7VJQL5iQyTf36cAh0d5HCRLfIQQAg2AILFrKLk4VefLemi4lh~TIPNy0~YAIdgyyZibIzcPUj8UemAdx8TLooGeMYgS6hGhz7Mwwjejh2iSL9J67wz46ubK4zrn8I8RvEPe5e1Q0x1O07O6eq28KlxfW7UkIsBGfzxmIjkpZ9IieLHd7kRv6b4J4uHCudZjahKV7gC31JmUOlgQcVW0gOMg7nNZlWT0R4KVudp3EuV9cvAXP39udEeCrsqycrUc~GrowtVvj53Ojb364vLpAsgqWVF0O70UcthJd~8gtVRSg1LPDx-qZMj5oQHaw__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SJZfnHB/HBO-Signature-Asia.png" group-title="Movies", HBO Signature
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4OTM2NzcxNX19fV19&Signature=hxKCCdOPDg2RZE0XrydiC0D-XiTxTyudOG54txoj-CptOU-Miz2CnUDoNbZ2t6BnJ7fmstaGjrNkYLX2bKRYadnW~SA81x9GXfIX~IxfNnNtky2D6SJeaIe5PgsD9-aaPr7gwm9WazIbTFSqf7IjvBoGlgEPXbCXOODtchR3tFJd0a2ZZ9HDq1WzJ0OPKZTecmITDFw66n99MTvxJSlgBk2x2g-6nce7WxIm53rtZ9RftJ0Sg7rTwwDhUi5HBNLywFH-RExQyV-T-gOyLVY-fYimclqIx4bbFxAOH~3MMNt00B2XJeqW7r137CO6CY06Cki0vhYof8vGMtXEJ9L77w__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4OTc5OTcyMH19fV19&Signature=dvwj334qQ7OAdboSOQceeKTz7n7VJQL5iQyTf36cAh0d5HCRLfIQQAg2AILFrKLk4VefLemi4lh~TIPNy0~YAIdgyyZibIzcPUj8UemAdx8TLooGeMYgS6hGhz7Mwwjejh2iSL9J67wz46ubK4zrn8I8RvEPe5e1Q0x1O07O6eq28KlxfW7UkIsBGfzxmIjkpZ9IieLHd7kRv6b4J4uHCudZjahKV7gC31JmUOlgQcVW0gOMg7nNZlWT0R4KVudp3EuV9cvAXP39udEeCrsqycrUc~GrowtVvj53Ojb364vLpAsgqWVF0O70UcthJd~8gtVRSg1LPDx-qZMj5oQHaw__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pxtLMDC/HBO-Family-logo.png" group-title="Movies", HBO Family
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4OTM2NzcxNX19fV19&Signature=hxKCCdOPDg2RZE0XrydiC0D-XiTxTyudOG54txoj-CptOU-Miz2CnUDoNbZ2t6BnJ7fmstaGjrNkYLX2bKRYadnW~SA81x9GXfIX~IxfNnNtky2D6SJeaIe5PgsD9-aaPr7gwm9WazIbTFSqf7IjvBoGlgEPXbCXOODtchR3tFJd0a2ZZ9HDq1WzJ0OPKZTecmITDFw66n99MTvxJSlgBk2x2g-6nce7WxIm53rtZ9RftJ0Sg7rTwwDhUi5HBNLywFH-RExQyV-T-gOyLVY-fYimclqIx4bbFxAOH~3MMNt00B2XJeqW7r137CO6CY06Cki0vhYof8vGMtXEJ9L77w__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4OTc5OTcyMH19fV19&Signature=dvwj334qQ7OAdboSOQceeKTz7n7VJQL5iQyTf36cAh0d5HCRLfIQQAg2AILFrKLk4VefLemi4lh~TIPNy0~YAIdgyyZibIzcPUj8UemAdx8TLooGeMYgS6hGhz7Mwwjejh2iSL9J67wz46ubK4zrn8I8RvEPe5e1Q0x1O07O6eq28KlxfW7UkIsBGfzxmIjkpZ9IieLHd7kRv6b4J4uHCudZjahKV7gC31JmUOlgQcVW0gOMg7nNZlWT0R4KVudp3EuV9cvAXP39udEeCrsqycrUc~GrowtVvj53Ojb364vLpAsgqWVF0O70UcthJd~8gtVRSg1LPDx-qZMj5oQHaw__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M8MX7F5/Cinemax.png" group-title="Movies", Cinemax
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4OTM2NzcxNX19fV19&Signature=hxKCCdOPDg2RZE0XrydiC0D-XiTxTyudOG54txoj-CptOU-Miz2CnUDoNbZ2t6BnJ7fmstaGjrNkYLX2bKRYadnW~SA81x9GXfIX~IxfNnNtky2D6SJeaIe5PgsD9-aaPr7gwm9WazIbTFSqf7IjvBoGlgEPXbCXOODtchR3tFJd0a2ZZ9HDq1WzJ0OPKZTecmITDFw66n99MTvxJSlgBk2x2g-6nce7WxIm53rtZ9RftJ0Sg7rTwwDhUi5HBNLywFH-RExQyV-T-gOyLVY-fYimclqIx4bbFxAOH~3MMNt00B2XJeqW7r137CO6CY06Cki0vhYof8vGMtXEJ9L77w__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4OTc5OTcyMH19fV19&Signature=dvwj334qQ7OAdboSOQceeKTz7n7VJQL5iQyTf36cAh0d5HCRLfIQQAg2AILFrKLk4VefLemi4lh~TIPNy0~YAIdgyyZibIzcPUj8UemAdx8TLooGeMYgS6hGhz7Mwwjejh2iSL9J67wz46ubK4zrn8I8RvEPe5e1Q0x1O07O6eq28KlxfW7UkIsBGfzxmIjkpZ9IieLHd7kRv6b4J4uHCudZjahKV7gC31JmUOlgQcVW0gOMg7nNZlWT0R4KVudp3EuV9cvAXP39udEeCrsqycrUc~GrowtVvj53Ojb364vLpAsgqWVF0O70UcthJd~8gtVRSg1LPDx-qZMj5oQHaw__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XLfMD3v/Red-HBO.png" group-title="Movies", Red by HBO
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4OTM2NzcxNX19fV19&Signature=hxKCCdOPDg2RZE0XrydiC0D-XiTxTyudOG54txoj-CptOU-Miz2CnUDoNbZ2t6BnJ7fmstaGjrNkYLX2bKRYadnW~SA81x9GXfIX~IxfNnNtky2D6SJeaIe5PgsD9-aaPr7gwm9WazIbTFSqf7IjvBoGlgEPXbCXOODtchR3tFJd0a2ZZ9HDq1WzJ0OPKZTecmITDFw66n99MTvxJSlgBk2x2g-6nce7WxIm53rtZ9RftJ0Sg7rTwwDhUi5HBNLywFH-RExQyV-T-gOyLVY-fYimclqIx4bbFxAOH~3MMNt00B2XJeqW7r137CO6CY06Cki0vhYof8vGMtXEJ9L77w__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4OTc5OTcyMH19fV19&Signature=dvwj334qQ7OAdboSOQceeKTz7n7VJQL5iQyTf36cAh0d5HCRLfIQQAg2AILFrKLk4VefLemi4lh~TIPNy0~YAIdgyyZibIzcPUj8UemAdx8TLooGeMYgS6hGhz7Mwwjejh2iSL9J67wz46ubK4zrn8I8RvEPe5e1Q0x1O07O6eq28KlxfW7UkIsBGfzxmIjkpZ9IieLHd7kRv6b4J4uHCudZjahKV7gC31JmUOlgQcVW0gOMg7nNZlWT0R4KVudp3EuV9cvAXP39udEeCrsqycrUc~GrowtVvj53Ojb364vLpAsgqWVF0O70UcthJd~8gtVRSg1LPDx-qZMj5oQHaw__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+#EXTINF:-1 tvg-logo="https://i.imgur.com/54CRycL.png" group-title="Movies",FX
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28782.ts?token=HhVYAkpZQF8XCVUPBQIJVFJVUwEHXltQAVcNWwNcVFgEVAcCX1MAUVETThtFQ0pVUlk6X1QaWVNdBQBRG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKClQHVwRUVhsSE1BVQF8XA1QMAwUaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgABFkkUU1cWDxFAQUENR3s4RxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwcEAAICFhg=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yVNzVfb/Fox.png" group-title="Movies", FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D1Ycnz4/Fox-Action-Movies.png" group-title="Movies", FOX Action Movies
 http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yRQxJrP/Fox-Movies.png" group-title="Movies", FOX Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=0ECF990E8CD52A7B0291E22C9844D0D59632CD55&profile=pass
-#http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yRQxJrP/Fox-Movies.png" group-title="Movies", FOX Movies 1
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
+#EXTINF:-1 tvg-logo="http://gg.gg/fox-family-logo" group-title="Movies",Fox Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkNSzyR/Blue-ant-Extreme.png" group-title="Movies", Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cDvsmsj/Blue-ant-entertainment.png" group-title="Movies", Blue Ant Entertainment
@@ -257,26 +253,79 @@ https://edgejt6.useetv.com/joss/15/champion1/chunklist_w1312234693_b494100_sleng
 https://cdnbpp1.useetv.com/joss/15/champion2/chunklist_w1090555272_b684100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png" group-title="Sports",NBA TV
 https://cdnkbl2.useetv.com/joss/15/nba/chunklist_w1163536387_b684100_sleng_.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DGbbwRm/useesport-1.png" group-title="Sports", Liga Indonesia 1
-https://dl.dropboxusercontent.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DGbbwRm/useesport-1.png" group-title="Sports", Liga Indonesia 
-https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5hNyV1t/useesports2.png" group-title="Sports", Liga Indonesia 2
-https://dl.dropbox.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5hNyV1t/useesports2.png" group-title="Sports", Liga Indonesia 
-https://dl.dropboxusercontent.com/s/ykushrsx98tcs2a/UseeSport2.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bF3vTPb/super-soccer.png" group-title="Sports", Mola Free
-https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nz6Xd9V/Sony-Six.png" group-title="Sports", Sony Six
-https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/nz6Xd9V/Sony-Six.png" group-title="Sports",Sony Ten 1
-https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/nz6Xd9V/Sony-Six.png" group-title="Sports",Sony Ten 2
-https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/nz6Xd9V/Sony-Six.png" group-title="Sports",Sony Ten 3
-https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/Hxh4H1V/Sony-espn.png" group-title="Sports",Sony ESPN
-https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premiere Football HD1
+https://tv4.chang55.com:446/live2/tv4ch10.stream/chunks.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premiere Football HD2
+https://tv4.chang55.com:446/live2/tv4ch11.stream/chunks.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/premierfootball3.png",Premiere Football HD3
+https://tv4.chang55.com:446/live2/tv4ch12.stream/chunks.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/premierfootball4.png",Premiere Football HD4
+https://tv4.chang55.com:446/live2/tv4ch13.stream/chunks.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premiere Football HD5
+https://tv4.chang55.com:446/live2/tv4ch14.stream/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/fTLkWSyj/2-FOX-SPORTS.png",FOXSPORT ASIA 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/c4bCv18q/2-FOX-SPORTS-2.png",FOXSPORT ASIA 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/HnSx4dZy/2-FOX-SPORTS-3.png",FOXSPORT ASIA 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/astro1.png",ASTRO SPORTS 1
+http://198.16.106.58:8278/s_1365a3ea_1880/playlist.m3u8?tid=m08891566015815197848&ct=18381&tsum=61cc9942feaba30b7ab0a7552d56f55e
+#https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/astro2.png",ASTRO SPORTS 2
+http://198.16.106.58:8278/s_a1133d50_1928/playlist.m3u8?tid=m04975998805511307485&ct=18381&tsum=b3315022f8a4f0bdc4d1f845581bd8fe
+#https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/astro3.png",ASTRO SPORTS 3
+http://198.16.106.58:8278/s_f0a98bfa_1881/playlist.m3u8?tid=m04302180886113751475&ct=18381&tsum=80406962501d7dba55ae0715afec252b
+#https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/astro4.png",ASTRO SPORTS 4
+http://198.16.106.58:8278/s_6c4db083_1918/playlist.m3u8?tid=m07644713376818317800&ct=18381&tsum=1f883baf9245cdcc4e157b0b98459822
+#https://cdn-laos.workpoint.news/my-asp4_720/index.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport.png",Skynetsport HD
+https://tv4.chang55.com:446/live2/tv4ch01.stream/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png", SKYNETSPORTS 1
+https://tv4.chang55.com:446/live2/tv4ch02.stream/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png", SKYNETSPORTS 2
+https://tv4.chang55.com:446/live2/tv4ch03.stream/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet3.png", SKYNETSPORTS 3
+https://tv4.chang55.com:446/live2/tv4ch04.stream/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet4.png", SKYNETSPORTS 4
+https://tv4.chang55.com:446/live2/tv4ch05.stream/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet5.png", SKYNETSPORTS 5
+https://tv4.chang55.com:446/live2/tv4ch06.stream/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet6.png", SKYNETSPORTS 6
+https://tv4.chang55.com:446/live2/tv4ch07.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",广东体育
+http://198.16.106.58:8278/guangdongsport/playlist.m3u8?tid=MDCD6708999867089998&ct=18393&tsum=d9b894ccda87199ee52e4be3c332437c
+#EXTINF:-1 tvg-id="107" tvg-logo="http://i.imgur.com/xspD7UE.png" group-title="Sports",KBS N Sports
+http://211.245.55.198:1024/m2u/239.192.67.132:49220
+#EXTINF:-1 tvg-id="126" tvg-logo="http://i.imgur.com/Su21uj3.png" group-title="Sports",MBC SPORTS+
+http://211.245.55.198:1024/m2u/239.192.67.131:49220
+#EXTINF:-1 tvg-id="183" tvg-logo="http://i.imgur.com/cIpIf6b.png" group-title="Sports",SPOTV
+http://121.159.183.222:9981/stream/channelid/2065308481
+#EXTINF:-1 tvg-id="185" tvg-logo="http://lilactv.com:8080/BadJin/channelIcon/81Fshnn.png" group-title="Sports",SPOTV+
+http://121.159.183.222:9981/stream/channelid/453911020
+#EXTINF:-1 tvg-id="186" tvg-logo="http://i.imgur.com/GNicmGY.png" group-title="Sports",SPOTV2
+http://219.250.105.94:9981/stream/channelid/477406313
+#EXTINF:-1 tvg-id="169" tvg-logo="http://i.imgur.com/j1vHAu6.png" group-title="Sports",SBS Sports
+http://211.245.55.198:1024/m2u/239.192.67.130:49220
+#EXTINF:-1 group-title="Sports" tvg-logo="https://ntvplus.ru/files/image/01/17/29/mqs.png",Матч! Футбол 1 HD
+http://myott.tv/stream/D944FPT6C4U/130.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.beelinetv.uz/buz-production/d8e6b6011b2444641a9d.png",Матч! Футбол 2 HD
+http://myott.tv/stream/D944FPT6C4U/142.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://ntvplus.ru/files/image/01/17/31/u02.png",Матч! Футбол 3 HD
+http://myott.tv/stream/D944FPT6C4U/185.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s-cdn.sportbox.ru/images/styles/upload/fp_fotos/bc/bd/568e309e76bb6ad5685f1e09e4be15bf5d79f444e602c784381612.jpg",Матч Премьер HD
+http://myott.tv/stream/D944FPT6C4U/193.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://ifavorite.ru/images/sport7/-5.jpg",Беларусь 5 HD
+http://myott.tv/stream/D944FPT6C4U/33.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.beetv.kz/rosing-beelinekz-production/6b8e3119c068f5bab170.jpg",Setanta Sport 1 HD
+http://myott.tv/stream/D944FPT6C4U/234.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.beetv.kz/rosing-beelinekz-production/8e418551517f29a06b5d.jpg",Setanta Sport 2 HD
+http://myott.tv/stream/D944FPT6C4U/235.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.digitaltveurope.com/files/2014/10/Setanta-Sports-Eurasia-Logo1.png",Setanta Sport HD UA
+http://myott.tv/stream/D944FPT6C4U/313.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G0yDpr7/Egg-Network.png" group-title="Sports",Egg Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/85K8RLS/Real-Madrid.png" group-title="Sports",Real Madrid TV
@@ -656,6 +705,34 @@ https://www.googleapis.com/drive/v3/files/1Ve4YQ7GwSWdbdW1T0fcrof9yqcjRHltN?alt=
 https://www.googleapis.com/drive/v3/files/1ZaDQT-lytf1VSRwXAqeeUmL9E_cDk_sh?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUtCr5e.jpg" group-title="VOD2019, Men in Black: International(2019)
 https://www.googleapis.com/drive/v3/files/1LIkVZaEGq3nDX1lRA4j19PV8TGzZhVDd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2LVYMWHyc9G9I4t8QEtFU7Wh2jr.jpg" group-title="Warkop DKI",Pintar Pintar Bodoh (1980)
+https://www.googleapis.com/drive/v3/files/1gFk4YBydCRLYIgsQ6Gp7aE6iXs04ip3-?alt=media&key=AIzaSyA-xfFenIsNeiw_3V7n1F8-V6GIvIiQ8Fk
+#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2019/10/Geeeer.jpg" group-title="Warkop DKI",Ge…er (Gede Rasa) (1980)
+https://www.googleapis.com/drive/v3/files/16JMKnAVy4MnK0BHAIsloQ7RvvfCKoTOq?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pJV3RJW7n4QF3FDedHcHHAWwupU.jpg" group-title="Warkop DKI",Manusia 6.000.000 Dolar (1981)
+https://www.googleapis.com/drive/v3/files/1YSgvf2zvR0rskn4P6HO9oEVHXVEjxE8K?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2019/10/setan-kredit.jpg" group-title="Warkop DKI",Setan Kredit (1981)
+https://www.googleapis.com/drive/v3/files/1_lUquy2KaMMMcMutLcq06RjQuKV1YMQN?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2019/10/iq-jongkok.jpg" group-title="Warkop DKI",IQ Jongkok (1981)
+https://www.googleapis.com/drive/v3/files/1vXt7IJwCbc26qIMkEv6S3b5gEx3uqJKt?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FtfM0bsKFxM/UraS7k9bDZI/AAAAAAAAGGs/6tONAmPlE6s/s320/Film+Warkop+DKI+-+Dongkrak+Antik.jpg" group-title="Warkop DKI", Dongkrak Antik (1982)
+https://www.googleapis.com/drive/v3/files/16xapX62lyon119AMLHZpWc1OfWpOeZc4?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2019/10/chips.jpg" group-title="Warkop DKI",CHIPS (1982)
+https://www.googleapis.com/drive/v3/files/1ScaJDZ8dBUpXLyfpS4Sj2qzleyyg4Wdt?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2019/09/images.jpeg" group-title="Warkop DKI",Maju Kena Mundur Kena(1983)
+https://www.googleapis.com/drive/v3/files/1sDZOLfCbeEMr4LXwnM6HMxjH-ZEpV85W?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qnXUJBEwaT9PHDgWqGpLy86ShOQ.jpg" group-title="Warkop DKI",Gantian Dong(1985)
+https://www.googleapis.com/drive/v3/files/1hrLJVkCxpJUNjvJNEv41EaIRt_iufx_t?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/18/Godain_Kita_Dong_%281989%3B_obverse%3B_wiki%29.jpg" group-title="Warkop DKI",Godain Kita Dong (1989)
+https://www.googleapis.com/drive/v3/files/1eg8XP38u5N0521tYjot0s0nXA2bWGnDS?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2020/01/0k.jpg" group-title="Warkop DKI",Kanan Kiri OK (1989)
+https://www.googleapis.com/drive/v3/files/1YZamkQgRrZHU6QL3iVdFxJHkQ1gN4i-j?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2020/01/ok-2.jpg" group-title="Warkop DKI",Kanan Kiri OK 2 (1989)
+https://www.googleapis.com/drive/v3/files/1VyaPGW89GwAorE2l9GQB3MVPXBxE5dJ6?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="https://fmoviez.org/wp-content/uploads/2020/01/ok-3.jpg" group-title="Warkop DKI",Kanan Kiri OK 3 (1990)
+https://www.googleapis.com/drive/v3/files/11f-IlQmST5DGe5fztSi22GIU1yLo5Qbf?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="http://gg.gg/saya-duluan-dong" group-title="Warkop DKI",Saya Duluan Dong (1994)
+https://www.googleapis.com/drive/v3/files/1j7vCBAq1OfmXbc6miLOdM0L_vAqxemFH?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NKkCPpD/angrybird2.png" group-title="VOD2019", Angry bird 2(2019)
 https://cdn.apidev.icu/drive/index.php?id=m708mw8CIkTrqYlrhI310AMwQphneWAWm%2B6jkcbFnn6DjJ0EqqTM1N2rZYFykhpL1qqOd0hZz1%2FPireqIBvfylFvgZEq8Vz50ITufOZUaP3eRQojtNT0erV7lH1WqkDCLLBJK%2Ff%2BbZfY%2BnhBylEwMRj%2B4NIPqhvMAUjD8G2REZusRX6uCXLttXJWEGQjX7N0D2Ycf9RiPxo7%2FYKjpxaHdR&ref=https%3A%2F%2Fsogafime.net%2Fthe-angry-birds-movie-2-2019%2F&res=default
@@ -705,9 +782,247 @@ https://cdn.clonefile.icu/drive/index.php?id=3UqhbCMEm2QSI4Znspu%2BTgWjaEHvfLLRW
 https://gdrivecdn.us/drive/index.php?id=7ShwPFRIovlOpJ6HiWoztAM8ZKv4%2Fdd1M4W9WvlGsMFis0BlYqbl8idIKeUe%2FC4ZKGP%2FYH0LObsYIhP2ASuIE%2Fgh5MoiJMeSnl9lw82UqLq2rlZl60FTtDXNANVveypGE%3D&ref=&res=720
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zxSZQkB/Captive-State.jpg" group-title="VOD2019", Captive State(2019)
 https://cdn.clonefile.icu/drive/index.php?id=yhoaj%2F6%2FSOEs%2FdJSRXbtYAVsj8t3MJBajUHW0YvvGGW6KtS9AKrbiDIS0ASHkgl8nhCq9uZ%2BudMidHP73eWMpSuF9zqhliPFFMCgRS%2B9oi2qmNm%2BkE0VNPj1WHo3e7sTg%3D&ref=&res=720
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1zYdDZJ/frozen-2.jpg" group-title="VOD2019", Frozen 2(2019)
-#EXTINF:-1 tvg-logo="https://i.ibb.co/568qY0N/Mib-inter.jpg" group-title="VOD2019", MIB International(2019)
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video18/v4/e3/fa/3d/e3fa3d47-d01c-b21f-4f69-cbb5eff7be83/pr_source.lsr/268x0w.png" group-title="VOD",Now You See Me
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/92a8954a-1873-4f61-85e6-20ad323ff6a3/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+#EXTINF:-1 tvg-logo="https://empirecinema.com.mt/wp-content/uploads/2016/06/now_you_see_me_two_ver15.jpg" group-title="VOD",You Now See Me 2
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e86b43d6-e58a-4ca1-8480-fe88ffa72b16/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+#EXTINF:-0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81avXfQsmiL._SL1500_.jpg" group-title="VOD",Ip Man 4 : The Finale (2019)
+https://www.googleapis.com/drive/v3/files/1Q_VE2L5LEfXxG7LAtRU5zwnEGsaopcpP?alt=media&key=AIzaSyA_c7_EsCbdNT9vS4DxMNppq72TlPwzDv0
+#EXTINF:-0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91FgunMfhJL._SX300_.jpg" group-title="VOD",Dolittle (2019)
+https://www.googleapis.com/drive/v3/files/16FHD0jxgM7J7XOUnfupNHrS81jyaHyOW?alt=media&key=AIzaSyA_c7_EsCbdNT9vS4DxMNppq72TlPwzDv0
+#EXTINF:-0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91u3fzl8ffL._SX300_.jpg" group-title="VOD",Jojo Rabbit (2019)
+https://www.googleapis.com/drive/v3/files/1Lqcx_NRCwZuLBJziGXx2k4ljpd2gpRTQ?alt=media&key=AIzaSyA_c7_EsCbdNT9vS4DxMNppq72TlPwzDv0
+#EXTINF:-0 tvg-logo="https://miro.medium.com/max/1080/0*FXBP5NRv0m8CSw-7.jpeg" group-title="VOD",Bloodshot (2020)
+https://www.googleapis.com/drive/v3/files/1o0Vo-sHvEJDowOuw7-rZE0nvJu8o_1Rl?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="http://s1.indexmovie.biz/wp-content/uploads/2020/04/film-money-heist-the-phenomenon-2020-lk21.jpg" group-title="Netflix-Movies",Money Heist the Phenomenon
+https://www.googleapis.com/drive/v3/files/1cVDalaMfqvzVC6P5A15DbygoZBXaK3B-?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-0 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2020/04/Extraction-poster-600x889.jpg" group-title="Netflix-Movies",Extraction
+https://www.googleapis.com/drive/v3/files/1sT-0_EF5mOlmioVTT-lXloDi8MuoAbhZ?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
+#EXTINF:-1 tvg-logo="https://id.bookmyshow.com/blog-hiburan/wp-content/uploads/2019/05/Si-Doel-the-Movie-2-book-now.jpg" group-title="filmindo",Si Doel the Movie 2 (2019)
+https://cdn15.rapidshare.to:183/d/xz7hijwlzrgmucueejgtgujzafe7c5b3zueq4h75ypkwpoiyjgmufqrn3dqz3gqyzxdt2p7v/Si.Doel.the.Movie.2.2019.HDTV.720p.FMZM.mkv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lgwcFZP.jpg" group-title="filmindo",Dua Garis Biru (2019)
+https://hls.kotaksilver.casa/585026/720_353/playlist.m3u8?r=720p
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-pSE0rQ7lyDE/Uy2StgL_m_I/AAAAAAAAATw/CCUYc_DW-34/s1600/images.jpeg" group-title="filmindo",Setetes Noda Manis (1994) [720p]
+https://cdn-stream.metube.id/videom3u8/IQPzJVerMxx6sVUwsoLE/720p/list.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmindo",Bodyguard Ugal-Ugalan (2018)
+http://srv24.nf21.net:80/files/11-2018-11-09-4d0f5e263c6bc227c1b23c5145c32713.mp4
+#EXTINF:-1 tvg-logo="https://mmc.tirto.id/image/otf/700x0/2019/12/28/tunnel_ratio-16x9.jpg" group-title="filmindo",Tunnel (2019)
+https://video-amt2-1.xx.fbcdn.net/v/t39.24130-2/10000000_681839015911207_7529625793648818150_n.mp4?_nc_cat=102&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=Dth4_bNtdA8AX_ZRGv3&_nc_ht=video-amt2-1.xx&oh=563144e1c991a0c819ca58cdbe1eb9aa&oe=5EB84B8B
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/51/Bumi_Manusia_poster.jpg/220px-Bumi_Manusia_poster.jpg" group-title="filmindo",Bumi Manusia (2019)
+https://video-ams4-1.xx.fbcdn.net/v/t39.24130-2/10000000_247656026351264_1406770399446548567_n.mp4?_nc_cat=110&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=gQxU09ZVPBsAX8vEHag&_nc_ht=video-ams4-1.xx&oh=d91c1dd1dd03bf31eddbacfcc8fb2fb8&oe=5EBA3257
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Marlina_the_Murderer_in_Four_Acts.jpg" group-title="filmindo",Marlina the Murderer in Four Acts (2019)
+https://video-ams4-1.xx.fbcdn.net/v/t39.24130-2/10000000_587488798641444_5486551723924627412_n.mp4?_nc_cat=111&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=eTAOxXeHKc0AX96alht&_nc_ht=video-ams4-1.xx&oh=6ea544c033e5451d1b03f7bc03796c01&oe=5EB9533D
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cv17WeeErdk/XExk18XWnHI/AAAAAAAABrU/h-btjmDL8NIwXIs3vh4QA2zebdLf_FL4QCLcBGAs/s640/IMG_20190125_152828.jpg" group-title="filmindo",PSP: Gaya Mahasiswa (2019)
+https://hls.kotaksilver.casa/577713/720_768/playlist.m3u8?r=720p
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/09/Terlalu_Tampan.jpg/220px-Terlalu_Tampan.jpg" group-title="filmindo",Terlalu Tampan (2019)
+https://hls.kotaksilver.casa/572667/720_716/playlist.m3u8?r=720p
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-c8KYhgk0REk/WyZpvoBQguI/AAAAAAAAYkQ/q0JF-OntdYgW2r0bpTxlzISoC3offi5HACLcBGAs/s640/DXMpiiWU8AAUGZP.jpg" group-title="filmindo",INSYA ALLAH SAH 2 (2018)
+http://srv24.nf21.net:80/files/10-2018-11-04-dcbe1927ad12c18b3d39efe1e310b3b5.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg4YTE5ZjAtZWEwNi00ZTg0LThiYTYtYWVlZTdhOGZkYTg0XkEyXkFqcGdeQXVyNzkzODk2Mzc@._V1_UY268_CR1,0,182,268_AL_.jpg" group-title="filmindo",Arini (2018)
+http://srv19.nf21.net:80/files/15-2018-08-19-4e022676b9971cfac33a65d84288c01d.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9c/Get_Married.jpg/220px-Get_Married.jpg" group-title="filmindo",Get Married 1 [416p]
+https://media-vidio-com.akamaized.net/uploads/1507783/get-20married-20feature-20-20convert-ea65-b1200.mp4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9c/Get_Married_2.jpg/220px-Get_Married_2.jpg" group-title="filmindo",Get Married 2 [360p]
+https://media-vidio-com.akamaized.net/uploads/1507784/ets-get-20married-202-20feature-20-20convert-fea7-b900.mp4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Get_Married_3.jpg/230px-Get_Married_3.jpg" group-title="filmindo",Get Married 3 [1080p]
+https://media-vidio-com.akamaized.net/uploads/1507491/ets-get-20married-203-20feature-20-20convert-08af-b8000.mp4.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM5MjFhYmYtMzIwYy00YWMzLWJlODYtM2ZhYTBjMGJjZTlhXkEyXkFqcGdeQXVyNzkzODk2Mzc@._V1_UY268_CR0,0,182,268_AL_.jpg" group-title="filmindo",Benyamin Biang Kerok (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-2a88269fa86b8dab2575101a66eb0732.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg2MGE2NTEtMTU1OS00YmYyLTgwZGEtNmZlZjBkMjgwOTNmXkEyXkFqcGdeQXVyNjI3MDYxMjg@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="filmindo",Hanum & Rangga: Faith & The City (2018)
+http://srv28.nf21.net:80/files/11-2019-03-07-8575570eddbaea877dd7dce2a6a28d20.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-I46R4_cuLAo/WmI82SURIzI/AAAAAAAAXgk/pUrdJ8HeGJ4M_DaqTaWLTbrCRvyaiiurQCLcBGAs/s400/POSTER.jpg" group-title="filmindo",FLIGHT 555 (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-f0ddc7cdffd608547912ad3a1b33056f.mp4
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/community/2018/09/9294a76b2824bcb897d3fe46965af703_600x400.jpg" group-title="filmindo",ROMPIS (2018)
+http://srv28.nf21.net:80/files/15-2019-02-23-ba65b1712e9d0845b97ec790b4fa2b4b.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzJlZmY0NDEtODljOC00YWU0LWI0ZmQtYmFjZDQ4ZDExYzc3XkEyXkFqcGdeQXVyNzkzODk2Mzc@._V1_UY268_CR2,0,182,268_AL_.jpg" group-title="filmindo",Terbang: Menembus Langit (2018)
+http://srv28.nf21.net:80/files/11-2019-01-06-a873ac71241a867fe2aaeea36ecbe60c.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e5/London_love_story_3.jpeg/250px-London_love_story_3.jpeg" group-title="filmindo",London Love Story 3 (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-a71af058b7e0658b357ae236e70ac799.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDEyZGNmNDgtNTZkYy00ZmJjLWJjNGUtODFkODk5YzNmOGM2XkEyXkFqcGdeQXVyMjIyNDU1OTg@._V1_UY268_CR2,0,182,268_AL_.jpg" group-title="filmindo",Revan & Reina (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-b7cf77aba6b14e81c281f9f9cc6d2474.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-IKlIeqPdPPY/WpE3KsQkM8I/AAAAAAAADQ0/u6OfxmgUckQ61ZYoxRFafvasoL9GDSgvwCLcBGAs/s400/Sinopsis%2BLengkap%2BFilm%2BPartikelir%2B%25282018%2529.jpg" group-title="filmindo",FILM - Partikelir (2018)
+http://srv19.nf21.net:80/files/15-2018-08-14-2ce82962771272049ff44e8f27cf3407.mp4
+#EXTINF:-1 tvg-logo="https://jadwalnonton.com/data/images/movies/2019/yowis-ben-2-2366_300x450.jpg" group-title="filmindo",Yowis Ben 2 (2019)
+https://hls.kotaksilver.casa/579955/480_575/playlist.m3u8?r=480p
+#EXINF:-1 tvg-logo="https://cdn2.tstatic.net/banjarmasin/foto/bank/images/jefri-nichol_20180411_154307.jpg" group-title="filmindo",surat cinta untuk strarla 2018
+http://ict.pomosda.or.id/share/files/entertainment/%25Movie%25/INDONESIA/%5B2017%5D%20Surat%20Cinta%20untuk%20Starla%20the%20Movie.mp4
+#EXINF:-1 tvg-logo="http://nulis.co.id/wp-content/uploads/2018/01/IMG_20180106_091128-1.jpg" group-title="filmindo",ayat cinta 2 2018
+http://ict.pomosda.or.id/share/files/entertainment/%25Movie%25/INDONESIA/%5B2017%5D%20Ayat-Ayat%20Cinta%202.mkv
+#EXINF:-1 tvg-logo="https://randomhuruhara.files.wordpress.com/2016/07/screenshot_2016-07-02-20-23-04_com-instagram-android_14686372417061.jpg" group-title="filmindo",rudi habibi 2016
+http://ict.pomosda.or.id/share/files/entertainment/%25Movie%25/INDONESIA/%5B2016%5D%20Ruddy%20Habibie.mp4
+#EXINF:-1 tvg-logo="https://i.pinimg.com/originals/0e/eb/b1/0eebb1c67962921feb0d9c5a2aece5cd.png" group-title="filmindo",modal dengkul 2015
+http://ict.pomosda.or.id/share/files/entertainment/%25Movie%25/INDONESIA/%5B2014%5D%20Modal%20Dengkul.mkv
+#EXINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzM1M2MyZDYtY2VmOC00N2UwLTkzMTUtZTdiOWFmNThiZmJhXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="filmindo",gila lu dro 2018
+http://ict.pomosda.or.id/share/files/entertainment/%25Movie%25/INDONESIA/%5B2018%5D%20Gila%20Lu%20Ndro%20720p/Gila.Lu.Ndro.2018.WEB-DL.720p.mp4
+#EXINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Q3MDZiYjEtOWU5ZC00MDU5LWFiOWUtZGQ5MDVkMzU4NmE5XkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="filmindo",doa cari jodoh 2018
+http://ict.pomosda.or.id/share/files/entertainment/%25Movie%25/INDONESIA/%5B2018%5D%20DOA%20Cari%20Jodoh/DOA%2BCari%2BJodoh%2B%282018%29.mp4
+#EXINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Ada_Apa_dengan_Cinta_film.jpg/220px-Ada_Apa_dengan_Cinta_film.jpg" group-title="filmindo",Ada Apa dengan Cinta?
+http://ict.pomosda.or.id/share/files/entertainment/%25Movie%25/INDONESIA/%5B2016%5D%5B2002%5D%20Ada%20Apa%20Dengan%20Cinta/Ada%20Apa%20Dengan%20Cinta%201.mp4
+#EXINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/60/Ada_Apa_Denga_Cinta_2.jpg/220px-Ada_Apa_Denga_Cinta_2.jpg" group-title="filmindo",Ada Apa dengan Cinta? 2
+http://ict.pomosda.or.id/share/files/entertainment/%25Movie%25/MOVIE/CinemaMKV_Ada.Apa.Dengan.Cinta.2.2016.PPVHD.540MB.Sub.Malay.mkv
+#EXINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWE1ODM3MGMtZGJhNS00MGIzLTgyYjctZmJiNzE2Y2UyMGMxXkEyXkFqcGdeQXVyNjE5Mjk5ODc@._V1_UY268_CR0,0,182,268_AL_.jpg" group-title="filmindo",filosopi kopi 2015
+http://ict.pomosda.or.id/share/files/entertainment/%25Movie%25/INDONESIA/%5B2015%5D%20Filosofi%20Kopi/-melyanto%40IDWS-%20Filosofi.Kopi.TVRip.x265.%5Bwww.moviedramaguide.com%5D.mkv
+#EXINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDBhMWU4MzQtNDYzMC00YjgwLWFmZGEtNzNkMzk4MzM1YTUyXkEyXkFqcGdeQXVyODcyNzYyMDU@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="filmindo",Serendipity (2018)
+https://video-ams4-1.xx.fbcdn.net/v/t39.24130-2/10000000_139394187157549_5005966018559668413_n.mp4?_nc_cat=100&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=1eO7Mj7eLbQAX_24mQ_&_nc_ht=video-ams4-1.xx&oh=eacade2f2189846e13cb7ac4da4db479&oe=5EBBE62A
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/13/BFF_%28Best_Friends_Forever%29.jpg/220px-BFF_%28Best_Friends_Forever%29.jpg" group-title="filmindo",BFF (Best Friends Forever) (2017)
+https://video-ams4-1.xx.fbcdn.net/v/t39.24130-2/10000000_893840801065118_2600268933441684865_n.mp4?_nc_cat=109&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=HYn745nRfOUAX_ahY1i&_nc_ht=video-ams4-1.xx&oh=77492614a7c5eebd3259bdaff7094e27&oe=5EBAC314
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRkNzE3NDAtZDI3Yi00MTUwLWExZTAtNGE5NmNkNTNjYTQyXkEyXkFqcGdeQXVyNDA4NTQ0Mzc@._V1_UY268_CR2,0,182,268_AL_.jpg" group-title="filmindo",Valentine (2017)
+https://hls.kotaksilver.casa/586553/480_917/playlist.m3u8?r=480p
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU4OGVmOGYtMGFkNi00MzczLTg3NWYtZjRhYjE1NTExZDAyXkEyXkFqcGdeQXVyNzkzODk2Mzc@._V1_UY268_CR1,0,182,268_AL_.jpg" group-title="filmindo",Satu Hari Nanti (2017)
+http://srv18.nf21.net:80/files/15-2018-08-11-3d7d79b7e00aba5df3c61ce465e11cf8.mp4
+#EXTINF:-1 tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/teaser-poster-film-promise-_161229075315-867.jpg" group-title="filmindo",Promise (2017)
+https://media-vidio-com.akamaized.net/uploads/1843651/ets-promise_ftr-4d54_805ceb28_high.mp4.m3u8
+#EXTINF:-1 tvg-logo="https://ecs7.tokopedia.net/img/cache/700/product-1/2017/8/23/0/0_d51fc4de-a893-4f7f-ada3-172edbe6b0f3_612_816.jpg" group-title="filmindo",I Leave My Heart in Lebanon (2016)
+https://video-amt2-1.xx.fbcdn.net/v/t39.24130-2/10000000_2573616632900334_8620061854325476044_n.mp4?_nc_cat=101&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=QmT3BE1jzCwAX-iIwMe&_nc_ht=video-amt2-1.xx&oh=ecc5f97b2c49de7555e5cdb8b5e58265&oe=5EB86017
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGVjMTAwN2QtYmJjYy00NGQxLWIwNDctOGM4NTczZTBjMTkwXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="filmindo",I Love You from 38000 Feet (2016)
+https://video-ams4-1.xx.fbcdn.net/v/t39.24130-2/10000000_642228493003263_2806320235342464976_n.mp4?_nc_cat=103&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=aoDO-sm67PEAX93s5_4&_nc_ht=video-ams4-1.xx&oh=586d3032a03cb2eb89c4a08fef2aa017&oe=5EB88E25
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/Cek_Toko_Sebelah.jpg/250px-Cek_Toko_Sebelah.jpg" group-title="filmindo",Cek Toko Sebelah (2016)
+http://srv18.nf21.net:80/files/10-2018-08-06-7dae19687c0d57fabf80cda51736f30d.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/My_Stupid_Boos_Poster.jpg/220px-My_Stupid_Boos_Poster.jpg" group-title="filmindo",My Stupid Boss (2016)
+http://srv18.nf21.net:80/files/15-2018-08-03-ce61122e665966846c98cf23645c9b83.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5e/PosterSuperDidi.jpg/230px-PosterSuperDidi.jpg" group-title="filmindo",Super Didi(2016)
+https://media-vidio-com.akamaized.net/uploads/1620529/ets-super-20didi-8c7d-b1600.mp4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/25/Bajaj_Bajuri_The_Movie.jpg/230px-Bajaj_Bajuri_The_Movie.jpg" group-title="filmindo",Bajaj Bajuri the Movie (2014)
+http://srv28.nf21.net:80/files/6-2019-03-05-7957077294aed7aae01ed7548527c194.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9b/Crazy%2BLove%2B2013.jpg/230px-Crazy%2BLove%2B2013.jpg" group-title="filmindo",Crazy Love (2013)
+https://video-amt2-1.xx.fbcdn.net/v/t39.24130-2/10000000_223891919021695_7799919554886945155_n.mp4?_nc_cat=106&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=Eu1iTJnlcVcAX-SqaN4&_nc_ht=video-amt2-1.xx&oh=52c0b636d5ecb6a9dbd8eb8fb71263f8&oe=5EBB6451
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/43/Manusia_Setengah_Salmon_film.jpg/230px-Manusia_Setengah_Salmon_film.jpg" group-title="filmindo",Manusia Setengah Salmon (2013)
+https://media-vidio-com.akamaized.net/uploads/1508117/manusia-20setengah-20salmon-20feature-convert-39e7-b1200.mp4.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Skyscraper (2018)
+http://srv22.nf21.net:80/files/10-2018-10-27-3639bebebbcb9d7b82747ac94911e8fb.mp4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Mission Impossible: Fallout (2018)
+http://srv28.nf21.net:80/files/15-2019-03-17-5e6453922248470c10be803fc6fbaca5.mp4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",The Meg (2018)
+http://srv21.nf21.net:80/files/15-2018-10-12-90ffe641e6ab64d0e76fec94ad4e2c2e.mp4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Jurassic World: Fallen Kingdom (2018)
+http://srv18.nf21.net:80/files/10-2018-08-02-6c94fcf0d9abfe04aa7f1cf314d525b6.mp4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Jumanji: Welcome To The Jungle (2017)
+http://srv18.nf21.net:80/files/10-2018-08-03-a189798f7dc876fc5c04da23118265fc.mp4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Tomb Raider (2018)
+http://srv18.nf21.net:80/files/10-2018-08-02-061abc079ba3e2908ee7019f2729a230.mp4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Extinction (2018)
+http://srv18.nf21.net:80/files/10-2018-08-02-622532ab81187c58e0b416cdb1e4eb4e.mp4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Doctor Strange (2016)
+http://srv19.nf21.net:80/files/10-2018-08-03-2d8f006fa85f4d9bae69d108e45c9e95.mp4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Atlantic Rim: Resurrection (2018)
+http://srv28.nf21.net:80/files/15-2019-02-13-3a0f53dc85236110bfb6ac9a2ce39c91.mp4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",The Patriot (2000)
+http://srv9.nf21.net/files/14-2018-06-25-b7a6f626f774070c8a902c0cba4b7196.mp4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Swordfish (2001)
+http://srv11.nf21.net/files/14-2018-07-01-7cac6cb8081425b4596b478d9b594aca.mp4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint"Glass (2019)
+https://www.googleapis.com/drive/v3/files/16U2boPLu5QvrivOupnFDwZLYIbUhBtCS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint"Aladdin (2019)
+https://www.googleapis.com/drive/v3/files/1WgX85ihHMCU5lJ-2rO9XqKbCnlvUczY-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint"Cold Pursuit (2019)
+https://www.googleapis.com/drive/v3/files/1ywvuRRvTjqLDRVuQZ4gXYB6JKoFDSvFs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint"Escape Plan: The Extractors (2019)
+https://www.googleapis.com/drive/v3/files/1U3jdRw9AHq6t67SQkt0VHmHXpPbcDdrx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint"Escape Room (2019)
+https://www.googleapis.com/drive/v3/files/1n-869-h12KWqqBP47OgJfiKpMl2Exvzj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint"It : Chapter Two (2019)
+https://www.googleapis.com/drive/v3/files/1tJAuQLVYpoatnRG50C4w3FLncwsuSiwz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Go Lala Go 2
+https://www.googleapis.com/drive/v3/files/0B2PrCbdr77dzY29OdzNmQTdsaW8?alt=media&key=AIzaSyDaCTxBCf3N6kZC2s0nPuPHyFvNBcBmxN8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Bikeman (2018)
+https://www.googleapis.com/drive/v3/files/16T0Amp1ICONQhbC3rYDETG4-v0Dr76zl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Let The Bullets Fly
+https://www.googleapis.com/drive/v3/files/0B6fR2tWrU4myYXZlTWRLdWc2ODg?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Doraemon Nobita’s Chronicle of the Moon Exploration (2019)
+https://www.googleapis.com/drive/v3/files/1wntqloiCmufwdQJBipnGsQ7Zpa2Ww2FG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Iceman (The Time Traveler) 2018
+https://www.googleapis.com/drive/v3/files/1hkL3a0y4I4idzYsF9xOHi46H1GJ-vXU3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",The White Storm 2
+https://www.googleapis.com/drive/v3/files/1_hpVF9QfaSMVPXNsjg5kU3iBZlBIINhk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Fabulous 30 (2011)
+https://www.googleapis.com/drive/v3/files/1sVTyJOu701Z41zhbksL4uTqUqQGIxB2m?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Dorm (2006)
+https://www.googleapis.com/drive/v3/files/1L6HtY85Xt0lbPm6RqUsX8CoNadMdlQc_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Countdown (2012)
+https://www.googleapis.com/drive/v3/files/1RAqWtug7WmtmrfzwvohJG9_n9iXk1CCu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Best of Times (2009)
+https://www.googleapis.com/drive/v3/files/1t8LQvHW-kUen31vk5JBvd5W20GyqUhCu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Bangkok Traffic Love Story (2009)
+https://www.googleapis.com/drive/v3/files/1X-idlDvSlUm1PYlnBsbKoSXw5Fq9JWfF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",ATM aka Er Rak Error (2012)
+https://www.googleapis.com/drive/v3/files/1V05adAfr6C5npc_VKFb3RtPABA679Q17?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Art of the Devil 3 (2008)
+https://www.googleapis.com/drive/v3/files/14-cr-IKHx7RFUdOc48FgHT2RCL1qSbo2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Art of the Devil 2 (2005)
+https://www.googleapis.com/drive/v3/files/1T6tEXXTRaXaL_rKSUXslA1tz8gYmx1gP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Art of the Devil (2004)
+https://www.googleapis.com/drive/v3/files/1T8Mf5Jzg3VKwzD3gGSIiqnfCuDuGMNyS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Art Idol (2012)
+https://www.googleapis.com/drive/v3/files/1Yl5Cwxg4wc2CeMxkyErU0qaXwwBeuywZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",A Little Thing Called Love (2010)
+https://www.googleapis.com/drive/v3/files/1uD3x9oxl5HSpA3oCc1xYy4YWN_PmVsVc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",4bia (2008)
+https://www.googleapis.com/drive/v3/files/11vMLe2cFCcAzn4ortpeRd4l_3hdfiwcZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",The 12th Suspect (2019)
+https://www.googleapis.com/drive/v3/files/1c6e8JtrZj34oj8RCr2TwaZvCzX9-eZQJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",The Odd Family: Zombie on Sale (2019)
+https://www.googleapis.com/drive/v3/files/1VUesF1Vuuz9YgxkDuRQ2og4sbtHQ11k2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",My Punch-Drunk Boxer (2019)
+https://www.googleapis.com/drive/v3/files/1o3wXDIg7d7gtVLfUEARmgYiBKTJ8KADM?alt=media&key=AIzaSyDiIW45Qm9LyIgGDXMCw-46MeYQvWYVJ8c
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Unstoppable (2018)
+https://www.googleapis.com/drive/v3/files/1gy3U1j9VZAi1uIZwOk4xYLiRUbxtFqoE?alt=media&key=AIzaSyDiIW45Qm9LyIgGDXMCw-46MeYQvWYVJ8c
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Casa Amor: Exclusive for Ladies (2015)
+https://www.googleapis.com/drive/v3/files/12zneHGq_O9toW0RX9_YWO5G__EB4wK3c?alt=media&key=AIzaSyDiIW45Qm9LyIgGDXMCw-46MeYQvWYVJ8c
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",The Bad Guys: Reign of Chaos (2019)
+https://www.googleapis.com/drive/v3/files/1bPaMy-l_GezTlC1YSi55dXsEJA1rP96-?alt=media&key=AIzaSyDiIW45Qm9LyIgGDXMCw-46MeYQvWYVJ8c
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Birthday (2019)
+https://www.googleapis.com/drive/v3/files/1yUOxZXyNYUqLDGFG3z8C4gIQLtV8x8Ih?alt=media&key=AIzaSyDiIW45Qm9LyIgGDXMCw-46MeYQvWYVJ8c
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Ghost House (2004)
+https://www.googleapis.com/drive/v3/files/1fdmvZn51jN-bQFHqC0ikf6KNySmPHct8?alt=media&key=AIzaSyDiIW45Qm9LyIgGDXMCw-46MeYQvWYVJ8c
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Hotel by the River (2018)
+https://www.googleapis.com/drive/v3/files/1QyFi8fKyjFdwXgeiL4BFUa_7RK5LFcwt?alt=media&key=AIzaSyDiIW45Qm9LyIgGDXMCw-46MeYQvWYVJ8c
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Another Child (2019)
+https://www.googleapis.com/drive/v3/files/1E9-i4oHMqCzdW60ATlMykxHoU-qRcQ4u?alt=media&key=AIzaSyDiIW45Qm9LyIgGDXMCw-46MeYQvWYVJ8c
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",The Culprit (2019)
+https://www.googleapis.com/drive/v3/files/1gFlNcTDUlAG_W5ZbOymYEBfYIb0D2Tz5?alt=media&key=AIzaSyDiIW45Qm9LyIgGDXMCw-46MeYQvWYVJ8c
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Shadows in the Palace (2007)
+https://www.googleapis.com/drive/v3/files/13pUU_m-y_n3up-RI9VjbmqrqqbHxxvKh?alt=media&key=AIzaSyDiIW45Qm9LyIgGDXMCw-46MeYQvWYVJ8c
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Tune in for Love (2019)
+https://www.googleapis.com/drive/v3/files/1RaRuD8KPAD3kr1YdzKRwfaqiCx4SDn8e?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",What a Man Wants (2018)
+https://www.googleapis.com/drive/v3/files/1VUbvCOkpJHMmTCaDrQbyIeNWxOo3dlFm?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",The Battle: Roar to Victory (2019)
+https://www.googleapis.com/drive/v3/files/1rGYg523g0T0HWQw-YPtq3g6RT9a7CdYg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Exit (2019)
+https://www.googleapis.com/drive/v3/files/1qRnKd9K5Qs4753XvbIzonXBAm0U5KGva?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Love Again (2018)
+https://www.googleapis.com/drive/v3/files/12QvkS37rMQmMNTNcnZb83-gnpKiXRnh3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Insane (2016)
+https://www.googleapis.com/drive/v3/files/1x4KDiBtLie66wt3RRIy24eJd0oAjoHgc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",The Divine Fury (2019)
+https://www.googleapis.com/drive/v3/files/1-X9521aWxs7XlTL8diGk54p04tpwcWnD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Rules of Dating (2005)
+https://www.googleapis.com/drive/v3/files/1r-xhN7K1QWi5TChI6kHsfSVFsE8372og?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Beautiful Vampire (2018)
+https://www.googleapis.com/drive/v3/files/1ESsCkij_3-mzQ8LSdGOFQjk_D78Bz-AH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",The King’s Letters (2019)
+https://www.googleapis.com/drive/v3/files/1JR2E6pYp01loHtBcuWiXJW_Qz0bmdMH3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Invader ZIM: Enter the Florpus (2019)
+https://www.googleapis.com/drive/v3/files/1gIXomMgojEO4RyhAxEsiib2jz4Z6xcxM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",After My Death (2017)
+https://www.googleapis.com/drive/v3/files/1YvJc9S5thGnmpIG-9wijaTvr-Odn53kW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Parasite (2019)
+https://www.googleapis.com/drive/v3/files/1kXr1PAYYbGJb_k6zMhdqfblOKPfndDh3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Miss & Mrs. Cops (2019)
+https://www.googleapis.com/drive/v3/files/1hTZ2Xr2jgxZnoqJQNSlxv8-Ng-xdO-LD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Long Live the King (2019)
+https://www.googleapis.com/drive/v3/files/1Xip77oJRL0RMPSUtnMJ7klYup1GQKx9-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Juror 8 (2019)
+https://www.googleapis.com/drive/v3/files/1RrKO7_2GONv0C-sZDK8GVG5J6aJeRSGz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Witness (2019)
+https://www.googleapis.com/drive/v3/files/15-zwqQLxIZyAD5aJHLAesP7R9swV58Ed?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Little Black Dress (2011)
+https://www.googleapis.com/drive/v3/files/1VdhT0h9I30BL8KKa_IChv_Qjy6LBtTpm?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Burning (2018)
+https://www.googleapis.com/drive/v3/files/1HKAxJUi-pfd27z2TGmWobOJ0YlkmJULk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Svaha: The Sixth Finger (2019)
+https://www.googleapis.com/drive/v3/files/1eFk_0qduzFOgzw8z9c85YROKUEkH2Cft?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/31/31087.png" group-title="filmint",Jo Pil-ho: The Dawning Rage (2019)
 
 #VOD
 
