@@ -1,11 +1,10 @@
 #EXTINF
 #Local
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="Local", MNC TV
-https://linier3.rctiplus.id/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8
+https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png" group-title="Local", RCTI
-https://linier3.rctiplus.id/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8
+https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:0 tvg-logo="https://imgur.com/hAkcBVR.png" group-title="Local", GLOBAL TV
-https://linier3.rctiplus.id/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169544~exp=9007200830910535~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_0/chunklist.m3u8*~hmac=d7640975f61c8be6c7bad787980b52a8c3026cd2052635850f4d16637b741fbc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sy3qdRJ/Trans-tv.png" group-title="Local", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
@@ -21,14 +20,8 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cbYwCD6/NETtv.png" group-title="Local", Net TV
 https://etslive-2-vidio-com.akamaized.net/exp=1587192532~acl=/hls-b/ingest_875_*/*~hmac=c27ed8f5715be84adb6c5c192d46432a1a58783476705b03225d2b89cd16d556/hls-b/ingest_875_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b6PM1Gc/Antv.png" group-title="Local", Antv
-http://id1.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KLv4GCm/INDOSIAR.png" group-title="Local", INDOSIAR 1
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=516DF00545EEF4F6A83CFD06348356F56C97D3CD&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KLv4GCm/INDOSIAR.png" group-title="Local", INDOSIAR 2
-https://cdn-livetv1.metube.id/hls/indosiar_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wCZNYtb/SCTV.png" group-title="Local", SCTV
-http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wCZNYtb/SCTV.png" group-title="Local", SCTV 1
 https://cdn-livetv1.metube.id/hls/sctv_480/index.m3u8
 #EXTINF:-1 group-title="Local",SCTV 2
@@ -62,7 +55,7 @@ https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rd3B8kb/Berita-satu.png" group-title="Local",Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RSYZtTc/inewstv.png" group-title="Local", INews TV
-https://cdn-livetv1.metube.id/hls/inewstv_480/index.m3u8
+https://linier.akamaized.net:443/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_1000000=3-mp4a_64000=2.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PQ7409J/CNN-indo.png" group-title="Local", CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/PQ7409J/CNN-indo.png" group-title="Local", CNN Indonesia DETIK
@@ -668,6 +661,87 @@ https://vcdnjt.useetv.com/joss/15/golfplus/chunklist_w196811482_b684100_sleng_.m
 https://cdnbpp1.useetv.com/joss/14/citradangdut/chunklist_w1630106381_b684100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="USEE",CARTOON NETWORK
 https://cdnkbl2.useetv.com/joss/14/cartoonnetwork/chunklist_w778870228_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="Movies",FLIX
+http://mantul.biz.id:8888/live/gocir/0905/228.ts
+#EXTINF:-1 tvg-logo="Movies",TV21
+http://mantul.biz.id:8888/live/gocir/0905/233.ts
+#EXTINF:-1 tvg-logo="Movies",CELESTIAL MOVIE
+http://mantul.biz.id:8888/live/gocir/0905/1173.ts
+#EXTINF:-1 tvg-logo="Movies",CINEMA
+http://mantul.biz.id:8888/live/gocir/0905/237.ts
+#EXTINF:-1 tvg-logo="Movies",ENTERTAIMENT
+http://mantul.biz.id:8888/live/gocir/0905/408.ts
+#EXTINF:-1 tvg-logo="Movies",INDO
+http://mantul.biz.id:8888/live/gocir/0905/230.ts
+#EXTINF:-1 tvg-logo="Movies",MIX
+http://mantul.biz.id:8888/live/gocir/0905/225.ts
+#EXTINF:-1 tvg-logo="Movies",MOVIE+
+http://mantul.biz.id:8888/live/gocir/0905/227.ts
+#EXTINF:-1 tvg-logo="Movies",MOVIES
+http://mantul.biz.id:8888/live/gocir/0905/235.ts
+#EXTINF:-1 tvg-logo="Movies",PLUS
+http://mantul.biz.id:8888/live/gocir/0905/236.ts
+#EXTINF:-1 tvg-logo="Movies",SERIES
+http://mantul.biz.id:8888/live/gocir/0905/226.ts
+#EXTINF:-1 tvg-logo="Movies",FOX
+http://mantul.biz.id:8888/live/gocir/0905/9.ts
+#EXTINF:-1 tvg-logo="Movies",Fox LIFE
+http://mantul.biz.id:8888/live/gocir/0905/33.ts
+#EXTINF:-1 tvg-logo="Movies",Fox Family Movies Backup
+http://mantul.biz.id:8888/live/gocir/0905/50.ts
+#EXTINF:-1 tvg-logo="Movies",FOX Movies HD
+http://mantul.biz.id:8888/live/gocir/0905/131.ts
+#EXTINF:-1 tvg-logo="Movies",FX
+http://mantul.biz.id:8888/live/gocir/0905/37.ts
+#EXTINF:-1 tvg-logo="Movies",HBO
+http://mantul.biz.id:8888/live/gocir/0905/1.ts
+#EXTINF:-1 tvg-logo="Movies",HBO FAMILY
+http://mantul.biz.id:8888/live/gocir/0905/5.ts
+#EXTINF:-1 tvg-logo="Movies",HBO HITS
+http://mantul.biz.id:8888/live/gocir/0905/3.ts
+#EXTINF:-1 tvg-logo="Movies",HBO SIGNATURE
+http://mantul.biz.id:8888/live/gocir/0905/44.ts
+#EXTINF:-1 tvg-logo="Movies",HITS
+http://mantul.biz.id:8888/live/gocir/0905/72.ts
+#EXTINF:-1 tvg-logo="Movies",HITS MOVIE
+http://mantul.biz.id:8888/live/gocir/0905/71.ts
+#EXTINF:-1 tvg-logo="Movies",KIX
+http://mantul.biz.id:8888/live/gocir/0905/251.ts
+#EXTINF:-1 tvg-logo="Movies",MR BEAN TV
+http://mantul.biz.id:8888/live/gocir/0905/940.ts
+#EXTINF:-1 tvg-logo="Movies",RED BY HBO
+http://mantul.biz.id:8888/live/gocir/0905/242.ts
+#EXTINF:-1 tvg-logo="Movies",CINEMA INDO
+http://mantul.biz.id:8888/live/gocir/0905/158.ts
+#EXTINF:-1 tvg-logo="Movies",THRILL
+http://mantul.biz.id:8888/live/gocir/0905/250.ts
+#EXTINF:-1 tvg-logo="Movies",TVN MOVIE
+http://mantul.biz.id:8888/live/gocir/0905/28.ts
+#EXTINF:-1 tvg-logo="Movies",WARNER TV
+http://mantul.biz.id:8888/live/gocir/0905/49.ts
+#EXTINF:-1 tvg-logo="Movies",ZEE TV
+#http://mantul.biz.id:8888/live/gocir/0905/261.ts
+#EXTINF:-1 tvg-logo="Movies",ACTION MOVIE
+#http://mantul.biz.id:8888/live/gocir/0905/1125.ts
+#EXTINF:-1 tvg-logo="Movies",CINEMA WORD 
+http://mantul.biz.id:8888/live/gocir/0905/256.ts
+#EXTINF:-1 tvg-logo="Movies",CINEMAX
+http://mantul.biz.id:8888/live/gocir/0905/1029.ts
+#EXTINF:-1 tvg-logo="Movies",GALAXY PREMIUM
+http://mantul.biz.id:8888/live/gocir/0905/1012.ts
+#EXTINF:-1 tvg-logo="Movies",GALAXY
+http://mantul.biz.id:8888/live/gocir/0905/298.ts
+#EXTINF:-1 tvg-logo="Movies",ACTION MOVIE
+http://ott-cdn.ucom.am/s91/04.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="Movies",AXN
+http://mantul.biz.id:8888/live/gocir/0905/199.ts
+#EXTINF:-1 tvg-logo="Movies",BIOSKOP INDONESIA
+http://mantul.biz.id:8888/live/gocir/0905/243.ts
+#EXTINF:-1 tvg-logo="Movies",Blue Ant Entertainment
+http://mantul.biz.id:8888/live/gocir/0905/133.ts
+#EXTINF:-1 tvg-logo="Movies",CELESTIAL MOVIES
+http://mantul.biz.id:8888/live/gocir/0905/249.ts
+#EXTINF:-1 tvg-logo="Movies",FLIX
 
 #VOD2019
 
