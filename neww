@@ -5,7 +5,7 @@ https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png" group-title="Local", RCTI
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:0 tvg-logo="https://imgur.com/hAkcBVR.png" group-title="Local", GLOBAL TV
-https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169544~exp=9007200830910535~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_0/chunklist.m3u8*~hmac=d7640975f61c8be6c7bad787980b52a8c3026cd2052635850f4d16637b741fbc
+http://mantul.biz.id:8888/andrew/andrew/192
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sy3qdRJ/Trans-tv.png" group-title="Local", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sy3qdRJ/Trans-tv.png" group-title="Local", TRANS TV 2
@@ -144,7 +144,7 @@ https://dl.dropboxusercontent.com/s/ckq9svw348mvnwy/WARNERTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movies",WARNER
 https://vcdnjt.useetv.com/joss/15/warner/chunklist_w462988346_b1344100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk0DF8z/hbo.png" group-title="Movies", HBO
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4OTc5OTcyMH19fV19&Signature=dvwj334qQ7OAdboSOQceeKTz7n7VJQL5iQyTf36cAh0d5HCRLfIQQAg2AILFrKLk4VefLemi4lh~TIPNy0~YAIdgyyZibIzcPUj8UemAdx8TLooGeMYgS6hGhz7Mwwjejh2iSL9J67wz46ubK4zrn8I8RvEPe5e1Q0x1O07O6eq28KlxfW7UkIsBGfzxmIjkpZ9IieLHd7kRv6b4J4uHCudZjahKV7gC31JmUOlgQcVW0gOMg7nNZlWT0R4KVudp3EuV9cvAXP39udEeCrsqycrUc~GrowtVvj53Ojb364vLpAsgqWVF0O70UcthJd~8gtVRSg1LPDx-qZMj5oQHaw__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MDMxODEyNn19fV19&Signature=fb9hZxfddhCIsljM5Zb08JYSG-Hhpo3nQiZJKB8Pgw8HHeGmqOEx7PSzNH7kDrmZ5pYA2I1tpJKCaIPVD3RC12NR2xSmUuVFsrsJ2r2apkAtXdlxJgNfkqCNce342mqTy8wiKOkUh1zj22JbFwodnoxtain-KMYA6wPe8PHFT-qjBBowI24xVeKm8IrVyPMO6Rue8HfoLzHmIoBEwf-3awTLRs9OBgqbJbjO~ihfxUZKNIRP06Iy~aCgEOorEvS3HaEQagb1GlrFzyPeJlkV3f08gJ9YomxiRugM5aB4mSLELF6J-EWO0iW~34~P1QwxIqFVJF0XmcXTWTvaToDNrw__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tD7TNy/hbo-hits.png" group-title="Movies", HBO Hits
 https://dai3fd1oh325y.cloudfront.net/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4OTc5OTcyMH19fV19&Signature=dvwj334qQ7OAdboSOQceeKTz7n7VJQL5iQyTf36cAh0d5HCRLfIQQAg2AILFrKLk4VefLemi4lh~TIPNy0~YAIdgyyZibIzcPUj8UemAdx8TLooGeMYgS6hGhz7Mwwjejh2iSL9J67wz46ubK4zrn8I8RvEPe5e1Q0x1O07O6eq28KlxfW7UkIsBGfzxmIjkpZ9IieLHd7kRv6b4J4uHCudZjahKV7gC31JmUOlgQcVW0gOMg7nNZlWT0R4KVudp3EuV9cvAXP39udEeCrsqycrUc~GrowtVvj53Ojb364vLpAsgqWVF0O70UcthJd~8gtVRSg1LPDx-qZMj5oQHaw__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SJZfnHB/HBO-Signature-Asia.png" group-title="Movies", HBO Signature
