@@ -1,9 +1,9 @@
 #EXTINF
 #Local
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="Local", MNC TV
-https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62214
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png" group-title="Local", RCTI
-https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62199
 #EXTINF:0 tvg-logo="https://imgur.com/hAkcBVR.png" group-title="Local", GLOBAL TV
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62243
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sy3qdRJ/Trans-tv.png" group-title="Local", TRANS TV
@@ -16,14 +16,16 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w464718372_b384000_sle
 https://cdn-livetv1.metube.id/hls/trans7_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Zr0qym/Metro-tv.png" group-title="Local", Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="Local", METRO TV 2
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cbYwCD6/NETtv.png" group-title="Local", Net TV
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cbYwCD6/NETtv.png" group-title="Local", Net TV
-https://etslive-2-vidio-com.akamaized.net/exp=1587192532~acl=/hls-b/ingest_875_*/*~hmac=c27ed8f5715be84adb6c5c192d46432a1a58783476705b03225d2b89cd16d556/hls-b/ingest_875_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KLv4GCm/INDOSIAR.png" group-title="Local", INDOSIAR 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cbYwCD6/NETtv.png" group-title="Local", Net TV 2
+https://cdnbpp1.useetv.com/joss/15/net/chunklist_w1761005650_b894100_sleng_310393.m3u8
+INF:-1 tvg-logo="https://i.ibb.co/KLv4GCm/INDOSIAR.png" group-title="Local", INDOSIAR 1
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=516DF00545EEF4F6A83CFD06348356F56C97D3CD&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wCZNYtb/SCTV.png" group-title="Local", SCTV 1
-https://cdn-livetv1.metube.id/hls/sctv_480/index.m3u8
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62193
 #EXTINF:-1 group-title="Local",SCTV 2
 https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1457962787_b1344100_sleng.m3u8?vDTyO4GHI3lg0a7zEDVvCQ1582825568
 #EXTINF:-1 group-title="Local",Trans7 2
@@ -42,12 +44,14 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Local", Tv One 5
 https://dl.dropbox.com/s/ksehsscg2bm0p1o/TVONEhooq.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Local", Tv One 6
 #EXTINF:-1 group-title="Local",ANTV 1
 https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1504398086_b894100_sleng.m3u8?-W1Ha1bGpzWLODGE8OGDSg1582824826
+#EXTINF:-1 group-title="Local",ANTV 2
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62297
 #EXTINF:-1 group-title="Local",Indosiar
 https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w1302022438_b894100_sleng.m3u8?VQSA-tjGlLDdXz4nFmK2vA1582825127
-https://livetvhooq.akamaized.net/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1584500847~exp=9007200839241838~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_0/chunklist.m3u8*~hmac=842acf9c82ee038121f07595ba5e4fae0fcf123f6dd488a493c187511951ccd8
+#EXTINF:-1 group-title="Local",Indosiar 2
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62236
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bz6PgXz/Kompas-tv-SD.png" group-title="Local", Kompas TV
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bz6PgXz/Kompas-tv-SD.png" group-title="Local", Kompas TV
@@ -66,17 +70,17 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(b84c57ee-7936-4c81-
 #https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576332054~exp=9007200831073045~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_0/chunklist.m3u8*~hmac=69ed7a9a6f068922ff6f10cc63f12e9f14bbd3863d5cdfb596b8f0dd9753b3ba
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PQwpBLs/CNBC.png" group-title="Local", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7yTH8mv/mytv.png" group-title="Local", Mytv
-https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 #https://livetvhooq.akamaized.net:443/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597923~exp=9007200828338914~acl=/b2fec42490a14386ac53eafa47f590a7/*/profile_0/chunklist.m3u8*~hmac=15a17e5b10bc2f36b6fbe927f137fff5a759fcc501c3d6712d5976a51a9b45ea
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y685Xr1/JTV.png" group-title="Local", JTV
-https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576332546~exp=9007200831073537~acl=/ae74dfdacfc1474ebacda1990c3dc338/*/profile_0/chunklist.m3u8*~hmac=7c2f871185c6398130f92f2fdd386318a37eb468f51f397ca2831a049832cbd8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png" group-title="Local", BERITASATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ggFCkWn/DW-english.png" group-title="Local", DW English
 https://livetvhooq.akamaized.net/e97d916eaf2a4c888a0a43cb633c54e3/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1575560426~exp=9007200830301417~acl=/e97d916eaf2a4c888a0a43cb633c54e3/*/profile_0/chunklist.m3u8*~hmac=587ebf4832a5ed23a09f2e7d851d945ae20655c988eda38237f6b6e09e146de6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2s2qKQj/tvri.png" group-title="Local", TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2s2qKQj/tvri.png" group-title="Local", TVRI 2
 https://cdn-livetv1.metube.id/hls/tvri_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2s2qKQj/tvri.png" group-title="Local", TVRI 3
+https://vcdnjt.useetv.com/joss/15/tvri/chunklist_w1013761133_b684100_sleng_270843.m3u8
 
 #Religi
 
@@ -124,11 +128,17 @@ http://210.210.155.35/dr9445/h/h02/index.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v1Cbb8F/Disney-Junior.png" group-title="Kids", Disney Junior
 #http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="Kids",CARTOON NETWORK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62279
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="Kids", ANIMAX
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62298
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_big1.png" group-title="Kids",ANIPLUS
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62158
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="Kids", NICK JR.
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62201
 
 #Movies
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dbyxf6h/First-Movies.png" group-title="Movies", First Movie
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2htjs2L/Zee-Bioskop.png" group-title="Movies", Zee Bioskop
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/58dvXvh/Flik.png" group-title="Movies", FLIK
@@ -136,50 +146,96 @@ https://dl.dropbox.com/s/iop2061487sr706/Flik.m3u8?dl=0
 #EXTINF:0 tvg-logo="https://i.ibb.co/tHqtyx8/Hi-indo.png" group-title="Movies",Hi indo!
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3rZ7YbH/AXN.png" group-title="Movies", AXN
-http://210.210.155.66/h/h141/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3rZ7YbH/AXN.png" group-title="Movies", AXN 1
-http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62293
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qjYLXF3/warner.png" group-title="Movies", Warner tv
 https://dl.dropboxusercontent.com/s/ckq9svw348mvnwy/WARNERTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movies",WARNER
 https://vcdnjt.useetv.com/joss/15/warner/chunklist_w462988346_b1344100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk0DF8z/hbo.png" group-title="Movies", HBO
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MTAwOTMzNH19fV19&Signature=k9eCOY1ZPhuFPbwmFDcozWo03Fp84NwDClE~okGb6MhTbjmBhecq3ufYDadb46cltYbTsNkKbCXFjbRpCHNThuLGNfp279ej-QX2zEmDvK9LoO4owcQjwabjPcK84tgjvcau99c2Wj9mHUJaLZ0zjnllB6BQ8V0NEmCYsABH0eOhTcoUdnKJZjkc~hPPFtX-HJvpV4HqNuf2i279q9rFU1cHJCJcDlSd8COu2S1jbQrnRz7FF~pye2Qw2EaKz0FOIIOoGIFs-Urlmv2Ox72daD7qzc2YnBPKA-tyccnTicKge4Jurrj-YZEP0iR9kfBPLL1QCyRtvBww6x6n9taKsg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MTYxNDE0MX19fV19&Signature=PJgm7L3hyP2X9LHS1HBhLY9kaFF~jaGBjshAWMUCLyrkpvMlTxLy-zriiaN-3Ab2aMAZWXPtNkwtUHTuCs4ZeHvbF0yks19XMOXc4MitnHLPVagPNUfG5yuBOC~Y5X6CJCScIWxSHD2uzuHJVgiQed0F1dlCUBRj3YoHRspU5XWR7W0w-Tyfly7o4UQkieR0dESjLspg8aP5b3fweqQdYu2S5~ZKFTME1hvxejUB-WTashlvEVA3TDAV~PK9ydj1IqOOLIarmcy4rzhU7vPBJxSn2uYvje1W3iXhMWUioaVXfJ~AwXVeJLq7r3DAUbECMNJi6mW4w6aqVuWNHhl3Ww__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tD7TNy/hbo-hits.png" group-title="Movies", HBO Hits
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MTAwOTMzNH19fV19&Signature=k9eCOY1ZPhuFPbwmFDcozWo03Fp84NwDClE~okGb6MhTbjmBhecq3ufYDadb46cltYbTsNkKbCXFjbRpCHNThuLGNfp279ej-QX2zEmDvK9LoO4owcQjwabjPcK84tgjvcau99c2Wj9mHUJaLZ0zjnllB6BQ8V0NEmCYsABH0eOhTcoUdnKJZjkc~hPPFtX-HJvpV4HqNuf2i279q9rFU1cHJCJcDlSd8COu2S1jbQrnRz7FF~pye2Qw2EaKz0FOIIOoGIFs-Urlmv2Ox72daD7qzc2YnBPKA-tyccnTicKge4Jurrj-YZEP0iR9kfBPLL1QCyRtvBww6x6n9taKsg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MTYxNDE0MX19fV19&Signature=PJgm7L3hyP2X9LHS1HBhLY9kaFF~jaGBjshAWMUCLyrkpvMlTxLy-zriiaN-3Ab2aMAZWXPtNkwtUHTuCs4ZeHvbF0yks19XMOXc4MitnHLPVagPNUfG5yuBOC~Y5X6CJCScIWxSHD2uzuHJVgiQed0F1dlCUBRj3YoHRspU5XWR7W0w-Tyfly7o4UQkieR0dESjLspg8aP5b3fweqQdYu2S5~ZKFTME1hvxejUB-WTashlvEVA3TDAV~PK9ydj1IqOOLIarmcy4rzhU7vPBJxSn2uYvje1W3iXhMWUioaVXfJ~AwXVeJLq7r3DAUbECMNJi6mW4w6aqVuWNHhl3Ww__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SJZfnHB/HBO-Signature-Asia.png" group-title="Movies", HBO Signature
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MTAwOTMzNH19fV19&Signature=k9eCOY1ZPhuFPbwmFDcozWo03Fp84NwDClE~okGb6MhTbjmBhecq3ufYDadb46cltYbTsNkKbCXFjbRpCHNThuLGNfp279ej-QX2zEmDvK9LoO4owcQjwabjPcK84tgjvcau99c2Wj9mHUJaLZ0zjnllB6BQ8V0NEmCYsABH0eOhTcoUdnKJZjkc~hPPFtX-HJvpV4HqNuf2i279q9rFU1cHJCJcDlSd8COu2S1jbQrnRz7FF~pye2Qw2EaKz0FOIIOoGIFs-Urlmv2Ox72daD7qzc2YnBPKA-tyccnTicKge4Jurrj-YZEP0iR9kfBPLL1QCyRtvBww6x6n9taKsg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MTYxNDE0MX19fV19&Signature=PJgm7L3hyP2X9LHS1HBhLY9kaFF~jaGBjshAWMUCLyrkpvMlTxLy-zriiaN-3Ab2aMAZWXPtNkwtUHTuCs4ZeHvbF0yks19XMOXc4MitnHLPVagPNUfG5yuBOC~Y5X6CJCScIWxSHD2uzuHJVgiQed0F1dlCUBRj3YoHRspU5XWR7W0w-Tyfly7o4UQkieR0dESjLspg8aP5b3fweqQdYu2S5~ZKFTME1hvxejUB-WTashlvEVA3TDAV~PK9ydj1IqOOLIarmcy4rzhU7vPBJxSn2uYvje1W3iXhMWUioaVXfJ~AwXVeJLq7r3DAUbECMNJi6mW4w6aqVuWNHhl3Ww__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pxtLMDC/HBO-Family-logo.png" group-title="Movies", HBO Family
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MTAwOTMzNH19fV19&Signature=k9eCOY1ZPhuFPbwmFDcozWo03Fp84NwDClE~okGb6MhTbjmBhecq3ufYDadb46cltYbTsNkKbCXFjbRpCHNThuLGNfp279ej-QX2zEmDvK9LoO4owcQjwabjPcK84tgjvcau99c2Wj9mHUJaLZ0zjnllB6BQ8V0NEmCYsABH0eOhTcoUdnKJZjkc~hPPFtX-HJvpV4HqNuf2i279q9rFU1cHJCJcDlSd8COu2S1jbQrnRz7FF~pye2Qw2EaKz0FOIIOoGIFs-Urlmv2Ox72daD7qzc2YnBPKA-tyccnTicKge4Jurrj-YZEP0iR9kfBPLL1QCyRtvBww6x6n9taKsg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MTYxNDE0MX19fV19&Signature=PJgm7L3hyP2X9LHS1HBhLY9kaFF~jaGBjshAWMUCLyrkpvMlTxLy-zriiaN-3Ab2aMAZWXPtNkwtUHTuCs4ZeHvbF0yks19XMOXc4MitnHLPVagPNUfG5yuBOC~Y5X6CJCScIWxSHD2uzuHJVgiQed0F1dlCUBRj3YoHRspU5XWR7W0w-Tyfly7o4UQkieR0dESjLspg8aP5b3fweqQdYu2S5~ZKFTME1hvxejUB-WTashlvEVA3TDAV~PK9ydj1IqOOLIarmcy4rzhU7vPBJxSn2uYvje1W3iXhMWUioaVXfJ~AwXVeJLq7r3DAUbECMNJi6mW4w6aqVuWNHhl3Ww__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M8MX7F5/Cinemax.png" group-title="Movies", Cinemax
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MTAwOTMzNH19fV19&Signature=k9eCOY1ZPhuFPbwmFDcozWo03Fp84NwDClE~okGb6MhTbjmBhecq3ufYDadb46cltYbTsNkKbCXFjbRpCHNThuLGNfp279ej-QX2zEmDvK9LoO4owcQjwabjPcK84tgjvcau99c2Wj9mHUJaLZ0zjnllB6BQ8V0NEmCYsABH0eOhTcoUdnKJZjkc~hPPFtX-HJvpV4HqNuf2i279q9rFU1cHJCJcDlSd8COu2S1jbQrnRz7FF~pye2Qw2EaKz0FOIIOoGIFs-Urlmv2Ox72daD7qzc2YnBPKA-tyccnTicKge4Jurrj-YZEP0iR9kfBPLL1QCyRtvBww6x6n9taKsg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MTYxNDE0MX19fV19&Signature=PJgm7L3hyP2X9LHS1HBhLY9kaFF~jaGBjshAWMUCLyrkpvMlTxLy-zriiaN-3Ab2aMAZWXPtNkwtUHTuCs4ZeHvbF0yks19XMOXc4MitnHLPVagPNUfG5yuBOC~Y5X6CJCScIWxSHD2uzuHJVgiQed0F1dlCUBRj3YoHRspU5XWR7W0w-Tyfly7o4UQkieR0dESjLspg8aP5b3fweqQdYu2S5~ZKFTME1hvxejUB-WTashlvEVA3TDAV~PK9ydj1IqOOLIarmcy4rzhU7vPBJxSn2uYvje1W3iXhMWUioaVXfJ~AwXVeJLq7r3DAUbECMNJi6mW4w6aqVuWNHhl3Ww__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XLfMD3v/Red-HBO.png" group-title="Movies", Red by HBO
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MTAwOTMzNH19fV19&Signature=k9eCOY1ZPhuFPbwmFDcozWo03Fp84NwDClE~okGb6MhTbjmBhecq3ufYDadb46cltYbTsNkKbCXFjbRpCHNThuLGNfp279ej-QX2zEmDvK9LoO4owcQjwabjPcK84tgjvcau99c2Wj9mHUJaLZ0zjnllB6BQ8V0NEmCYsABH0eOhTcoUdnKJZjkc~hPPFtX-HJvpV4HqNuf2i279q9rFU1cHJCJcDlSd8COu2S1jbQrnRz7FF~pye2Qw2EaKz0FOIIOoGIFs-Urlmv2Ox72daD7qzc2YnBPKA-tyccnTicKge4Jurrj-YZEP0iR9kfBPLL1QCyRtvBww6x6n9taKsg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MTYxNDE0MX19fV19&Signature=PJgm7L3hyP2X9LHS1HBhLY9kaFF~jaGBjshAWMUCLyrkpvMlTxLy-zriiaN-3Ab2aMAZWXPtNkwtUHTuCs4ZeHvbF0yks19XMOXc4MitnHLPVagPNUfG5yuBOC~Y5X6CJCScIWxSHD2uzuHJVgiQed0F1dlCUBRj3YoHRspU5XWR7W0w-Tyfly7o4UQkieR0dESjLspg8aP5b3fweqQdYu2S5~ZKFTME1hvxejUB-WTashlvEVA3TDAV~PK9ydj1IqOOLIarmcy4rzhU7vPBJxSn2uYvje1W3iXhMWUioaVXfJ~AwXVeJLq7r3DAUbECMNJi6mW4w6aqVuWNHhl3Ww__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.imgur.com/54CRycL.png" group-title="Movies",FX
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18585
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yVNzVfb/Fox.png" group-title="Movies", FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yVNzVfb/Fox.png" group-title="Movies", FOX 2
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62255
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yVNzVfb/Fox.png" group-title="Movies", FOX LIFE
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18591
 EXTINF:-1 tvg-logo="https://i.ibb.co/yVNzVfb/Fox.png" group-title="Movies", FOX CRIME
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62254
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D1Ycnz4/Fox-Action-Movies.png" group-title="Movies", FOX Action Movies
 http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D1Ycnz4/Fox-Action-Movies.png" group-title="Movies", FOX Action Movies 2
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62250
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yRQxJrP/Fox-Movies.png" group-title="Movies", FOX Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=0ECF990E8CD52A7B0291E22C9844D0D59632CD55&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yRQxJrP/Fox-Movies.png" group-title="Movies", FOX Movies 1
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62251
 #EXTINF:-1 tvg-logo="http://gg.gg/fox-family-logo" group-title="Movies",Fox Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+#EXTINF:-1 tvg-logo="http://gg.gg/fox-family-logo" group-title="Movies",Fox Family Movies 2
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62253
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TkNSzyR/Blue-ant-Extreme.png" group-title="Movies", Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cDvsmsj/Blue-ant-entertainment.png" group-title="Movies", Blue Ant Entertainment
 http://210.210.155.35:80/session/64482514-73b6-11e9-aa69-b31e84bc1f0f/dr9445/h/h16/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XLfMD3v/Red-HBO.png" group-title="Movies", Red by HBO 1
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/10.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU4ODA3MTcwMH19fV19&Signature=bYEav8TE6LcpXlYemzDVEzTmpkmwOl5FkCLNhGBaOR-6oyvGF2HdF1oVODUwOuhe18K4Ra6vGqtUT212GrHrx1EsEuZ7sEO9fwExo7NZ1W0JrRvqog0pTYcQKzk6KQ1kU2Q0u1~f5OvR~EF~6fTGYlUTn6IF4SyG11BqpBGap9-RoMkUMrqkdn7HeASoy-WXO~41xHZKrKldTRPIdCrROBEe66gJ37ggUEDlOZPwsMPhO1U~CUWlSgiE9CSTjQTKt15J--KiEF7MZMRWLAYEL0yRAESX4v22uJfkBzCsdQR0o2MeiQy2qDzHQ5cRMyn-NrVj0LQ9LdV-ET78McrONQ__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="Movies",CELESTIAL MOVIES
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62276
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Movies",CINEMA WORLD
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62274
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="Movies",HBO Hits HD
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62173
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="Movies",HBO Family HD
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62172
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movies",HBO Signature HD
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62174
+#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/8f90074b9a37cc9f382566d31aa02071/gd/red-by-hbo.png" group-title="Movies",RED BY HBO
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62171
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/cinemax.jpg" group-title="Movies",Cinemax ID
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62170
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png" group-title="Movies",IMC
+https://vcdnjt.useetv.com/joss/14/imc/chunklist_w569228584_b684100_sleng_23992.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png" group-title="Movies",Dunia Lain
+https://vcdnjt.useetv.com/joss/14/dunialain/chunklist_w1967765240_b684100_sleng_1409.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="Movies",K+
+https://vcdnjt.useetv.com/joss/15/kplus/chunklist_w298237442_b684100_sleng_255964.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="Movies",K+ HD
+https://vcdnjt.useetv.com/joss/15/kplus/chunklist_w791475578_b1344100_sleng_90256.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png" group-title="Movies",SONY GEM
+https://vcdnjt.useetv.com/joss/15/sgem/chunklist_w401910324_b684100_sleng_256008.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="Movies", KIX
+https://vcdnjt.useetv.com/joss/15/kix/chunklist_w1419625362_b894100_sleng_471187.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="Movies", KIX HD
+https://cdnjt25.useetv.com/joss/15/kix/chunklist_w2010473624_b1344100_sleng_471141.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="Movies", TVN
+https://vcdnjt.useetv.com:443/joss/15/tvn/chunklist_w828994627_b684100_sleng_177560.m3u8?enc=TcG4UU24km1DkwOLcEXhrw&exp=1585294859&encp=AjtUSiMQ7BYCxKmni52bYg&expp=1585303559
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="Movies", TVN MOVIES
+https://vcdnjt.useetv.com:443/joss/15/tvnmovies/chunklist_w612648122_b684100_sleng_177560.m3u8?enc=d62mNPSchE55ElLUcfFpsg&exp=1585294888&encp=lCcniWIdC5U1JwXixDiTjw&expp=1585303588
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movies", THRILL
+https://vcdnjt.useetv.com/joss/14/thrill/chunklist_w822829107_b684100_sleng_67787.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movies", THRILL ID
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62189
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movies", WARNER TV
+https://vcdnjt.useetv.com/joss/15/warner/chunklist_w1318492207_b684100_sleng_355937.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movies", WARNER TV HD
+https://edgejt7.useetv.com/joss/15/warner/chunklist_w1042470190_b1344100_sleng_481557.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" group-title="Movies",ZEE BIOSKOP
+https://vcdnjt.useetv.com/joss/14/zbioskop/chunklist_w2085074683_b684100_sleng_63371.m3u8
 
 #Knowledge
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png" group-title="Knowledge",Animal Planet HD
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62299
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w6TsJqC/idku.png" group-title="Knowledge", ID ku
 https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1575560166~exp=9007200830301157~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_2/chunklist.m3u8*~hmac=726790f4481ebf1b4f1270a236084230ba8eef1af78b75e6dbbf3909612e4d42
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LYCKSX6/Ruang-Tampil.png" group-title="Knowledge",Ruang Terampil
@@ -267,17 +323,13 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/HnSx4dZy/2-FOX-SPORTS-3.png",FOXSPORT ASIA 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/astro1.png",ASTRO SPORTS 1
-http://198.16.106.58:8278/s_1365a3ea_1880/playlist.m3u8?tid=m08891566015815197848&ct=18381&tsum=61cc9942feaba30b7ab0a7552d56f55e
-#https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
+https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/astro2.png",ASTRO SPORTS 2
-http://198.16.106.58:8278/s_a1133d50_1928/playlist.m3u8?tid=m04975998805511307485&ct=18381&tsum=b3315022f8a4f0bdc4d1f845581bd8fe
-#https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
+https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/astro3.png",ASTRO SPORTS 3
-http://198.16.106.58:8278/s_f0a98bfa_1881/playlist.m3u8?tid=m04302180886113751475&ct=18381&tsum=80406962501d7dba55ae0715afec252b
-#https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
+https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/astro4.png",ASTRO SPORTS 4
-http://198.16.106.58:8278/s_6c4db083_1918/playlist.m3u8?tid=m07644713376818317800&ct=18381&tsum=1f883baf9245cdcc4e157b0b98459822
-#https://cdn-laos.workpoint.news/my-asp4_720/index.m3u8
+https://cdn-laos.workpoint.news/my-asp4_720/index.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/skynetsport.png",Skynetsport HD
 https://tv4.chang55.com:446/live2/tv4ch01.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png", SKYNETSPORTS 1
@@ -322,6 +374,235 @@ http://myott.tv/stream/D944FPT6C4U/234.m3u8
 http://myott.tv/stream/D944FPT6C4U/235.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.digitaltveurope.com/files/2014/10/Setanta-Sports-Eurasia-Logo1.png",Setanta Sport HD UA
 http://myott.tv/stream/D944FPT6C4U/313.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport 1 FHD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/5716
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport 1 HD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/370
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport 1 UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/369
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport 1 VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10751
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport 2 FHD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/5715
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport 2 HD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/368
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport 2 UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/367
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport 2 VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10749
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport 3 FHD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/5714
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport 3 HD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/366
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport 3 UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/365
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport 3 VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10748
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport ESPN HD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1743
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport ESPN UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1819
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport ESPN VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10750
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport Extra 1 UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1818
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport Extra 1 VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10752
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport Extra 2 UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1817
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport Extra 2 VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10741
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport Extra 3 UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1816
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sport Extra 3 VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10742
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sports 1 FHD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10878
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sports 1 HD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10813
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sports 2 FHD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10820
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sports 2 HD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10812
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sports 3 FHD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10877
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sports 3 HD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10811
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sports ESPN FHD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10876
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT Sports ESPN HD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10810
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN SPORTS 1 FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/417
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN SPORTS 1 SD+ FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/7538
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN SPORTS 1 HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/418
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN SPORTS 1 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4093
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN SPORTS 2 FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/415
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN SPORTS 2 HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/416
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN SPORTS 2 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4092
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN SPORTS 3 FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/413
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN SPORTS 3 HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/414
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN SPORTS 3 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4091
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN SPORTS MAX 4 HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4090
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN SPORTS MAX 4 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8932
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN SPORTS MAX 5 HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4089
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN SPORTS MAX 5 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8931
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN SPORTS MAX 6 HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4088
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN SPORTS MAX 6 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8930
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN SPORTS MAX 7 HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4087
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN SPORTS MAX 7 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8929
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN SPORTS MAX 8 FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/7536
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN SPORTS MAX 8 HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/7537
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN SPORTS MAX 8 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8907
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN SPORTS MAX 9 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8906
+#EXTINF:-1 tvg-logo="" group-title="Sports",beIN SPORTS MAX 10 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8905
+#EXTINF:-1 tvg-logo="" group-title="Sports",RMC SPORT 1 ACCESS HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/36875
+#EXTINF:-1 tvg-logo="" group-title="Sports",RMC SPORT 2 ACCESS HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/36876
+#EXTINF:-1 tvg-logo="" group-title="Sports",RMC SPORT 3 ACCESS HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/36877
+#EXTINF:-1 tvg-logo="" group-title="Sports",RMC Sport 1 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4086
+#EXTINF:-1 tvg-logo="" group-title="Sports",RMC Sport 2 HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1169
+#EXTINF:-1 tvg-logo="" group-title="Sports",RMC Sport 2 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4085
+#EXTINF:-1 tvg-logo="" group-title="Sports",RMC Sport 3 HD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1168
+#EXTINF:-1 tvg-logo="" group-title="Sports",RMC Sport 3 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4084
+#EXTINF:-1 tvg-logo="" group-title="Sports",RMC Sport 4 FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/4083
+#EXTINF:-1 tvg-logo="" group-title="Sports",RMC Sport News FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/16003
+#EXTINF:-1 tvg-logo="" group-title="Sports",RMC Sport News FHD FR
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1167
+#EXTINF:-1 tvg-logo="" group-title="Sports",eir Sport 1 UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1804
+#EXTINF:-1 tvg-logo="" group-title="Sports",Eir Sport 1 VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10717
+#EXTINF:-1 tvg-logo="" group-title="Sports",eir Sport 2 HD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1798
+#EXTINF:-1 tvg-logo="" group-title="Sports",eir Sport 2 UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1803
+#EXTINF:-1 tvg-logo="" group-title="SportsS",Eir Sport 2 VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10630
+#EXTINF:-1 tvg-logo="" group-title="Sports",Eurosport 1 FHD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10868
+#EXTINF:-1 tvg-logo="" group-title="Sports",Eurosport 1 HD UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/1812
+#EXTINF:-1 tvg-logo="" group-title="Sports",Eurosport 2 FHD VIP UK
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10867
+#EXTINF:-1 tvg-logo="" group-title="Sports",Eurosport 2 HD UK
+EXTINF:-1 tvg-logo="" group-title="USA SPORTS",UFC Fight Pass US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/6421
+#EXTINF:-1 tvg-logo="" group-title="Sports",UFC Fight Pass VIP US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10130
+#EXTINF:-1 tvg-logo="" group-title="Sports",WWE HD US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/562
+#EXTINF:-1 tvg-logo="" group-title="Sports",WWE HD VIP US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8966
+#EXTINF:-1 tvg-logo="" group-title="Sports",WWE Network FHD US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/7544
+#EXTINF:-1 tvg-logo="" group-title="Sports",WWE US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/7778
+#EXTINF:-1 tvg-logo="" group-title="Sports",Fox Sports 1 HD US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/553
+#EXTINF:-1 tvg-logo="" group-title="Sports",Fox Sports 1 HD VIP US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8996
+#EXTINF:-1 tvg-logo="" group-title="Sports",Fox Sports 1 US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/7786
+#EXTINF:-1 tvg-logo="" group-title="Sports",Fox Sports 2 FHD US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/554
+#EXTINF:-1 tvg-logo="" group-title="Sports",Fox Sports 2 HD US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/7759
+#EXTINF:-1 tvg-logo="" group-title="Sports",Fox Sports 2 HD VIP US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/8995
+#EXTINF:-1 tvg-logo="" group-title="Sports",NBA HD US
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/533
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sport1 HD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9271
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sport1 FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/3847
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sport1+ FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9342
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sport1+ HD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/74999
+#EXTINF:-1 tvg-logo="" group-title="Sports",eSport1 US HD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9336
+#EXTINF:-1 tvg-logo="" group-title="Sports",SportDigital HD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/3187
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sportdigital FHD DE
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/9343
+#EXTINF:-1 tvg-logo="" group-title="Sports",Arena Sport 1 Srb ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/2284
+#EXTINF:-1 tvg-logo="" group-title="Sports",Arena Sport 2 Srb ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/2283
+#EXTINF:-1 tvg-logo="" group-title="Sports",Arena Sport 3 Srb ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/2282
+#EXTINF:-1 tvg-logo="" group-title="Sports",Arena Sport 4 Srb ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/2281
+#EXTINF:-1 tvg-logo="" group-title="Sports",Arena Sport 5 Srb ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/2280
+#EXTINF:-1 tvg-logo="" group-title="Sports",Arena Sport 1 HR HD ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/589
+#EXTINF:-1 tvg-logo="" group-title="Sports",Arena Sport 2 HR HD ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/588
+#EXTINF:-1 tvg-logo="" group-title="Sports",Arena Sport 3 HR HD ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/587
+#EXTINF:-1 tvg-logo="" group-title="Sports",Arena Sport 4 HR HD ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/586
+#EXTINF:-1 tvg-logo="" group-title="Sports",Arena Sport 5 HR HD ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/585
+#EXTINF:-1 tvg-logo="" group-title="Sports",Moja TV Sport HD VIP ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/67260
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sport Klub 1 HD VIP ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/13966
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sport Klub 1 SRB ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/592
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sport Klub HD 1 Srb ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/2279
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sport Klub 1 FHD VIP ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10900
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sport Klub 2 SRB ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/591
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sport Klub HD 2 Srb ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/2278
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sport Klub 2 HD VIP ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10896
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sport Klub 2 FHD SRB/HRV/SLO VIP ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10884
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sport Klub 3 SRB ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/590
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sport Klub HD 3 Srb ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/2277
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sport Klub 3 HD VIP ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10897
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sport Klub 3 FHD SRB/HRV/SLO VIP ex-Yu
+http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/10883
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G0yDpr7/Egg-Network.png" group-title="Sports",Egg Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
