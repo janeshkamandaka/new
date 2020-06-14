@@ -6,11 +6,21 @@ http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62214
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62199
 #EXTINF:0 tvg-logo="https://imgur.com/hAkcBVR.png" group-title="Local", GLOBAL TV
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/62243
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rcti_id.png" group-title="Local",RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtv-id.png" group-title="Local",Global TV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc_id_tv.png" group-title="Local",MNC TV
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hjiDeK/inewslogo.png" group-title="Local",iNEWS
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sy3qdRJ/Trans-tv.png" group-title="Local", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sy3qdRJ/Trans-tv.png" group-title="Local", TRANS TV 2
-https://cdn-livetv1.metube.id/hls/transtv_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NKyZS1J/Trans-7.png" group-title="Local", TRANS7
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="Local",TRANSTV 2
+https://cdnbdsa1.useetv.com/joss/15/transtv/chunklist_w1034088746_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="Local",TRANS7
+https://cdnjt25.useetv.com/joss/15/trans7/chunklist_w90252140_b894100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NKyZS1J/Trans-7.png" group-title="Local", TRANS7 2
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w464718372_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NKyZS1J/Trans-7.png" group-title="Local", TRANS7 2
 https://cdn-livetv1.metube.id/hls/trans7_480/index.m3u8
@@ -40,10 +50,8 @@ https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w846671788_b894100_sleng.m3u8?
 https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w1268972582_b894100_sleng.m3u8?H18QQgtpnaBG-Xbbe9nBkw1577414615
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Local", Tv One
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Local", Tv One 4
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yYvqv0W/tvone.png" group-title="Local", Tv One 5
-https://dl.dropbox.com/s/ksehsscg2bm0p1o/TVONEhooq.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Local",ANTV
+https://cdnbpp1.useetv.com/joss/15/antv/chunklist_w226638633_b894100_sleng_87965.m3u8
 #EXTINF:-1 group-title="Local",ANTV 1
 https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1504398086_b894100_sleng.m3u8?-W1Ha1bGpzWLODGE8OGDSg1582824826
 #EXTINF:-1 group-title="Local",ANTV 2
@@ -152,18 +160,18 @@ https://dl.dropboxusercontent.com/s/ckq9svw348mvnwy/WARNERTV.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movies",WARNER
 https://vcdnjt.useetv.com/joss/15/warner/chunklist_w462988346_b1344100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qk0DF8z/hbo.png" group-title="Movies", HBO
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MTYxNDE0MX19fV19&Signature=PJgm7L3hyP2X9LHS1HBhLY9kaFF~jaGBjshAWMUCLyrkpvMlTxLy-zriiaN-3Ab2aMAZWXPtNkwtUHTuCs4ZeHvbF0yks19XMOXc4MitnHLPVagPNUfG5yuBOC~Y5X6CJCScIWxSHD2uzuHJVgiQed0F1dlCUBRj3YoHRspU5XWR7W0w-Tyfly7o4UQkieR0dESjLspg8aP5b3fweqQdYu2S5~ZKFTME1hvxejUB-WTashlvEVA3TDAV~PK9ydj1IqOOLIarmcy4rzhU7vPBJxSn2uYvje1W3iXhMWUioaVXfJ~AwXVeJLq7r3DAUbECMNJi6mW4w6aqVuWNHhl3Ww__&Key-Pair-Id=APKAJFBTWETXLROKW43A
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tD7TNy/hbo-hits.png" group-title="Movies", HBO Hits
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MTYxNDE0MX19fV19&Signature=PJgm7L3hyP2X9LHS1HBhLY9kaFF~jaGBjshAWMUCLyrkpvMlTxLy-zriiaN-3Ab2aMAZWXPtNkwtUHTuCs4ZeHvbF0yks19XMOXc4MitnHLPVagPNUfG5yuBOC~Y5X6CJCScIWxSHD2uzuHJVgiQed0F1dlCUBRj3YoHRspU5XWR7W0w-Tyfly7o4UQkieR0dESjLspg8aP5b3fweqQdYu2S5~ZKFTME1hvxejUB-WTashlvEVA3TDAV~PK9ydj1IqOOLIarmcy4rzhU7vPBJxSn2uYvje1W3iXhMWUioaVXfJ~AwXVeJLq7r3DAUbECMNJi6mW4w6aqVuWNHhl3Ww__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MjIxODk0OH19fV19&Signature=FRfMOz6lHYvA~-cMJHz8ZeSzYSSFdd9khgvBQxqwkLw88ewnzcygPAsJtH5ElYB5sN1Zx3I9k1xIzHIItq1BFZApwDlgk8E8usUOzBAxtDqRoFntriMEcfJAMrsaEEgt-8su2~lM9L7mqN7Ebh2EvjK~zbwhk4JEBDtnfkayi0W0D3eGYQGfbO23hlqztqh8rnrtdnngtvjYGnkvp0idJdCK84eVxnbDp7Z6vZr7uLh9vZkcVAgZQXxwnsR4wK50vFs0bZLfj6vBF0RY1JkGj6SaL1Rs2A0IBSygWjN1WSwAogAjKukL7s6oMRrHVl8b1JV5POlwRkAwQJZ4Y9666Q__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SJZfnHB/HBO-Signature-Asia.png" group-title="Movies", HBO Signature
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MTYxNDE0MX19fV19&Signature=PJgm7L3hyP2X9LHS1HBhLY9kaFF~jaGBjshAWMUCLyrkpvMlTxLy-zriiaN-3Ab2aMAZWXPtNkwtUHTuCs4ZeHvbF0yks19XMOXc4MitnHLPVagPNUfG5yuBOC~Y5X6CJCScIWxSHD2uzuHJVgiQed0F1dlCUBRj3YoHRspU5XWR7W0w-Tyfly7o4UQkieR0dESjLspg8aP5b3fweqQdYu2S5~ZKFTME1hvxejUB-WTashlvEVA3TDAV~PK9ydj1IqOOLIarmcy4rzhU7vPBJxSn2uYvje1W3iXhMWUioaVXfJ~AwXVeJLq7r3DAUbECMNJi6mW4w6aqVuWNHhl3Ww__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MjIxODk0OH19fV19&Signature=FRfMOz6lHYvA~-cMJHz8ZeSzYSSFdd9khgvBQxqwkLw88ewnzcygPAsJtH5ElYB5sN1Zx3I9k1xIzHIItq1BFZApwDlgk8E8usUOzBAxtDqRoFntriMEcfJAMrsaEEgt-8su2~lM9L7mqN7Ebh2EvjK~zbwhk4JEBDtnfkayi0W0D3eGYQGfbO23hlqztqh8rnrtdnngtvjYGnkvp0idJdCK84eVxnbDp7Z6vZr7uLh9vZkcVAgZQXxwnsR4wK50vFs0bZLfj6vBF0RY1JkGj6SaL1Rs2A0IBSygWjN1WSwAogAjKukL7s6oMRrHVl8b1JV5POlwRkAwQJZ4Y9666Q__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pxtLMDC/HBO-Family-logo.png" group-title="Movies", HBO Family
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MTYxNDE0MX19fV19&Signature=PJgm7L3hyP2X9LHS1HBhLY9kaFF~jaGBjshAWMUCLyrkpvMlTxLy-zriiaN-3Ab2aMAZWXPtNkwtUHTuCs4ZeHvbF0yks19XMOXc4MitnHLPVagPNUfG5yuBOC~Y5X6CJCScIWxSHD2uzuHJVgiQed0F1dlCUBRj3YoHRspU5XWR7W0w-Tyfly7o4UQkieR0dESjLspg8aP5b3fweqQdYu2S5~ZKFTME1hvxejUB-WTashlvEVA3TDAV~PK9ydj1IqOOLIarmcy4rzhU7vPBJxSn2uYvje1W3iXhMWUioaVXfJ~AwXVeJLq7r3DAUbECMNJi6mW4w6aqVuWNHhl3Ww__&Key-Pair-Id=APKAJFBTWETXLROKW43A
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M8MX7F5/Cinemax.png" group-title="Movies", Cinemax
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MTYxNDE0MX19fV19&Signature=PJgm7L3hyP2X9LHS1HBhLY9kaFF~jaGBjshAWMUCLyrkpvMlTxLy-zriiaN-3Ab2aMAZWXPtNkwtUHTuCs4ZeHvbF0yks19XMOXc4MitnHLPVagPNUfG5yuBOC~Y5X6CJCScIWxSHD2uzuHJVgiQed0F1dlCUBRj3YoHRspU5XWR7W0w-Tyfly7o4UQkieR0dESjLspg8aP5b3fweqQdYu2S5~ZKFTME1hvxejUB-WTashlvEVA3TDAV~PK9ydj1IqOOLIarmcy4rzhU7vPBJxSn2uYvje1W3iXhMWUioaVXfJ~AwXVeJLq7r3DAUbECMNJi6mW4w6aqVuWNHhl3Ww__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MjIxODk0OH19fV19&Signature=FRfMOz6lHYvA~-cMJHz8ZeSzYSSFdd9khgvBQxqwkLw88ewnzcygPAsJtH5ElYB5sN1Zx3I9k1xIzHIItq1BFZApwDlgk8E8usUOzBAxtDqRoFntriMEcfJAMrsaEEgt-8su2~lM9L7mqN7Ebh2EvjK~zbwhk4JEBDtnfkayi0W0D3eGYQGfbO23hlqztqh8rnrtdnngtvjYGnkvp0idJdCK84eVxnbDp7Z6vZr7uLh9vZkcVAgZQXxwnsR4wK50vFs0bZLfj6vBF0RY1JkGj6SaL1Rs2A0IBSygWjN1WSwAogAjKukL7s6oMRrHVl8b1JV5POlwRkAwQJZ4Y9666Q__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pxtLMDC/HBO-Family-logo.png" group-title="Movies", HBO HITS
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MjIxODk0OH19fV19&Signature=FRfMOz6lHYvA~-cMJHz8ZeSzYSSFdd9khgvBQxqwkLw88ewnzcygPAsJtH5ElYB5sN1Zx3I9k1xIzHIItq1BFZApwDlgk8E8usUOzBAxtDqRoFntriMEcfJAMrsaEEgt-8su2~lM9L7mqN7Ebh2EvjK~zbwhk4JEBDtnfkayi0W0D3eGYQGfbO23hlqztqh8rnrtdnngtvjYGnkvp0idJdCK84eVxnbDp7Z6vZr7uLh9vZkcVAgZQXxwnsR4wK50vFs0bZLfj6vBF0RY1JkGj6SaL1Rs2A0IBSygWjN1WSwAogAjKukL7s6oMRrHVl8b1JV5POlwRkAwQJZ4Y9666Q__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XLfMD3v/Red-HBO.png" group-title="Movies", Red by HBO
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MTYxNDE0MX19fV19&Signature=PJgm7L3hyP2X9LHS1HBhLY9kaFF~jaGBjshAWMUCLyrkpvMlTxLy-zriiaN-3Ab2aMAZWXPtNkwtUHTuCs4ZeHvbF0yks19XMOXc4MitnHLPVagPNUfG5yuBOC~Y5X6CJCScIWxSHD2uzuHJVgiQed0F1dlCUBRj3YoHRspU5XWR7W0w-Tyfly7o4UQkieR0dESjLspg8aP5b3fweqQdYu2S5~ZKFTME1hvxejUB-WTashlvEVA3TDAV~PK9ydj1IqOOLIarmcy4rzhU7vPBJxSn2uYvje1W3iXhMWUioaVXfJ~AwXVeJLq7r3DAUbECMNJi6mW4w6aqVuWNHhl3Ww__&Key-Pair-Id=APKAJFBTWETXLROKW43A
-#EXTINF:-1 tvg-logo="https://i.imgur.com/54CRycL.png" group-title="Movies",FX
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MjIxODk0OH19fV19&Signature=FRfMOz6lHYvA~-cMJHz8ZeSzYSSFdd9khgvBQxqwkLw88ewnzcygPAsJtH5ElYB5sN1Zx3I9k1xIzHIItq1BFZApwDlgk8E8usUOzBAxtDqRoFntriMEcfJAMrsaEEgt-8su2~lM9L7mqN7Ebh2EvjK~zbwhk4JEBDtnfkayi0W0D3eGYQGfbO23hlqztqh8rnrtdnngtvjYGnkvp0idJdCK84eVxnbDp7Z6vZr7uLh9vZkcVAgZQXxwnsR4wK50vFs0bZLfj6vBF0RY1JkGj6SaL1Rs2A0IBSygWjN1WSwAogAjKukL7s6oMRrHVl8b1JV5POlwRkAwQJZ4Y9666Q__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M8MX7F5/Cinemax.png" group-title="Movies", Cinemax
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5MjIxODk0OH19fV19&Signature=FRfMOz6lHYvA~-cMJHz8ZeSzYSSFdd9khgvBQxqwkLw88ewnzcygPAsJtH5ElYB5sN1Zx3I9k1xIzHIItq1BFZApwDlgk8E8usUOzBAxtDqRoFntriMEcfJAMrsaEEgt-8su2~lM9L7mqN7Ebh2EvjK~zbwhk4JEBDtnfkayi0W0D3eGYQGfbO23hlqztqh8rnrtdnngtvjYGnkvp0idJdCK84eVxnbDp7Z6vZr7uLh9vZkcVAgZQXxwnsR4wK50vFs0bZLfj6vBF0RY1JkGj6SaL1Rs2A0IBSygWjN1WSwAogAjKukL7s6oMRrHVl8b1JV5POlwRkAwQJZ4Y9666Q__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+EXTINF:-1 tvg-logo="https://i.imgur.com/54CRycL.png" group-title="Movies",FX
 http://portal.geniptv.com:8080/aqkhs7rb/aYZ5Wkq6hv/18585
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yVNzVfb/Fox.png" group-title="Movies", FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
