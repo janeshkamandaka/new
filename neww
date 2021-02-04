@@ -42,7 +42,10 @@ https://liveanevia.mncnow.id/live/eds/TVRI/sa_dash_vmx/TVRI.mpd
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180613/vgb/kisspng-kompas-tv-television-indonesia-news-kompas-5b21b8903a7af9.3752705015289365922396.jpg" group-title="LOKAL",KOMPAS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-https://liveanevia114.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+https://anevia114.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#EXTINF:-1, tvg-logo="https://icon2.cleanpng.com/20180613/vgb/kisspng-kompas-tv-television-indonesia-news-kompas-5b21b8903a7af9.3752705015289365922396.jpg" group-title="LOKAL", KOMPAS TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png" group-title="LOKAL", Metro TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -84,7 +87,9 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-m
 #EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428081_ico.png" group-title="KIDS",ANIMAX
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-id="Mim.Asia" tvg-logo="https://www.mewatch.sg/blob/12295542/7cbb9cb1e909e0ba2230d2aebcefba7e/ico-miaomi-v2-data.png" group-title="KIDS",MIAOMI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://www.mewatch.sg/blob/12295542/7cbb9cb1e909e0ba2230d2aebcefba7e/ico-miaomi-v2-data.png" group-title="KIDS",MIAOMI
 https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -97,9 +102,10 @@ https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mp
 #EXTINF:-1 tvg-ID=".ID" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="KIDS",CARTOON NETWORK
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428084_ico.png" group-title="KIDS",Disney Jr
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID=DSJ.ID tvg-logo=https://www.appcreator24.com/srv/imgs/seccs/9428084_ico.png group-title=KIDS,DISNEY JR
 https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_dash_vmx/DisneyJunior.mpd
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/shYYVk8.png",Boomerang
@@ -248,9 +254,6 @@ https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
 
 #EXTINF:0 tvg-id="ext" group-title="SPORTS",Sport TV 1
-http://78.129.228.178/iptv/W28DYVFET2WZ2Z/2525/index.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="SPORTS",Sport TV 1
 http://77.54.145.209:81/play/a02v
 
 #EXTINF:0 tvg-id="ext" group-title="SPORTS",Sport TV 1
@@ -276,6 +279,30 @@ https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="SPORTS",Sport TV 5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SETANTA SPORTS 1
+http://ott-cdn.ucom.am/s81/03.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",SETANTA SPORTS 2
+http://ott-cdn.ucom.am/s82/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_1_hd.png" group-title="SPORTS",COSMOTE SPORT 1
+http://185.132.177.110:8080/COSMOTESport1HD/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_2_hd.png" group-title="SPORTS",COSMOTE SPORT  2
+http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cosmote_gr_sport_3_hd.png" group-title="SPORTS",COSMOTE SPORT 3
+http://185.132.177.110:8080/COSMOTESport3HD/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="SPORTS",Матч! Футбол 1 HD
+https://chostv.mobie.in/choos/sports/matchqy1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="SPORTS",Матч! Футбол 2 HD
+https://chostv.mobie.in/choos/sports/matchqy2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="SPORTS",Матч! Футбол 3 HD
+https://chostv.mobie.in/choos/sports/matchqy3.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -336,15 +363,21 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 
-#EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="KNOWLEDGE",Nat Geo Wild
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="KNOWLEDGE",Nat Geo Wild
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:-1 tvg-id="NGP.US" tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" group-title="KNOWLEDGE",Nat Geo People
-https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
-
-#EXTINF:-1 tvg-ID="Bbw.News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="BERITA",BBC World News
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="KNOWLEDGE",BBC World News
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
-#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="BERITA",CNN International 
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="KNOWLEDGE",CNN International 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+
+
 
