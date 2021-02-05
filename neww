@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="ANT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428066_ico.png" group-title="LOKAL",ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.imgur.com/hHwEkPx.png",ANTV BACKUP
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428066_ico.png",ANTV BACKUP
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/9076
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -59,6 +59,9 @@ http://wz.insantv.net/monitor/ch113.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="LOKAL",Net Tv
+https://a.ott.my.id:443/indi/net.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxMUNiODZCaytyTDhKOGtheVlwVEhicUJNcExzYkNKYXl4eks4V2Ryb2wzVA==
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -203,20 +206,11 @@ https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
 #EXTINF:-1 tvg-name="304" tvg-id="HIM.MY" tvg-logo="https://i.imgur.com/twMKgz9.png" group-title="MOVIES",FOX MOVIES
 http://93.190.139.34:8278/streams/d/Foxmovie/playlist.m3u8
 
-#EXTINF:-1 tvg-name="304" tvg-id="HIM.MY" tvg-logo="https://i.imgur.com/twMKgz9.png" group-title="MOVIES",FOX MOVIES BACKUP
-http://185.238.0.145:1313/c/ku/foxmovies.m3u8
-
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/twMKgz9.png",FOX ID
 http://93.190.139.34:8278/streams/d/Foxhd/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/OFJEy6g.png",FOX Family Movies
-http://185.238.0.145:1313/c/ku/foxfamilymovies.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/MOhRrGA.png",FOX Life HD
-http://185.238.0.145:1313/c/ku/foxlife.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/QA5aWLU.png",FOX Action Movies
-http://185.238.0.145:1313/c/ku/foxactionmovies.m3u8
+http://93.190.139.34:8278/streams/d/Foxfamily/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png",HBO 
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
@@ -342,18 +336,10 @@ http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png",AstroSport4
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/arena.png" group-title="Sports",AstroArena
+#EXTINF:-1 group-title="SPORTS" tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/arena.png" group-title="SPORTS",AstroArena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png",ASTRO SUPERSPORT 1
-http://185.238.0.145:1313/c/g/astrosupersoprt.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png",ASTRO SUPERSPORT 2
-http://185.238.0.145:1313/c/g/astrosupersoprt2.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png",ASTRO SUPERSPORT 3
-http://185.238.0.145:1313/c/g/astrosupersoprt3.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png",ASTRO SUPERSPORT 4
-http://185.238.0.145:1313/c/g/astrosupersoprt4.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png",NBCSN
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png",NBCSN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
 
 #EXTINF:0 tvg-id="ext" group-title="SPORTS",ZQ Sport
@@ -482,21 +468,6 @@ https://chostv.mobie.in/choos/sports/matchqy2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="SPORTS",Матч! Футбол 3 HD
 https://chostv.mobie.in/choos/sports/matchqy3.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/BXnUONl.png",Беларусь5HD
-http://myott.tv/stream/D944FPT6C4U/33.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/BXnUONl.png",МатчПремьерHD
-http://myott.tv/stream/D944FPT6C4U/193.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/BXnUONl.png",Матч!Футбол1HD
-http://myott.tv/stream/D944FPT6C4U/130.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/BXnUONl.png",Матч!Футбол2HD
-http://myott.tv/stream/D944FPT6C4U/142.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/BXnUONl.png",Матч!Футбол3HD
-http://myott.tv/stream/D944FPT6C4U/185.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-name="305" tvg-id="CHV.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428309_ico.png" group-title="Malaysia",CHANNEL V
@@ -538,6 +509,9 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-ID="DIS.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428142_ico.png" group-title="KNOWLEDGE",DISCOVERY
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428142_ico.png" group-title="KNOWLEDGE",DISCOVERY ASIA
+http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/29
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
