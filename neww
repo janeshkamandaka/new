@@ -29,10 +29,16 @@ https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 #EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="LOKAL",SCTV BACKUP
 http://185.238.0.145:1313/c/a/sctv-sd.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title=" group-title="LOKAL",SCTV BACKUP 2
+https://a.ott.my.id:443/indi/sctv.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxMUNiODZCaytyTDhKOGtheVlwVEhicUJNcExzYkNKYXl4eks4V2Ryb2wzVA==
+
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/indosiar.png" group-title="LOKAL",INDOSIAR 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.transvision.co.id/img/channel/indosiar.png" group-title="LOKAL",Indosiar 
+https://a.ott.my.id:443/indi/indosiar.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxMUNiODZCaytyTDhKOGtheVlwVEhicUJNcExzYkNKYXl4eks4V2Ryb2wzVA==
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="LOKAL",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -43,6 +49,9 @@ https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/TVRI/sa_dash_vmx/TVRI.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.google.com/imgres?imgurl=http%3A%2F%2Fencyclopedia.jakarta-tourism.go.id%2Ffile%2Fgallery%2F7351%2F810f57ebcd207b20c689bd23f88294f50d97c5f5.jpg&imgrefurl=http%3A%2F%2Fencyclopedia.jakarta-tourism.go.id%2Fpost%2Fjaktv--lain-lain%3Flang%3Did&tbnid=5RMyUpk1VtsZrM&vet=10CAMQxiAoAGoXChMIgOm9s-bR7gIVAAAAAB0AAAAAEAY..i&docid=QvhNdLVTmckiFM&w=784&h=460&itg=1&q=JakTv&safe=strict&client=firefox-b-d&ved=0CAMQxiAoAGoXChMIgOm9s-bR7gIVAAAAAB0AAAAAEAY" group-title="LOKAL",JakTv
+https://a.ott.my.id:443/indi/jaktv.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxMUNiODZCaytyTDhKOGtheVlwVEhicUJNcExzYkNKYXl4eks4V2Ryb2wzVA==
 
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180613/vgb/kisspng-kompas-tv-television-indonesia-news-kompas-5b21b8903a7af9.3752705015289365922396.jpg" group-title="LOKAL",KOMPAS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -68,10 +77,16 @@ https://a.ott.my.id:443/indi/net.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxMUNiODZC
 #EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428234_ico.png" group-title="LOKAL",TRANS TV
 https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="LOKAL",TransTv
+https://a.ott.my.id:443/indi/transtv.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxMUNiODZCaytyTDhKOGtheVlwVEhicUJNcExzYkNKYXl4eks4V2Ryb2wzVA==
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="TR7.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428233_ico.png" group-title="LOKAL",TRANS 7
 https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428233_ico.png" group-title="LOKAL",TRANS 7 BACKUP
+https://a.ott.my.id:443/indi/trans7.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxMUNiODZCaytyTDhKOGtheVlwVEhicUJNcExzYkNKYXl4eks4V2Ryb2wzVA==
 
 #EXTINF:-1 group-title="Asia" tvg-logo="https://i.imgur.com/0zHJS7l.png",group-title="LOKAL",TV One
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -509,10 +524,6 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-ID="DIS.US" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428142_ico.png" group-title="KNOWLEDGE",DISCOVERY
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
-
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428142_ico.png" group-title="KNOWLEDGE",DISCOVERY ASIA
-http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/29
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
