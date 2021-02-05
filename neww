@@ -29,9 +29,6 @@ https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 #EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="LOKAL",SCTV BACKUP
 http://185.238.0.145:1313/c/a/sctv-sd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title=" group-title="LOKAL",SCTV BACKUP 2
-https://a.ott.my.id:443/indi/sctv.m3u8?token=eFF1cUppSklTWEhlcTVFdThUVkVxMUNiODZCaytyTDhKOGtheVlwVEhicUJNcExzYkNKYXl4eks4V2Ryb2wzVA==
-
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/indosiar.png" group-title="LOKAL",INDOSIAR 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
