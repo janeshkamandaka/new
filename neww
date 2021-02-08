@@ -354,7 +354,7 @@ https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovie
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-ID="FX" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png", FX
-https://anevia114.mncnow.id/live/eds/FX/sa_dash_vmx/FX.mpd
+https://liveanevia.mncnow.id/live/eds/FX/sa_dash_vmx/FX.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png",HBO 
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
@@ -759,18 +759,193 @@ https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternatio
 #EXTINF:-1 tvg-ID="NWP.JP" tvg-logo="https://nhkworldpremium.com/img/common/logo.png" group-title="KNOWLEDGE",NHK World Japan Premium 
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/04/Music_TV_%282020%29.png" grup-title="MUSIC",Music TV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" grup-title="MUSIC,Channel V
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/The_mummy.jpg" group-title="VOD BARAT",THE MUMMY
+https://www.googleapis.com/drive/v3/files/1iDIh3K7U9-OAPgrhjqm7UDBn5lCLbbwL?alt=media&key=AIzaSyDKk0lFQT69yWc0e0rJRouxJcSj7OsmWjc
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/MI_%E2%80%93_Fallout.jpg" group-title="VOD BARAT",Mission Impossible: Fallout
+http://srv28.nf21.net:80/files/15-2019-03-17-5e6453922248470c10be803fc6fbaca5.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Extinction.png" group-title="VOD BARAT",Extinction
+http://srv18.nf21.net:80/files/10-2018-08-02-622532ab81187c58e0b416cdb1e4eb4e.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTNjMGMxN2QtZTFkNC00MDhjLWI0ZDQtM2I5YzMxZmQxOGFiXkEyXkFqcGdeQXVyMzE2ODIxNA@@._V1_.jpg" group-title="VOD BARAT",Atlantic Rim: Resurrection 
+http://srv28.nf21.net:80/files/15-2019-02-13-3a0f53dc85236110bfb6ac9a2ce39c91.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Swordfish_movie.jpg" group-title="VOD BARAT",Swordfish
+http://srv11.nf21.net/files/14-2018-07-01-7cac6cb8081425b4596b478d9b594aca.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Skyscraper_%282018%29_film_poster.png" group-title="VOD BARAT",Skyscraper 
+http://srv22.nf21.net:80/files/10-2018-10-27-3639bebebbcb9d7b82747ac94911e8fb.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/8m4rIEstsOV3uEtussUsejbg1id.jpg" group-title="VOD BARAT",Mountain King
+https://www.dropbox.com/s/6vs7vxjsgd3iibh/wild.king.2020.mkv?dl=1
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJiNzExYjgtYWY5Yy00MGIyLWFjM2MtMzZmYTIyZWFiNGVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="VOD BARAT",Disturbing the Peace
+https://www.googleapis.com/drive/v3/files/1HPtYkaa0sE-WmyzZS3YJdc4EYJI6C4H1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f9/Spider-Man_Homecoming_poster.jpg" group-title="VOD BARAT",Spider-Man: Homecoming
+https://cdn.zaccar.ru//movies/MCU/16-Spider-Man%20Homecoming%20(2017)%20%5BBluRay%5D%20%5B720p%5D%20%5BYTS.LT%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ab/16/85/ab16850d88d1b93369014ad9d4cdd6af.jpg" group-title="VOD BARAT",Rambo: Last Blood
+https://cdn.zaccar.ru//movies/12-03-2019/rambo.last.blood.2019.1080p.bluray.x264-yts.lt.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Bloodshot_-_official_film_poster.jpeg" group-title="VOD BARAT",Rambo: Bloodshot
+https://www.dropbox.com/s/zivk90uakhkpeiy/Bloodshot.2020.720p.WEBDL.x264.GalaxyRG.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/Captain_America_The_First_Avenger_poster.jpg" group-title="VOD BARAT",Captain America: The First Avenger
+https://cdn.zaccar.ru//movies/MCU/02-Captain%20America%20The%20First%20Avenger%20(2011)%20%5BBluRay%5D%20%5B720p%5D%20%5BYTS.LT%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Captain_America_The_Winter_Soldier_poster.jpg" group-title="VOD BARAT",Captain America: The Winter Soldier
+https://cdn.zaccar.ru//movies/MCU/11-Captain%20America%20The%20Winter%20Soldier%20(2014)%20%5BBluRay%5D%20%5B720p%5D%20%5BYTS.LT%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_.jpg" group-title="VOD BARAT",Captain America: Civil War
+https://cdn.zaccar.ru//movies/MCU/14-Captain%20America%20Civil%20War%20(2016)%20%5BBluRay%5D%20%5B720p%5D%20%5BYTS.LT%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Charlie%27s_Angels_%28Official_2019_Film_Poster%29.png" group-title="VOD BARAT",Charlie’s Angels
+https://cdn.zaccar.ru//movies/01-10-2020/Charlies.Angel.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/812cwNk1YIL._SL1500_.jpg" group-title="VOD BARAT",Fast & Furious Presents: Hobbs & Shaw 
+https://www.dropbox.com/s/k4qimz4r99ab1kg/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.720p.Bluray-PusatFilm21.com.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg" group-title="VOD BARAT",Avengers: Endgame
+https://www.dropbox.com/s/va1yu037yjpq80r/Avengers.Endgame.2019.720p.Bluray-PusatFilm21.com.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Bad_Boys_for_Life_poster.jpg" group-title="VOD BARAT",Bad Boys For Life
+https://www.dropbox.com/s/z9hfde6gtr7amsr/Bad%20Boys%20for%20Life%202020.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/20cs_xmen_dark_phoenix_poster-keyart_2de4ace2.jpeg" group-title="VOD BARAT",Dark Phoenix
+https://www.dropbox.com/s/bckz0xk59nndoyh/X.Men.Dark.Phoenix.2019.720p.Bluray-PusatFilm21.com.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://d2j05qp2jb3mfw.cloudfront.net/film-artwork/5650/_filmArtworkLarge/Elsewhere_Comp25.jpg?mtime=20191009180655&focal=none&tmtime=20201106231446" group-title="VOD BARAT",Elsewhere
+https://www.dropbox.com/s/k2dn9cqnp2pgm48/Elsewhere%20%282019%29.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Conjuring_2.jpg/220px-Conjuring_2.jpg" group-title="VOD BARAT",THE CONJURING 2
+https://www.googleapis.com/drive/v3/files/1f5YFCHuFFFiVIHrqF2Jp-cmRh6bW2SYP?alt=media&key=AIzaSyBzLcrOuNX5ztVspTiSnCrboTal8XUA4O8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91P1wWqX63L._SL1500_.jpg" group-title="VOD BARAT",THOR
+https://cdn.zaccar.ru//movies/MCU/06-Thor%20(2011)%20%5BBluRay%5D%20%5B720p%5D%20%5BYTS.LT%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Eclipse_Theatrical_One-Sheet.jpg" group-title="VOD BARAT",ECLIPSE 
+https://lh3.googleusercontent.com/-g8REJ-ZF-m-oeQaLKzTOb_0vbfgTB63y-T3iMHfMaulmMjHkIXQ6Ui0iZc5Tkl_ze1-OgNb-ZP23iFTEQ=m22
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDY0NDk5Y2YtN2FkNi00OTQ5LTg0YmMtY2QyOTQ3YWJkNWVhXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg" group-title="VOD BARAT",Final Kill
+https://www.dropbox.com/s/7c8mzu4hxuyjua3/Final%20Kill.mkv?dl=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f8/Bodyguard_Ugal-ugalan.jpg" group-title="VOD INDO",Bodyguard Ugal-Ugalan
+http://srv24.nf21.net:80/files/11-2018-11-09-4d0f5e263c6bc227c1b23c5145c32713.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY4NjEyOTktNDhkNC00NWI3LWE0NDMtODcxNDBlZDgwMDI4XkEyXkFqcGdeQXVyNjI3MDYxMjg@._V1_.jpg" group-title="VOD INDO",INSYA ALLAH SAH 2
+http://srv24.nf21.net:80/files/10-2018-11-04-dcbe1927ad12c18b3d39efe1e310b3b5.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg4YTE5ZjAtZWEwNi00ZTg0LThiYTYtYWVlZTdhOGZkYTg0XkEyXkFqcGdeQXVyNzkzODk2Mzc@._V1_.jpg" group-title="VOD INDO",Arini
+http://srv19.nf21.net:80/files/15-2018-08-19-4e022676b9971cfac33a65d84288c01d.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM5MjFhYmYtMzIwYy00YWMzLWJlODYtM2ZhYTBjMGJjZTlhXkEyXkFqcGdeQXVyNzkzODk2Mzc@._V1_.jpg" group-title="VOD INDO",Benyamin Biang Kerok
+http://srv19.nf21.net:80/files/15-2018-08-14-2a88269fa86b8dab2575101a66eb0732.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzJlZmY0NDEtODljOC00YWU0LWI0ZmQtYmFjZDQ4ZDExYzc3XkEyXkFqcGdeQXVyNzkzODk2Mzc@._V1_.jpg" group-title="VOD INDO",Terbang: Menembus Langit
+http://srv28.nf21.net:80/files/11-2019-01-06-a873ac71241a867fe2aaeea36ecbe60c.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg2MGE2NTEtMTU1OS00YmYyLTgwZGEtNmZlZjBkMjgwOTNmXkEyXkFqcGdeQXVyNjI3MDYxMjg@._V1_.jpg" group-title="VOD INDO",Hanum & Rangga: Faith & The City 
+http://srv28.nf21.net:80/files/11-2019-03-07-8575570eddbaea877dd7dce2a6a28d20.mp4
+
+#EXTINF:-1 tvg-logo="https://iflix-images.akamaized.net/5b4820a0e4b0fc67d2174ee5-1582775514581.jpg?transform=true" group-title="VOD INDO",London Love Story 3
+http://srv19.nf21.net:80/files/15-2018-08-14-a71af058b7e0658b357ae236e70ac799.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cf/Revan_%26_Reina_%28poster%29.jpg" group-title="VOD INDO",Revan & Reina
+http://srv19.nf21.net:80/files/15-2018-08-14-b7cf77aba6b14e81c281f9f9cc6d2474.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDUyNzQyYzktZDE1ZC00MjJhLThmZDYtM2VkYzdiZTVmZjUzXkEyXkFqcGdeQXVyNzkzODk2Mzc@._V1_.jpg" group-title="VOD INDO",Partikelir
+http://srv19.nf21.net:80/files/15-2018-08-14-2ce82962771272049ff44e8f27cf3407.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Bajaj_Bajuri_The_Movie.jpg" group-title="VOD INDO",Bajaj Bajuri the Movie
+http://srv28.nf21.net:80/files/6-2019-03-05-7957077294aed7aae01ed7548527c194.mp4
+
+#EXTINF:-1 tvg-logo="https://barisandepan.com/wp-content/uploads/2019/02/49768156_352647015464469_3552492828623123428_n.jpg" group-title="VOD INDO",Foxtrot Six
+https://www.dropbox.com/s/t2i5h7kpp2yf01j/Foxtrot.Six.2019.HDTV.720p.PF21.Net.mkv?dl=1
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA1YzI5MTYtYjc5ZS00NzI2LTkwNTUtMGU0MjI3MzFkMDRiXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="VOD INDO",Ghost Writer
+https://www.dropbox.com/s/rcli4iwax3ig1q5/Ghost.Writer.2019.WEB-DL.720p-PusatFilm21.com.mp4?dl=1
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDAyYTk2ZGMtNTYyZC00NjNiLThjNzktM2IxNzQyNWIwNjljXkEyXkFqcGdeQXVyMzYzOTYxNzM@._V1_.jpg" group-title="VOD INDO",Mata Batin 2
+https://cdn.zaccar.ru//movies/01-10-2020/Mata.Batin.2.(2019).mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Mulan_%282020_film%29_poster.jpg" group-title="VOD INDO",MULAN 
+http://admin.nf21.net/go/files/17052
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/0d/66/16/0d661640a6833fd717cc1ccafc297e81.jpg" group-title="VOD INDO",Ayat-Ayat Cinta 2 (2017)
+http://srv24.nf21.net:80/files/15-2018-11-07-31623f82f631e22f304dc61fb9ae9975.mp4
+
+#EXTINF:-1 tvg-logo="https://mydirtsheet.files.wordpress.com/2018/06/alaspati_rev20april.jpg?w=640" group-title="VOD INDO", Alas Pati 
+http://srv21.nf21.net:80/files/15-2018-10-13-7548eba8d3cdfd16055c14605d86b83c.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDE4ZjQ1MTEtYTQ0Ny00Y2YxLTlmYzktYWY0ZGQyOGM4ZDFiXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="VOD INDO", Rompis 
+http://srv28.nf21.net:80/files/15-2019-02-23-ba65b1712e9d0845b97ec790b4fa2b4b.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ef/Film_The_Secret_Suster_Ngesot_Urban_Legend.png" group-title="VOD INDO", The Secret Suster Ngesot Urban Legend 
+http://srv21.nf21.net:80/files/15-2018-10-13-820280bd87facc3cb2ea0cb5297764c0.mkv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/My_Stupid_Boos_Poster.jpg/220px-My_Stupid_Boos_Poster.jpg" group-title="VOD INDO", My Stupid Bos 
+http://srv18.nf21.net:80/files/15-2018-08-03-ce61122e665966846c98cf23645c9b83.mp4
+
+#EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1590722248/tjcqr50ulj2bclmrmzfk.jpg" group-title="VOD INDO", Flight 555 
+http://srv19.nf21.net:80/files/15-2018-08-14-f0ddc7cdffd608547912ad3a1b33056f.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjg5MmQ5MWItZjUxNS00MzhjLWFhNGItMmJmYmUwYTQwYzdmXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_UY1200_CR104,0,630,1200_AL_.jpg" group-title="VOD INDO", 5 Cowok Jagoan 
+http://srv18.nf21.net:80/files/15-2018-08-11-a853b03a150b6a4b09f6c5b46fc73861.mp4
+
+#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/4505/734505-h" group-title="VOD INDO", Warkop DKI Reborn: Jangkrik Boss Part 2
+http://srv18.nf21.net:80/files/15-2018-08-07-651364767bef60511eefdc42d4261ccc.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/20/Cek_Toko_Sebelah.jpg" group-title="VOD INDO",Cek Toko Sebelah 
+http://srv18.nf21.net:80/files/10-2018-08-06-7dae19687c0d57fabf80cda51736f30d.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8d/Galih_dan_Ratna.jpg" group-title="VOD INDO", Galih Dan Ratna 
+http://srv18.nf21.net:80/files/15-2018-08-07-cad79a652ba7fd037ca11444b3bd3f5f.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
