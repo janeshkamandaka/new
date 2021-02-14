@@ -23,17 +23,17 @@ https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg",RCTI BACKUP
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL Channel",RCTI BACKUP 2
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL",RCTI BACKUP 2
 https://delivery.macan.tv/stream/rcti/playlist.m3u8?token=seu3y&v=20200807
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 goup-title="MPD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_1.png" goup-title="LOKAL",Vision Prime
+#EXTINF:-1 goup-title="MPD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_1.png" goup-title="LOKAL", Vision Prime
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 goup-title="MPD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_1.png" goup-title="LOKAL",Vision Prime BACKUP
+#EXTINF:-1 goup-title="MPD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_1.png" goup-title="LOKAL", Vision Prime BACKUP
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
