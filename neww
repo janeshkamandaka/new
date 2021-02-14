@@ -20,8 +20,11 @@ https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg",RCTI BACKUP(HD)
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg",RCTI BACKUP
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg",RCTI BACKUP 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/7cb6654ebec98b7.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -41,6 +44,9 @@ https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 #EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="LOKAL",SCTV BACKUP
 http://93.190.139.34:8278/streams/d/Sctv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="LOKAL",SCTV BACKUP 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2b8fc230e8f847a.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/indosiar.png" group-title="LOKAL",INDOSIAR 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
@@ -49,6 +55,9 @@ https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/indosiar.png" group-title="LOKAL",INDOSIAR BACKUP
 http://93.190.139.34:8278/streams/d/Indosiar/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/indosiar.png" group-title="LOKAL",INDOSIAR BACKUP 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/575eeb9f08dc8db.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="LOKAL",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
@@ -56,6 +65,9 @@ https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="LOKAL",GTV BACKUP
 http://93.190.139.34:8278/streams/d/GlobalTV_eko/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="LOKAL",GTV BACKUP 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/df56d15c1ad325a.m3u8
 
 #EXTINF:-1 tvg-id="JAK.ID" tvg-logo="https://pbs.twimg.com/profile_images/1170555573/twitter.jpg" group-title="LOKAL",Jak TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -102,6 +114,9 @@ https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 #EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428234_ico.png" group-title="LOKAL",TRANS TV BACKUP
 http://93.190.139.34:8278/streams/d/Transtv/playlist.m3u8 
 
+#EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428234_ico.png" group-title="LOKAL",TRANS TV BACKUP 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/61061784f4a9270.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="TR7.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428233_ico.png" group-title="LOKAL",TRANS 7
@@ -109,6 +124,9 @@ https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428233_ico.png",TRANS7 BACKUP
 http://93.190.139.34:8278/streams/d/Trans7_eko/playlist.m3u8
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428233_ico.png",TRANS7 BACKUP 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/cdd283c9d3d43b5.m3u8
 
 #EXTINF:-1 group-title="Asia" tvg-logo="https://i.imgur.com/0zHJS7l.png",group-title="LOKAL",TV One
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -167,6 +185,9 @@ http://93.190.139.34:8278/streams/d/Mnctv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RIYAN.f88191264fec3622e3c3f5bd7c6bdd4c.SHINTA" tvg-name="MNC" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/4GJ-iEb0yjB6PlyNKbzIuX6Z2yw=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/f05e3e.jpg" group-title="LOKAL",MNC BACKUP 2
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=22fb0cee7e1f3bde58293de743871417102a6ed6587b5b8cb4ebbe972864690b
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg",MNC TV TV BACKUP 3
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d9bbf6929ec1028.m3u8
 
 #EXTINF:-1 tvg-id="RIYAN.7ba60c315b6b5d375b4a39267d475655.SHINTA" tvg-name="NET TV" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8Hhfk0eHDRj61vC5nbyF7TSXPDo=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cd8bd1.png" group-title="LOKAL",NET TV
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84102a6ed6587b5b8cb4ebbe972864690b
@@ -421,6 +442,9 @@ https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClas
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ZBI.ID" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeebioskop.png" group-title="MOVIES",ZEE BIOSKOP
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+#EXTINF:-1 tvg-id="ZBI.ID" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeebioskop.png" group-title="MOVIES",ZEE BIOSKOP BACKUP 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/eea032203b3ce31.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -853,6 +877,96 @@ https://lh3.googleusercontent.com/-g8REJ-ZF-m-oeQaLKzTOb_0vbfgTB63y-T3iMHfMaulmM
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDY0NDk5Y2YtN2FkNi00OTQ5LTg0YmMtY2QyOTQ3YWJkNWVhXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg" group-title="VOD BARAT",Final Kill
 https://www.dropbox.com/s/7c8mzu4hxuyjua3/Final%20Kill.mkv?dl=1
 
+#EXTINF:-1 group-title="VOD BARAT",Frozen 
+https://lh3.googleusercontent.com/8OLNPmNiqm3XgItbuPTbq2ythbAsHoP8aWDYM9G7Gxy8-7nFzVFdXUSwd0qeRPYe_8XvyAw_ExSgRbMH_g=m22
+
+#EXTINF:-1 group-title="VOD BARAT",Frozen II 
+https://lh3.googleusercontent.com/GZHehDjuIB4vJdnV0MWyiOwe6n875bjkqgYpnLUMnVYXm5tUrvOdPCDtYBw6mRFbUf6eK810qA2JHLmOGQ=m22
+
+#EXTINF:-1 group-title="VOD BARAT",Hotel Transylvania 
+https://lh3.googleusercontent.com/FUX6gE6s-TXiQEXywhaEfjM_rPaDR4-BT4aIvFgA609Urp6rA0Na9z835rCPCp2j46jZISj8xaxx6N1h8A=m22
+
+#EXTINF:-1 group-title="VOD BARAT",Hotel Transylvania 2 
+https://lh3.googleusercontent.com/9ZY3rYtARr5sdcwAGPrRLe8Z-Hp_U_TLDHyzv8VwYmpscPHtsPlrbQ3CzVT5llUxk-QfFuM9BvXvjurBfg=m22
+
+#EXTINF:-1 group-title="VOD BARAT",Hotel Transylvania 3: Summer Vacation 
+https://lh3.googleusercontent.com/Nz2pKxXfynzKFV7BnvBOMsRGSEzBWJQdb-_KNdR-pD5mAOkPL8IH5pS_NmgKhw7xvtnkbNx0HWUW4ih11w=m22
+
+#EXTINF:-1 group-title="VOD BARAT",How to Train Your Dragon 
+https://lh3.googleusercontent.com/ZczAPLnQ2Hk4d7nogkxJUZ3J2BV9k-17ZSaVTkPvbHbt5jDj8VG1d6eJ1TOK041LriA6FXsOBC2KhWSAxw=m22
+
+#EXTINF:-1 group-title="VOD BARAT",How to Train Your Dragon 2 
+https://lh3.googleusercontent.com/kiTH7DMcBsfNkxTn80W-dzGRkRVZQEJ47j6bDH6l7nBbO3y0lfNJiY8S_2h1j_oov_QPJ5xwTaYbdRkuqQ=m22
+
+#EXTINF:-1 group-title="VOD BARAT",How to Train Your Dragon: The Hidden World 
+https://lh3.googleusercontent.com/Nc_n2B03yXvXzXXQ2dc_BQlT0-enZtAB4cfzfiUIpdOFDVaUIbhsTxuP5aXovI_DPmI1rOtQhgzUagH0Lg=m22
+
+#EXTINF:-1 group-title="VOD BARAT",Jurassic Park 
+https://lh3.googleusercontent.com/FtPyKsn7f-Rxp9SM0FRYnYfpq0j_EWCTZRwSVEzWE7wih3SlYlP9S97VQ6IA-TVjwxGUNkhTbKmiMPXy3w=m22
+
+#EXTINF:-1 group-title="VOD BARAT",Jurassic Park III 
+https://lh3.googleusercontent.com/uzS0DmZAjntytnnu7-DY3Kj3xNwGmKcfYNNd5cBRauOsG7vfs8l6SczUjBi0XjrPUnp8KKokKfVDuc-gHA=m22
+
+#EXTINF:-1 group-title="VOD BARAT",Jurassic World 
+https://lh3.googleusercontent.com/DtgQv5-BZ5gbAkYw9HAQA71z88xKGr65NTe4VCHZcYznZfz8_dfvPvQsCcJi-SkOCheRGZMP8mGxARNxWw=m22
+
+#EXTINF:-1 group-title="VOD BARAT",Jurassic World: Fallen Kingdom 
+https://lh3.googleusercontent.com/AgxGTf9TJMf87iWFIb3ta0h0hOP3beOmORIdcV9QJHDka_aQQ5zn6yEWBoapJb3JUH5ee3qsIUc2bs2XbA=m22
+
+#EXTINF:-1 group-title="VOD BARAT",The Maze Runner
+https://lh3.googleusercontent.com/jtqRDOvPmZVqNiigYfB9MG3uW_geFkLYRPSHND__-LBL16HZwj36HU63I1zfY3bSiQy0WZ-EPkt8vWv9qA=m22
+
+#EXTINF:-1 group-title="VOD BARAT",Maze Runner: The Scorch Trials 
+https://lh3.googleusercontent.com/JgkoDIgxx_sWgy0lEpmggJjrgoljj0C13TABrgEbZFUniRtyTPewwo7OnYPGQmoxhhIWbCxRxlHaZgYm0A=m22
+
+#EXTINF:-1 group-title="VOD BARAT",Maze Runner: The Death Cure 
+https://lh3.googleusercontent.com/ddjlgOMOCJWZGr7XK9zVU1QsArlkmVMFbH3DLzaR9hddOey_U2RTG_d03xISng5LY68GnGYkZ_90C6eLTA=m22
+
+#EXTINF:-1 group-title="VOD BARAT",Terminator 2: Judgment Day 
+https://lh3.googleusercontent.com/_axhx4mYdOrRZjyDRrLE3EaHAbFYWkgotEYT_wXMXcoVG-s8cWyJg60atAqn8FozpWdSieE8F8eTuJ2EAA=m22
+
+#EXTINF:-1 group-title="VOD BARAT",Terminator 3: Rise of the Machines 
+https://lh3.googleusercontent.com/0hhSFMJXBA22ZkLJ-lX00cKMo7wcvtW_hvr9QgnYKCtxzDj3Qytq4HcywqbzRPmqYeQEl3jBB3oxQZjEIA=m22
+
+#EXTINF:-1 group-title="VOD BARAT",Terminator Salvation 
+https://lh3.googleusercontent.com/eYQa91rWIPlKDhN8w1lJS0b0DckZ_Il2XJU8o2BtblLR7ewAefCCtrRzRTH41wBNV4x85uIxFm0f2anwtw=m22
+
+#EXTINF:-1 group-title="VOD BARAT",Terminator: Dark Fate 
+https://lh3.googleusercontent.com/73B1LCEQ-UN3I_R1A1QAvaSnzVjuAexAxVOOLRsMn0Tt267WHLTYz7og-GIEUjC9yfIXbprMu2nHk0Htag=m22
+
+#EXTINF:-1 group-title="VOD BARAT",The Hobbit: An Unexpected Journey 
+https://lh3.googleusercontent.com/Qu7e3T4iKqYCprphmwlrVMmoTKVA2Mg5KUIY4sxwPU_OM3ILljKZ4L811d_CeK5amGdj2X19_FsQYfvECw=m22
+
+#EXTINF:-1 group-title="VOD BARAT",The Hobbit: The Battle of the Five Armies
+https://lh3.googleusercontent.com/NlUfsSDIUDj4Ydzn4wbtGrxJ3toHPUnHU3ihXev-xlqLIp6bdn8d3sedcX9rqAZtYQQ752iQXsQRxNfiHg=m22
+
+#EXTINF:-1 group-title="VOD BARAT",The Hobbit: The Desolation of Smaug 
+https://lh3.googleusercontent.com/oBE7QP6YN7-QXw5hE1WE_hYVddV7WDOCMKl_fY51LSP5xY16rHihYE9ycJBUyitBBpv-beFOeip96Jn60w=m22
+
+#EXTINF:-1 group-title="VOD MANDARIN",Ip Man 
+https://lh3.googleusercontent.com/Kv_THCCGqGkQuNFCpg4mq8XzDV0OzyW5jaOcalXQRlAD12kEHNFtREE11kdycn0pNzlM51uSZjHR80oDVg=m22
+
+#EXTINF:-1 group-title="VOD MANDARIN",Ip Man 2 
+https://lh3.googleusercontent.com/_KtBx4Pk0HlGY6SYC5AyC4JUAv94Ik6xrMBZ8owpxajiwEEjmFHsDOO_Q7vOMmIMxfW4kFEqMsZ12P_43w=m22
+
+#EXTINF:-1 group-title="VOD MANDARIN",Ip Man 3
+https://lh3.googleusercontent.com/DvzurQ8xPH2hZpeidH9wLxJgKgA2xX2oxSzajmlvbDK92KlV6iZp56iKeV8fYrk9Tb925JwR0SXTzBMUoA=m22
+
+#EXTINF:-1 group-title="VOD MANDARIN",Ip Man 4: The Finale
+https://lh3.googleusercontent.com/dyTGzlIxt52z8NgMGKju0O-Cjv880umMc5RiSU6_JLX9eD7iiLQWAfuSpIedgEPXLmxb6Dm5QdwAHEGHXw=m22
+
+#EXTINF:-1 group-title="VOD MANDARIN",Ip Man and Four Kings 
+https://lh3.googleusercontent.com/LS-IBxy2s4Y3oblmK8hydlYhefIIIcu5l-g6PlAtQP4lbJ4_HI3gIULEVsYspt89wXRQWpnhycsUh4yyLw=m22
+
+#EXTINF:-1 group-title="VOD MANDARIN",Shaolin Soccer 
+https://lh3.googleusercontent.com/UDEPk7otEZHW0Ukv4GvmAOozp1ml0KMJq8Z-CbniwVLBEdR67h6z-d92YiBYXtO6Fup90QVsY5-HSLz4hA=m22
+
+#EXTINF:-1 group-title="VOD KOREA",Train to Busan
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=25926884475c7c81d3f9634fe15662d899c04773e83da931f64885fdf14061a8
+
+#EXTINF:-1 group-title="VOD KOREA",Parasite 
+https://lh3.googleusercontent.com/8fl4Cwk3AbDnjezfUqAeKQG43mUQ6p2oSFglkA_fOOepcgybTerTAve89Z2i5CLcfGSvRA5wwzYCiRKDQQ=m22
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f8/Bodyguard_Ugal-ugalan.jpg" group-title="VOD INDO",Bodyguard Ugal-Ugalan
 http://srv24.nf21.net:80/files/11-2018-11-09-4d0f5e263c6bc227c1b23c5145c32713.mp4
 
@@ -911,6 +1025,9 @@ http://srv21.nf21.net:80/files/15-2018-10-13-820280bd87facc3cb2ea0cb5297764c0.mk
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/My_Stupid_Boos_Poster.jpg/220px-My_Stupid_Boos_Poster.jpg" group-title="VOD INDO", My Stupid Bos 
 http://srv18.nf21.net:80/files/15-2018-08-03-ce61122e665966846c98cf23645c9b83.mp4
 
+#EXTINF:-1 group-title="VOD INDO",My Stupid Boss 2 
+https://lh3.googleusercontent.com/MJxDpSbZguWY_oX0O2jpJ08ywaNqfBxcSSKjQldRS5w5sSfhsXNrxpRmLKSmUwtDebsg8zmSUv2QNim0tg=m22
+
 #EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1590722248/tjcqr50ulj2bclmrmzfk.jpg" group-title="VOD INDO", Flight 555 
 http://srv19.nf21.net:80/files/15-2018-08-14-f0ddc7cdffd608547912ad3a1b33056f.mp4
 
@@ -925,6 +1042,63 @@ http://srv18.nf21.net:80/files/10-2018-08-06-7dae19687c0d57fabf80cda51736f30d.mp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8d/Galih_dan_Ratna.jpg" group-title="VOD INDO", Galih Dan Ratna 
 http://srv18.nf21.net:80/files/15-2018-08-07-cad79a652ba7fd037ca11444b3bd3f5f.mp4
+
+#EXTINF:-1 group-title="VOD INDO",Warkop DKI - Bebas Aturan Main
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=887ea2ef509f2ed24ec267a962d472b199c04773e83da931f64885fdf14061a8
+
+#EXTINF:-1 group-title="VOD INDO",Warkop DKI - Godain Kita Dong
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=189cc63cc475284f33a6afba82f0588499c04773e83da931f64885fdf14061a8
+
+#EXTINF:-1 group-title="VOD INDO,Warkop DKI - Itu Bisa Diatur
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c35671483bc1050cce5f3c3d8b4187a399c04773e83da931f64885fdf14061a8
+
+#EXTINF:-1 group-title="VOD INDO",Warkop DKI - Malu Malu Mau
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=8f5b034fee44157caa1cf1cd007f5b2899c04773e83da931f64885fdf14061a8
+
+#EXTINF:-1 group-title="VOD INDO",Warkop DKI - Saya Suka Kamu Punya
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=71e58f95185800ae285c9860a287fa3c99c04773e83da931f64885fdf14061a8
+
+#EXTINF:-1 group-title="VOD INDO",Ada Apa Dengan Cinta (2002)
+https://lh3.googleusercontent.com/YTu4vVg4Cl1vRdeeFxLV33XkclKYHxnlbVcm49HN05BgKbx4EvEmh1PqDIMGTiAafXrmbIqH4Pic3gV4FQ=m22
+
+#EXTINF:-1 group-title="VOD INDO",Ada Apa Dengan Cinta 2 (2016)
+https://lh3.googleusercontent.com/YTu4vVg4Cl1vRdeeFxLV33XkclKYHxnlbVcm49HN05BgKbx4EvEmh1PqDIMGTiAafXrmbIqH4Pic3gV4FQ=m22
+
+#EXTINF:-1 group-title="VOD INDO",Kartini
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=915801e052298efdd705a0020597388799c04773e83da931f64885fdf14061a8
+
+#EXTINF:-1 group-title="VOD INDO",Sesuai Aplikasi
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=bfdfefef1f0500a0dbce0e8e8ec16a6099c04773e83da931f64885fdf14061a8
+
+#EXTINF:-1 group-title="VOD INDO",Soekarno
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=ad64133fc82b863784886188cfcec30599c04773e83da931f64885fdf14061a8
+
+#EXTINF:-1 group-title="VOD INDO",Susah Sinyal
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=950685268ad88e7d0f81aeb4476811ae99c04773e83da931f64885fdf14061a8
+
+#EXTINF:-1 group-title="VOD INDO",Dilan 1990 
+https://lh3.googleusercontent.com/NSb9QLl2iVFm8XJ3im0QftpPCirRvvaxtD6rdqnBx3npfKxIcOcdVDNupiZl19P5yCyo8_BcyO11y_Yzyg=m22
+
+#EXTINF:-1 group-title="VOD INDO",Dilan 1991 
+https://lh3.googleusercontent.com/i7g3xzbbl23ftxhbBGJqjfFkQg-M2iWxzdJARAv2i-zdjAwBDIicIWt6v6hqqTPVu6SfsJ-l0eVwbFVCzQ=m22
+
+#EXTINF:-1 group-title="VOD INDO",Kapal Goyang Kapten 
+https://lh3.googleusercontent.com/fqkgjzYRNfVIgDo1Kt3Ls6Z3aa1OZ5_N9phHY0CdX_BdvA4gg_Cst2GabbpAXWvi_cbwy3hykZmyRD6yoA=m22
+
+#EXTINF:-1 group-title="VOD INDO",Suzana : Burried Alive 
+https://lh3.googleusercontent.com/L1TQR6prw9IuSX77AzFPgtSndl0UeLav-7Bd7gmPcV4d90zlOzr9_MxLtKgRxYXoR6kiBLA0jHDIK0Fm8g=m22
+
+#EXTINF:-1 group-title="VOD INDO",The Raid : Redemption 
+https://lh3.googleusercontent.com/BUlYytKrg8rX0ixoM8Ogop3EzlePZv05mQkZ20PzkPTeeDdpUDNiONyTSdn6yeUjxnLUZSjql7JIWfkIiw=m22
+
+#EXTINF:-1 group-title="VOD INDO",The Raid 2 : Berandal 
+https://lh3.googleusercontent.com/r1kzl43Tk-EUmb6VFOu7fCYLTrL6kmv9C_rsME-DXxlpqz7TTS0wTEMsN9ZvS5eqQjez4_COfLBDSh2m8A=m22
+
+
+
+
+
+
 
 
 
