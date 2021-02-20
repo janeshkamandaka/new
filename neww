@@ -634,9 +634,9 @@ https://sport.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl1.png",True Premier HD 1
 https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl2.png",True Premier HD 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl2.png",True Premier HD 2
 https://sport.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8
-#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl2.png",True Premier HD 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl2.png",True Premier HD 2
 https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="SPORTS",ZQ Sport
@@ -785,6 +785,66 @@ http://136.243.177.164/MAXSPORT3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="http://futbol-live.com/wp-content/uploads/2019/06/max-sport-4.png" group-title="SPORTS",MAX SPORT 4
 http://136.243.177.164/MAXSPORT4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="SPORTS",SONY TEN 1  
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/f56168cc96f1153.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="SPORTS",SONY TEN 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6fcd730970b191d.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png" group-title="SPORTS",SONY TEN 3
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e860f923649becf.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="SPORTS",SONY SIX
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/01d25ef273031cf.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://i.pinimg.com/originals/40/0f/03/400f0311b6674cf72e7d6836816853db.jpg" group-title="SPORTS",WILLOW CRICKET  
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/03d2c472938b034.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="SPORTS",ESPN  1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/12fb30f24c10a6c.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="SPORTS",ESPN  2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e846f2a1833c938.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://4.bp.blogspot.com/-ZYX2fmrpXYA/WlJKUqnO5AI/AAAAAAAAAZI/SBu8HWdcTJwjI1fL-y3hduRK9IKwigskACLcBGAs/s1600/1.png" group-title="SPORTS",BEOUTQSPORT 1   
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/57e12c38175537e.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/06/bein-sport-2-hd-live1.png" group-title="SPORTS",BEIN ARAB 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/43c2c7b22439581.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/06/3.png" group-title="SPORTS",BEIN ARAB 3
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/34d0ecb91942ec6.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.nadirsat.com/Packages_files/HD4-1.png" group-title="SPORTS",BEIN ARAB 4
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/4796fa5bcddf4bd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://i.pinimg.com/originals/0e/da/56/0eda560bc00b99b8a9da424f66a90b60.png" group-title="SPORTS",BEIN ARAB 5
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6c73043dfbed2dd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://i.pinimg.com/originals/3e/8a/cf/3e8acf3cdf280171c961bdd9de25d997.png" group-title="SPORTS",BEIN ARAB 6
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6c08342090703c0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/HD7-1.png" group-title="SPORTS",BEIN ARAB 7
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/df5181a2955f69f.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/channels/color/beinsports8_color.png" group-title="SPORTS",BEIN ARAB 8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0655abb3211a4b7.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.nadirsat.com/Packages_files/HD9-1.png" group-title="SPORTS",BEIN ARAB 9
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e2108e55902c5ac.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://3.bp.blogspot.com/-GqJ5UvQvhzg/WlPYvyj_Q7I/AAAAAAAAAcw/rG7Zw3vkKT8pHFUa_MRy5l4PrJM9KEBnQCLcBGAs/s1600/10-HD.png" group-title="SPORTS",BEIN ARAB 10
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/9c4298684643914.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://3.bp.blogspot.com/-EOClfm0Tfe4/WftSrLAocwI/AAAAAAAAATs/ylaaiyTtfOsLLwlTskM_MI9RQuqupaQ8gCLcBGAs/s1600/img207.gif" group-title="SPORTS",BEIN ARAB 11
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/cda020ee54800f0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/12-HD.png/120px-12-HD.png" group-title="SPORTS",BEIN ARAB 12
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/49b00d31f46fa8c.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="http://kooora4you.com/images/min/bein%20sport%2013hd.png" group-title="SPORTS",BEIN ARAB 13
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/53adf92cf4f0ef7.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
