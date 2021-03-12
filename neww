@@ -8,7 +8,7 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 https://tv.mbahnunungonline.net/playlist/antv.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W47u6m4.png?v=2.0.0.13" group-title="LOKAL",ANTV BACKUP 2
-https://delivery.macan.tv/stream/id_antv/playlist.m3u8?token=h56jd&v=20200807
+https://gratismkctv.net/oxygen/oxygen.m3u8?channel=antv
 
 #EXTINF:-1 group-title="Asia" tvg-logo="https://i.imgur.com/0zHJS7l.png",group-title="LOKAL",TV One
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -61,6 +61,11 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.imgur.com/dRLKNbA.png",iE
+https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.postimg.cc/3Rb3CWPL/MNCnews.jpg",iNews TV 
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
@@ -652,6 +657,11 @@ https://fikrulmkc.my.id/bagus/usee-bein1.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="SPORTS", Bein Sport 2 BACKUP 2
 https://fikrulmkc.my.id/bagus/usee-bein2.m3u8
 
+#KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
+#KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF: -1tvg-ID group-title = "SPORTS" tvg-logo = "https://i.ibb.co/5MPbzKN/mncsport1.png",MNC SPORT
+https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Fig.Int" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428264_ico.png" group-title="SPORTS",FIGHT SPORTS
@@ -846,6 +856,8 @@ http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/24029
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/hHwEkPx.png",RMC.Sport 4
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/24028
 
+
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/hHwEkPx.png",Polsat Sport Fight FHD
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/29635
 
@@ -1003,6 +1015,11 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicChannel.MACAN" tvg-name="NationalGeographicChannel.MACAN" group-title="KNOWLEDGE" tvg-logo="https://cdn.macan.tv/img/ngc.png", National Geographic BACKUP
 https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-natgeo
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="http://images.useetv.com/logo_natgeo_big.png",NAT GEOGRAPHIC 
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/miVfpX1.png" group-title="KNOWLEDGE",NatGeo People
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
