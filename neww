@@ -5,7 +5,7 @@
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W47u6m4.png?v=2.0.0.13" group-title="LOKAL",ANTV BACKUP
-https://andriant.net/baru/antv.m3u8
+http://103.55.39.182/~dusktil2/a.m3u8?q=antv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W47u6m4.png?v=2.0.0.13" group-title="LOKAL",ANTV BACKUP 2
 
@@ -16,7 +16,10 @@ https://andriant.net/baru/antv.m3u8
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13" group-title="LOKAL",tvOne BACKUP
+https://stream-02.ix7.dailymotion.com/sec(045Msia06uu92p_oLsoybAOAeEK02xxFxCgEjbLIJpQ)/dm/3/x619221/s/live-3.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13" group-title="LOKAL",tvOne BACKUP 2
+http://103.55.39.182/~dusktil2/a.m3u8?q=tvone 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -569,13 +572,10 @@ https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd
 https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg",Kplus
-http://185.238.0.145:1313/c/a/k+-sd.m3u8
+https://home-tv.web.id/kicau/usee-vidio.m3u8?channel=usee-kplus
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://4.bp.blogspot.com/-CMNKrpUmlj8/XE6oAgKVlpI/AAAAAAAAnI8/5kLljhrSNPk1ds6cA-W-yKY0NdsTaRx3ACLcBGAs/s1920/frekuensi-sinema-indonesia-x.jpg",SINEMA INDONESIA x
-http://wz.insantv.net/monitor/ch106.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="data:image/jpeg;base64,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",Drakor Plus
-http://wz.insantv.net/monitor/ch107.m3u8
+http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia-x
 
 #EXTINF:-1 tvg-id="RIYAN.cd2422823972867908959c9b0d2036bc.SHINTA" tvg-name="Citra Bioskop" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7_-nPOXCiJi9Vr_6owzKC2smV0c=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg" group-title="MOVIES",Citra Bioskop
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=55479c55ebd1efd3ff125f1337100388102a6ed6587b5b8cb4ebbe972864690b
@@ -605,13 +605,16 @@ https://fikrulmkc.my.id/bagus/usee-sone.m3u8
 https://andriant.net/baru/sone.m3u8
 
 #EXTINF:-1 tvg-id="KPlus.id" tvg-name="KPlus.id" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/kplus.png", K+
-https://andriant.net/baru/kplus.m3u8
+https://home-tv.web.id/kicau/usee-vidio.m3u8?channel=usee-kplus
 
 #EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="GEMChannel.id" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/gem.jpg", Sony GEM TV
 https://andriant.net/baru/sgem.m3u8
 
+#EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="GEMChannel.id" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/gem.jpg", Sony GEM TV Backup
+https://home-tv.web.id/kicau/usee-vidio.m3u8?channel=usee-sgem
+
 #EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="GEMChannel.id" group-title="MOVIES" tvg-logo="https://www.wowkeren.com/images/news/00139323.jpg", KBS WORLD
-https://andriant.net/baru/kbsworld.m3u8
+https://home-tv.web.id/kicau/usee-vidio.m3u8?channel=usee-kbsworld
 
 #EXTINF:-1 tvg-id="ChineseDrama.MACAN" tvg-name="ChineseDrama.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/chinesedrama.png", Chinese Drama
 #EXTVLCOPT:http-user-agent=OKBOS
@@ -632,7 +635,7 @@ https://fikrulmkc.my.id/bagus/usee-imc.m3u8
 https://andriant.net/baru/imc.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fyW26j0h/drakor-plus.png" group-title="MOVIES",Drakor Plus
-https://andriant.net/andrian.m3u8?channel=drakorplus
+http://103.55.39.182/~dusktil2/a.m3u8?q=drakorplus
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/tvposter/flik.png" group-title="MOVIES",FLIK
 https://fikrulmkc.my.id/bagus/usee-flik.m3u8
@@ -707,10 +710,10 @@ https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_dash_vmx/SoccerChannel.mp
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="SPORTS", UseeSports 1
-https://andriant.net/baru/useesport.m3u8
+https://home-tv.web.id/kicau/usee-vidio.m3u8?channel=usee-useesport
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS", UseeSports 2
-https://fikrulmkc.my.id/bagus/usee-useesport2.m3u8
+https://home-tv.web.id/kicau/usee-vidio.m3u8?channel=usee-useesports2
 
 #EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",CHAMPION TV 1 HD
 https://fikrulmkc.my.id/bagus/usee-champion1.m3u8
@@ -886,11 +889,26 @@ http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/1580
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/hHwEkPx.png",Arena_Sport_5HD
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/1578
 
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/Arena_sport.png" group-title="SPORTS",ARENA SPORT 1 Backup
+http://rv.therevenge.co:80/307213231550/307213231550/85183
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/Arena_sport.png" group-title="SPORTS",ARENA SPORT 2 Backup
+http://rv.therevenge.co:80/307213231550/307213231550/85182
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/Arena_sport.png" group-title="SPORTS",ARENA SPORT 3 Backup
+http://rv.therevenge.co:80/307213231550/307213231550/85181
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/Arena_sport.png" group-title="SPORTS",ARENA SPORT 4 Backup
+http://rv.therevenge.co:80/307213231550/307213231550/85180
+
+#EXTINF:-1tvg-logo="https://www.linkpicture.com/q/Arena_sport.png" group-title="SPORTS",ARENA SPORT 5 Backup
+http://rv.therevenge.co:80/307213231550/307213231550/85179
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/hHwEkPx.png",FR: Canal+ Sport
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/389
 
 #EXTINF:0 group-title="SPORTS",RMC SPORTS NEWS HD
-http://178.132.1.25:8080/RMCSPORTNEWSHD/index.m3u8
+http://red.ipfox.org:8080/Karim2_534341/40036069/2441
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/hHwEkPx.png",RMC.Sport 1
 http://178.132.1.25:8080/RMCSPORT1HD/index.m3u8
@@ -1078,8 +1096,14 @@ http://us.bestvideostreaming.is/8799/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="SPORTS",K SPORT 1HD
 http://us.bestvideostreaming.is/10035/index.m3u8|User-Agent=stream
 
-#EXTINF:0 group-title="SPORTS",K SPORT 2HD
-http://us.bestvideostreaming.is/10036/index.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 1" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/NoAvailable.jpg" group-title="SPORTS",KSA SPORTS 1 BACKUP
+http://red.ipfox.org:8080/Karim2_534341/40036069/16852
+
+#EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 2" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/NoAvailable.jpg" group-title="SPORTS",KSA SPORTS 2
+http://red.ipfox.org:8080/Karim2_534341/40036069/16853
+
+#EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 3" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/NoAvailable.jpg" group-title="SPORTS",KSA SPORTS 3
+http://red.ipfox.org:8080/Karim2_534341/40036069/16854
 
 #EXTINF:0 group-title="SPORTS",BeIN SPORTS 1HD
 http://178.132.1.25:8080/BEINSPORTS1HD/index.m3u8
@@ -1098,6 +1122,84 @@ http://178.132.1.25:8080/BEINMAX5HD/index.m3u8
 
 #EXTINF:0 group-title="SPORTS",BeIN SPORTS MAX 6HD
 http://178.132.1.25:8080/BEINMAX6HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Ziggo Sport Docu" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17200.jpg" group-title="SPORTS",Ziggo Sport Docu
+http://red.ipfox.org:8080/Karim2_534341/40036069/2490
+
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Ziggo Sport 1 Voetbal" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17201.jpg" group-title="SPORTS",Ziggo Sport 1 Voetbal
+http://red.ipfox.org:8080/Karim2_534341/40036069/2491
+
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Ziggo Sport 1 Select" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17202.jpg" group-title="SPORTS",Ziggo Sport 1 Select
+http://red.ipfox.org:8080/Karim2_534341/40036069/2492
+
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Ziggo Sport 1 Golf" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17203.png" group-title="SPORTS",Ziggo Sport 1 Golf
+http://red.ipfox.org:8080/Karim2_534341/40036069/2493
+
+#EXTINF:-1 tvg-id="" tvg-name="|NL| Ziggo Sport Racing" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17205.jpg" group-title="SPORTS",Ziggo Sport Racing
+http://red.ipfox.org:8080/Karim2_534341/40036069/2495
+
+#EXTINF:-1 tvg-id="" tvg-name="|UK| eir Sports 2 HD" tvg-logo="" group-title="SPORTS",eir Sports 2 HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/24182
+
+#EXTINF:-1 tvg-id="" tvg-name="|UK| eir Sports 1 HD" tvg-logo="" group-title="SPORTS",eir Sports 1 HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/24184
+
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Premier Sports 1" tvg-logo="" group-title="SPORTS",Premier Sports 1
+http://red.ipfox.org:8080/Karim2_534341/40036069/25968
+
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Premier Sports 2" tvg-logo="" group-title="SPORTS",Premier Sports 2
+http://red.ipfox.org:8080/Karim2_534341/40036069/25967
+
+#EXTINF:-1 tvg-id="" tvg-name="|UK| Free Sports" tvg-logo="" group-title="SPORTS", Free Sports
+http://red.ipfox.org:8080/Karim2_534341/40036069/25970
+
+#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport PSL" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17621.png" group-title="SPORTS",SuperSport PSL
+http://red.ipfox.org:8080/Karim2_534341/40036069/2970
+#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Golf" tvg-logo="" group-title="ShareExt@ipSPORT",SuperSport Golf
+http://red.ipfox.org:8080/Karim2_534341/40036069/25495
+#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Tennis" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17618.jpg" group-title="SPORTS",SuperSport Tennis
+http://red.ipfox.org:8080/Karim2_534341/40036069/2980
+#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Cricket" tvg-logo="" group-title="ShareExt@ipSPORT",SuperSport Cricket
+http://red.ipfox.org:8080/Karim2_534341/40036069/25498
+#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Rugby" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17625.png" group-title="SPORTS",SuperSport Rugby
+http://red.ipfox.org:8080/Karim2_534341/40036069/2979
+#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Action" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17626.png" group-title="SPORTS",SuperSport Action
+http://red.ipfox.org:8080/Karim2_534341/40036069/2976
+#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Grandstand" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17619.png" group-title="SPORTS",SuperSport Grandstand
+http://red.ipfox.org:8080/Karim2_534341/40036069/2972
+#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport  LaLiga" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17622.png" group-title="SPORTS",SuperSport  LaLiga
+http://red.ipfox.org:8080/Karim2_534341/40036069/2969
+#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Football" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17636.png" group-title="SPORTS",SuperSport Football
+http://red.ipfox.org:8080/Karim2_534341/40036069/2974
+#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Premier League" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17620.png" group-title="SPORTS",SuperSport Premier League
+http://red.ipfox.org:8080/Karim2_534341/40036069/2971
+#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Variety 1" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17635.png" group-title="SPORTS",SuperSport Variety 1
+http://red.ipfox.org:8080/Karim2_534341/40036069/2975
+#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Variety 2" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17637.png" group-title="SPORTS",SuperSport Variety 2
+http://red.ipfox.org:8080/Karim2_534341/40036069/2973
+#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Variety 3" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17608.png" group-title="SPORTS",SuperSport Variety 3
+http://red.ipfox.org:8080/Karim2_534341/40036069/2978
+#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Variety 4" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17617.png" group-title="SPORTS",SuperSport Variety 4
+http://red.ipfox.org:8080/Karim2_534341/40036069/2977
+#EXTINF:-1 tvg-id="" tvg-name="|DSTV| Supersport Blitz HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17606.png" group-title="SPORTS",Supersport Blitz HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2981
+#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport Motorsport" tvg-logo="" group-title="SPORTS",SuperSport Motorsport
+http://red.ipfox.org:8080/Karim2_534341/40036069/25497
+#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport MáXimo HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17624.png" group-title="SPORTS",SuperSport MáXimo HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2982
+#EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport WWE" tvg-logo="" group-title="SPORTS",SuperSport WWE
+http://red.ipfox.org:8080/Karim2_534341/40036069/25512
+
+#EXTINF:-1 tvg-id="" tvg-name="|IL| Yes Sport 1 HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17574.png" group-title="SPORTS",Yes Sport 1 HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2935
+#EXTINF:-1 tvg-id="" tvg-name="|IL| Yes Sport 2 HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17575.png" group-title="SPORTS",Yes Sport 2 HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2936
+#EXTINF:-1 tvg-id="" tvg-name="|IL| Yes Sport 3 HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17576.png" group-title="SPORTS",Yes Sport 3 HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2937
+#EXTINF:-1 tvg-id="" tvg-name="|IL| Yes Sport 4 HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17577.png" group-title="SPORTS",Yes Sport 4 HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2938
+#EXTINF:-1 tvg-id="" tvg-name="|IL| Yes Sport 5 HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17578.png" group-title="SPORTS",Yes Sport 5 HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2939
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
