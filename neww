@@ -5,6 +5,7 @@
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W47u6m4.png?v=2.0.0.13" group-title="LOKAL",ANTV BACKUP
+https://tv.mbahnunungonline.net/playlist/antv.m3u8?v=1.0.0.1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W47u6m4.png?v=2.0.0.13" group-title="LOKAL",ANTV BACKUP 2
 
@@ -18,7 +19,7 @@ https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 https://stream-02.ix7.dailymotion.com/sec(045Msia06uu92p_oLsoybAOAeEK02xxFxCgEjbLIJpQ)/dm/3/x619221/s/live-3.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13" group-title="LOKAL",tvOne BACKUP 2
-
+https://tv.mbahnunungonline.net/playlist/tvone.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1188,17 +1189,6 @@ http://red.ipfox.org:8080/Karim2_534341/40036069/25497
 http://red.ipfox.org:8080/Karim2_534341/40036069/2982
 #EXTINF:-1 tvg-id="" tvg-name="|DSTV| SuperSport WWE" tvg-logo="" group-title="SPORTS",SuperSport WWE
 http://red.ipfox.org:8080/Karim2_534341/40036069/25512
-
-#EXTINF:-1 tvg-id="" tvg-name="|IL| Yes Sport 1 HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17574.png" group-title="SPORTS",Yes Sport 1 HD
-http://red.ipfox.org:8080/Karim2_534341/40036069/2935
-#EXTINF:-1 tvg-id="" tvg-name="|IL| Yes Sport 2 HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17575.png" group-title="SPORTS",Yes Sport 2 HD
-http://red.ipfox.org:8080/Karim2_534341/40036069/2936
-#EXTINF:-1 tvg-id="" tvg-name="|IL| Yes Sport 3 HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17576.png" group-title="SPORTS",Yes Sport 3 HD
-http://red.ipfox.org:8080/Karim2_534341/40036069/2937
-#EXTINF:-1 tvg-id="" tvg-name="|IL| Yes Sport 4 HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17577.png" group-title="SPORTS",Yes Sport 4 HD
-http://red.ipfox.org:8080/Karim2_534341/40036069/2938
-#EXTINF:-1 tvg-id="" tvg-name="|IL| Yes Sport 5 HD" tvg-logo="http://gallery.ipfox.co/gallery/channels_thumbs/17578.png" group-title="SPORTS",Yes Sport 5 HD
-http://red.ipfox.org:8080/Karim2_534341/40036069/2939
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
