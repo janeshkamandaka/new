@@ -5,10 +5,7 @@
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W47u6m4.png?v=2.0.0.13" group-title="LOKAL",ANTV BACKUP
-https://tv.mbahnunungonline.net/playlist/antv.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W47u6m4.png?v=2.0.0.13" group-title="LOKAL",ANTV BACKUP 2
-
+http://solotv.me:8080/Line1698/b88d5078/165072
 
 #EXTINF:-1 group-title="Asia" tvg-logo="https://i.imgur.com/0zHJS7l.png",group-title="LOKAL",TV One
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -19,7 +16,7 @@ https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 https://stream-02.ix7.dailymotion.com/sec(045Msia06uu92p_oLsoybAOAeEK02xxFxCgEjbLIJpQ)/dm/3/x619221/s/live-3.m3u8#cell=lcore&qos_vpart=1&qos_stail=1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UqGSTVT.png?v=2.0.0.13" group-title="LOKAL",tvOne BACKUP 2
-https://tv.mbahnunungonline.net/playlist/tvone.m3u8
+http://solotv.me:8080/Line1698/b88d5078/162507
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -415,6 +412,9 @@ https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
+#EXTINF:-1 tvg-id="tvN Movies HD" tvg-name="tvN MOVIES" tvg-logo="https://www.asiantvawards.com/wp-content/uploads/2017/08/tvN-movie-logo-no-tagline.jpg" group-title="MOVIES",tvN MOVIES BACKUP
+http://solotv.me:8080/Line1698/b88d5078/157596
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-ID="TVN" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png", TVN
@@ -612,62 +612,47 @@ https://andriant.net/baru/galaxy.m3u8
 https://fikrulmkc.my.id/bagus/usee-sone.m3u8
 
 #EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="SonyOneHD.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/sonyone.png", Sony One Backup
-https://andriant.net/baru/sone.m3u8
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-sone
 
 #EXTINF:-1 tvg-id="KPlus.id" tvg-name="KPlus.id" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/kplus.png", K+
-https://home-tv.web.id/kicau/usee-vidio.m3u8?channel=usee-kplus
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-kplus
 
 #EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="GEMChannel.id" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/gem.jpg", Sony GEM TV
-https://andriant.net/baru/sgem.m3u8
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-sgem
 
-#EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="GEMChannel.id" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/gem.jpg", Sony GEM TV Backup
-https://home-tv.web.id/kicau/usee-vidio.m3u8?channel=usee-sgem
 
 #EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="GEMChannel.id" group-title="MOVIES" tvg-logo="https://www.wowkeren.com/images/news/00139323.jpg", KBS WORLD
-https://home-tv.web.id/kicau/usee-vidio.m3u8?channel=usee-kbsworld
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-kbsworld
 
 #EXTINF:-1 tvg-id="ChineseDrama.MACAN" tvg-name="ChineseDrama.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/chinesedrama.png", Chinese Drama
-#EXTVLCOPT:http-user-agent=OKBOS
-https://home-tv.web.id/kicau/usee-vidio.m3u8?channel=usee-chinesedrama
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-chinesedrama
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/blue-ant-extreme-ca.png" group-title="MOVIES",Blue Ant Extreme
-#EXTVLCOPT:http-user-agent=OKBOS
-https://home-tv.web.id/kicau/usee-vidio.m3u8?channel=usee-blueantextreme
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-blueantextreme
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/blue-ant-entertainment-ca.png" group-title="MOVIES",BlueAnt Entertainment HD
-#EXTVLCOPT:http-user-agent=OKBOS
-https://home-tv.web.id/kicau/usee-vidio.m3u8?channel=usee-blueant
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-blueant
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="MOVIES", IMC 
 https://fikrulmkc.my.id/bagus/usee-imc.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="MOVIES", IMC BACKUP
-https://andriant.net/baru/imc.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyW26j0h/drakor-plus.png" group-title="MOVIES",Drakor Plus
-http://103.55.39.182/~dusktil2/a.m3u8?q=drakorplus
+https://nonton.site:8443/6894864475/7163819284/35484
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/tvposter/flik.png" group-title="MOVIES",FLIK
 https://fikrulmkc.my.id/bagus/usee-flik.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/tvposter/flik.png" group-title="MOVIES",FLIK BACKUP
-https://andriant.net/baru/flik.m3u8
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="SPORTS",Fox Sports 1 Asia
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="SPORTS",Fox Sports 2 Asia
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="305" tvg-id="FS1.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428103_ico.png" group-title="SPORTS",FOX SPORT
-https://andriant.net/baru/foxsport1.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/i4LfqUs.png",FOX SPORTS 1 BACKUP
-https://liveanevia.mncnow.id/live/eds/FOXSports/sa_dash_vmx/FOXSports.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/XUKBhEG.png",FOX SPORTS 2 BACKUP
-https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd
 
 #EXTINF:-1 tvg-name="305" tvg-id="FS2.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428104_ico.png" group-title="SPORTS",FOX SPORT 2
 https://andriant.net/baru/foxsport2.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="SPORTS",Fox Sports 3 Asia
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -720,20 +705,18 @@ https://andriant.net/baru/bein2.m3u8
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-#EXTINF:-1 tvg-id="" tvg-name="SOCCER" tvg-logo="https://www.infotelevisi.com/asset/images/tv/Soccer-Channel.jpg" group-title="SPORTS",SOCCER CHANNEL
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_dash_vmx/SoccerChannel.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Fig.Int" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428264_ico.png" group-title="SPORTS",FIGHT SPORTS
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="SPORTS", UseeSports 1
-https://home-tv.web.id/kicau/usee-vidio.m3u8?channel=usee-useesport
+http://fikrulmkc.my.id/bagus/usee-useesport.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS", UseeSports 2
-https://home-tv.web.id/kicau/usee-vidio.m3u8?channel=usee-useesports2
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",BUNDESLIGA PPTV 36 (server 2)
+http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/chunklist_w49272953_b1128000_slThai.m3u8
 
 #EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",CHAMPION TV 1 HD
 https://fikrulmkc.my.id/bagus/usee-champion1.m3u8
@@ -789,31 +772,31 @@ https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
 
 #EXTINF:0 tvg-id="ext" group-title="SPORTS",Sport TV 1
-http://77.54.145.209:81/play/a02v
-
-#EXTINF:0 tvg-id="ext" group-title="SPORTS",Sport TV 1
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="SPORTS",Sport TV 2
-http://77.54.145.209:81/play/a02j
 
 #EXTINF:0 tvg-id="ext" group-title="SPORTS",Sport TV 2
 https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="SPORTS",Sport TV 3
-http://77.54.145.209:81/play/a02n
-
-#EXTINF:0 tvg-id="ext" group-title="SPORTS",Sport TV 3
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="SPORTS",Sport TV 4
-http://77.54.145.209:81/play/a02o
 
 #EXTINF:0 tvg-id="ext" group-title="SPORTS",Sport TV 4
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="SPORTS",Sport TV 5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg",SPORT TV 1 BACKUP
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv2.jpg",SPORT TV 2 BACKUP
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv3.jpg",SPORT TV 3 BACKUP
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv4.jpg",SPORT TV 4 BACKUP
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv5.jpg",SPORT TV 5 BACKUP
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="SPORTS",SETANTA SPORTS 1
 http://ott-cdn.ucom.am/s81/03.m3u8
@@ -1077,91 +1060,28 @@ https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports6.png",SKYNET SPORTS 6
 https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
 
-#EXTINF:0 group-title="SPORTS",SUPER SPORT 1HD
-http://us.bestvideostreaming.is/10030/index.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png",SKYNET SPORTS HD BACKUP
+http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
 
-#EXTINF:0 group-title="SPORTS",SUPER SPORT 2HD
-http://us.bestvideostreaming.is/8734/index.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports1.png",SKYNET SPORTS 1 BACKUP
+http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports2.png",SKYNET SPORTS 2 BACKUP
+http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports3.png",SKYNET SPORTS 3 BACKUP
+http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports4.png",SKYNET SPORTS 4 BACKUP
+http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports5.png",SKYNET SPORTS 5 BACKUP
+http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports6.png",SKYNET SPORTS 6 BACKUP
+http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
 
-#EXTINF:0 group-title="SPORTS",SUPER SPORT 3HD
-http://us.bestvideostreaming.is/8741/index.m3u8|User-Agent=stream
 
-#EXTINF:0 group-title="SPORTS",SUPER SPORT 4HD
-http://us.bestvideostreaming.is/8743/index.m3u8|User-Agent=stream
-
-#EXTINF:0 group-title="SPORTS",SUPER SPORT 5HD
-http://us.bestvideostreaming.is/8736/index.m3u8|User-Agent=stream
-
-#EXTINF:0 group-title="SPORTS",TRING SPORT NEWS HD
-http://us.bestvideostreaming.is/8785/index.m3u8|User-Agent=stream
-
-#EXTINF:0 group-title="SPORTS",TRING SPORT 1HD
-http://us.bestvideostreaming.is/3011/index.m3u8|User-Agent=stream
-
-#EXTINF:0 group-title="SPORTS",T SPORT 1HD
-http://us.bestvideostreaming.is/8976/index.m3u8|User-Agent=stream
-
-#EXTINF:0 group-title="SPORTS",TRING SPORT 2HD
-http://us.bestvideostreaming.is/3012/index.m3u8|User-Agent=stream
-
-#EXTINF:0 group-title="SPORTS",T SPORT 2HD
-http://us.bestvideostreaming.is/8797/index.m3u8|User-Agent=stream
-
-#EXTINF:0 group-title="SPORTS",TRING SPORT 3HD
-http://us.bestvideostreaming.is/8798/index.m3u8|User-Agent=stream
-
-#EXTINF:0 group-title="SPORTS",TRING SPORT 4HD
-http://us.bestvideostreaming.is/8799/index.m3u8|User-Agent=stream
-
-#EXTINF:0 group-title="SPORTS",K SPORT 1HD
-http://us.bestvideostreaming.is/10035/index.m3u8|User-Agent=stream
-
-#EXTINF:0 group-title="SPORTS",BeIN SPORTS 1HD
-http://178.132.1.25:8080/BEINSPORTS1HD/index.m3u8
-
-#EXTINF:0 group-title="SPORTS",BeIN SPORTS 2HD
-http://178.132.1.25:8080/BEINSPORTS2HD/index.m3u8
-
-#EXTINF:0 group-title="SPORTS",BeIN SPORTS 3HD
-http://178.132.1.25:8080/BEINSPORTS3HD/index.m3u8
-
-#EXTINF:0 group-title="SPORTS",BeIN SPORTS MAX 4HD
-http://178.132.1.25:8080/BEINMAX4HD/index.m3u8
-
-#EXTINF:0 group-title="SPORTS",BeIN SPORTS MAX 5HD
-http://178.132.1.25:8080/BEINMAX5HD/index.m3u8
-
-#EXTINF:0 group-title="SPORTS",BeIN SPORTS MAX 6HD
-http://178.132.1.25:8080/BEINMAX6HD/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="|UK| Premier Sports 1" tvg-logo="" group-title="SPORTS",Premier Sports 1
-https://www.livedoomovie.com:443/02_PremierHD1_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="|UK| Premier Sports 2" tvg-logo="" group-title="SPORTS",Premier Sports 2
-https://www.livedoomovie.com:443/02_PremierHD2_480p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/UcAZcqo.png",ELEVEN SPORTS 1HD 
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/15198
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/UcAZcqo.png",ELEVEN SPORTS 1 
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/BcHgKUU.png",ELEVEN SPORTS 2HD 
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/15197
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/BcHgKUU.png",ELEVEN SPORTS 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Z8W5Pro.png",ELEVEN SPORTS 3HD
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/15097
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/DBhFG9b.png",ELEVEN SPORTS 4HD
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/19149
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/NcX3Iaj.png",CANAL+SPORT HD
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/1519
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/NcX3Iaj.png",CANAL+SPORT 2HD 
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/1519
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/scqSDrZ.png",POLSAT SPORT PREMIUM 1HD
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/23369
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/scqSDrZ.png",POLSAT SPORT PREMIUM 2HD
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/23370
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/scqSDrZ.png",POLSAT SPORT PREMIUM 3HD
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/23420
 
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://i.imgur.com/bE5OfvD.jpg",PLANET SPORT 1HD
 http://hrv.00387.info/PlanetSport1HD/index.m3u8?token=test
@@ -1262,8 +1182,7 @@ http://137.74.92.216:8080/EUROSPORT2/tracks-v1a1/mono.m3u8?token=test
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
 
 #EXTINF:-1  tvg-logo="https://2.bp.blogspot.com/-zD_Ptg6qORA/XmXo4sRhbXI/AAAAAAAApeg/DnnI5wluS5MaeFyPFsIQ8pEPVtwFrLV2QCLcBGAsYHQ/s1600/dunia-lain-channel-tv-logo.png" group-title="Entertainment", Dunia Lain
-#EXTVLCOPT:http-user-agent=OKBOS
-https://home-tv.web.id/kicau/usee-vidio.m3u8?channel=usee-dunialain
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-dunialain
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
