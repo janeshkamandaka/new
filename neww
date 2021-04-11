@@ -12,6 +12,9 @@ https://alyciasakhi.com/playlis/vidio-indosiar4.m3u8
 #EXTINF:-1 tvg-id="ANT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428066_ico.png" group-title="LOKAL",ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
+#EXTINF:-1 tvg-id="ANT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428066_ico.png" group-title="LOKAL",ANTV BACKUP
+http://chostv.mobie.in/files/iptv/antv.m3u8
+
 #EXTINF:-1 group-title="Asia" tvg-logo="https://i.imgur.com/0zHJS7l.png",group-title="LOKAL",TV One
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -40,7 +43,7 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg",MNC TV
-https://andriant.net/baru/mnctv.m3u8
+
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg",MNC TV BACKUP
 https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
@@ -49,7 +52,7 @@ https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=22fb0cee7e1f3bde58293de743871417102a6ed6587b5b8cb4ebbe972864690b
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg",MNC TV TV BACKUP 3
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/d9bbf6929ec1028.m3u8
+
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg",MNC TV TV BACKUP 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -269,13 +272,7 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 https://andriant.net/baru/animax.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="KIDS", Aniplus 
-https://fikrulmkc.my.id/bagus/usee-aniplus.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="KIDS", Aniplus Backup
-https://home-tv.web.id/kicau/usee-vidio.m3u8?channel=usee-aniplus
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="KIDS", Aniplus Backup 2
-https://andriant.net/baru/aniplus.m3u8
+https://nonton.site:8443/6894864475/7163819284/2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -476,9 +473,12 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png",HBO BACKUP 2
 https://fikrulmkc.my.id/film/hbo.m3u8
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png",HBO BACKUP 3
+https://gratismkctv.net/film/hbo.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FsXFQxW/benner-hbo.png" group-title="MOVIES",HBO BACKUP 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FsXFQxW/benner-hbo.png" group-title="MOVIES",HBO BACKUP 4
 https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd
@@ -493,7 +493,6 @@ https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_dash_vmx/HBOFamily.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbbX3z6/HBO-HITS.png" group-title="MOVIES",HBO HITS
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1511,170 +1510,6 @@ https://lh3.googleusercontent.com/BUlYytKrg8rX0ixoM8Ogop3EzlePZv05mQkZ20PzkPTeeD
 
 #EXTINF:-1 group-title="VOD INDO",The Raid 2 : Berandal 
 https://lh3.googleusercontent.com/r1kzl43Tk-EUmb6VFOu7fCYLTrL6kmv9C_rsME-DXxlpqz7TTS0wTEMsN9ZvS5eqQjez4_COfLBDSh2m8A=m22
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Cewek Perabot Cintanya Ambyar Menembus Awan
-https://m.vidio.com/videos/1903728/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Terinfeksi Virus Tongseng yang Ku Mau
-https://m.vidio.com/videos/1903352/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Nanti Kita Cerita Tentang Pukis Nangka
-https://m.vidio.com/videos/1903032/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Harta, Tahta, Cinta Sasha
-https://m.vidio.com/videos/1901941/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Culametan Met Met Di Playground
-https://m.vidio.com/videos/1900065/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Jangan Ada Sambel Diantara Kita
-https://m.vidio.com/videos/1898373/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Kehaluan Hakiki Calon Manten
-https://m.vidio.com/videos/1897441/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Cintaku di Share Location ke Hati Kamu
-https://m.vidio.com/videos/1896851/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",I Love 1000 Karung Beras 
-https://m.vidio.com/videos/1896204/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Cowok Gue Anak DWP (Dah Waktunya ke Penghulu)
-https://m.vidio.com/videos/1895027/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Virus Cinta Cewek Cincau
-https://m.vidio.com/videos/1893796/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Pacar Trial Nona Es Kelapa Muda
-https://m.vidio.com/videos/1893117/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Bucin Cinta, Aku Bisa Apa
-https://m.vidio.com/videos/1891298/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Siapa Takut Cewek Galak?
-https://m.vidio.com/videos/1890029/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Badut Santuy To The Max
-https://m.vidio.com/videos/1866883/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Inem Asisten Seksi Repot
-https://m.vidio.com/videos/1865333/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Akhirnya Kopilih Aku Daripada Dia
-https://m.vidio.com/videos/1864807/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Neng Supir Aku Tanpamu I'Mbyar
-https://m.vidio.com/videos/1864179/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Biar Tak Seumur Cintaku Pantang Mundur
-https://m.vidio.com/videos/1863511/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Cintaku Bernapas dalam Bubur
-https://m.vidio.com/videos/1862362/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Jodoh Gak Akan Kemana Saingan Dimana-Mana
-https://m.vidio.com/videos/1861383/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Pacar Gue Bukan Cewek Gedongan
-https://m.vidio.com/videos/1860478/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Biduan Gerobak Dangdut Trending
-https://m.vidio.com/videos/1859430/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Pantang Pulang Sebelum Jadian
-https://m.vidio.com/videos/1858476/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Modus Cinta Tingkat Kuli
-https://m.vidio.com/videos/1857514/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Aku Cinta Kamu 3000 Kilo
-https://m.vidio.com/videos/1856382/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Aku Terlalu Palsu Untuk Cintamu yang Asli
-https://m.vidio.com/videos/1855254/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Jodoh Cewek Sapi Kena Cancel
-https://m.vidio.com/videos/1854077/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Cinta Kamu Munculnya di Ending
-https://m.vidio.com/videos/1852950/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Miss Kinclong Colong Hatiku
-https://m.vidio.com/videos/1851907/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Kekuatan Cintamu Bertegangan Tinggi 
-https://m.vidio.com/videos/1851126/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Dear Eneng Bebekku Sayang 
-https://m.vidio.com/videos/1850341/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Cowok Mreki Bikin Jatuh Hati 
-https://m.vidio.com/videos/1849322/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Kue Leker Bukan Kaleng-Kaleng 
-https://m.vidio.com/videos/1848390/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Bongkar Saldo Cinta Supir Truk Modis
-https://m.vidio.com/videos/1847273/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Boss Killer Juteknya Level Halilintar 
-https://m.vidio.com/videos/1846126/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Click Bait Cinta si Tinggi 
-https://m.vidio.com/videos/1844859/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Cewek Cetar Turun Kasta Dapat Tahta 
-https://m.vidio.com/videos/1844084/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Pacarku Cantik Tapi Boong 
-https://m.vidio.com/videos/1842685/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",My Wife Ngeselin tapi Ngangenin 
-https://m.vidio.com/videos/1841778/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Wig-mu Alihkan Duniaku 
-https://m.vidio.com/videos/1839114/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Aku Mau Cinta yang Hunya Hinyu 
-https://m.vidio.com/videos/1836878/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Mas Jawara In Your Area 
-https://m.vidio.com/videos/1835963/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Gadis Martabak Hampir Bahagia
-https://m.vidio.com/videos/1835163/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Tukang Bajaj Undercover 
-https://m.vidio.com/videos/1834053/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Bidan KW Sobat Ambyar 
-https://m.vidio.com/videos/1832817/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Sekretaris Metal Obat Patah Hati 
-https://m.vidio.com/videos/1831851/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Maduku Tak Sesederhana Truth Or Dare 
-https://m.vidio.com/videos/1830958/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Gebetan Gue Tajir Mewangi 
-https://m.vidio.com/videos/1738540/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Ratu Diskon Cintanya Limited Edition 
-https://m.vidio.com/videos/1685902/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Pacarannya Sama Gue, Nikahnya Sama Dia 
-https://m.vidio.com/videos/1531510/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",My Wife Anak Geng Motor 
-https://m.vidio.com/videos/1657106/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Mengejar Cinta? Siap Bosque 
-https://m.vidio.com/videos/1673681/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Milyader Kece Dengan Kearifan Lokal 
-https://m.vidio.com/videos/1662722/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Digombalin Miss Kecambah Auto Baper 
-https://m.vidio.com/videos/1680605/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Cewek Kalong Pacaran Yuk 
-https://m.vidio.com/videos/1817788/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Demo Syantik Mahasiswi Cetar 
-https://m.vidio.com/videos/1809819/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Senoparty Goes To Kandang Bebek 
-https://m.vidio.com/videos/1819874/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Mantan Please Do Your Magic 
-https://m.vidio.com/videos/1822341/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Jiwa Kejombloanku Terguncang 
-https://m.vidio.com/videos/1821183/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Rayuan Gombal Kumbang Metropolitan 
-https://m.vidio.com/videos/1824246/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Mbok Jamu Milenial Cintanya Ambyar 
-https://m.vidio.com/videos/1818856/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Wasiat Eyang Bikin Baper So Hard 
-https://m.vidio.com/videos/1823379/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Menantu Bayaran Bikin Salfok Duniaku 
-https://m.vidio.com/videos/1748300/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Resep Cinta Bikin Romantis 
-https://m.vidio.com/videos/291848/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Cintaku Semerbak di Florist 
-https://m.vidio.com/videos/764168/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Resep Cinta Kaki Lima Rasa Bintang Lima 
-https://m.vidio.com/videos/1640672/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Ratu Montir Sejagad 
-https://m.vidio.com/videos/1220317/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Perempuan Dalam Sangkar Emas 
-https://m.vidio.com/videos/1177041/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Setangkai Rambutan Cinta 
-https://m.vidio.com/videos/1228364/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Pacarku Sang Juara No 27 
-https://m.vidio.com/videos/829290/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Hatiku di Skakmat by You 
-https://m.vidio.com/videos/1651054/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Gadis +62 Lupa Cinta 
-https://m.vidio.com/videos/1635620/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Energi Cinta Cinderella Matre 
-https://m.vidio.com/videos/1608387/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Entah Ayam Apa Yang Merasuki Cintaku
-https://m.vidio.com/videos/2008111/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Cintamu Padaku Kayak Ada Manis Manisnya
-https://m.vidio.com/videos/2008108/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Hatiku Lockdown di Kuah Sotomu
-https://m.vidio.com/videos/2008107/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Suami Katrok Pamer Bojo
-https://m.vidio.com/videos/2008235/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Stay At Hatiku Please Mas Jutek
-https://m.vidio.com/videos/2008119/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Jagoan Cantik Work From Hatiku
-https://m.vidio.com/videos/2008123/vjs_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6rRtGrN/Warok-PNG.png" group-title="FTV_Vidio",Cinderella Anti Sekip
-https://m.vidio.com/videos/2008126/vjs_playlist.m3u8
 
 
 
