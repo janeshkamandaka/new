@@ -1,12 +1,4 @@
-#EXTINF:0 tvg-id="ext" tvg-logo="https://statik.tempo.co/data/2021/03/11/id_1006600/1006600_720.jpg" group-title="CUP",Indosiar Live Only
-https://alyciasakhi.com/playlis/vidio-indosiar1.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://statik.tempo.co/data/2021/03/11/id_1006600/1006600_720.jpg" group-title="CUP",Indosiar Live Only
-https://alyciasakhi.com/playlis/vidio-indosiar2.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://statik.tempo.co/data/2021/03/11/id_1006600/1006600_720.jpg" group-title="CUP",Indosiar Live Only
-https://alyciasakhi.com/playlis/vidio-indosiar3.m3u8
-#EXTINF:0 tvg-id="ext"  tvg-logo="https://statik.tempo.co/data/2021/03/11/id_1006600/1006600_720.jpg" group-title="CUP",Indosiar Live Only
-https://alyciasakhi.com/playlis/vidio-indosiar4.m3u8
-
+#EXTINF
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="ANT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428066_ico.png" group-title="LOKAL",ANTV
@@ -662,7 +654,7 @@ https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="B02.th" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport2.png" group-title="SPORTS",BEIN SPORTS 2 
 https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
 
@@ -919,10 +911,6 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6786_720p/index.
 https://nonton.site:8443/provision/pp/728
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="SPORTS",BeIN Sport 2 ID
 https://nonton.site:8443/provision/pp/729
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="SPORTS",ID: beIN Sports 1 HD
-http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/165105
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="SPORTS",ID: beIN Sports 2 HD
-http://iptvtree.net:8080/sylvie-doigtdor2/94d0b514/165073
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS",Usee Sport 1
 https://nonton.site:8443/provision/pp/36240
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS",Usee Sport 2
