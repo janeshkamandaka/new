@@ -681,7 +681,7 @@ http://mantul.biz.id:8888/294/294/5284
 #EXTINF:-1 tvg-id="RIYAN.2110bd0166f0bc49fc9c4fc469cfcb66.SHINTA" tvg-name="Citra Drama" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/oANgznd8LKnwF939_hOA75mnXEo=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg" group-title="MOVIES",Citra Drama
 http://mantul.biz.id:8888/294/294/5285
 
-#EXTINF:-1 tvg-id="citradrama" tvg-name="Citra Drama" tvg-logo="https://i.ibb.co/DtJ1jkg/citradrama.png" group-title="lokaltainment", Citra Drama BACKUP
+#EXTINF:-1 tvg-id="citradrama" tvg-name="Citra Drama" tvg-logo="https://i.ibb.co/DtJ1jkg/citradrama.png" group-title="MOVIES", Citra Drama BACKUP
 http://radenroro.net/RHS/kuncoro.m3u8?channel=vidio-6401
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/kGD42ZLQ-OfFt7rrrmLErptMN6c=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg" tvg-id="RIYAN.57ee1bdd1198eb580b920424a7bb5ef2.SHINTA" tvg-name"[CODAY] Citra Entertainment _VIDIO" group-title="MOVIES",Citra Entertainment
@@ -696,7 +696,7 @@ https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==galaxypremium&b=15&c=galaxypremium
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="GalaxyPremium.id" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/galaxy_premium.jpg", Galaxy Premium BACKUP
 https://radenroro.net/RHS/homempd.php?channel=galaxypremium
 
-#EXTINF:-1 tvg-id="e37b8b887354c90880969c68f82ce7ff" tvg-name="Bioskop Indonesia" tvg-logo="http://www.transvision.co.id/images/channel/bioskop_ind.png" group-title="MOVIES",Bioskop Indonesia
+#EXTINF:-1 tvg-id="e37b8b887354c90880969c68f82ce7ff" tvg-name="Bioskop Indonesia" tvg-logo="http://www.transvision.co.id/images/channel/bioskop_ind.png" group-title=" ",Bioskop Indonesia
 http://mantul.biz.id:8888/294/294/243
 
 #EXTINF:-1 tvg-id="Galaxy.MACAN" tvg-name="Galaxy.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/galaxy.jpg", Galaxy
@@ -706,7 +706,7 @@ https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==galaxy&b=15&c=galaxy
 https://fikrulmkc.my.id/bagus/usee-sone.m3u8
 
 #EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="SonyOneHD.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/sonyone.png", Sony One Backup
-https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-sone
+https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-sone9*-------8
 
 #EXTINF:-1 tvg-id="KPlus.id" tvg-name="KPlus.id" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/kplus.png", K+
 https://home-tv.web.id/kicau/pastebin1.m3u8?channel=usee-kplus
@@ -1657,6 +1657,25 @@ https://lh3.googleusercontent.com/BUlYytKrg8rX0ixoM8Ogop3EzlePZv05mQkZ20PzkPTeeD
 
 #EXTINF:-1 group-title="VOD INDO",The Raid 2 : Berandal 
 https://lh3.googleusercontent.com/r1kzl43Tk-EUmb6VFOu7fCYLTrL6kmv9C_rsME-DXxlpqz7TTS0wTEMsN9ZvS5eqQjez4_COfLBDSh2m8A=m22
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
