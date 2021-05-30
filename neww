@@ -1,3 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Asia" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.freepik.com%2Ffree-vector%2Flive-streaming-sing_147754-84.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Flive-streaming-sing_6122992.htm&tbnid=wJ0P1RebYKq5eM&vet=12ahUKEwjTkJGMu_DwAhUXPCsKHaLaBjMQMygDegUIARDbAQ..i&docid=VZoqGHR3bnhkjM&w=626&h=626&q=LIVE%20STREAMING&safe=strict&client=firefox-b-d&ved=2ahUKEwjTkJGMu_DwAhUXPCsKHaLaBjMQMygDegUIARDbAQ",group-title="LIVE STREAMING",TINJU DUNIA
+https://95-213-172-221.livesports24.online/matchboetsru.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -442,7 +446,7 @@ http://mantul.biz.id:8888/294/294/1018
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #EXTINF:-1 tvg-id="tvN Movies HD" tvg-name="tvN MOVIES" tvg-logo="https://www.asiantvawards.com/wp-content/uploads/2017/08/tvN-movie-logo-no-tagline.jpg" group-title="MOVIES",tvN MOVIES BACKUP
-http://mantul.biz.id:8888/294/294/28
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -450,7 +454,7 @@ http://mantul.biz.id:8888/294/294/28
 https://anevia114.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #EXTINF:-1 tvg-ID="TVN" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png", TVN BACKUP
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6362_720p/index.m3u8
+https://livestreaming-google-etslive.vidio.com/live/6362/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -695,7 +699,7 @@ http://mantul.biz.id:8888/294/294/5285
 http://abdrahim.my.id/live/tvindo/citradrama.m3u8
 
 #EXTINF:-1 tvg-id="citradrama" tvg-name="Citra Drama" tvg-logo="https://i.ibb.co/DtJ1jkg/citradrama.png" group-title="MOVIES", Citra Drama BACKUP 2
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=citradrama
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6401_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/kGD42ZLQ-OfFt7rrrmLErptMN6c=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg" tvg-id="RIYAN.57ee1bdd1198eb580b920424a7bb5ef2.SHINTA" tvg-name"[CODAY] Citra Entertainment _VIDIO" group-title="MOVIES",Citra Entertainment
 http://radenroro.net/RHS/kuncoro.m3u8?channel=vidio-6402
@@ -875,16 +879,31 @@ http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="SPORTS",  ASSP1 BACKUP
-http://iptv.tvmalaysia.cc/932633/932633/6708 
+http://iptv.tvmalaysia.cc/932633/932633/6708
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="SPORTS",  ASSP1 BACKUP 2
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6708 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="SPORTS",  ASSP2 BACKUP
 http://iptv.tvmalaysia.cc/932633/932633/6710 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="SPORTS",  ASSP2 BACKUP 2
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="SPORTS", ASSP3 BACKUP
-http://iptv.tvmalaysia.cc/932633/932633/6711 
+http://iptv.tvmalaysia.cc/932633/932633/6711
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="SPORTS", ASSP3 BACKUP 2
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6711 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="SPORTS",  ASSP4 BACKUP
 http://iptv.tvmalaysia.cc/932633/932633/6712
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="SPORTS",  ASSP4 BACKUP 2
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport5HD" group-title="SPORTS" tvg-logo="https://i.postimg.cc/QxTnfTBd/bein-sports-max.png",Bein Max
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/fyG6tGqp/SKYNET-SPORTS-1.png" group-title="SPORTS", SkyNet Sports 1 (backup9)
 https://cmt.mb13.cyou/uni/livedo/skynetsports1.m3u8
