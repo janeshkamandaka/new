@@ -1,5 +1,47 @@
 #EXTM3U
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
+#EXTINF:-1 group-title="LIVE STREAMING" tvg-id="USC" tvg-chno="US6" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/NpUkSL3T",unifi Sports 6 HD
+https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
+#EXTINF:-1 group-title="LIVE STREAMING" tvg-id="USC" tvg-chno="US7" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/1gQKtrxB",unifi Sports 7 HD
+https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
+#EXTINF:-1 group-title="LIVE STREAMING" tvg-id="USC" tvg-chno="US8" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/VrUDHzHa",unifi Sports 8 HD
+https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
+#EXTINF:-1 group-title="LIVE STREAMING" tvg-id="USC" tvg-chno="US9" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/8rs5tKy8",unifi Sports 9 HD
+https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
+#EXTINF:-1 group-title="LIVE STREAMING" tvg-id="USC" tvg-chno="US10" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/8Y9dZUSI",unifi Sports 10 HD
+https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
+#EXTINF:-1 group-title="LIVE STREAMING" tvg-id="USC" tvg-chno="US11" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/pC41J1AK",unifi Sports 11 HD
+https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
+#EXTINF:-1 group-title="LIVE STREAMING" tvg-id="USC" tvg-chno="US12" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/cL0ged2e",unifi Sports 12 HD
+https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=M2ZlYTk5N2YtMjdjZC0zZGE1LTg3ZTYtNWM0YjllMTkzYjcz
+#EXTINF:-1 group-title="LIVE STREAMING" tvg-id="USC" tvg-chno="US13" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/wuC3Kw9b",unifi Sports 13 HD
+https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
+
+
+
 #EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-zCY5oq-o6J4/YMMviph-97I/AAAAAAAABE4/QfuAlDI1hN0PtMwxLN6pvL-Za347AeMlQCLcBGAsYHQ/s1365/1200px-UEFA_Euro_2020_Logo.svg.png"group-title="LIVE STREAMING",ESPN
 http://stream2.grandma.fit/fs2.m3u8
 #EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-zCY5oq-o6J4/YMMviph-97I/AAAAAAAABE4/QfuAlDI1hN0PtMwxLN6pvL-Za347AeMlQCLcBGAsYHQ/s1365/1200px-UEFA_Euro_2020_Logo.svg.png"group-title="LIVE STREAMING",BeinSport1Max
@@ -540,7 +582,10 @@ http://iptv.tvmalaysia.cc:80/737373/737373/7113
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-id="ANT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428066_ico.png" group-title="LOKAL",ANTV BACKUP
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/b630a001384603f.m3u8 
+https://dl.dropboxusercontent.com/s/zdqqnjigken3jig/b630a001384603f.m3u8
+
+#EXTINF:-1 tvg-id="ANT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428066_ico.png" group-title="LOKAL",ANTV BACKUP 2
+https://visionplus-stream.visionplus.id//live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
 
 #EXTINF:-1 group-title="Asia" tvg-logo="https://i.imgur.com/0zHJS7l.png",group-title="LOKAL",TV One
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -548,7 +593,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/b630a001384
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 group-title="Asia" tvg-logo="https://i.imgur.com/0zHJS7l.png",group-title="LOKAL",TV One Backup
-https://www.dropbox.com/s/i9p25shz5s5bn7o/tvone.m3u8?dl=1
+https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
 
 #EXTINF:-1 group-title="Asia" tvg-logo="https://i.imgur.com/0zHJS7l.png",group-title="LOKAL",TV One Backup 2
 http://85.203.33.29:25461/XX3O1xfISI/9xs4PJkAwO/160668?play_token=vdV69QiwUc&token=ShdcBRFREglDVFEDVgMAUVdQXVIJAQsDBF0NBlIHX1QDVwNdUgkGAVRGHxERR0tSUF5mClwbCQZQVQ8DD04bRUJQRjsLXRIJQ1AFBVYGABUdEU0KVVwRDVdTCAAOVAoCCQMYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwMXZzYXEHlAQAcKUENcD0QAEytdXVhfVkoKWRsfFQQMTUdWFlwSC1tBCA4VElAOEV1HEEobDRN6fUEUG1ZPEgBXRl4NVxILF0AXQBUSWhI7QVYRR0tSUF5cERoDEQdESRtYVhpmU15bWgEBTVlcDxcRCUACGxsTXlYNUU1cRTkVUFEVWFdFXVlJ
@@ -570,7 +615,7 @@ http://radenroro.net/RHS/kuncoro.m3u8?channel=usee-rtv
 https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg",RCTI BACKUP
-https://tv.mbahnunungonline.net/playlist/rcti.m3u8
+https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL",RCTI BACKUP 2
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=665
@@ -588,7 +633,7 @@ http://gpc.my.id/vidio/mnc.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=870
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg",MNC TV TV BACKUP 3
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_870_720p/index.m3u8
+https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg",MNC TV TV BACKUP 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -619,13 +664,16 @@ http://gpc.my.id/vidio/inews.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/99PkM23.png?v=2.0.0.13" group-title="LOKAL",iNews TV BACKUP 4
+https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="LOKAL",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="LOKAL",GTV BACKUP
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-778.m3u8
+https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="LOKAL",GTV BACKUP 2
 https://tv.mbahnunungonline.net/playlist/gtv.m3u8 
@@ -655,7 +703,7 @@ https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-204.m3u8
 
 #EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="LOKAL",SCTV BACKUP 2
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2b8fc230e8f847a.m3u8
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/indosiar.png" group-title="LOKAL",INDOSIAR 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -663,10 +711,10 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/2b8fc230e8f
 https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd 
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/indosiar.png" group-title="LOKAL",INDOSIAR BACKUP
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/575eeb9f08dc8db.m3u8 
+https://m3u-editor.com/serve/bedd47d0-cfe4-11eb-9773-f707dc9b4abc/319387542
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/indosiar.png" group-title="LOKAL",INDOSIAR BACKUP 2
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_205_720p/index.m3u8
+https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/oznMlqHunOdzDHDYDXWU2PJYK34=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/ochannel-94c811.jpg" tvg-id="RIYAN.7d55f027a7b39def3455db27eeaed41c.SHINTA" tvg-name"[CODAY] Ochannel _VIDIO" group-title="LOKAL",Ochannel 
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-206.m3u8
@@ -773,12 +821,15 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=875
 
 #EXTINF:-1 tvg-id="RIYAN.7ba60c315b6b5d375b4a39267d475655.SHINTA" tvg-name="NET TV" tvg-logo="https://www.useetv.com/pimages/tvposter/net.png" group-title="LOKAL",NET TV Backup 
-https://fikrulmkc.my.id/bagus/usee-net.m3u8
+https://dl.dropbox.com/s/4z3cupdot7uhhxt/6cdb3402d11f58d.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_116.jpg" group-title="LOKAL",NET TV Backup 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#EXTINF:-1 tvg-id="RIYAN.7ba60c315b6b5d375b4a39267d475655.SHINTA" tvg-name="NET TV" tvg-logo="https://www.useetv.com/pimages/tvposter/net.png" group-title="LOKAL",NET TV Backup 3
+https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg",Biznet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
@@ -817,82 +868,6 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7432_720p/index.
 
 #EXTINF:-1 tvg-ID="OKTV" group-title="LOKAL" tvg-logo="https://www.useetv.com/pimages/logo_seatoday_big.png", Sea Today
 https://tv.mbahnunungonline.net/playlist/seatoday.m3u8
-
-
-#EXTINF:-1 tvg-id="transtv" tvg-name="TRANSTV HD" tvg-logo="https://zalogi.xyz/logo/transtv3.png" group-title="LOKAL",TRANSTV HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1310
-#EXTINF:-1 tvg-id="transtv" tvg-name="TRANS TV FHD" tvg-logo="https://zalogi.xyz/logo/transtv3.png" group-title="LOKAL",TRANS TV FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1312
-#EXTINF:-1 tvg-id="trans7" tvg-name="TRANS7 HD" tvg-logo="https://zalogi.xyz/logo/trans7-2.png" group-title="LOKAL",TRANS7 HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1313
-#EXTINF:-1 tvg-id="trans7" tvg-name="TRANS 7 FHD" tvg-logo="https://zalogi.xyz/logo/trans7-2.png" group-title="LOKAL",TRANS 7 FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1315
-#EXTINF:-1 tvg-id="rcti" tvg-name="RCTI HD" tvg-logo="http://cekker.masuk.web.id/logo/rcti2.png" group-title="LOKAL",RCTI HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1316
-#EXTINF:-1 tvg-id="rcti" tvg-name="RCTI FHD" tvg-logo="http://cekker.masuk.web.id/logo/rcti2.png" group-title="LOKAL",RCTI FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1964
-#EXTINF:-1 tvg-id="rcti" tvg-name="RCTI+" tvg-logo="http://cekker.masuk.web.id/logo/rcti2.png" group-title="LOKAL",RCTI+
-http://zalogitv.tech:8080/Hidayat/Hidayat/1844
-#EXTINF:-1 tvg-id="mnctv" tvg-name="MNCTV FHD" tvg-logo="http://cekker.masuk.web.id/logo/mnc2.png" group-title="LOKAL",MNCTV FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1317
-#EXTINF:-1 tvg-id="gtv" tvg-name="GTV FHD" tvg-logo="http://cekker.masuk.web.id/logo/gtv2.png" group-title="LOKAL",GTV FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1318
-#EXTINF:-1 tvg-id="net" tvg-name="NET HD" tvg-logo="https://i.postimg.cc/5t45f2Hw/net3.png" group-title="LOKAL",NET HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1319
-#EXTINF:-1 tvg-id="net" tvg-name="NET FHD" tvg-logo="https://i.postimg.cc/5t45f2Hw/net3.png" group-title="LOKAL",NET FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1321
-#EXTINF:-1 tvg-id="metrotv" tvg-name="METROTV HD" tvg-logo="https://i.postimg.cc/65Kyk14Z/metrotv2.png" group-title="LOKAL",METROTV HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1328
-#EXTINF:-1 tvg-id="metrotv" tvg-name="METROTV FHD" tvg-logo="https://i.postimg.cc/65Kyk14Z/metrotv2.png" group-title="LOKAL",METROTV FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1330
-#EXTINF:-1 tvg-id="kompastv" tvg-name="KOMPASTV" tvg-logo="https://i.postimg.cc/KY3GkngF/kompas2.png" group-title="LOKAL",KOMPASTV
-http://zalogitv.tech:8080/Hidayat/Hidayat/1331
-#EXTINF:-1 tvg-id="KompasTv.MACAN" tvg-name="KOMPASTV HD" tvg-logo="https://i.postimg.cc/KY3GkngF/kompas2.png" group-title="LOKAL",KOMPASTV HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1332
-#EXTINF:-1 tvg-id="cnnindonesia" tvg-name="CNN Indonesia FHD" tvg-logo="https://i.postimg.cc/FRg7zj2z/cnn-ind2.png" group-title="LOKAL",CNN Indonesia FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1496
-#EXTINF:-1 tvg-id="beritasatu" tvg-name="BERITA SATU" tvg-logo="https://i.postimg.cc/MZnphJGX/bs22.png" group-title="LOKAL",BERITA SATU
-http://zalogitv.tech:8080/Hidayat/Hidayat/1333
-#EXTINF:-1 tvg-id="tvri" tvg-name="TVRI" tvg-logo="https://i.postimg.cc/Y26CKRx5/tvri2.png" group-title="LOKAL",TVRI
-http://zalogitv.tech:8080/Hidayat/Hidayat/1335
-#EXTINF:-1 tvg-id="inews" tvg-name="INEWS" tvg-logo="http://cekker.masuk.web.id/logo/inewsss.png" group-title="LOKAL",INEWS
-http://zalogitv.tech:8080/Hidayat/Hidayat/1336
-#EXTINF:-1 tvg-id="jaktv" tvg-name="JAKTV" tvg-logo="https://i.postimg.cc/dVpvYLNf/jaktv2.png" group-title="LOKAL",JAKTV
-http://zalogitv.tech:8080/Hidayat/Hidayat/1338
-#EXTINF:-1 tvg-id="rtv" tvg-name="RTV" tvg-logo="https://i.postimg.cc/T3r9nZjk/rtv2.png" group-title="LOKAL",RTV
-http://zalogitv.tech:8080/Hidayat/Hidayat/1340
-#EXTINF:-1 tvg-id="daaitv" tvg-name="DAAI TV" tvg-logo="https://i.postimg.cc/26f1CH9g/daii2.png" group-title="LOKAL",DAAI TV
-http://zalogitv.tech:8080/Hidayat/Hidayat/1342
-#EXTINF:-1 tvg-id="mytv" tvg-name="MYTV" tvg-logo="https://i.postimg.cc/3w9MF0NH/mytv2.png" group-title="LOKAL",MYTV
-http://zalogitv.tech:8080/Hidayat/Hidayat/1344
-#EXTINF:-1 tvg-id="tvone" tvg-name="TV ONE" tvg-logo="https://i.postimg.cc/zXpD3f6p/tvone22.png" group-title="LOKAL",TV ONE
-http://zalogitv.tech:8080/Hidayat/Hidayat/1345
-#EXTINF:-1 tvg-id="antv" tvg-name="ANTV" tvg-logo="https://i.postimg.cc/ZqWQJHvP/anttv2.png" group-title="LOKAL",ANTV
-http://zalogitv.tech:8080/Hidayat/Hidayat/1346
-#EXTINF:-1 tvg-id="antara" tvg-name="ANTARA" tvg-logo="https://i.postimg.cc/5tDRyz8h/antara2.png" group-title="LOKAL",ANTARA
-http://zalogitv.tech:8080/Hidayat/Hidayat/1347
-#EXTINF:-1 tvg-id="balitv" tvg-name="BALITV" tvg-logo="https://i.postimg.cc/7ZGbcD7c/bali22.png" group-title="LOKAL",BALITV
-http://zalogitv.tech:8080/Hidayat/Hidayat/1348
-#EXTINF:-1 tvg-id="jitv" tvg-name="JITV" tvg-logo="http://cekker.masuk.web.id/logo/jitvu.png" group-title="LOKAL",JITV
-http://zalogitv.tech:8080/Hidayat/Hidayat/1349
-#EXTINF:-1 tvg-id="insert" tvg-name="INSERT" tvg-logo="http://cekker.masuk.web.id/logo/insertu.png" group-title="LOKAL",INSERT
-http://zalogitv.tech:8080/Hidayat/Hidayat/1350
-#EXTINF:-1 tvg-id="jtv" tvg-name="JTV" tvg-logo="https://i.postimg.cc/G2J1Gz30/jtv2.png" group-title="LOKAL",JTV
-http://zalogitv.tech:8080/Hidayat/Hidayat/1351
-#EXTINF:-1 tvg-id="rrinet" tvg-name="RRI NET" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13" group-title="LOKAL",RRI NET
-http://zalogitv.tech:8080/Hidayat/Hidayat/1352
-#EXTINF:-1 tvg-id="useeinfo" tvg-name="RUANG TERAMPIL" tvg-logo="http://cekker.masuk.web.id/logo/useeinfou.png" group-title="LOKAL",RUANG TERAMPIL
-http://zalogitv.tech:8080/Hidayat/Hidayat/1353
-#EXTINF:-1 tvg-id="useephoto" tvg-name="USEE PHOTO" tvg-logo="https://i.postimg.cc/j24xHq5x/usee22.png" group-title="LOKAL",USEE PHOTO
-http://zalogitv.tech:8080/Hidayat/Hidayat/1354
-#EXTINF:-1 tvg-id="useeprime" tvg-name="USEE PRIME" tvg-logo="http://cekker.masuk.web.id/logo/useeprimeu.png" group-title="LOKAL",USEE PRIME
-http://zalogitv.tech:8080/Hidayat/Hidayat/1355
-#EXTINF:-1 tvg-id="seatoday" tvg-name="Sea Today" tvg-logo="http://cekker.masuk.web.id/logo/idkuu.png" group-title="LOKAL",Sea Today
-http://zalogitv.tech:8080/Hidayat/Hidayat/1356
-#EXTINF:-1 tvg-id="jowo" tvg-name="Jowo Channel FHD" tvg-logo="https://cdn.macan.tv/img/jowo.png" group-title="LOKAL",Jowo Channel FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1756
-#EXTINF:-1 tvg-id="1163566700" tvg-name="RCTV" tvg-logo="https://i.postimg.cc/T19fpXrx/radar-cirebon-tv-radar-cirebon-televisi-television-rctv-cirebon-streaming-media-others-7729127db25f7.png" group-title="LOKAL",RCTV
-http://zalogitv.tech:8080/Hidayat/Hidayat/8083
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1423,163 +1398,6 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="MOVIES", Flik 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-id="FOX.MACAN" tvg-name="FOX FHD" tvg-logo="https://i.postimg.cc/RVwbFq08/fox2.png" group-title="MOVIES",FOX FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1357
-#EXTINF:-1 tvg-id="fox" tvg-name="Fox HD" tvg-logo="https://i.postimg.cc/RVwbFq08/fox2.png" group-title="MOVIES",Fox HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1848
-#EXTINF:-1 tvg-id="foxmovies" tvg-name="FOX Movies Premium FHD" tvg-logo="https://i.postimg.cc/ydWbYPJX/foxm22.png" group-title="MOVIES",FOX Movies Premium FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1360
-#EXTINF:-1 tvg-id="foxmovies" tvg-name="Fox Movies HD" tvg-logo="https://i.postimg.cc/ydWbYPJX/foxm22.png" group-title="MOVIES",Fox Movies HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1849
-#EXTINF:-1 tvg-id="foxactionmovies" tvg-name="FOX Action Movies FHD" tvg-logo="https://i.postimg.cc/GmQ7FNGx/foxac22.png" group-title="MOVIES",FOX Action Movies FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1358
-#EXTINF:-1 tvg-id="foxactionmovies" tvg-name="Fox Action HD" tvg-logo="https://i.postimg.cc/GmQ7FNGx/foxac22.png" group-title="MOVIES",Fox Action HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1850
-#EXTINF:-1 tvg-id="foxcrime" tvg-name="FOX Crime FHD" tvg-logo="https://i.postimg.cc/WbZxkX55/foxmov22.png" group-title="MOVIES",FOX Crime FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1359
-#EXTINF:-1 tvg-id="foxcrime" tvg-name="Fox Crime HD" tvg-logo="https://i.postimg.cc/WbZxkX55/foxmov22.png" group-title="MOVIES",Fox Crime HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1851
-#EXTINF:-1 tvg-id="foxlife" tvg-name="FOX Life FHD" tvg-logo="https://i.postimg.cc/mgNqdhfM/foxlife2.png" group-title="MOVIES",FOX Life FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1362
-#EXTINF:-1 tvg-id="foxlife" tvg-name="Fox Life HD" tvg-logo="https://i.postimg.cc/mgNqdhfM/foxlife2.png" group-title="MOVIES",Fox Life HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1853
-#EXTINF:-1 tvg-id="foxfamilymovies" tvg-name="FOX Family Movies (IDN) FHD" tvg-logo="https://i.postimg.cc/W45yvK41/foxf2.png" group-title="MOVIES",FOX Family Movies (IDN) FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1361
-#EXTINF:-1 tvg-id="foxfamilymovies" tvg-name="FOX Family Movies (Eng) FHD" tvg-logo="https://i.postimg.cc/W45yvK41/foxf2.png" group-title="MOVIES",FOX Family Movies (Eng) FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1852
-#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO FHD" tvg-logo="https://i.postimg.cc/SKhTC4ns/HBO2.png" group-title="MOVIES",HBO FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1363
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://i.postimg.cc/SKhTC4ns/HBO2.png" group-title="MOVIES",HBO HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1364
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature FHD" tvg-logo="https://i.postimg.cc/ZY7MgXM7/hbosig2.png" group-title="MOVIES",HBO Signature FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1365
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature HD" tvg-logo="https://i.postimg.cc/ZY7MgXM7/hbosig2.png" group-title="MOVIES",HBO Signature HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1366
-#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits FHD" tvg-logo="https://i.postimg.cc/kXLhMK9W/hbohits22.png" group-title="MOVIES",HBO Hits FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1367
-#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits HD" tvg-logo="https://i.postimg.cc/kXLhMK9W/hbohits22.png" group-title="MOVIES",HBO Hits HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1368
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family FHD" tvg-logo="https://i.postimg.cc/zXyc10mJ/hboff33.png" group-title="MOVIES",HBO Family FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1369
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="https://i.postimg.cc/zXyc10mJ/hboff33.png" group-title="MOVIES",HBO Family HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1370
-#EXTINF:-1 tvg-id="Cinemax by HBO" tvg-name="Cinemax by HBO FHD" tvg-logo="https://i.postimg.cc/Gmy39FDR/cinema2.png" group-title="MOVIES",Cinemax by HBO FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1371
-#EXTINF:-1 tvg-id="Cinemax by HBO" tvg-name="Cinemax by HBO HD" tvg-logo="https://i.postimg.cc/Gmy39FDR/cinema2.png" group-title="MOVIES",Cinemax by HBO HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1372
-#EXTINF:-1 tvg-id="RED by HBO" tvg-name="RED by HBO FHD" tvg-logo="https://i.postimg.cc/vTg7TjHt/red2.png" group-title="MOVIES",RED by HBO FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1373
-#EXTINF:-1 tvg-id="RED by HBO" tvg-name="RED by HBO HD" tvg-logo="https://i.postimg.cc/vTg7TjHt/red2.png" group-title="MOVIES",RED by HBO HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1374
-#EXTINF:-1 tvg-id="cdrama" tvg-name="Citra Drama" tvg-logo="https://i.postimg.cc/3JPYMkcc/cdrama2.png" group-title="MOVIES",Citra Drama
-http://zalogitv.tech:8080/Hidayat/Hidayat/1376
-#EXTINF:-1 tvg-id="zbioskop" tvg-name="Zee Bioskop" tvg-logo="https://i.postimg.cc/5NJj6T09/zeeb2.png" group-title="MOVIES",Zee Bioskop
-http://zalogitv.tech:8080/Hidayat/Hidayat/1377
-#EXTINF:-1 tvg-id="flik" tvg-name="Flik HD" tvg-logo="https://i.postimg.cc/LXrN4MF2/flik2.png" group-title="MOVIES",Flik HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1378
-#EXTINF:-1 tvg-id="flik" tvg-name="Flik FHD" tvg-logo="https://i.postimg.cc/LXrN4MF2/flik2.png" group-title="MOVIES",Flik FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1379
-#EXTINF:-1 tvg-id="bioskopindonesia" tvg-name="Bioskop Indonesia HD" tvg-logo="https://i.postimg.cc/QC7sVsBb/bios2.png" group-title="MOVIES",Bioskop Indonesia HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1381
-#EXTINF:-1 tvg-id="cinemaworld" tvg-name="Cinema World HD" tvg-logo="https://i.postimg.cc/kMTgHXC0/cinew2.png" group-title="MOVIES",Cinema World HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1382
-#EXTINF:-1 tvg-id="cinemaworld" tvg-name="CinemaWorld FHD" tvg-logo="https://i.postimg.cc/kMTgHXC0/cinew2.png" group-title="MOVIES",CinemaWorld FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1383
-#EXTINF:-1 tvg-id="celestialmovie" tvg-name="Celestial Movies HD" tvg-logo="https://i.postimg.cc/wvfYwMNF/cele2.png" group-title="MOVIES",Celestial Movies HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1385
-#EXTINF:-1 tvg-id="thrill" tvg-name="Thrill" tvg-logo="https://i.postimg.cc/nV2fGP2h/thrill2.png" group-title="MOVIES",Thrill
-http://zalogitv.tech:8080/Hidayat/Hidayat/1386
-#EXTINF:-1 tvg-id="warnertv" tvg-name="Warner Tv HD" tvg-logo="https://i.postimg.cc/VvQv9HWR/wb2.png" group-title="MOVIES",Warner Tv HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1387
-#EXTINF:-1 tvg-id="warnertv" tvg-name="Warner TV FHD" tvg-logo="https://i.postimg.cc/VvQv9HWR/wb2.png" group-title="MOVIES",Warner TV FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1388
-#EXTINF:-1 tvg-id="chinesedrama" tvg-name="Chinese Drama" tvg-logo="https://i.postimg.cc/x88nQMQW/chi2.png" group-title="MOVIES",Chinese Drama
-http://zalogitv.tech:8080/Hidayat/Hidayat/1389
-#EXTINF:-1 tvg-id="galaxy" tvg-name="Galaxy HD" tvg-logo="https://i.postimg.cc/q74wgGF6/galax2.png" group-title="MOVIES",Galaxy HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1390
-#EXTINF:-1 tvg-id="galaxy" tvg-name="Galaxy FHD" tvg-logo="https://i.postimg.cc/q74wgGF6/galax2.png" group-title="MOVIES",Galaxy FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1391
-#EXTINF:-1 tvg-id="galaxypremium" tvg-name="Galaxy Premium HD" tvg-logo="https://i.postimg.cc/V6NFWkmY/galaxy2.png" group-title="MOVIES",Galaxy Premium HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1392
-#EXTINF:-1 tvg-id="galaxypremium" tvg-name="Galaxy Premium FHD" tvg-logo="https://i.postimg.cc/V6NFWkmY/galaxy2.png" group-title="MOVIES",Galaxy Premium FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1393
-#EXTINF:-1 tvg-id="ccm" tvg-name="Celestial Classic Movies B" tvg-logo="https://zalogi.xyz/logo/ccm2.png" group-title="MOVIES",Celestial Classic Movies B
-http://zalogitv.tech:8080/Hidayat/Hidayat/305
-#EXTINF:-1 tvg-id="scmlegend" tvg-name="SCM Legend SD" tvg-logo="https://i.postimg.cc/3Nj4Sj1P/star-chine4.png" group-title="MOVIES",SCM Legend SD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1395
-#EXTINF:-1 tvg-id="SCM" tvg-name="Star Chinese Movies FHD" tvg-logo="https://i.postimg.cc/3Nj4Sj1P/star-chine4.png" group-title="MOVIES",Star Chinese Movies FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1396
-#EXTINF:-1 tvg-id="hits" tvg-name="HITS" tvg-logo="https://i.postimg.cc/MHPNmFhL/hits2.png" group-title="MOVIES",HITS
-http://zalogitv.tech:8080/Hidayat/Hidayat/1397
-#EXTINF:-1 tvg-id="hitsmovies" tvg-name="HITS Movies" tvg-logo="https://i.postimg.cc/Y2b57vhx/hitsmov2.png" group-title="MOVIES",HITS Movies
-http://zalogitv.tech:8080/Hidayat/Hidayat/1398
-#EXTINF:-1 tvg-id="" tvg-name="ATV Movies " tvg-logo="https://i.postimg.cc/85NFdYZj/download-3.jpg" group-title="MOVIES",ATV Movies 
-http://zalogitv.tech:8080/Hidayat/Hidayat/645
-#EXTINF:-1 tvg-id="andprive" tvg-name="&Prive Movies (Eng)" tvg-logo="https://i.postimg.cc/MHzdv6tg/prive2.png" group-title="MOVIES",&Prive Movies (Eng)
-http://zalogitv.tech:8080/Hidayat/Hidayat/651
-#EXTINF:-1 tvg-id="" tvg-name="&Flix Movie (eng)" tvg-logo="https://i.postimg.cc/85QygBvp/flix2.png" group-title="MOVIES",&Flix Movie (eng)
-http://zalogitv.tech:8080/Hidayat/Hidayat/1692
-#EXTINF:-1 tvg-id="" tvg-name="Drakor Tv" tvg-logo="https://i.postimg.cc/mZmcbN4n/kisspng-korean-drama-logo-film-kdrama-5b2f4bb2765a98-4029565415298262264848.png" group-title="MOVIES",Drakor Tv
-http://zalogitv.tech:8080/Hidayat/Hidayat/1720
-#EXTINF:-1 tvg-id="ZeeTV.MACAN" tvg-name="ZeeTv-1" tvg-logo="https://macan.network/img/zeetv.png" group-title="MOVIES",ZeeTv-1
-http://zalogitv.tech:8080/Hidayat/Hidayat/1742
-#EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="https://i.postimg.cc/jqvtN8d3/Zee-Smile.png" group-title="MOVIES",Zee Action
-http://zalogitv.tech:8080/Hidayat/Hidayat/1743
-#EXTINF:-1 tvg-id="ZeeCinema.MACAN" tvg-name="Zee Cinema" tvg-logo="https://cdn.macan.tv/img/zeecinema.png" group-title="MOVIES",Zee Cinema
-http://zalogitv.tech:8080/Hidayat/Hidayat/1744
-#EXTINF:-1 tvg-id="b4uplus.ae" tvg-name="B4U Movie" tvg-logo="https://i.postimg.cc/DZkQcVH3/Png-Joy-movies-b4u-movies-logo-png-transparent-png-2216441.png" group-title="MOVIES",B4U Movie
-http://zalogitv.tech:8080/Hidayat/Hidayat/1745
-#EXTINF:-1 tvg-id="sinemaindonesia" tvg-name="Sinema Indonesia" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/dfe1b00e05f7a1a07edc.jpg" group-title="MOVIES",Sinema Indonesia
-http://zalogitv.tech:8080/Hidayat/Hidayat/1862
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="tvn" tvg-name="TVN HD" tvg-logo="https://i.postimg.cc/fyDZR4v6/tvn2.png" group-title="MOVIES",TVN HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1400
-#EXTINF:-1 tvg-id="tvn" tvg-name="tvN FHD" tvg-logo="https://i.postimg.cc/fyDZR4v6/tvn2.png" group-title="MOVIES",tvN FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/299
-#EXTINF:-1 tvg-id="tvnmovies" tvg-name="Tvn Movies HD" tvg-logo="https://i.postimg.cc/264rYjnQ/tvnm2.png" group-title="MOVIES",Tvn Movies HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1401
-#EXTINF:-1 tvg-id="tvnmovies" tvg-name="tvN Movies FHD" tvg-logo="https://i.postimg.cc/264rYjnQ/tvnm2.png" group-title="MOVIES",tvN Movies FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/300
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/kG3z1S4Q/axn2.png" group-title="MOVIES",AXN HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1402
-#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN FHD" tvg-logo="https://i.postimg.cc/kG3z1S4Q/axn2.png" group-title="MOVIES",AXN FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/313
-#EXTINF:-1 tvg-id="imc" tvg-name="IMC HD" tvg-logo="https://i.postimg.cc/HsLC8QfK/imc2.png" group-title="MOVIES",IMC HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1403
-#EXTINF:-1 tvg-id="imc" tvg-name="IMC FHD" tvg-logo="https://i.postimg.cc/HsLC8QfK/imc2.png" group-title="MOVIES",IMC FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/293
-#EXTINF:-1 tvg-id="blueant" tvg-name="BlueAnt HD" tvg-logo="https://i.postimg.cc/qvTBhtxC/blue-abt22.png" group-title="MOVIES",BlueAnt HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1404
-#EXTINF:-1 tvg-id="blueant" tvg-name="BlueAnt FHD" tvg-logo="https://i.postimg.cc/qvTBhtxC/blue-abt22.png" group-title="MOVIES",BlueAnt FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1416
-#EXTINF:-1 tvg-id="blueantextreme" tvg-name="BlueAnt Extreme HD" tvg-logo="https://i.postimg.cc/m2M2g3Cs/blue-ext22.png" group-title="MOVIES",BlueAnt Extreme HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1405
-#EXTINF:-1 tvg-id="blueantextreme" tvg-name="Blue Ant Extreame FHD" tvg-logo="https://i.postimg.cc/m2M2g3Cs/blue-ext22.png" group-title="MOVIES",Blue Ant Extreame FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/640
-#EXTINF:-1 tvg-id="arirang" tvg-name="Arirang HD" tvg-logo="https://i.postimg.cc/L8C7dw56/arirang2.png" group-title="MOVIES",Arirang HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1406
-#EXTINF:-1 tvg-id="kplus" tvg-name="K Plus HD" tvg-logo="https://i.postimg.cc/nhPVhdr0/kp2.png" group-title="MOVIES",K Plus HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1407
-#EXTINF:-1 tvg-id="kplus" tvg-name="K PLUS FHD" tvg-logo="https://i.postimg.cc/nhPVhdr0/kp2.png" group-title="MOVIES",K PLUS FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/301
-#EXTINF:-1 tvg-id="wakuwaku" tvg-name="WakuWaku FHD" tvg-logo="https://i.postimg.cc/ZqW5GhfH/waku2.png" group-title="MOVIES",WakuWaku FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1408
-#EXTINF:-1 tvg-id="sgem" tvg-name="SGEM HD" tvg-logo="https://i.postimg.cc/1587VCYT/sge2.png" group-title="MOVIES",SGEM HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1409
-#EXTINF:-1 tvg-id="sgem" tvg-name="Sony GEM FHD" tvg-logo="https://i.postimg.cc/1587VCYT/sge2.png" group-title="MOVIES",Sony GEM FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/302
-#EXTINF:-1 tvg-id="kix" tvg-name="KIX HD" tvg-logo="https://i.postimg.cc/DZq75ngM/kix2.png" group-title="MOVIES",KIX HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1410
-#EXTINF:-1 tvg-id="kix" tvg-name="KIX FHD" tvg-logo="https://i.postimg.cc/DZq75ngM/kix2.png" group-title="MOVIES",KIX FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/303
-#EXTINF:-1 tvg-id="sone" tvg-name="SOne HD" tvg-logo="https://i.postimg.cc/XJx1dTWM/sone2.png" group-title="MOVIES",SOne HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1411
-
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="SPORTS",Fox Sports 1 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 
@@ -1793,11 +1611,6 @@ http://rv.imax.re:80/307271464111/307271464111/78719
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_2.png" group-title="SPORTS", RMC 2
 http://rv.imax.re:80/307271464111/307271464111/78718
 
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="SPORTS",BeIN Sport 1 ID
-https://nonton.site:8443/provision/pp/728
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/433prz0D/bein-sport.png" group-title="SPORTS",BeIN Sport 2 ID
-https://nonton.site:8443/provision/pp/729
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS",Usee Sport 1
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=useesport
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS",Usee Sport 2
@@ -1810,33 +1623,10 @@ http://nova-live.ssl.cdn.cra.cz/channels/nova-sport1/playlist/cze/live_fullhd.m3
 #EXTINF:-1    group-title="SPORTS" ,Nova Sport 2
 http://nova-live.ssl.cdn.cra.cz/channels/nova-sport2/playlist/cze/live_fullhd.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS", SONY TEN 1
-http://iptv.tvmalaysia.cc/932633/932633/8216
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="SPORTS", SONY TEN 2
-http://iptv.tvmalaysia.cc/932633/932633/8222
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS", SONY TEN 3
-http://iptv.tvmalaysia.cc/932633/932633/8223
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="SPORTS",BeInSports 1 AR
 http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein2.jpg",Bein Sports 2 AR
 http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ByKs8MD/20200226-220244.png" group-title="SPORTS",Sony Ten 1 
-http://cdn.ihub.live:8080/SonyTen1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ByKs8MD/20200226-220244.png" group-title="SPORTS",Sony Ten 1 (server 2)
-http://cdn.naturalbd.com:8083/SonyTen1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="SPORTS",Sony Ten 2 
-http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="SPORTS",Sony Ten 2 (server 2)
-http://cdn.naturalbd.com:8083/SonyTen2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j83FZ7h/20200226-220620.png" group-title="SPORTS",Sony Ten 3 
-http://cdn.ihub.live:8080/SonyTen3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j83FZ7h/20200226-220620.png" group-title="SPORTS",Sony Ten 3 (server 2)
-http://cdn.naturalbd.com:8083/SonyTen3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="SPORTS",Sony SIX
-http://cdn.naturalbd.com:8083/SonySix/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptv-work.at.ua/3/343.jpg" group-title="SPORTS",Футбол 1
 https://95-213-224-169.livesports24.online/uafootballua1.m3u8
@@ -1858,30 +1648,26 @@ https://95-213-224-169.livesports24.online/mfootball2rus.m3u8
 https://95-213-224-169.livesports24.online/rumatchf3.m3u8
 #EXTINF:-1   tvg-logo="https://s-cdn.sportbox.ru/images/styles/upload/fp_fotos/bc/bd/568e309e76bb6ad5685f1e09e4be15bf5d79f444e602c784381612.jpg" group-title="SPORTS",МАТЧ! Премьер
 https://95-213-224-181.livesports24.online/mpremierrus.m3u8
-#EXTINF:-1   tvg-logo="https://i.imgur.com/twMKgz9.png" group-title="SPORTS",МАТЧ! СТРАНА
-http://5jcwq4ei.otttv.pw/iptv/7AA66875YWHV2R/107/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS",Sony Ten 1
+http://tv.pmcon.net/hls/stream40.m3u8
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30617
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44710
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
 
-#EXTINF:-1 tvg-id="dunialain" tvg-name="Dunia Lain" tvg-logo="https://i.postimg.cc/VNJqJHR6/dunia22.png" group-title="Entertainment",Dunia Lain
-http://zalogitv.tech:8080/Hidayat/Hidayat/1412
-#EXTINF:-1 tvg-id="kbsworld" tvg-name="KBSWorld FHD" tvg-logo="https://i.postimg.cc/3N1Y51zj/kbs2.png" group-title="Entertainment",KBSWorld FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1413
-#EXTINF:-1 tvg-id="tv5monde" tvg-name="TV5Monde" tvg-logo="https://i.postimg.cc/rFhcMPRP/tv522.png" group-title="Entertainment",TV5Monde
-http://zalogitv.tech:8080/Hidayat/Hidayat/1414
-#EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="E! Entertainment" tvg-logo="https://i.postimg.cc/4NMSJg3M/download.jpg" group-title="Entertainment",E! Entertainment
-http://zalogitv.tech:8080/Hidayat/Hidayat/574
-#EXTINF:-1 tvg-id="" tvg-name="BBC Brit" tvg-logo="https://i.postimg.cc/rFp8wwmW/images.png" group-title="Entertainment",BBC Brit
-http://zalogitv.tech:8080/Hidayat/Hidayat/1752
-#EXTINF:-1 tvg-id="" tvg-name="BBC America" tvg-logo="https://i.postimg.cc/SNc356Dc/Screenshot-20201222-000210.jpg" group-title="Entertainment",BBC America
-http://zalogitv.tech:8080/Hidayat/Hidayat/1842
-#EXTINF:-1 tvg-id="nhkworld" tvg-name="NHK World Premium" tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/d7f85c7abb6523aa7739.png" group-title="Entertainment",NHK World Premium
-http://zalogitv.tech:8080/Hidayat/Hidayat/1863
-#EXTINF:-1 tvg-id="formosa" tvg-name="Formosa" tvg-logo="https://i.postimg.cc/PrYtbPJf/ftv-tw.png" group-title="Entertainment",Formosa
-http://zalogitv.tech:8080/Hidayat/Hidayat/1961
-#EXTINF:-1 tvg-id="" tvg-name="Set Tv" tvg-logo="https://i.postimg.cc/hjTsfbWF/images-32.jpg" group-title="Entertainment",Set Tv
-http://zalogitv.tech:8080/Hidayat/Hidayat/1965
-#EXTINF:-1 tvg-id="" tvg-name="Hallmark" tvg-logo="https://i.postimg.cc/qv3jtB0z/311-3112139-hallmark-channel-logo-logotype-hallmark-channel-clipart.jpg" group-title="Entertainment",Hallmark
-http://zalogitv.tech:8080/Hidayat/Hidayat/12363
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="SPORTS",Sony Ten 2
+http://tv.pmcon.net/hls/stream39.m3u8
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44711
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",Sony Ten 3
+http://212.102.60.40:2200/R-EX/SPORTS_TEN_3_HD-in/tracks-v1a1/mono.m3u8
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/44712
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8 
+https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-ID="ONE.KR" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/waku2japan.png" group-title="Entertainment",WAKU2 JAPAN
@@ -2021,59 +1807,6 @@ https://livestreaming-google-etslive.vidio.com/live/6838/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
-
-#EXTINF:-1 tvg-id="lovenature" tvg-name="Love Nature" tvg-logo="https://i.postimg.cc/0Qmy3p8Z/love22.png" group-title="KNOWLEDGE",Love Nature
-http://zalogitv.tech:8080/Hidayat/Hidayat/1432
-#EXTINF:-1 tvg-id="smithsonian" tvg-name="Smithsonian" tvg-logo="https://i.postimg.cc/kG41cfM2/smith22.png" group-title="KNOWLEDGE",Smithsonian
-http://zalogitv.tech:8080/Hidayat/Hidayat/1433
-#EXTINF:-1 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://i.postimg.cc/fTHSYfk0/davin2.png" group-title="KNOWLEDGE",Da Vinci
-http://zalogitv.tech:8080/Hidayat/Hidayat/1450
-#EXTINF:-1 tvg-id="tvedukasi" tvg-name="Tv Edukasi" tvg-logo="https://i.postimg.cc/Y0KzKfQS/edu2.png" group-title="KNOWLEDGE",Tv Edukasi
-http://zalogitv.tech:8080/Hidayat/Hidayat/1451
-#EXTINF:-1 tvg-id="bbcearth" tvg-name="BBC Earth" tvg-logo="https://i.postimg.cc/pXtMkwhw/bbce2.png" group-title="KNOWLEDGE",BBC Earth
-http://zalogitv.tech:8080/Hidayat/Hidayat/1434
-#EXTINF:-1 tvg-id="animalplanet" tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/kGmYFd1w/animal22.png" group-title="KNOWLEDGE",Animal Planet
-http://zalogitv.tech:8080/Hidayat/Hidayat/1435
-#EXTINF:-1 tvg-id="history" tvg-name="History HD" tvg-logo="https://i.postimg.cc/wTrntn5y/histo2.png" group-title="KNOWLEDGE",History HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1436
-#EXTINF:-1 tvg-id="history" tvg-name="History FHD" tvg-logo="https://i.postimg.cc/wTrntn5y/histo2.png" group-title="KNOWLEDGE",History FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1437
-#EXTINF:-1 tvg-id="Discovery Asia HD" tvg-name="Discovery Asia" tvg-logo="https://i.postimg.cc/025J6B5s/dis-asia2.png" group-title="KNOWLEDGE",Discovery Asia
-http://zalogitv.tech:8080/Hidayat/Hidayat/1438
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Channel HD" tvg-logo="https://i.postimg.cc/MHqfmsy1/disco2.png" group-title="KNOWLEDGE",Discovery Channel HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1439
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Channel FHD" tvg-logo="https://i.postimg.cc/MHqfmsy1/disco2.png" group-title="KNOWLEDGE",Discovery Channel FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1440
-#EXTINF:-1 tvg-id="natgeo" tvg-name="National Geographic HD" tvg-logo="https://i.postimg.cc/wBjNS4P2/nat-ge.png" group-title="KNOWLEDGE",National Geographic HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1441
-#EXTINF:-1 tvg-id="natgeo" tvg-name="National Geographic FHD" tvg-logo="https://i.postimg.cc/wBjNS4P2/nat-ge.png" group-title="KNOWLEDGE",National Geographic FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1442
-#EXTINF:-1 tvg-id="natgeopeople" tvg-name="Nat Geo People HD" tvg-logo="https://i.postimg.cc/Fs00cL3y/nat-p.png" group-title="KNOWLEDGE",Nat Geo People HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1443
-#EXTINF:-1 tvg-id="natgeopeople" tvg-name="Nat Geo People FHD" tvg-logo="https://i.postimg.cc/Fs00cL3y/nat-p.png" group-title="KNOWLEDGE",Nat Geo People FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1444
-#EXTINF:-1 tvg-id="natgeowild" tvg-name="Nat Geo wild HD" tvg-logo="https://i.postimg.cc/HxKb0062/nat-wild.png" group-title="KNOWLEDGE",Nat Geo wild HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1445
-#EXTINF:-1 tvg-id="natgeowild" tvg-name="Nat Geo Wild FHD" tvg-logo="https://i.postimg.cc/HxKb0062/nat-wild.png" group-title="KNOWLEDGE",Nat Geo Wild FHD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1446
-#EXTINF:-1 tvg-id="crimeinvestigation" tvg-name="Crime Investigation" tvg-logo="https://i.postimg.cc/dVLk6ZTN/crime2.png" group-title="KNOWLEDGE",Crime Investigation
-http://zalogitv.tech:8080/Hidayat/Hidayat/1447
-#EXTINF:-1 tvg-id="cgtndocumentary" tvg-name="CGTN Documentary HD" tvg-logo="https://i.postimg.cc/C52Yx5Ld/cgtn2.png" group-title="KNOWLEDGE",CGTN Documentary HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/1448
-#EXTINF:-1 tvg-id="lingua" tvg-name="Lingua Channel" tvg-logo="https://i.postimg.cc/VLzkGr2B/ling2.png" group-title="KNOWLEDGE",Lingua Channel
-http://zalogitv.tech:8080/Hidayat/Hidayat/1449
-#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="Sky Dmax HD" tvg-logo="https://i.postimg.cc/FHZnB9Xj/dmax.jpg" group-title="KNOWLEDGE",Sky Dmax HD
-http://zalogitv.tech:8080/Hidayat/Hidayat/515
-#EXTINF:-1 tvg-id="travelchannel.us" tvg-name="Travel Channel" tvg-logo="https://i.postimg.cc/1517Hvjh/travel4.png" group-title="KNOWLEDGE",Travel Channel
-http://zalogitv.tech:8080/Hidayat/Hidayat/516
-#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="Discovery Turbo" tvg-logo="https://i.postimg.cc/pr1R1dVG/turbo.jpg" group-title="KNOWLEDGE",Discovery Turbo
-http://zalogitv.tech:8080/Hidayat/Hidayat/517
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://i.postimg.cc/mDF5wNMw/science-channel-logo-discovery-channel.png" group-title="KNOWLEDGE",Discovery Science
-http://zalogitv.tech:8080/Hidayat/Hidayat/1902
-#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel" tvg-logo="https://i.postimg.cc/FRrs2zrw/favpng-logo-outdoor-channel-high-definition-television-television-channel.png" group-title="KNOWLEDGE",Outdoor Channel
-http://zalogitv.tech:8080/Hidayat/Hidayat/1904
-#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="https://i.postimg.cc/ydqHB5Yc/history2trp.png" group-title="KNOWLEDGE",History 2
-http://zalogitv.tech:8080/Hidayat/Hidayat/12322
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
