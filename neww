@@ -1622,9 +1622,6 @@ http://gpc.my.id/vidio/champion-tv-2.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="SPORTS", TV Champion 2
 http://topwin-tv.my.id/2/master.m3u8?id=champion2
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tCqSEySYyZZPXsI910g4Si7DWLxpOQAxfCUM8lF4kIoAflERZNdMSomfLyB0DzrwfQ&usqp=CAU" group-title="Sport", 78. TV Champion 3
-http://gpc.my.id/vidio/champion-tv-3.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-ID="ONE.KR" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/waku2japan.png" group-title="Entertainment",WAKU2 JAPAN
@@ -2182,6 +2179,31 @@ https://lh3.googleusercontent.com/BUlYytKrg8rX0ixoM8Ogop3EzlePZv05mQkZ20PzkPTeeD
 
 #EXTINF:-1 group-title="VOD INDO",The Raid 2 : Berandal 
 https://lh3.googleusercontent.com/r1kzl43Tk-EUmb6VFOu7fCYLTrL6kmv9C_rsME-DXxlpqz7TTS0wTEMsN9ZvS5eqQjez4_COfLBDSh2m8A=m22
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
