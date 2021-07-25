@@ -1,5 +1,138 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="LIVE STREAMING",Champions TV 1
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
+#EXTINF:-1 group-title="LIVE STREAMING",Champions TV 2
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion2&bandwidth=default&sync=0
+#EXTINF:-1 group-title="LIVE STREAMING",Champions TV 3
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion3&bandwidth=default&sync=0
+
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",17:30|Japan W v Great Britain W
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://hg-t1.dotice.me/plyvivo/20geg0co4i7an0g0lu5u/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",18:00|Netherlands W v Brazil W
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://hg-t1.dotice.me/plyvivo/bibi5ahepe7iwur0biyu/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",18:30New Zealand W v USA W
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Olympiade 1
+#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
+https://link.zozotv.xyz/Freemium1/unlimited99/318
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Olympiade 2
+#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
+https://link.zozotv.xyz/Freemium1/unlimited99/319
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Olympiade 3
+#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
+https://link.zozotv.xyz/Freemium1/unlimited99/320
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Olympiade 4
+#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
+https://link.zozotv.xyz/Freemium1/unlimited99/321
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Olympiade 5
+#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
+https://link.zozotv.xyz/Freemium1/unlimited99/322
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Olympiade 6
+#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
+https://link.zozotv.xyz/Freemium1/unlimited99/323
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Olympiade 7
+#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
+https://link.zozotv.xyz/Freemium1/unlimited99/324
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Olympiade 8
+#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
+https://link.zozotv.xyz/Freemium1/unlimited99/325
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Olympiade 9
+#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
+https://link.zozotv.xyz/Freemium1/unlimited99/326
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Olympiade 10
+#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
+https://link.zozotv.xyz/Freemium1/unlimited99/327
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",live ahihi
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://hg-c2.dotice.me/plyvivo/40bani3ucojibawazuwi/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Live 1a
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://hg-t1.dotice.me/plyvivo/t07utesawu9e1ahayalu/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Live 1
+#EXTVLCOPT:http-referrer=
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10795
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Live 2
+#EXTVLCOPT:http-referrer=
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2536
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Live 3
+#EXTVLCOPT:http-referrer=
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/40
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Live 4
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://hg-c1.dotice.me/plyvivo/sucaweyo9epip0feladi/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Live 5
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://hg-c1.dotice.me/plyvivo/bahawez06a8040v0vupo/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Live 6
+#EXTVLCOPT:http-referrer=
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2538
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Live 7
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://hg-c2.dotice.me/plyvivo/1omiku9ofahid0bujewu/chunklist.m3u8
+#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Live 8
+#EXTVLCOPT:http-referrer=https://www.tvply.me/
+https://hg-t1.dotice.me/plyvivo/mere2ajafotifujirafe/chunklist.m3u8
+
+#EXTINF:-1 group-title="LIVE STREAMING",Match
+https://95-213-224-169.livesports24.online/ooomatch.m3u8
+#EXTINF:-1 group-title="LIVE STREAMING",Sukan
+http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
+#EXTINF:-1 group-title="LIVE STREAMING",Sukan 2
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+#EXTINF:-1 group-title="LIVE STREAMING",Beins 1
+https://cutt.ly/Mm5G5fD
+#EXTINF:-1 group-title="LIVE STREAMING",Be Inspired
+https://cutt.ly/Zm5G50u
+#EXTINF:-1 group-title="LIVE STREAMING",Beins 3
+https://cutt.ly/3m5G6cN
+#EXTINF:-1 group-title="LIVE STREAMING",Benins 4
+https://cutt.ly/Pm5HrDP
+#EXTINF:-1 group-title="LIVE STREAMING",Beins 5
+https://cutt.ly/1m5Hr4c
+#EXTINF:-1 group-title="LIVE STREAMING",Beins 6
+https://cutt.ly/em5HtlN
+#EXTINF:-1 group-title="LIVE STREAMING",Beins 7
+https://cutt.ly/Pm5HabT
+#EXTINF:-1 group-title="LIVE STREAMING",Beins Prem 1
+https://cutt.ly/pm5HaPl
+#EXTINF:-1 group-title="LIVE STREAMING",Beins Prem 2
+https://cutt.ly/Am5Ha1k
+#EXTINF:-1 group-title="LIVE STREAMING",Beins Prem 3
+https://cutt.ly/Km5HkA2
+#EXTINF:-1 group-title="LIVE STREAMING",Beins Eng 1
+https://cutt.ly/5m5F1Ql
+#EXTINF:-1 group-title="LIVE STREAMING",Beins Eng 2
+https://cutt.ly/Wm5F10j
+#EXTINF:-1 group-title="LIVE STREAMING",Beins Eng 3
+https://cutt.ly/gm5F0Hd
+
+#EXTINF:-1 group-title="LIVE STREAMING",unifi Sports 1
+http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
+#EXTINF:-1 group-title="LIVE STREAMING",unifi Sports 2
+http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
+#EXTINF:-1 group-title="LIVE STREAMING",unifi Sports 3
+http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
+
+#EXTINF:-1 group-title="LIVE STREAMING",Super Sports 1
+http://93.157.62.180/Supersport1/index.m3u8
+#EXTINF:-1 group-title="LIVE STREAMING",Super Sports 2
+http://93.157.62.180/Supersport2/index.m3u8
+#EXTINF:-1 group-title="LIVE STREAMING",Super Sports 3
+http://93.157.62.180/Supersport3/index.m3u8
+#EXTINF:-1 group-title="LIVE STREAMING",Super Sports 4
+http://93.157.62.180/Supersport4/index.m3u8
+#EXTINF:-1 group-title="LIVE STREAMING",Super Sports 5
+http://93.157.62.180/Supersport5/index.m3u8
+#EXTINF:-1 group-title="LIVE STREAMING",Super Sports 6
+http://93.157.62.180/Supersport6/index.m3u8
+#EXTINF:-1 group-title="LIVE STREAMING",Super Sports 7
+http://93.157.62.180/Supersport7/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE STREAMING", SUKAN 
 http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 
@@ -1556,7 +1689,7 @@ http://rv.imax.re:80/307271464111/307271464111/78718
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS",Usee Sport 1
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=useesport
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS",Usee Sport 2
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=useesport2
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"  group-title="SPORTS",ONE GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 
