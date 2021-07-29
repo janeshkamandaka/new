@@ -1,101 +1,317 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 1" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="LIVE STREAMING",OLYMPIC 1
-https://link.zozotv.xyz:443/Freemium1/unlimited99/318
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 2" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="LIVE STREAMING",OLYMPIC 2
-https://link.zozotv.xyz:443/Freemium1/unlimited99/319
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 3" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="LIVE STREAMING",OLYMPIC 3
-https://link.zozotv.xyz:443/Freemium1/unlimited99/320
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 4" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="LIVE STREAMING",OLYMPIC 4
-https://link.zozotv.xyz:443/Freemium1/unlimited99/321
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 5" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="LIVE STREAMING",OLYMPIC 5
-https://link.zozotv.xyz:443/Freemium1/unlimited99/322
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 6" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="LIVE STREAMING",OLYMPIC 6
-https://link.zozotv.xyz:443/Freemium1/unlimited99/323
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 7" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="LIVE STREAMING",OLYMPIC 7
-https://link.zozotv.xyz:443/Freemium1/unlimited99/324
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 8" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="LIVE STREAMING",OLYMPIC 8
-https://link.zozotv.xyz:443/Freemium1/unlimited99/325
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 9" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="LIVE STREAMING",OLYMPIC 9
-https://link.zozotv.xyz:443/Freemium1/unlimited99/326
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 10" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="LIVE STREAMING",OLYMPIC 10
-https://link.zozotv.xyz:443/Freemium1/unlimited99/327
+#EXTINF:-1 group-title="LIVE STREAMING", BEN: Bein Sports 1 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/816 
+#EXTINF:-1 group-title="LIVE STREAMING", BEN: Bein Sports 10 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/825 
+#EXTINF:-1 group-title="LIVE STREAMING", BEN: Bein Sports 10FHD 
+http://baladi.hopto.org:25461/khan/indi@o/812 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 11FHD 
+http://baladi.hopto.org:25461/khan/indi@o/813 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 12FHD 
+http://baladi.hopto.org:25461/khan/indi@o/814 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 1FHD 
+http://baladi.hopto.org:25461/khan/indi@o/803 
+#EXTINF:-1 group-title="LIVE STREAMING", BEN: Bein Sports 1HD 
+http://baladi.hopto.org:25461/khan/indi@o/791 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 2 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/817 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 2FHD 
+http://baladi.hopto.org:25461/khan/indi@o/804 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 2HD 
+http://baladi.hopto.org:25461/khan/indi@o/792 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 3 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/819 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 3FHD 
+http://baladi.hopto.org:25461/khan/indi@o/805 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 3HD 
+http://baladi.hopto.org:25461/khan/indi@o/793 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 4 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/818 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 4FHD 
+http://baladi.hopto.org:25461/khan/indi@o/806 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 4HD 
+http://baladi.hopto.org:25461/khan/indi@o/794 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 5 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/820 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 5FHD 
+http://baladi.hopto.org:25461/khan/indi@o/807 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 5HD 
+http://baladi.hopto.org:25461/khan/indi@o/795 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 6 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/821 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 6FHD 
+http://baladi.hopto.org:25461/khan/indi@o/808 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 6HD 
+http://baladi.hopto.org:25461/khan/indi@o/796 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 7 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/822 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 7FHD 
+http://baladi.hopto.org:25461/khan/indi@o/809 
+#EXTINF:-1 group-tittle="LIVE STREAMING",BEN: Bein Sports 7HD 
+http://baladi.hopto.org:25461/khan/indi@o/797 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 8 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/823 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 8FHD 
+http://baladi.hopto.org:25461/khan/indi@o/810 
+#EXTINF:-1 group-tittle="LIVE STREAMING",BEN: Bein Sports 9 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/824 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports English 1HD 
+http://baladi.hopto.org:25461/khan/indi@o/801 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports English 2HD 
+http://baladi.hopto.org:25461/khan/indi@o/802 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports ES 
+http://baladi.hopto.org:25461/khan/indi@o/1890 
+#EXTINF:-1 group-tittle="LIVE STREAMING",BEN: Bein Sports News HD 
+http://baladi.hopto.org:25461/khan/indi@o/790 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports Premium 1HD 
+http://baladi.hopto.org:25461/khan/indi@o/798 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports Premium 2HD 
+http://baladi.hopto.org:25461/khan/indi@o/811 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports Premium 2HD 
+http://baladi.hopto.org:25461/khan/indi@o/799 
+#EXTINF:-1 group-tittle="LIVE STREAMING",BEN: Bein Sports US 
+http://baladi.hopto.org:25461/khan/indi@o/1889 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports USA 
+http://baladi.hopto.org:25461/khan/indi@o/800 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 1HD 
+http://baladi.hopto.org:25461/khan/indi@o/832 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 1HD BK 
+http://baladi.hopto.org:25461/khan/indi@o/833 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 2HD 
+http://baladi.hopto.org:25461/khan/indi@o/830 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 2HD BK 
+http://baladi.hopto.org:25461/khan/indi@o/831 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 3HD 
+http://baladi.hopto.org:25461/khan/indi@o/828 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 3HD BK 
+http://baladi.hopto.org:25461/khan/indi@o/829 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 4HD 
+http://baladi.hopto.org:25461/khan/indi@o/826 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 4HD BK 
+http://baladi.hopto.org:25461/khan/indi@o/5297 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 5HD BK 
+http://baladi.hopto.org:25461/khan/indi@o/5296 
+#EXTINF:-1 group-title="LIVE STREAMING", BEN: Bein Sports 1 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/816 
+#EXTINF:-1 group-title="LIVE STREAMING", BEN: Bein Sports 10 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/825 
+#EXTINF:-1 group-title="LIVE STREAMING", BEN: Bein Sports 10FHD 
+http://baladi.hopto.org:25461/khan/indi@o/812 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 11FHD 
+http://baladi.hopto.org:25461/khan/indi@o/813 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 12FHD 
+http://baladi.hopto.org:25461/khan/indi@o/814 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 1FHD 
+http://baladi.hopto.org:25461/khan/indi@o/803 
+#EXTINF:-1 group-title="LIVE STREAMING", BEN: Bein Sports 1HD 
+http://baladi.hopto.org:25461/khan/indi@o/791 
+#EXTINF:-1 group-tittle="LIVE STREAMING",BEN: Bein Sports 2 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/817 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 2FHD 
+http://baladi.hopto.org:25461/khan/indi@o/804 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 2HD 
+http://baladi.hopto.org:25461/khan/indi@o/792 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 3 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/819 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 3FHD 
+http://baladi.hopto.org:25461/khan/indi@o/805 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 3HD 
+http://baladi.hopto.org:25461/khan/indi@o/793 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 4 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/818 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 4FHD 
+http://baladi.hopto.org:25461/khan/indi@o/806 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 4HD 
+http://baladi.hopto.org:25461/khan/indi@o/794 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 5 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/820 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 5FHD 
+http://baladi.hopto.org:25461/khan/indi@o/807 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 5HD 
+http://baladi.hopto.org:25461/khan/indi@o/795 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 6 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/821 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 6FHD 
+http://baladi.hopto.org:25461/khan/indi@o/808 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 6HD 
+http://baladi.hopto.org:25461/khan/indi@o/796 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 7 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/822 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 7FHD 
+http://baladi.hopto.org:25461/khan/indi@o/809 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 7HD 
+http://baladi.hopto.org:25461/khan/indi@o/797 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 8 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/823 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 8FHD 
+http://baladi.hopto.org:25461/khan/indi@o/810 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 9 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/824 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports English 1HD 
+http://baladi.hopto.org:25461/khan/indi@o/801 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports English 2HD 
+http://baladi.hopto.org:25461/khan/indi@o/802 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports ES 
+http://baladi.hopto.org:25461/khan/indi@o/1890 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports News HD 
+http://baladi.hopto.org:25461/khan/indi@o/790 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports Premium 1HD 
+http://baladi.hopto.org:25461/khan/indi@o/798 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports Premium 2HD 
+http://baladi.hopto.org:25461/khan/indi@o/811 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports Premium 2HD 
+http://baladi.hopto.org:25461/khan/indi@o/799 
+#EXTINF:-1 group-tittle="LIVE STREAMING",BEN: Bein Sports US 
+http://baladi.hopto.org:25461/khan/indi@o/1889 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports USA 
+http://baladi.hopto.org:25461/khan/indi@o/800 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 1HD 
+http://baladi.hopto.org:25461/khan/indi@o/832 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 1HD BK 
+http://baladi.hopto.org:25461/khan/indi@o/833 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 2HD 
+http://baladi.hopto.org:25461/khan/indi@o/830 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 2HD BK 
+http://baladi.hopto.org:25461/khan/indi@o/831 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 3HD 
+http://baladi.hopto.org:25461/khan/indi@o/828 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 3HD BK 
+http://baladi.hopto.org:25461/khan/indi@o/829 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 4HD 
+http://baladi.hopto.org:25461/khan/indi@o/826 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 4HD BK 
+http://baladi.hopto.org:25461/khan/indi@o/5297 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 5HD BK 
+http://baladi.hopto.org:25461/khan/indi@o/5296 
+#EXTINF:-1 group-title="LIVE STREAMING", BEN: Bein Sports 1 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/816 
+#EXTINF:-1 group-title="LIVE STREAMING", BEN: Bein Sports 10 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/825 
+#EXTINF:-1 group-title="LIVE STREAMING", BEN: Bein Sports 10FHD 
+http://baladi.hopto.org:25461/khan/indi@o/812 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 11FHD 
+http://baladi.hopto.org:25461/khan/indi@o/813 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 12FHD 
+http://baladi.hopto.org:25461/khan/indi@o/814 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 1FHD 
+http://baladi.hopto.org:25461/khan/indi@o/803 
+#EXTINF:-1 group-title="LIVE STREAMING", BEN: Bein Sports 1HD 
+http://baladi.hopto.org:25461/khan/indi@o/791 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 2 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/817 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 2FHD 
+http://baladi.hopto.org:25461/khan/indi@o/804 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 2HD 
+http://baladi.hopto.org:25461/khan/indi@o/792 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 3 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/819 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 3FHD 
+http://baladi.hopto.org:25461/khan/indi@o/805 
+#EXTINF:-1 group-tittle="LIVE STREAMING",BEN: Bein Sports 3HD 
+http://baladi.hopto.org:25461/khan/indi@o/793 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 4 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/818 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 4FHD 
+http://baladi.hopto.org:25461/khan/indi@o/806 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 4HD 
+http://baladi.hopto.org:25461/khan/indi@o/794 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 5 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/820 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 5FHD 
+http://baladi.hopto.org:25461/khan/indi@o/807 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 5HD 
+http://baladi.hopto.org:25461/khan/indi@o/795 
+#EXTINF:-1 group-tittle="LIVE STREAMING",BEN: Bein Sports 6 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/821 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 6FHD 
+http://baladi.hopto.org:25461/khan/indi@o/808 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 6HD 
+http://baladi.hopto.org:25461/khan/indi@o/796 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 7 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/822 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 7FHD 
+http://baladi.hopto.org:25461/khan/indi@o/809 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 7HD 
+http://baladi.hopto.org:25461/khan/indi@o/797 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 8 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/823 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 8FHD 
+http://baladi.hopto.org:25461/khan/indi@o/810 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports 9 SD+ 
+http://baladi.hopto.org:25461/khan/indi@o/824 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports English 1HD 
+http://baladi.hopto.org:25461/khan/indi@o/801 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports English 2HD 
+http://baladi.hopto.org:25461/khan/indi@o/802 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports ES 
+http://baladi.hopto.org:25461/khan/indi@o/1890 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports News HD 
+http://baladi.hopto.org:25461/khan/indi@o/790 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports Premium 1HD 
+http://baladi.hopto.org:25461/khan/indi@o/798 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports Premium 2HD 
+http://baladi.hopto.org:25461/khan/indi@o/811 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports Premium 2HD 
+http://baladi.hopto.org:25461/khan/indi@o/799 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports US 
+http://baladi.hopto.org:25461/khan/indi@o/1889 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Sports USA 
+http://baladi.hopto.org:25461/khan/indi@o/800 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 1HD 
+http://baladi.hopto.org:25461/khan/indi@o/832 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 1HD BK 
+http://baladi.hopto.org:25461/khan/indi@o/833 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 2HD 
+http://baladi.hopto.org:25461/khan/indi@o/830 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 2HD BK 
+http://baladi.hopto.org:25461/khan/indi@o/831 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 3HD 
+http://baladi.hopto.org:25461/khan/indi@o/828 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 3HD BK 
+http://baladi.hopto.org:25461/khan/indi@o/829 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 4HD 
+http://baladi.hopto.org:25461/khan/indi@o/826 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 4HD BK 
+http://baladi.hopto.org:25461/khan/indi@o/5297 
+#EXTINF:-1 group-title="LIVE STREAMING",BEN: Bein Max 5HD BK 
+http://baladi.hopto.org:25461/khan/indi@o/5296 
 
-#EXTINF:-1 group-title="LIVE STREAMING",Champions TV 1
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
-#EXTINF:-1 group-title="LIVE STREAMING",Champions TV 2
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion2&bandwidth=default&sync=0
-#EXTINF:-1 group-title="LIVE STREAMING",Champions TV 3
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion3&bandwidth=default&sync=0
+#EXTINF:-1 tvg-id="OLY1" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 1
+https://link.zozotv.xyz:443/Freemium4/unlimited99/318
+#EXTINF:-1 tvg-id="OLY2" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 2
+https://link.zozotv.xyz:443/Freemium4/unlimited99/319
+#EXTINF:-1 tvg-id="OLY3" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 3
+https://link.zozotv.xyz:443/Freemium4/unlimited99/320
+#EXTINF:-1 tvg-id="OLY4" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 4
+https://link.zozotv.xyz:443/Freemium4/unlimited99/321
+#EXTINF:-1 tvg-id="OLY5" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 5
+https://link.zozotv.xyz:443/Freemium4/unlimited99/322
+#EXTINF:-1 tvg-id="OLY6" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 6
+https://link.zozotv.xyz:443/Freemium4/unlimited99/323
+#EXTINF:-1 tvg-id="OLY7" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 7
+https://link.zozotv.xyz:443/Freemium4/unlimited99/324
+#EXTINF:-1 tvg-id="OLY8" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 8
+https://link.zozotv.xyz:443/Freemium4/unlimited99/325
+#EXTINF:-1 tvg-id="OLY9" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 9
+https://link.zozotv.xyz:443/Freemium4/unlimited99/326
+#EXTINF:-1 tvg-id="OLY10" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 10
+https://link.zozotv.xyz:443/Freemium4/unlimited99/327
+#EXTINF:-1 tvg-id="OLY11" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 11
+https://link.zozotv.xyz:443/Freemium4/unlimited99/336
+#EXTINF:-1 tvg-id="OLY12" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 12
+https://link.zozotv.xyz:443/Freemium4/unlimited99/337
 
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",17:30|Japan W v Great Britain W
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/20geg0co4i7an0g0lu5u/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",18:00|Netherlands W v Brazil W
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/bibi5ahepe7iwur0biyu/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",18:30New Zealand W v USA W
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Olympiade 1
-#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
-https://link.zozotv.xyz/Freemium1/unlimited99/318
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Olympiade 2
-#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
-https://link.zozotv.xyz/Freemium1/unlimited99/319
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Olympiade 3
-#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
-https://link.zozotv.xyz/Freemium1/unlimited99/320
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Olympiade 4
-#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
-https://link.zozotv.xyz/Freemium1/unlimited99/321
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Olympiade 5
-#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
-https://link.zozotv.xyz/Freemium1/unlimited99/322
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Olympiade 6
-#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
-https://link.zozotv.xyz/Freemium1/unlimited99/323
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Olympiade 7
-#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
-https://link.zozotv.xyz/Freemium1/unlimited99/324
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Olympiade 8
-#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
-https://link.zozotv.xyz/Freemium1/unlimited99/325
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Olympiade 9
-#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
-https://link.zozotv.xyz/Freemium1/unlimited99/326
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Olympiade 10
-#EXTVLCOPT:http-user-agent=adie1927(24-08-2021)
-https://link.zozotv.xyz/Freemium1/unlimited99/327
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",live ahihi
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-c2.dotice.me/plyvivo/40bani3ucojibawazuwi/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Live 1a
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/t07utesawu9e1ahayalu/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Live 1
-#EXTVLCOPT:http-referrer=
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/10795
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Live 2
-#EXTVLCOPT:http-referrer=
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2536
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Live 3
-#EXTVLCOPT:http-referrer=
-http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/40
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Live 4
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-c1.dotice.me/plyvivo/sucaweyo9epip0feladi/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Live 5
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-c1.dotice.me/plyvivo/bahawez06a8040v0vupo/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Live 6
-#EXTVLCOPT:http-referrer=
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/2538
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Live 7
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-c2.dotice.me/plyvivo/1omiku9ofahid0bujewu/chunklist.m3u8
-#EXTINF:0 tvg-country="id" tvg-logo="" group-title="LIVE STREAMING",Live 8
-#EXTVLCOPT:http-referrer=https://www.tvply.me/
-https://hg-t1.dotice.me/plyvivo/mere2ajafotifujirafe/chunklist.m3u8
+#EXTINF:-1 group-title="LIVE STREAMING",ASTRO Arena HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6707
+#EXTINF:-1 group-title="LIVE STREAMING",ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6708
+#EXTINF:-1 group-title="LIVE STREAMING",ASTRO SUPERSPORT 2 HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6710
+#EXTINF:-1 group-title="LIVE STREAMING",ASTRO SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6711
+#EXTINF:-1 group-title="LIVE STREAMING",ASTRO SUPERSPORT 4 HD
+http://iptv.tvmalaysia.cc:80/139664/139664/6712
 
 #EXTINF:-1 group-title="LIVE STREAMING",Match
 https://95-213-224-169.livesports24.online/ooomatch.m3u8
@@ -103,39 +319,6 @@ https://95-213-224-169.livesports24.online/ooomatch.m3u8
 http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 #EXTINF:-1 group-title="LIVE STREAMING",Sukan 2
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-#EXTINF:-1 group-title="LIVE STREAMING",Beins 1
-https://cutt.ly/Mm5G5fD
-#EXTINF:-1 group-title="LIVE STREAMING",Be Inspired
-https://cutt.ly/Zm5G50u
-#EXTINF:-1 group-title="LIVE STREAMING",Beins 3
-https://cutt.ly/3m5G6cN
-#EXTINF:-1 group-title="LIVE STREAMING",Benins 4
-https://cutt.ly/Pm5HrDP
-#EXTINF:-1 group-title="LIVE STREAMING",Beins 5
-https://cutt.ly/1m5Hr4c
-#EXTINF:-1 group-title="LIVE STREAMING",Beins 6
-https://cutt.ly/em5HtlN
-#EXTINF:-1 group-title="LIVE STREAMING",Beins 7
-https://cutt.ly/Pm5HabT
-#EXTINF:-1 group-title="LIVE STREAMING",Beins Prem 1
-https://cutt.ly/pm5HaPl
-#EXTINF:-1 group-title="LIVE STREAMING",Beins Prem 2
-https://cutt.ly/Am5Ha1k
-#EXTINF:-1 group-title="LIVE STREAMING",Beins Prem 3
-https://cutt.ly/Km5HkA2
-#EXTINF:-1 group-title="LIVE STREAMING",Beins Eng 1
-https://cutt.ly/5m5F1Ql
-#EXTINF:-1 group-title="LIVE STREAMING",Beins Eng 2
-https://cutt.ly/Wm5F10j
-#EXTINF:-1 group-title="LIVE STREAMING",Beins Eng 3
-https://cutt.ly/gm5F0Hd
-
-#EXTINF:-1 group-title="LIVE STREAMING",unifi Sports 1
-http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
-#EXTINF:-1 group-title="LIVE STREAMING",unifi Sports 2
-http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
-#EXTINF:-1 group-title="LIVE STREAMING",unifi Sports 3
-http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
 
 #EXTINF:-1 group-title="LIVE STREAMING",Super Sports 1
 http://93.157.62.180/Supersport1/index.m3u8
@@ -1775,6 +1958,11 @@ http://gpc.my.id/vidio/champion-tv-2.m3u8
 
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="SPORTS", TV Champion 2
 http://topwin-tv.my.id/2/master.m3u8?id=champion2
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6p1C2X1G/aku-gratis-zqtvsports.jpg" group-title="SPORTS", ZQ TV SPORTS
+https://six1.zqprem.com/zqscore/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
