@@ -1,163 +1,118 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="unifiSports1" group-title="OLYMPIC TOKYO"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/cL12RJRR/BT-SPORT-1.png" group-title=" LIVE STREAMING", BT Sport 1 [HD]
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/cL12RJRR/BT-SPORT-1.png" group-title=" LIVE STREAMING ", BT Sport 1 [HD] (backup)
+http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="unifiSports2" group-title="OLYMPIC TOKYO"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest?cb=20210712113109",unifi Sports 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/VL83Ng5H/BT-SPORT-2.png" group-title=" LIVE STREAMING ",BT Sport 2 [HD]
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/VL83Ng5H/BT-SPORT-2.png" group-title=" LIVE STREAMING ",BT Sport 2 [HD] (backup)
+http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="unifiSports3" group-title="OLYMPIC TOKYO"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Unifi-Sports-3.png/revision/latest?cb=20210712113331",unifi Sports 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/vTWkzg2z/BT-SPORT-3.png" group-title=" LIVE STREAMING ",BT Sport 3 [HD]
+http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/vTWkzg2z/BT-SPORT-3.png" group-title=" LIVE STREAMING ",BT Sport 3 [HD] (backup)
+http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="unifiSports4" group-title="OLYMPIC TOKYO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Unifi-Sports-4.png/revision/latest?cb=20210712113617",unifi Sports 4
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/NjWCJq7S/TRUE-PREMIER-HD-1.png " group-title=" LIVE STREAMING ",Premier Football HD 1
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="unifiSports5" group-title="OLYMPIC TOKYO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Unifi-Sports-5.png/revision/latest?cb=20210712113706",unifi Sports 5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/xCQxQvZP/TRUE-PREMIER-HD-2.png " group-title=" LIVE STREAMING ",Premier Football HD 2
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="unifiSports6" group-title="OLYMPIC TOKYO"  tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/NpUkSL3T",unifi Sports 6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-https://web.hypp.tv:443/PLTV/88888888/224/3221227795/3221227795.mpd
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/L56xYH2Y/TRUE-PREMIER-HD-3.png " group-title=" LIVE STREAMING ",Premier Football HD 3
+http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="unifiSports7" group-title="OLYMPIC TOKYO"  tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/1gQKtrxB",unifi Sports 7
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-https://web.hypp.tv:443/PLTV/88888888/224/3221227787/3221227787.mpd
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/sXJngBdC/TRUE-PREMIER-HD-4.png " group-title=" LIVE STREAMING ",Premier Football HD 4
+http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="unifiSports8" group-title="OLYMPIC TOKYO" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/VrUDHzHa",unifi Sports 8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-https://web.hypp.tv:443/PLTV/88888888/224/3221227798/3221227798.mpd
+#EXTINF:-1   tvg-logo=" https://i.postimg.cc/tJS2FL4r/TRUE-PREMIER-HD-5.png " group-title=" LIVE STREAMING ",Premier Football HD 5
+http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="unifiSports9" group-title="OLYMPIC TOKYO" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/8rs5tKy8",unifi Sports 9
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-https://web.hypp.tv:443/PLTV/88888888/224/3221227793/3221227793.mpd
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/52nxQC5n/TRUE-PREMIER-1.png " group-title=" LIVE STREAMING ",Premier Football 1 [SD]
+http://77.83.117.60:8888/02_PremierHD1_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="unifiSports10" group-title="OLYMPIC TOKYO" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/8Y9dZUSI",unifi Sports 10
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-https://web.hypp.tv:443/PLTV/88888888/224/3221227830/3221227830.mpd
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/L8H9sTPJ/TRUE-PREMIER-2.png " group-title=" LIVE STREAMING ",Premier Football 2 [SD]
+http://77.83.117.60:8888/02_PremierHD2_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="unifiSports11" group-title="OLYMPIC TOKYO" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/pC41J1AK",unifi Sports 11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-https://web.hypp.tv:443/PLTV/88888888/224/3221227833/3221227833.mpd
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/3Jjr76kM/TRUE-PREMIER-3.png " group-title=" LIVE STREAMING ",Premier Football 3 [SD]
+http://77.83.117.60:8888/02_PremierHD3_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="unifiSports12" group-title="OLYMPIC TOKYO" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/cL0ged2e",unifi Sports 12
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-https://web.hypp.tv:443/PLTV/88888888/224/3221227799/3221227799.mpd
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Hs1WqHs4/TRUE-PREMIER-4.png " group-title=" LIVE STREAMING ",Premier Football 4 [SD]
+http://77.83.117.60:8888/02_PremierHD4_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="unifiSports13" group-title="OLYMPIC TOKYO" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/wuC3Kw9b",unifi Sports 13
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2FjZTFlMWItMWQxZC0zMzhjLWE3NTgtN2Y2MjhlMDRlOTg1
-https://web.hypp.tv:443/PLTV/88888888/224/3221227802/3221227802.mpd
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/RCHVpq9Z/TRUE-PREMIER-5.png " group-title=" LIVE STREAMING ",Premier Football 5 [SD]
+http://77.83.117.60:8888/02_PremierHD5_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="LIVE STREAMING" tvg-logo=" https://i.postimg.cc/nrQ9YH2T/RMC-SPORT-1.png", RMC SPORT 1 (FR) [HD]
+https://22live00.akamaized.net/RMC_Sports_1/index.m3u8?token=JPxfa1FF6N8Zb3ZLI9fzxPzDuhRUCvqj0QLPLTVKRr0tnIG0ru1WBHfsjkurNzVyG8ZS92dioCoVnQlLoMtwpa2M3K6uKpRMGzlyVm6Zmvjd82AYr73k1BfTEsY4tBLe4HuEuQNQtn%2Bq3K9PRfRej1huApvC1rnWuExU%2Bf%2FQR5X%2Fn7cqH4c729CEJsvMj7BsYMEJxgGDlmMRYVEYQF6b61gVMQb%2BJpt2X%2Bni5jBb6B39aXRuUZwEzsVoJa9OIt7UsiAo398PYMGdDHkQqgQCjSoJnDz0Z%2FMx3180yfT7L7qx5kC8RBz1VJAkF%2BDHNjqUTGqPtlMzZiihWAenjAV9WC9IjLGB0aOXck1jYtA2RwHxrWcUsCcy5QhEHKg4uFvT4P 
+
+#EXTINF:-1 group-title="LIVE STREAMING" tvg-logo=" https://i.postimg.cc/5jdYsZkJ/RMC-SPORT-2.png", RMC SPORT 2 (FR) [HD]
+https://22live00.akamaized.net/RMC_Sports_2/index.m3u8?token=JP2bJrme4a6m17yf0zRIkbjzuhRUCvqj0QLPLTVKRr0tnIG0ru1WBHfsjkurNzVyG8x2m8Tqu%2B%2FgqYzowkG4GVj83K6uKpRMGzlyVm6Zmvjd82AYr73k1BfTEsY4tBLe4HuEuQNQtn%2Bq3K9PRfRej1huApvC1rnWuExU%2Bf%2FQR5X%2Fn7cqH4c729CEJsvMj7BsYMEJxgGDlmMRYVEYQF6b61gVMQb%2BJpt2X%2Bni5jBb6B39aXRuUZwEzsVoJa9OIt7UsiAo398PYMGdDHkQqgQCjSoJnDz0Z%2FMx3180yfT7L7qx5kC8RBz1VJAkF%2BDHNjqUTG5brmjItwnJqHfOgC1OZH8IjLGB0aOXck1jYtA2RwHxrWcUsCcy5QhEHKg4uFvT4P
 
 
-#EXTINF:-1 tvg-id="OLY1" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 1
-https://link.zozotv.xyz:443/Freemium4/unlimited99/318
-#EXTINF:-1 tvg-id="OLY2" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 2
-https://link.zozotv.xyz:443/Freemium4/unlimited99/319
-#EXTINF:-1 tvg-id="OLY3" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 3
-https://link.zozotv.xyz:443/Freemium4/unlimited99/320
-#EXTINF:-1 tvg-id="OLY4" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 4
-https://link.zozotv.xyz:443/Freemium4/unlimited99/321
-#EXTINF:-1 tvg-id="OLY5" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 5
-https://link.zozotv.xyz:443/Freemium4/unlimited99/322
-#EXTINF:-1 tvg-id="OLY6" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 6
-https://link.zozotv.xyz:443/Freemium4/unlimited99/323
-#EXTINF:-1 tvg-id="OLY7" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 7
-https://link.zozotv.xyz:443/Freemium4/unlimited99/324
-#EXTINF:-1 tvg-id="OLY8" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 8
-https://link.zozotv.xyz:443/Freemium4/unlimited99/325
-#EXTINF:-1 tvg-id="OLY9" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 9
-https://link.zozotv.xyz:443/Freemium4/unlimited99/326
-#EXTINF:-1 tvg-id="OLY10" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 10
-https://link.zozotv.xyz:443/Freemium4/unlimited99/327
-#EXTINF:-1 tvg-id="OLY11" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 11
-https://link.zozotv.xyz:443/Freemium4/unlimited99/336
-#EXTINF:-1 tvg-id="OLY12" tvg-name="LIVE STREAMING" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",OLYMPIC 12
-https://link.zozotv.xyz:443/Freemium4/unlimited99/337
-#EXTINF:-1, tvg-id="OLY12" tvg-name="LIVE STREAMING" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/MediaCorp_Channel5.jpg/revision/latest/scale-to-width-down/250?cb=20151215100539" group-title="OLYMPIC TOKYO" Mediacorp Channel 5
-http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
-#EXTINF:-1 group-title="OLYMPIC TOKYO" ch-number="1001" tvg-id="1001" tvg-chno="1001" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch1.png",RTM Tokyo 2020 Channel 1 (HD)
-https://rtm-olympic01.secureswiftcontent.com/rtm/olympic01_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png" group-title="LIVE STREAMING", GRE | EPT SPORTS 1 
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png" group-title="LIVE STREAMING", GRE | EPT SPORTS 2 
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png" group-title="LIVE STREAMING", GRE | EPT SPORTS 3 
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png" group-title="LIVE STREAMING", GRE | EPT SPORTS 4 
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/1200px-ERTSPORTS_logo_2020.svg.png" group-title="LIVE STREAMING", GRE | EPT SPORTS 5 
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5medium.m3u8
+#EXTINF:-1 tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="LIVE STREAMING", ALB | K SPORT 1
+http://93.157.62.180/KSport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="LIVE STREAMING", ALB | K SPORT 2
+http://93.157.62.180/KSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="LIVE STREAMING", ALB | K SPORT 3
+http://93.157.62.180/KSport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="LIVE STREAMING", ALB | K SPORT 4
+http://93.157.62.180/KSport4/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/proxy/wWzqXT-iNUZoFrWRFpbYl75Na3Zy6GjuOuDg83q8bJ1SzGtf6_gmVrVjHG5Qu1hgg7hbIubf5qJFH7-oZ--OzRJQUnzk" group-title="LIVE STREAMING", BIELOR | 5 SPORT 
+https://185-198-56-58.livesports24.online/belarusss5.m3u8
+#EXTINF:-1 tvg-logo="https://www.broadcastrental.com/wp-content/uploads/2015/08/Ziggo_Sport_Logo.png" group-title="LIVE STREAMING", HOL | ZIGGO VOETBAL
+http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.broadcastrental.com/wp-content/uploads/2015/08/Ziggo_Sport_Logo.png" group-title="LIVE STREAMING", HOL | ZIGGO SELECT
+http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.broadcastrental.com/wp-content/uploads/2015/08/Ziggo_Sport_Logo.png" group-title="LIVE STREAMING", HOL | ZIGGO RACING
+http://31.220.41.88:8081/live/nl-ziggoracing.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="OLYMPIC TOKYO" ch-number="1002" tvg-id="1002" tvg-chno="1002" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch2.png",RTM Tokyo 2020 Channel 2 (HD)
-https://rtm-olympic02.secureswiftcontent.com/rtm/olympic02_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejV-xC6Kp6NE9CJ1GCHKOiDI9VanT711KUQ&usqp=CAU" group-title="LIVE STREAMING", RUS | MATCH! FOOTBALL 1 HD
+https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP5M8tqZZXTRxUBzZhIjdbIi30uHC-iP72Yw&usqp=CAU" group-title="LIVE STREAMING", RUS | MATCH! FOOTBALL 2 HD
+https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZ-9x19w1DM8IqA2xJHVuA5ngE2yd-fry4A&usqp=CAU" group-title="LIVE STREAMING", RUS | MATCH! FOOTBALL 3 HD
+https://95-213-172-220.livesports24.online/rumatchf3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuWgQ6hEfRrMgjyNvLJFv-dvDL3D15ll2Ri_FK8gvTAU1KYvU&s" group-title="LIVE STREAMING", RUS | MATCH! PREMIER
+http://46.174.189.51/matchpremer/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="OLYMPIC TOKYO" ch-number="1003" tvg-id="1003" tvg-chno="1003" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch3.png",RTM Tokyo 2020 Channel 3 (HD)
-https://rtm-olympic03.secureswiftcontent.com/rtm/olympic03_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
-
-#EXTINF:-1 group-title="OLYMPIC TOKYO" ch-number="1004" tvg-id="1004" tvg-chno="1004" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch4.png",RTM Tokyo 2020 Channel 4 (HD)
-https://rtm-olympic04.secureswiftcontent.com/rtm/olympic04_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
-
-#EXTINF:-1 group-title="OLYMPIC TOKYO" ch-number="1005" tvg-id="1005" tvg-chno="1005" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch5.png",RTM Tokyo 2020 Channel 5 (HD)
-https://rtm-olympic05.secureswiftcontent.com/rtm/olympic05_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
-
-#EXTINF:-1 tvg-group="OLYMPIC TOKYO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/RTM_Sports.png/300px-RTM_Sports.png",SUKAN RTM
-https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8|Referer=https://myklik.rtm.gov.my
-
-
-#EXTINF:-1 tvg-group="OLYMPIC TOKYO" tvg-logo="https://pbs.twimg.com/profile_images/758375159220805632/_Ykx56Hs_400x400.jpg",OLYMPCIS CH1
-https://rtm-olympic01.secureswiftcontent.com/rtm/olympic01_720.m3u8|Referer=https://tokyo2020.rtm.gov.my
-
-#EXTINF:-1 tvg-group="OLYMPIC TOKYO" tvg-logo="https://pbs.twimg.com/profile_images/758375159220805632/_Ykx56Hs_400x400.jpg",OLYMPCIS CH2
-https://rtm-olympic02.secureswiftcontent.com/rtm/olympic02_720.m3u8|Referer=https://tokyo2020.rtm.gov.my
-
-#EXTINF:-1 tvg-group="OLYMPIC TOKYO" tvg-logo="https://pbs.twimg.com/profile_images/758375159220805632/_Ykx56Hs_400x400.jpg",OLYMPCIS CH3
-https://rtm-olympic03.secureswiftcontent.com/rtm/olympic03_720.m3u8|Referer=https://tokyo2020.rtm.gov.my
-
-#EXTINF:-1 tvg-group="OLYMPIC TOKYO" tvg-logo="https://pbs.twimg.com/profile_images/758375159220805632/_Ykx56Hs_400x400.jpg",OLYMPCIS CH4
-https://rtm-olympic04.secureswiftcontent.com/rtm/olympic04_720.m3u8|Referer=https://tokyo2020.rtm.gov.my
-
-#EXTINF:-1 tvg-group="OLYMPIC TOKYO" tvg-logo="https://pbs.twimg.com/profile_images/758375159220805632/_Ykx56Hs_400x400.jpg",OLYMPCIS CH5
-https://rtm-olympic05.secureswiftcontent.com/rtm/olympic05_720.m3u8|Referer=https://tokyo2020.rtm.gov.my
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="OLYMPIC TOKYO", ChampionTV 1 
-https://link.zozotv.xyz:443/Freemium4/unlimited99/164
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="OLYMPIC TOKYO", ChampionTV 2 
-https://link.zozotv.xyz:443/Freemium4/unlimited99/165
-
-
-#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP-A" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="OLYMPIC TOKYO",ASSP-A
-https://link.zozotv.xyz:443/Freemium4/unlimited99/155
-#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2-A" tvg-logo="https://i.ibb.co/M27hPW9/JHDET.png" group-title="OLYMPIC TOKYO",ASSP2-A
-https://link.zozotv.xyz:443/Freemium4/unlimited99/156
-#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-A" tvg-logo="https://i.ibb.co/3yqCpYV/gkg.png" group-title="OLYMPIC TOKYO",ASSP3-A
-https://link.zozotv.xyz:443/Freemium4/unlimited99/157
-#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-A" tvg-logo="https://i.ibb.co/Qct3SqW/s4.png" group-title="OLYMPIC TOKYO",ASSP4-A
-https://link.zozotv.xyz:443/Freemium1/unlimited99/158
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 1" tvg-logo="https://i.ibb.co/GnZxD0M/xfh.png" group-title="OLYMPIC TOKYO",FOX Sport 1
-https://link.zozotv.xyz:443/Freemium4/unlimited99/159
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 2" tvg-logo="https://i.ibb.co/NyJNdH0/cgyf.png" group-title="OLYMPIC TOKYO",FOX Sport 2
-https://link.zozotv.xyz:443/Freemium4/unlimited99/160
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 3" tvg-logo="https://i.ibb.co/tsrt8S3/nvc.png" group-title="OLYMPIC TOKYO",FOX Sport 3
-https://link.zozotv.xyz:443/Freemium4/unlimited99/161
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/vBYkNyY/htdty.png" group-title="OLYMPIC TOKYO",beIN Sports 1 ID
-https://link.zozotv.xyz:443/Freemium4/unlimited99/162
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 ID" tvg-logo="https://i.ibb.co/x5dhF5X/RHYSY.png" group-title="OLYMPIC TOKYO",beIN Sports 2 ID
-https://link.zozotv.xyz:443/Freemium4/unlimited99/163
+#EXTINF:-1 group-title="LIVE STREAMING",BEIN PREMIUM 1
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2541
+#EXTINF:-1 group-title="LIVE STREAMING",BEIN PREMIUM 2
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2540
+#EXTINF:-1 group-title="LIVE STREAMING",BEIN PREMIUM 3
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2539
+#EXTINF:-1 group-title="LIVE STREAMING",BEIN SPORTS 1
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2538
+#EXTINF:-1 group-title="LIVE STREAMING",BEIN SPORTS 2
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10795
+#EXTINF:-1 group-title="LIVE STREAMING",BEIN SPORTS 3
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2536
+#EXTINF:-1 group-title="LIVE STREAMING",BEIN SPORTS 4
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2535
+#EXTINF:-1 group-title="LIVE STREAMING",BEIN SPORTS 5
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2534
+#EXTINF:-1 group-title="LIVE STREAMING",BEIN SPORTS 6
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2533
+#EXTINF:-1 group-title="LIVE STREAMING",BEIN SPORTS 7
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/2532
 
 #EXTINF:-1 group-title="LIVE STREAMING",ASTRO Arena HD
 http://iptv.tvmalaysia.cc:80/139664/139664/6707
 #EXTINF:-1 group-title="LIVE STREAMING",ASTRO Arena HD Backup
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:-1 group-title="LIVE STREAMING",ASTRO SUPERSPORT HD
-http://iptv.tvmalaysia.cc:80/139664/139664/6708
 #EXTINF:-1 group-title="LIVE STREAMING",ASTRO SUPERSPORT HD Backup
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 #EXTINF:-1 group-title="LIVE STREAMING",ASTRO SUPERSPORT 2 HD
@@ -171,11 +126,6 @@ http://iptv.tvmalaysia.cc:80/139664/139664/6712
 
 #EXTINF:-1 group-title="LIVE STREAMING",Match
 https://95-213-224-169.livesports24.online/ooomatch.m3u8
-#EXTINF:-1 group-title="LIVE STREAMING",Sukan
-http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
-#EXTINF:-1 group-title="LIVE STREAMING",Sukan 2
-http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-
 
 #EXTINF:-1 group-title="LIVE STREAMING",Super Sports 1
 http://93.157.62.180/Supersport1/index.m3u8
@@ -187,15 +137,6 @@ http://93.157.62.180/Supersport3/index.m3u8
 http://93.157.62.180/Supersport4/index.m3u8
 #EXTINF:-1 group-title="LIVE STREAMING",Super Sports 5
 http://93.157.62.180/Supersport5/index.m3u8
-#EXTINF:-1 group-title="LIVE STREAMING",Super Sports 6
-http://93.157.62.180/Supersport6/index.m3u8
-#EXTINF:-1 group-title="LIVE STREAMING",Super Sports 7
-http://93.157.62.180/Supersport7/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE STREAMING", SUKAN 
-http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE STREAMING", PPTV 
 http://77.83.117.60:8888/02_PPTVHD_720p/chunklist.m3u8 
@@ -203,41 +144,9 @@ http://77.83.117.60:8888/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE STREAMING", euroSport 
 http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/chunklist_w769002241_b1928000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE STREAMING",beinSport1 HD
-http://212.224.98.207:2200/EX/bein1hd-ar/index.m3u8?token= 
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE STREAMING",beinSport2 HD 
-http://212.224.98.207:2200/EX/bein2hd-ar/index.m3u8?token= 
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE STREAMING",beinSport3 HD 
-http://212.224.98.207:2200/EX/bein3hd-ar/index.m3u8?token= 
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE STREAMING",beinSport4 HD 
-http://212.224.98.207:2200/EX/bein4hd-ar/tracks-v1a1/mono.m3u8?token= 
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE STREAMING",beinSport5 HD 
-http://212.224.98.207:2200/EX/bein5hd-ar/index.m3u8?token= 
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE STREAMING",beinSport6 HD 
-http://212.224.98.207:2200/EX/bein6hd-ar/index.m3u8?token= 
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE STREAMING",beinSport7 HD 
-http://212.224.98.207:2200/EX/bein7hd-ar/tracks-v1a1/mono.m3u8?token= 
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE STREAMING",beinSport11 HD 
-http://212.224.98.207:2200/EX/bein11hd-ar/index.m3u8?token= 
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE STREAMING",beinSport12 HD 
-http://212.224.98.207:2200/EX/bein12hd-ar/index.m3u8?token= 
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE STREAMING",beinSport13 HD 
-http://185.180.15.17:2200/EX/beIN_Sports_13_HD-ar/tracks-v1a1/mono.m3u8?token= 
-
-
 #EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-zCY5oq-o6J4/YMMviph-97I/AAAAAAAABE4/QfuAlDI1hN0PtMwxLN6pvL-Za347AeMlQCLcBGAsYHQ/s1365/1200px-UEFA_Euro_2020_Logo.svg.png"group-title="LIVE STREAMING",ESPN
 http://stream2.grandma.fit/fs2.m3u8
-#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-zCY5oq-o6J4/YMMviph-97I/AAAAAAAABE4/QfuAlDI1hN0PtMwxLN6pvL-Za347AeMlQCLcBGAsYHQ/s1365/1200px-UEFA_Euro_2020_Logo.svg.png"group-title="LIVE STREAMING",BeinSport1Max
-http://vrn.bkourjhdqs.xyz/live/6262622200/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="LIVE STREAMING",AstroArena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
@@ -249,25 +158,9 @@ http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 https://95-213-224-179.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="LIVE STREAMING",BeinSport1max fr
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="LIVE STREAMING",SK2
-http://31.220.41.88:8081/live/klub2.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="EURO1" tvg-name="ASSP EURO 1" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="LIVE STREAMING",ASSP EURO 1
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/278
-#EXTINF:-1 tvg-id="EURO2" tvg-name="ASSP EURO 2" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="LIVE STREAMING",ASSP EURO 2
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/279
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="LIVE STREAMING",Cuarto(ligaEuro)
 http://91.126.141.13:1935/live/51/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="LIVE STREAMING",BeinSport1Max(setNative)
-http://8.anbdaouras.xyz/live/6262622200/index.m3u8?hubtvapp.m3u8
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="LIVE STREAMING",TRT1(ligaEuro)
-https://tv-trt1.live.trt.com.tr/master_360.m3u8
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="LIVE STREAMING",TicoSport(setNative)
-https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_2.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="LIVE STREAMING",ABC_us(ligaEuro)
 http://31.220.41.87:8081/live/us-abc.stream/chunks.m3u8
@@ -278,20 +171,11 @@ http://ott-cdn.ucom.am/s83/03.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="LIVE STREAMING",Ch5france(setNative)
 http://91.126.141.13:1935/live/61/1800-def.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="LIVE STREAMING",ITV(ligaEuro)
-https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="LIVE STREAMING",HRT2(ligaEuro)
 http://109.105.201.198:80/HRT2HD/video.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/UEFA_Euro_2020_Logo.svg/1200px-UEFA_Euro_2020_Logo.svg.png" group-title="LIVE STREAMING",SPOTTV(ligaEuro)
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE STREAMING" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg",RCTI
-https://cdn4.mbahnunungonline.net/m3u8/7cb6654ebec98b7.m3u8
-#EXTINF:-1 group-title="LIVE STREAMING" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg",MNC TV
-https://cdn4.mbahnunungonline.net/m3u8/d9bbf6929ec1028.m3u8
-#EXTINF:-1 group-title="LIVE STREAMING" tvg-logo="https://i.postimg.cc/3Rb3CWPL/MNCnews.jpg",iNews
-https://tv.mbahnunungonline.net/playlist/inewsPlaylist.m3u8
 #EXTINF:-1 group-title="LIVE STREAMING" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg",SPORT TV 1
 http://77.83.117.60:8888//02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="LIVE STREAMING" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv2.jpg",SPORT TV 2
@@ -300,7 +184,7 @@ http://77.83.117.60:8888//02_SPORTTV_2_720p/chunklist.m3u8
 https://95-213-224-169.livesports24.online/ooomatch.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein1_big1.png?v=2.0.0.13" group-title="LIVE STREAMING"  tvg-id="Riyan.d67d8ab4f4c10bf22aa353e27879133c.Coday" tvg-name"[CODAY] beIN Sport 1 _USEETV",beIN Sport 1 _USEE
-http://topwin-tv.my.id/2/master.m3u8?id=bein1
+https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein2_big1.png?v=2.0.0.13" group-title="LIVE STREAMING"  tvg-id="Riyan.1679091c5a880faf6fb5e6087eb1b2dc.Coday" tvg-name"[CODAY] beIN Sport 2 _USEETV",beIN Sport 2 _USEE
 http://topwin-tv.my.id/2/master.m3u8?id=bein2
@@ -328,8 +212,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_golf_big1.png?v=2.0.0.14" group-title="LIVE STREAMING"  tvg-id="Riyan.f457c545a9ded88f18ecee47145a72c0.Coday" tvg-name"[CODAY] Golf _USEETV",Golf+ _USEE
 http://topwin-tv.my.id/2/master.m3u8?id=golfplus
-#EXTINF:-1tvg-logo="https://i.postimg.cc/2jxcKrjD/mola.png" group-title="LIVE STREAMING",Mola TV FREE
-http://gpc.my.id/vidio/mola-tv-free.m3u8
+
 #EXTINF:-1tvg-logo="https://i.postimg.cc/DwPF4pvc/champions-tv-1-cd5af1.png" group-title="LIVE STREAMING",Champion TV 1 HD
 http://gpc.my.id/vidio/champion-tv-1.m3u8
 #EXTINF:-1tvg-logo="https://i.postimg.cc/bNRFQ7nd/champions-tv-2-e0b0b4.png" group-title="LIVE STREAMING",Champion TV 2 HD
@@ -337,74 +220,23 @@ http://gpc.my.id/vidio/champion-tv-2.m3u8
 #EXTINF:-1tvg-logo="https://i.postimg.cc/hPK2P2Yn/champions-tv-3-f32604.png" group-title="LIVE STREAMING",Champion TV 3 HD
 http://gpc.my.id/vidio/champion-tv-3.m3u8
 
-#EXTINF:-1tvg-logo="https://i.postimg.cc/hvpp1112/Logo-be-IN-SPORTS-MAX.png" group-title="LIVE STREAMING",Liga bien 1 
-http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
-#EXTINF:-1tvg-logo="https://i.postimg.cc/hvpp1112/Logo-be-IN-SPORTS-MAX.png" group-title="LIVE STREAMING",Liga bien 2
-http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Indian - Star Sports 1" tvg-logo="" group-title="LIVE STREAMING",Star Sports 1
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4364
-#EXTINF:-1 tvg-id="" tvg-name="Indian - Star Sports 2" tvg-logo="" group-title="LIVE STREAMING",Star Sports 2
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4365
-#EXTINF:-1 tvg-id="" tvg-name="Indian - TEN 1" tvg-logo="" group-title="LIVE STREAMING",TEN 1
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4373
-#EXTINF:-1 tvg-id="" tvg-name="Indian - TEN Action" tvg-logo="" group-title="LIVE STREAMING",TEN Action
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4374
-#EXTINF:-1 tvg-id="" tvg-name="Indian - TEN Cricket" tvg-logo="" group-title="LIVE STREAMING",TEN Cricket
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4375
-#EXTINF:-1 tvg-id="" tvg-name="Indian - TEN Golf" tvg-logo="" group-title="LIVE STREAMING",TEN Golf
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4376
-#EXTINF:-1 tvg-id="" tvg-name="Indian - TEN Sports" tvg-logo="" group-title="LIVE STREAMING",TEN Sports
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4377
-#EXTINF:-1 tvg-id="" tvg-name="Indian - Willow Cricket" tvg-logo="" group-title="LIVE STREAMING",Willow Cricket
-http://redsnakebite.net:80/chris_hultgren90@yahoo.com/78NJl7a6as/4388
-
-
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",SKYNETSPORT HD
-http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",SKYNETSPORT1
-http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",SKYNETSPORT2
-http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",SKYNETSPORT3
-http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",SKYNETSPORT4
-http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",SKYNETSPORT5
-http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",SKYNETSPORT6
-http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",J SPORTS 1
-http://redlabmcdn.s.llnwi.net/jp01/bs15/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",J SPORTS 2
-http://redlabmcdn.s.llnwi.net/jp01/bs11/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",J SPORTS 3
-http://redlabmcdn.s.llnwi.net/jp01/bs12/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",J SPORTS 4
-http://redlabmcdn.s.llnwi.net/jp01/cs02/index.m3u8
-
-
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",SK1
 http://31.220.41.88:8081/live/klub1.stream/chunks.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",SK2(ligaEuro)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",SK2
 http://31.220.41.88:8081/live/klub2.stream/chunks.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",SK3
 http://31.220.41.88:8081/live/klub3.stream/chunks.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",BeinSport1fr(ligaEuro)
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",BeinSport1fr
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",BeinSport2Fr
 http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",BeinSport3Fr
-http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",Ten1(setAuto)
 http://103.153.39.34:8000/play/a042/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",Ten2(setAuto)
 http://103.153.39.34:8000/play/a05r/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",Ten3(setAuto)
-http://103.153.39.34:8000/play/a049/index.m3u8
+http://103.153.39.34:8000/play/a049/index.m3u81
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",Bein1(UK)
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",Bein2(UK)
@@ -423,10 +255,6 @@ http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",AstroSport4
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",BTsport1 HD
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8?ShareExt
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",BTsport2 HD
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8?ShareExt
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",TNT Sport
 http://31.220.41.87:8081/live/us-tnt.stream/chunks.m3u8
@@ -434,8 +262,6 @@ http://31.220.41.87:8081/live/us-tnt.stream/chunks.m3u8
 http://31.220.41.87:8081/live/nbcsn.stream/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",TRTsport
 http://6.oldbozcdn1.cc/nirvana1/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",BTsport3
-http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",ElevenSport1 Poland
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",ElevenSport2 Poland
@@ -450,8 +276,6 @@ http://93.157.62.180/Supersport3/index.m3u8
 http://93.157.62.180/Supersport4/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",FOX SPORT
 https://austchannel-live.akamaized.net:443/hls/live/2002736/austchannel-sport/master1280x720_v3.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",ERTsport
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",Golf Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",T sports
@@ -511,10 +335,8 @@ http://iptv.tvmalaysia.cc:80/737373/737373/6748
 http://iptv.tvmalaysia.cc:80/737373/737373/7195
 #EXTINF:-1 tvg-id="MY: WWE NETWORK HD" tvg-name="WWE Network" tvg-logo="https://i.postimg.cc/xTWdLGvj/799f112a24fa359d82d460b8fd2fd3b7.jpg" group-title="LIVE STREAMING",WWE Network
 http://iptv.tvmalaysia.cc:80/737373/737373/6849
-#EXTINF:-1 tvg-id="MY: RUGBYPASS TV HD" tvg-name="Rugby Pass TV" tvg-logo="http://tvmalaysia.cc:80/images/98991a2582751895902809093633b033.png" group-title="LIVE STREAMING",Rugby Pass TV
-http://iptv.tvmalaysia.cc:80/737373/737373/6821
-#EXTINF:-1 tvg-id="MY: GOLF CHANNEL HD" tvg-name="Golf Channel HD" tvg-logo="http://tvmalaysia.cc:80/images/1eb1cee8b5e1c96e92721e3ca5ab59d5.jpg" group-title="LIVE STREAMING",Golf Channel HD
-http://iptv.tvmalaysia.cc:80/737373/737373/6796
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="TSN 1" tvg-logo="" group-title="LIVE STREAMING",TSN 1
 http://iptv.tvmalaysia.cc:80/737373/737373/8923
@@ -525,53 +347,6 @@ http://iptv.tvmalaysia.cc:80/737373/737373/8926
 #EXTINF:-1 tvg-id="" tvg-name="TSN 3" tvg-logo="" group-title="LIVE STREAMING",TSN 3
 http://iptv.tvmalaysia.cc:80/737373/737373/8925
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Grandstand" tvg-logo="http://tvmalaysia.cc:80/images/00a1963343aee029f0681c170638ecef.png" group-title="LIVE STREAMING",DSTV: SuperSport Grandstand
-http://iptv.tvmalaysia.cc:80/737373/737373/6572
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport PSL" tvg-logo="http://tvmalaysia.cc:80/images/eba84552ef0a472f1627f2e1dbf6c9cd.png" group-title="LIVE STREAMING",DSTV: SuperSport PSL
-http://iptv.tvmalaysia.cc:80/737373/737373/6573
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Premier League" tvg-logo="http://tvmalaysia.cc:80/images/ebf60d1fcc0262145640d812f1bed395.png" group-title="LIVE STREAMING",DSTV: SuperSport Premier League
-http://iptv.tvmalaysia.cc:80/737373/737373/6574
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport La Liga" tvg-logo="http://tvmalaysia.cc:80/images/b674bea2086e1a86466b75fb7fcae449.png" group-title="LIVE STREAMING",DSTV: SuperSport La Liga
-http://iptv.tvmalaysia.cc:80/737373/737373/6575
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Football" tvg-logo="http://tvmalaysia.cc:80/images/da567c37e0fb29691cca22df173b38a1.png" group-title="LIVE STREAMING",DSTV: SuperSport Football
-http://iptv.tvmalaysia.cc:80/737373/737373/6576
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 1" tvg-logo="http://tvmalaysia.cc:80/images/da567c37e0fb29691cca22df173b38a1.png" group-title="LIVE STREAMING",DSTV: SuperSport Variety 1
-http://iptv.tvmalaysia.cc:80/737373/737373/6577
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 2" tvg-logo="http://tvmalaysia.cc:80/images/20c1a787710e943c785d7adc61e25862.png" group-title="LIVE STREAMING",DSTV: SuperSport Variety 2
-http://iptv.tvmalaysia.cc:80/737373/737373/6578
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 3" tvg-logo="http://tvmalaysia.cc:80/images/20c1a787710e943c785d7adc61e25862.png" group-title="LIVE STREAMING",DSTV: SuperSport Variety 3
-http://iptv.tvmalaysia.cc:80/737373/737373/6579
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 4" tvg-logo="http://tvmalaysia.cc:80/images/46444ad845a9c8218b1b89bdacb94db5.png" group-title="LIVE STREAMING",DSTV: SuperSport Variety 4
-http://iptv.tvmalaysia.cc:80/737373/737373/6580
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Cricket" tvg-logo="http://tvmalaysia.cc:80/images/87f9188df2215a476290fa0e98b0e751.png" group-title="LIVE STREAMING",DSTV: SuperSport Cricket
-http://iptv.tvmalaysia.cc:80/737373/737373/6583
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: Supersport Blitz" tvg-logo="http://tvmalaysia.cc:80/images/8f71d3b3bffb6d36ceb62f00466400fe.png" group-title="LIVE STREAMING",DSTV: Supersport Blitz
-http://iptv.tvmalaysia.cc:80/737373/737373/6584
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport MáXimo" tvg-logo="http://tvmalaysia.cc:80/images/019630abd24d8e8864be46b4b6958469.png" group-title="LIVE STREAMING",DSTV: SuperSport MáXimo
-http://iptv.tvmalaysia.cc:80/737373/737373/6585
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Rugby" tvg-logo="http://tvmalaysia.cc:80/images/db23cec4763902ab6e0a85f67a85ec85.png" group-title="LIVE STREAMING",DSTV: SuperSport Rugby
-http://iptv.tvmalaysia.cc:80/737373/737373/6582
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Action" tvg-logo="http://tvmalaysia.cc:80/images/d00cd45de85ca6b516ec4eabc6dee644.png" group-title="LIVE STREAMING",DSTV: SuperSport Action
-http://iptv.tvmalaysia.cc:80/737373/737373/6581
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Motorsport" tvg-logo="http://tvmalaysia.cc:80/images/e1e9009280ca2bd4f72fdced323cebae.png" group-title="LIVE STREAMING",DSTV: SuperSport Motorsport
-http://iptv.tvmalaysia.cc:80/737373/737373/7142
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Tennis" tvg-logo="https://i.postimg.cc/prhfQQbf/1613351683433.png" group-title="LIVE STREAMING",DSTV: SuperSport Tennis
-http://iptv.tvmalaysia.cc:80/737373/737373/7143
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport WWE" tvg-logo="https://i.postimg.cc/x1RzzpNr/1613350615698.png" group-title="LIVE STREAMING",DSTV: SuperSport WWE
-http://iptv.tvmalaysia.cc:80/737373/737373/7144
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Golf" tvg-logo="https://i.postimg.cc/2jM3LRHL/1613350336105.png" group-title="LIVE STREAMING",DSTV: SuperSport Golf
-http://iptv.tvmalaysia.cc:80/737373/737373/7145
-#EXTINF:-1 tvg-id="SA: BEIN SPORTS HD1 ARABIC" tvg-name="BeIN Sport 1" tvg-logo="https://i.postimg.cc/kGxMffYC/1606697317290.png" group-title="LIVE STREAMING",BeIN Sport 1
-http://iptv.tvmalaysia.cc:80/737373/737373/6597
-#EXTINF:-1 tvg-id="SA: BEIN SPORTS HD2 ARABIC" tvg-name="BeIN Sport 2" tvg-logo="https://i.postimg.cc/wxh6K4F8/1606697373987.png" group-title="LIVE STREAMING",BeIN Sport 2
-http://iptv.tvmalaysia.cc:80/737373/737373/6598
-#EXTINF:-1 tvg-id="SA: BEIN SPORTS HD13 ARABIC" tvg-name="BeIN Sport 13" tvg-logo="https://i.postimg.cc/cHkkPSjM/1606697595212.png" group-title="LIVE STREAMING",BeIN Sport 13
-http://iptv.tvmalaysia.cc:80/737373/737373/6609
-
-
 #EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1" tvg-logo="http://tvmalaysia.cc:80/images/7379a7cb006d37f758205bf8dc829abd.jpg" group-title="LIVE STREAMING",BT Sport 1
 http://iptv.tvmalaysia.cc:80/737373/737373/6610
 #EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2" tvg-logo="http://tvmalaysia.cc:80/images/dad4a4674cfe73b1c89fc4b407b42a39.jpg" group-title="LIVE STREAMING",BT Sport 2
@@ -580,10 +355,6 @@ http://iptv.tvmalaysia.cc:80/737373/737373/6611
 http://iptv.tvmalaysia.cc:80/737373/737373/6612
 #EXTINF:-1 tvg-id="" tvg-name="BT Sport ESPN" tvg-logo="http://tvmalaysia.cc:80/images/38d170f4abf9bf163ba3ac527b37ae72.jpg" group-title="LIVE STREAMING",BT Sport ESPN
 http://iptv.tvmalaysia.cc:80/737373/737373/6613
-#EXTINF:-1 tvg-id="" tvg-name="UK: Premier Sports 1" tvg-logo="https://i.postimg.cc/SN2mJK5v/a95.png" group-title="LIVE STREAMING",UK: Premier Sports 1
-http://iptv.tvmalaysia.cc:80/737373/737373/7112
-#EXTINF:-1 tvg-id="" tvg-name="UK: Premier Sports 2" tvg-logo="https://i.postimg.cc/J7yhBKHx/a1442.png" group-title="LIVE STREAMING",UK: Premier Sports 2
-http://iptv.tvmalaysia.cc:80/737373/737373/7113
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1344,7 +1115,7 @@ https://www.dropbox.com/s/dl/707ppozbumm1iq6/carawaktv_cinemax.m3u8
 https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732",Red by HBO
-https://www.dropbox.com/s/dl/ds2ux7bmbz5k7f3/carawaktv_redbyhbo.m3u8
+https://www.dropbox.com/s/1wmlsklnt5xcfie/REDX.m3u8?dl=1
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg",Kplus
 https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/kplus.m3u8
@@ -1422,10 +1193,10 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="SPORTS",Fox Sports 1 Asia
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+http://iptv.tvmalaysia.cc:80/737373/737373/6793
 
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="SPORTS",Fox Sports 1 Asia Backup
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPRORT-HD-1080p/playlist.m3u8
+http://50.7.161.82:8278/streams/d/foxsports_pye/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1556,6 +1327,13 @@ https://46-21-250-207.livesports24.online/football3ua.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/wBJI5Jw.png" tvg-url="" group-title="SPORTS",Sport 1
 https://95-213-224-183.livesports24.online/sport1ua.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS",SK1
+http://31.220.41.88:8081/live/klub1.stream/chunks.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS",SK2
+http://31.220.41.88:8081/live/klub2.stream/chunks.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS",SK3
+http://31.220.41.88:8081/live/klub3.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="SPORTS", Матч!
 https://95-213-224-169.livesports24.online/ooomatch.m3u8
@@ -1893,6 +1671,326 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" grup-title="MUSIC", Channel V
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[001] Surah Alfatihah (Pembukaan)
+https://archive.org/download/MurotalMR/001.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[002] Surah Al-Baqarah (Lembu Betina)
+https://archive.org/download/MurotalMR/002.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[003] Surah Ali 'Imran (Keluarga Imran)
+https://archive.org/download/MurotalMR/003.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[004] Surah An-Nisaa' (Wanita)
+https://archive.org/download/MurotalMR/004.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[005] Surah Al-Maa'idah (Hidangan)
+https://archive.org/download/MurotalMR/005.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[006] Surah Al-An'aam (Binatang Ternakan)
+https://archive.org/download/MurotalMR/006.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[007] Surah Al-A'raaf (Tempat Tertinggi)
+https://archive.org/download/MurotalMR/007.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[008] Surah Al-Anfaal (Rampasan Perang)
+https://archive.org/download/MurotalMR/008.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[009] Surah At-Taubah (Pengampunan)
+https://archive.org/download/MurotalMR/009.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[010] Surah Yunus (Nabi Yunus a.s.)
+https://archive.org/download/MurotalMR/010.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[011] Surah Hud (Nabi Hud a.s.)
+https://archive.org/download/MurotalMR/011.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[012] Surah Yusuf (Nabi Yusuf a.s.)
+https://archive.org/download/MurotalMR/012.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[013] Surah Ar-Ra'd (Guruh)
+https://archive.org/download/MurotalMR/013.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[014] Surah Ibrahim (Nabi Ibrahim a.s.)
+https://archive.org/download/MurotalMR/014.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[015] Surah Al-Hijr (Kawasan Berbatu)
+https://archive.org/download/MurotalMR/015.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[016] Surah An-Nahl (Lebah)
+https://archive.org/download/MurotalMR/016.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[017] Surah Al-Israa' (Perjalanan Malam)
+https://archive.org/download/MurotalMR/017.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[018] Surah Al-Kahfi (Gua)
+https://archive.org/download/MurotalMR/018.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[019] Surah Maryam (Siti Maryam)
+https://archive.org/download/MurotalMR/019.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[020] Surah Taahaa
+https://archive.org/download/MurotalMR/020.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[021] Surah Al-Anbiyaa' (Para Nabi)
+https://archive.org/download/MurotalMR/021.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[022] Surah Al-Hajj (Haji)
+https://archive.org/download/MurotalMR/022.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png"  group-title="TILAWAH ALQUR'AN",[023] Surah Al-Mu'minun (Golongan yang Beriman)
+https://archive.org/download/MurotalMR/023.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[024] Surah An-Nuur (Cahaya)
+https://archive.org/download/MurotalMR/024.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[025] Surah Al-Furqaan (Pembeza Kebenaran dan Kebatilan)
+https://archive.org/download/MurotalMR/025.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[026] Surah Asy-Syu'araa (Para Penyair)
+https://archive.org/download/MurotalMR/026.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png"  group-title="TILAWAH ALQUR'AN",[027] Surah An-Naml (Semut)
+https://archive.org/download/MurotalMR/027.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[028] Surah Al-Qasas (Cerita-cerita)
+https://archive.org/download/MurotalMR/028.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[029] Surah Al-'Ankabut (Labah-labah)
+https://archive.org/download/MurotalMR/029.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[030] Surah Ar-Rum (Bangsa Rom)
+https://archive.org/download/MurotalMR/030.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[031] Surah Luqman (Luqman)
+https://archive.org/download/MurotalMR/031.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[032] Surah As-Sajdah (Sujud)
+https://archive.org/download/MurotalMR/032.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[033] Surah Al-Ahzab (Golongan yang Bersekutu)
+https://archive.org/download/MurotalMR/033.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[034] Surah Saba' (Kaum Saba')
+https://archive.org/download/MurotalMR/034.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[035] Surah Faatir (Pencipta)
+https://archive.org/download/MurotalMR/035.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[036] Surah Yaasin
+https://archive.org/download/MurotalMR/036.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[037] Surah As-Saaffat (Yang Teratur Berbaris)
+https://archive.org/download/MurotalMR/037.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[038] Surah Saad
+https://archive.org/download/MurotalMR/038.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[039] Surah Az-Zumar (Rombongan)
+https://archive.org/download/MurotalMR/039.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[040] Surah Al-Ghafir / Al-Mu'min (Orang yang Beriman)
+https://archive.org/download/MurotalMR/040.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[041] Surah Fussilat (Dijelaskan)
+https://archive.org/download/MurotalMR/041.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[042] Surah Asy-Syuraa (Permesyuaratan)
+https://archive.org/download/MurotalMR/042.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[043] Surah Az-Zukhruf (Perhiasan Emas)
+https://archive.org/download/MurotalMR/043.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[044] Surah Ad-Dukhaan (Kabut / Asap)
+https://archive.org/download/MurotalMR/044.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[045] Surah Al-Jatsiyah (Yang Berlutut)
+https://archive.org/download/MurotalMR/045.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[046] Surah Al-Ahqaaf (Bukit-bukit Pasir)
+https://archive.org/download/MurotalMR/046.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[047] Surah Muhammad (Nabi Muhammad SAW)
+https://archive.org/download/MurotalMR/047.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[048] Surah Al-Fath (Kemenangan)
+https://archive.org/download/MurotalMR/048.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[049] Surah Al-Hujurat (Bilik-bilik)
+https://archive.org/download/MurotalMR/049.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[050] Surah Qaaf
+https://archive.org/download/MurotalMR/050.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[051] Surah Adz-Dzariyaat (Angin yang Menerbangkan)
+https://archive.org/download/MurotalMR/051.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[052] Surah At-Tur (Bukit)
+https://archive.org/download/MurotalMR/052.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[053] Surah An-Najm (Bintang)
+https://archive.org/download/MurotalMR/053.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[054] Surah Al-Qamar (Bulan)
+https://archive.org/download/MurotalMR/054.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[055] Surah Ar-Rahman (Yang Maha Pemurah)
+https://archive.org/download/MurotalMR/055.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[056] Surah Al-Waqi'ah (Peristiwa yang Tidak Dapat Dielakkan)
+https://archive.org/download/MurotalMR/056.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[057] Surah Al-Hadid (Besi)
+https://archive.org/download/MurotalMR/057.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[058] Surah Al-Mujadilah (Perempuan yang Merayu)
+https://archive.org/download/MurotalMR/058.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[059] Surah Al-Hasyr (Pengusiran)
+https://archive.org/download/MurotalMR/059.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[060] Surah Al-Mumtahanah (Perempuan yang Diuji)
+https://archive.org/download/MurotalMR/060.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[061] Surah As-Saf (Barisan)
+https://archive.org/download/MurotalMR/061.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[062] Surah Al-Jumu'ah (Hari Jumaat)
+https://archive.org/download/MurotalMR/062.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[063] Surah Al-Munafiquun (Golongan Munafik)
+https://archive.org/download/MurotalMR/063.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[064] Surah At-Taghabun (Dinampakkan Kesalahan)
+https://archive.org/download/MurotalMR/064.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[065] Surah At-Talaq (Cerai / Talak)
+https://archive.org/download/MurotalMR/065.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[066] Surah At-Tahrim (Mengharamkan)
+https://archive.org/download/MurotalMR/066.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[067] Surah Al-Mulk (Kerajaan)
+https://archive.org/download/MurotalMR/067.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[068] Surah Al-Qalam (Pena / Kalam)
+https://archive.org/download/MurotalMR/068.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)
+https://archive.org/download/MurotalMR/069.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[070] Surah Al-Ma'arij (Tempat-tempat Naik)
+https://archive.org/download/MurotalMR/070.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[071] Surah Nuh (Nabi Nuh a.s.)
+https://archive.org/download/MurotalMR/071.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[072] Surah A-Jin (Jin)
+https://archive.org/download/MurotalMR/072.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[073] Surah Al-Muzammil (Yang Berselimut)
+https://archive.org/download/MurotalMR/073.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[074] Surah Al-Muddathir (Yang Berselubung)
+https://archive.org/download/MurotalMR/074.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[075] Surah Al-Qiyaamah (Hari Kebangkitan / Kiamat)
+https://archive.org/download/MurotalMR/075.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[076] Surah Al-Insaan (Manusia)
+https://archive.org/download/MurotalMR/076.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[077] Surah Al-Mursalat (Malaikat Yang Diutus)
+https://archive.org/download/MurotalMR/077.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[078] Surah An-Naba' (Berita Besar)
+https://archive.org/download/MurotalMR/078.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[079] Surah An-Naazi'aat (Malaikat Yang Mencabut)
+https://archive.org/download/MurotalMR/079.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[080] Surah 'Abasa (Dia Bermasam Muka)
+https://archive.org/download/MurotalMR/080.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[081] Surah At-Takwiir (Menggulung)
+https://archive.org/download/MurotalMR/081.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[082] Surah Al-Infitar (Terpecah & Terbelah)
+https://archive.org/download/MurotalMR/082.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[083] Surah Al-Mutaffifiin (Golongan yang Curang)
+https://archive.org/download/MurotalMR/083.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[084] Surah Al-Insyiqaaq (Terbelah)
+https://archive.org/download/MurotalMR/084.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[085] Surah Al-Buruj (Gugusan Bintang)
+https://archive.org/download/MurotalMR/085.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[086] Surah At-Taariq (Pengunjung Malam)
+https://archive.org/download/MurotalMR/086.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[087] Surah Al-A'laa (Yang Tertinggi)
+https://archive.org/download/MurotalMR/087.mp3
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/59z8s3jH/quran-PNG22.png " group-title="TILAWAH ALQUR'AN",[088] Surah Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)
+https://archive.org/download/MurotalMR/088.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[089] Surah Al-Fajr (Fajar / Sinar Mentari)
+https://archive.org/download/MurotalMR/089.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[090] Surah Al-Balad (Negeri)
+https://archive.org/download/MurotalMR/090.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[091] Surah Asy-Syams (Matahari)
+https://archive.org/download/MurotalMR/091.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[092] Surah Al-Lail (Malam)
+https://archive.org/download/MurotalMR/092.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[093] Surah Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)
+https://archive.org/download/MurotalMR/093.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[094] Surah Al-Insyirah/An-Nasyrah (Melapangkan)
+https://archive.org/download/MurotalMR/094.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[095] Surah At-Tin (Buah Tin / Buah Ara)
+https://archive.org/download/MurotalMR/095.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[096] Surah Al-'Alaq (Segumpal Darah)
+https://archive.org/download/MurotalMR/096.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[097] Surah Al-Qadr (Kemuliaan)
+https://archive.org/download/MurotalMR/097.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[098] Surah Al-Baiyinah (Bukti yang Nyata)
+https://archive.org/download/MurotalMR/098.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[099] Surah Al-Zalzalah (Kegoncangan)
+https://archive.org/download/MurotalMR/099.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[100] Surah Al-'Aadiyaat (Yang Berlari Kencang)
+https://archive.org/download/MurotalMR/100.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[101] Surah Al-Qari'ah (Hari Yang Hingar Bingar/kiamat)
+https://archive.org/download/MurotalMR/101.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[102] Surah At-Takathur (Bermegah-Megah)
+https://archive.org/download/MurotalMR/102.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[103] Surah Al-'Asr (Masa)
+https://archive.org/download/MurotalMR/103.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[104] Surah Al-Humazah (Pengumpat)
+https://archive.org/download/MurotalMR/104.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[105] Surah Al-Fiil (Gajah)
+https://archive.org/download/MurotalMR/105.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[106] Surah Quraisy (Kaum Quraisy)
+https://archive.org/download/MurotalMR/106.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[107] Surah Al-Ma'un (Barangan Berguna)
+https://archive.org/download/MurotalMR/107.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[108] Surah Al-Kauthar (Sungai Di Syurga)
+https://archive.org/download/MurotalMR/108.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[109] Surah Al-Kafirun (Golongan Kafir)
+https://archive.org/download/MurotalMR/109.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[110] Surah An-Nasr (Pertolongan)
+https://archive.org/download/MurotalMR/110.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[111] Surah Al-Masad / Al-Lahab (Nyalaan Api)
+https://archive.org/download/MurotalMR/111.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[112] Surah Al-Ikhlas (Tulus Ikhlas / Memurnikan Keesaan Allah)
+https://archive.org/download/MurotalMR/112.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[113] Surah Al-Falaq (Waktu Subuh / Dinihari)
+https://archive.org/download/MurotalMR/113.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN",[114] Surah An-Naas (Manusia)
+https://archive.org/download/MurotalMR/114.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 1
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/01.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 2
+https://ia600402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/02.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 3
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/03.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 4
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/04.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 5
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/05.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 6
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/06.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 7
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/07.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 8
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/08.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 9
+https://ia600402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/09.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 10
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/10.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 11
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/11.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 12
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/12.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 13
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/13.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 14
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/14.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 15
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/15.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 16
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/16.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 17
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/17.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 18
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/18.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 19
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/19.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 20
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/20.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 21
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/21.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 22
+https://ia600402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/22.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 23
+vhttps://ia600402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/23.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 24
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/24.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 25
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/25.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 26
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/26.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 27
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/27.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 28
+https://ia600402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/28.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 29
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/29.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 30
+https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/The_mummy.jpg" group-title="VOD BARAT",THE MUMMY
 https://www.googleapis.com/drive/v3/files/1iDIh3K7U9-OAPgrhjqm7UDBn5lCLbbwL?alt=media&key=AIzaSyDKk0lFQT69yWc0e0rJRouxJcSj7OsmWjc
