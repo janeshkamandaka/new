@@ -28,65 +28,37 @@ http://31.220.41.88:8081/live/fr-beinmax6.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="" group-title=" LIVE STREAMING", Bein Sport 7 FR (estable)
 http://31.220.41.88:8081/live/fr-beinmax7.stream/playlist.m3u8
 
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", Bein Sport 1 Asia
-http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", Bein Sport 1 Asia (op2)
-https://178.17.167.58/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", Bein Sport 1 Asia (op3)
-https://178.17.168.42/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", BeinSport 1 QAR (op2)
-http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="LIVE STREAMING", Bein Sports 1 Premium 
+http://yny.bourhasar.xyz/live/61011544/index.m3u8
+#http://2.yaciaptk.xyz/live/6161655/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="LIVE STREAMING", Bein Sports 2 Premium 
+http://2.yaciaptk.xyz/live/616194987/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="LIVE STREAMING", Bein Sports 3 Premium
+http://1.yaciaptk.xyz/live/6151278887/index.m3u8
 
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", BeinSport 1 QAR (op3)
-http://31.220.41.88:8081/live/bein9.stream/chunks.m3u8
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", BeinSport 1 QAR (op4)
-http://31.220.41.88:8081/live/bein1.stream/chunks.m3u8
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", Bein Sport 2 Asia
-http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", Bein Sport 2 Asia (op2)
-https://178.17.167.58/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", Bein Sport 2 Asia (op3)
-https://178.17.168.42/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", BeinSport 2 QAR (op2)
-http://str.smartip-tv.net:8888/BEIN_SPORT_9_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="LIVE STREAMING", Bein Sports 1
+http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", BeinSport 2 QAR (op3)
-http://31.220.41.88:8081/live/bein10.stream/chunks.m3u8
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", BeinSport 2 QAR (op4)
-http://31.220.41.88:8081/live/bein2.stream/chunks.m3u8
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", BeinSport 3 QAR
-http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="LIVE STREAMING", Bein Sports 2
+http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
 
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", BeinSport 3 QAR (op2)
-http://31.220.41.88:8081/live/bein12.stream/chunks.m3u8
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", BeinSport 3 QAR (op3)
-http://31.220.41.88:8081/live/bein3.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="LIVE STREAMING", Bein Sports 3
+http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
 
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", BeinSport 4 QAR 
-http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="LIVE STREAMING", Bein Sports 4
+http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
 
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", BeinSport 4 QAR (op2) 
-http://31.220.41.88:8081/live/bein4.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="LIVE STREAMING", Bein Sports 5
+http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="LIVE STREAMING", Bein Sports 6
+hhttp://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
 
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", BeinSport 5 QAR 
-http://str.smartip-tv.net:8888/BEIN_SPORT_5_HD/index.m3u8?token=test
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", BeinSport 5 QAR (op2)
-http://31.220.41.88:8081/live/bein5.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="LIVE STREAMING", Bein Sports 7
+http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
 
-
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", BeinSport 6 QAR (op2)
-http://str.smartip-tv.net:8888/BEIN_SPORT_6_HD/index.m3u8?token=test
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", BeinSport 6 QAR (op2)
-http://31.220.41.88:8081/live/bein6.stream/chunks.m3u8
-
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", BeinSport 7 QAR (op2)
-http://str.smartip-tv.net:8888/BEIN_SPORT_7_HD/index.m3u8?token=test
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", BeinSport 7 QAR (op2)
-http://31.220.41.88:8081/live/bein7.stream/chunks.m3u8
-
-#EXTINF:-1,tvg-logo="" group-title=" LIVE STREAMING", BeinSport 8 QAR (op2)
-http://31.220.41.88:8081/live/bein8.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="LIVE STREAMING", Bein Sports 8
+http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
 
 
 #EXTINF:-1   tvg-logo=" https://i.postimg.cc/cL12RJRR/BT-SPORT-1.png" group-title=" LIVE STREAMING", BT Sport 1 [HD]
@@ -590,7 +562,7 @@ https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/indosiar.png" group-title="LOKAL",INDOSIAR BACKUP 4
-https://link.zozotv.xyz:443/Freemium4/unlimited99/45
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/40
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/oznMlqHunOdzDHDYDXWU2PJYK34=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/ochannel-94c811.jpg" tvg-id="RIYAN.7d55f027a7b39def3455db27eeaed41c.SHINTA" tvg-name"[CODAY] Ochannel _VIDIO" group-title="LOKAL",Ochannel 
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-206.m3u8
@@ -643,13 +615,13 @@ https://tv.mbahnunungonline.net/playlist/metrotv.m3u8
 https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 
 #EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428234_ico.png" group-title="LOKAL",TRANS TV BACKUP
-http://210.210.155.35/session/c6016ff6-2ecf-11eb-9242-b82a72d63267/x6bnqe/s/s252/01.m3u8
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/29
 
 #EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428234_ico.png" group-title="LOKAL",TRANS TV BACKUP 2
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="http://aputra.xyz/epg/TransTV.id.png" group-title="LOKAL", TRANS TV BACKUP 3
-https://link.zozotv.xyz:443/Freemium4/unlimited99/43
+http://rr3.dens.tv/s/s72/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -660,10 +632,10 @@ https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
 http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428233_ico.png",TRANS7 BACKUP 2
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/30
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="LOKAL", TRANS7 BACKUP 3 
-https://link.zozotv.xyz:443/Freemium4/unlimited99/44
+http://playlist.urfan.web.id/qwr9ew/s/s101/01.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="http://images.useetv.com/logo_beritasatu_big1.png",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
@@ -954,10 +926,17 @@ http://mantul.biz.id:8888/294/294/10870
 #EXTINF:-1 tvg-ID="HIT.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428161_ico.png" group-title="MOVIES",HITS
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
+#EXTINF:-1 tvg-ID="HIT.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428161_ico.png" group-title="MOVIES",HITS BACKUP
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/26
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-name="304" tvg-id="HIM.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488593_ico.png" group-title="MOVIES",HITS MOVIE
+#EXTINF:-1 tvg-name="304" tvg-id="HIM.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488593_ico.png" group-title="MOVIES",HITS MOVIES
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#EXTINF:-1 tvg-name="304" tvg-id="HIM.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488593_ico.png" group-title="MOVIES",HITS MOVIES BACKUP
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/25
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1091,7 +1070,7 @@ https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428179_ico.png" group-title="MOVIES",FOX Crime Backup
-http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/5
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
@@ -1110,9 +1089,7 @@ http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Asia" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="MOVIES",Fox ID Backup
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1326,15 +1303,15 @@ https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="B01.th" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport1.png" group-title="SPORTS",BEIN SPORTS 1
-https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+https://akamai.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #EXTINF:-1 tvg-id="B01.th" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport1.png" group-title="SPORTS",BEIN SPORTS 1 BACKUP
-http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein11
+https://mediasv.online/tvchannel_x1/bein1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgOTo1MzoyMCBBTSZoYXNoX3ZhbHVlPVdZaG9DNWppTDY4bzVYOUtKbXd2V2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MTgmaWQ9Y2hfODg3OTk=
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-id="B02.th" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport2.png" group-title="SPORTS",BEIN SPORTS 2 
-https://liveanevia.mncnow.id/live/eds/BeIN1s/sa_dash_vmx/BeIN1s.mpd
+https://mediasv.online/tvchannel_x1/bein2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjEgOTo1NDo1OSBBTSZoYXNoX3ZhbHVlPUsxRTBoTW14eDBTTGVDWHJTeEw0dFE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MTgmaWQ9Y2hfNzc1NTc=
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
