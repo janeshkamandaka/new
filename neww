@@ -608,8 +608,8 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/26
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-name="304" tvg-id="HIM.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488593_ico.png" group-title="MOVIES",HITS MOVIES
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/hitsmovies.png",HITS MOVIES
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -730,11 +730,10 @@ https://dl.dropbox.com/s/mz1iezbism3zjy6/hbo.m3u8?dl=1
 https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3ypfBd6/HBO-FAMILI-1.png" group-title="MOVIES",HBO FAMILY
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/hbofam_small.jpg",HBO FAMILY HD
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_dash_vmx/HBOFamily.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3ypfBd6/HBO-FAMILI-1.png" group-title="MOVIES",HBO FAMILY BACKUP
 https://www.dropbox.com/s/dl/6xv5cc5aft0g64j/carawaktv-hbofam.m3u8
@@ -757,8 +756,8 @@ https://www.dropbox.com/s/dl/i6sz78ezl98lrrc/carawaktv-hbohits.m3u8
 https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vVTXXZT/HBO-SIGNATURE.png" group-title="MOVIES",HBO SIGNATURE
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/hbosig_small.png",HBO SIGNATURE
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature BACKUP
@@ -774,8 +773,8 @@ https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAX2021.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PTVKHGr/CINEMAX-1.png" group-title="MOVIES",CINEMAX BACKUP
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://meneerz.files.wordpress.com/2021/09/cinemax_small.png",CINEMAX
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PTVKHGr/CINEMAX-1.png" group-title="MOVIES",CINEMAX BACKUP 2
@@ -934,27 +933,33 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/355563159
 #EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="SPORTS", EGG TV 
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg",SPORT TV 1
-http://77.83.117.60:8888//02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv2.jpg",SPORT TV 2
-http://77.83.117.60:8888//02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv3.jpg",SPORT TV 3
-http://77.83.117.60:8888//02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv4.jpg",SPORT TV 4
-http://77.83.117.60:8888//02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv5.jpg",SPORT TV 5
-http://77.83.117.60:8888//02_SPORTTV_5_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo = "https://www.dropbox.com/s/jasj4zx53eb1fc0/sporttv.png?dl=1", SPORT TV 1 BACKUP
-http://31.220.41.88:8081/live/pt-sporttv1.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo = "https://www.dropbox.com/s/jasj4zx53eb1fc0/sporttv.png?dl=1", SPORT TV 2 BACKUP
-http://31.220.41.88:8081/live/pt-sporttv2.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo = "https://www.dropbox.com/s/jasj4zx53eb1fc0/sporttv.png?dl=1", SPORT TV 3 BACKUP
-http://31.220.41.88:8081/live/pt-sporttv3.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo = "https://www.dropbox.com/s/jasj4zx53eb1fc0/sporttv.png?dl=1", SPORT TV 4 BACKUP
-http://31.220.41.88:8081/live/pt-sporttv4.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo = "https://www.dropbox.com/s/jasj4zx53eb1fc0/sporttv.png?dl=1", SPORT TV 5 BACKUP
-http://31.220.41.88:8081/live/pt-sporttv5.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Sport TV + FHD" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv_plus_small.png" group-title="SPORTS", Sport TV + FHD
+http://tv.rapidiptv.tvip.xyz:80/rIkdUFA2290/xzrT7O5387/19589
+#EXTINF:-1 tvg-id="Sport TV +" tvg-logo="https://meneerz.files.wordpress.com/2021/09/sport_tv_plus_small.png" group-title="SPORTS", Sport TV +
+http://tv.rapidiptv.tvip.xyz:80/rIkdUFA2290/xzrT7O5387/9499
+#EXTINF:-1 tvg-id="Sport TV 1 FHD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_1.png" group-title="SPORTS", Sport TV 1 FHD
+http://tv.rapidiptv.tvip.xyz:80/rIkdUFA2290/xzrT7O5387/17744
+#EXTINF:-1 tvg-id="Sport TV 1 HD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_1.png" group-title="SPORTS", Sport TV 1 HD
+http://tv.rapidiptv.tvip.xyz:80/rIkdUFA2290/xzrT7O5387/3221
+#EXTINF:-1 tvg-id="Sport TV 1" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_1.png" group-title="SPORTS", Sport TV 1
+http://tv.rapidiptv.tvip.xyz:80/rIkdUFA2290/xzrT7O5387/7846
+#EXTINF:-1 tvg-id="Sport TV 2 FHD" "tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_2.png" group-title="SPORTS", Sport TV 2 FHD
+http://tv.rapidiptv.tvip.xyz:80/rIkdUFA2290/xzrT7O5387/3222
+#EXTINF:-1 tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_2.png" group-title="SPORTS", Sport TV 2
+http://tv.rapidiptv.tvip.xyz:80/rIkdUFA2290/xzrT7O5387/7845
+#EXTINF:-1 tvg-id="Sport TV 3 FHD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_3.png" group-title="SPORTS", Sport TV 3 FHD
+http://tv.rapidiptv.tvip.xyz:80/rIkdUFA2290/xzrT7O5387/3223
+#EXTINF:-1 tvg-id="Sport TV 3" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_3.png" group-title="SPORTS", Sport TV 3
+http://tv.rapidiptv.tvip.xyz:80/rIkdUFA2290/xzrT7O5387/7844
+#EXTINF:-1 tvg-id="Sport TV 4 FHD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_4.png" group-title="SPORTS", Sport TV 4 FHD
+http://tv.rapidiptv.tvip.xyz:80/rIkdUFA2290/xzrT7O5387/3224
+#EXTINF:-1 tvg-id="Sport TV 4" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_4.png" group-title="SPORTS", Sport TV 4
+http://tv.rapidiptv.tvip.xyz:80/rIkdUFA2290/xzrT7O5387/7843
+#EXTINF:-1 tvg-id="Sport TV 5 FHD" tvg-id="Sport TV 5 FHD" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_5.png" group-title="SPORTS", Sport TV 5 FHD
+http://tv.rapidiptv.tvip.xyz:80/rIkdUFA2290/xzrT7O5387/16297
+#EXTINF:-1 tvg-id="Sport TV 5" tvg-id="Sport TV 5" tvg-logo="https://meneerz.files.wordpress.com/2021/06/sport_tv_5.png" group-title="SPORTS", Sport TV 5
+http://tv.rapidiptv.tvip.xyz:80/rIkdUFA2290/xzrT7O5387/7842
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="SPORTS",  ASSP1 BACKUP
 http://iptv.tvmalaysia.cc/932633/932633/6708 
@@ -1223,6 +1228,11 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065971
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065972
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/bbcearth_small-1.png",BBC EARTH
+https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-ID="TLC.IN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428157_ico.png" group-title="Entertainment",TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
@@ -1281,9 +1291,9 @@ https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-cgtndocumenta
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-x#EXTINF:-1 goup-title="MPD" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" grup-title="KNOWLEDGE",BBC Earth
-https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_dash_vmx/BBCEarth.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://meneerz.files.wordpress.com/2021/09/animal_planet_small-1.png",ANIMAL PLANET
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="KNOWLEDGE",CNN International 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
