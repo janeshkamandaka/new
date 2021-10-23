@@ -357,7 +357,7 @@ https://tinyurl.com/ym8cntjt
 https://tinyurl.com/5f3atddd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="LIVE STREAMING",Astro Supersport 4
 https://tinyurl.com/cwvzchmv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8NC0zoQ.png" tvg-url="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml" group-title="MALAY SPORTS",TV Sukan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8NC0zoQ.png" tvg-url="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml" group-title="LIVE STREAMING",TV Sukan
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r27965c.png" group-title="LIVE STREAMING",Golf Channel Thailand
 https://master.server-cdn-streaming.com/api/live-player/35/live.m3u8
