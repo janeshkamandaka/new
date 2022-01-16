@@ -1,15 +1,65 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 (alt)" tvg-logo="http://iptv.nullpress.xyz:8080/images/7f3fa7aa05f8e1ab0a523d738a97cf04.png" group-title="LIVE STREAMING",Sport TV 1
-https://wopep.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2 (alt)" tvg-logo="http://iptv.nullpress.xyz:8080/images/33cfd1ff8df9b5eb8d2dd008a71d6e15.png" group-title="LIVE STREAMING",Sport TV 2
-https://wopep.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3 (alt)" tvg-logo="http://iptv.nullpress.xyz:8080/images/0df6f113d2652eb9bc62b370aaf8e7cc.png" group-title="LIVE STREAMING",Sport TV 3
-https://wopep.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4 (alt)" tvg-logo="http://iptv.nullpress.xyz:8080/images/374374037b6bdd2d23c18d942f301ea5.png" group-title="LIVE STREAMING",Sport TV 4
-https://wopep.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5 (alt)" tvg-logo="http://iptv.nullpress.xyz:8080/images/1055a6af5021cde88b928143ed6a93bf.png" group-title="LIVE STREAMING",Sport TV 5
-https://wopep.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J5DHUdV.png" group-title="LIVE STREAMING",Look Sport
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i0fciXm.png" group-title="LIVE STREAMING",Look Sport 2
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xhzU9kp.png" group-title="LIVE STREAMING",Look Sport 3
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H9m776N.png" group-title="LIVE STREAMING",Look Sport+
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
+#EXTINF:-1 tvg-logo="http://aditv.my.id/logo/assp1.png" group-title="LIVE STREAMING",Astro Supersport 1
+http://iptv.tvmalaysia.cc:80/penang192/penang192/6708
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
+#EXTINF:-1 tvg-logo="http://aditv.my.id/logo/assp2.png" group-title="LIVE STREAMING",Astro Supersport 2
+http://iptv.tvmalaysia.cc:80/penang192/penang192/6710
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
+#EXTINF:-1 tvg-logo="http://aditv.my.id/logo/assp3.png" group-title="LIVE STREAMING",Astro Supersport 3
+http://iptv.tvmalaysia.cc:80/penang192/penang192/6711
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
+#EXTINF:-1 tvg-logo="http://aditv.my.id/logo/assp4.png" group-title="LIVE STREAMING",Astro Supersport 4
+http://iptv.tvmalaysia.cc:80/penang192/penang192/6712
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
+#EXTINF:-1 tvg-logo="http://aditv.my.id/logo/astro-arena.png" group-title="LIVE STREAMING",Astro Arena
+http://iptv.tvmalaysia.cc:80/penang192/penang192/8926
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
+#EXTINF:-1 tvg-logo="http://aditv.my.id/logo/super-sport.png" group-title="LIVE STREAMING",SuperSport PSL
+http://iptv.tvmalaysia.cc:80/penang192/penang192/6573
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
+#EXTINF:-1 tvg-logo="http://aditv.my.id/logo/super-sport.png" group-title="LIVE STREAMING",SuperSport Premier League
+http://iptv.tvmalaysia.cc:80/penang192/penang192/6574
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
+#EXTINF:-1 tvg-logo="http://aditv.my.id/logo/super-sport.png" group-title="LIVE STREAMING",SuperSport LaLiga
+http://iptv.tvmalaysia.cc:80/penang192/penang192/6575
+
+#EXTINF:-1 tvg-logo="https://images.beinsports.com/1sKs7BXF8JtRYZchvSSZBCXjin4=/730160-730160-logo-useetv-01-1.png" group-title="LIVE STREAMING",USEE SPORT 1
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/57?token=TkdeVkBQEVkTVgcDAQMNAwwOUQ9QBgUFV1kGB19RBVUMXQUHBl4CUwlDSUNFQ0ZTVFQ6XwISCVcaQ0NCA0Y5XlFHDBUEGh9BRQgIBBQNBQABCFMGUgMKVxpDRlgCFlwVB1wAAgEaH0FUGREERFlVWmpdAEAPU1ZEDA9DXQoYRFhbOlJSXlldBxNbR1EUGxZfRklHDAhFXwoaQ1RYEkYHQ1BHDBUCAQFVE01HAllCWkJHQEcMRHl3RBpDU0kSUQhEXApYFQkaRxATTUcIRWhGU0ZNF1MHXVYUFFsUAUQYRFpUHWlUXFZdBlIVDA5YRBYMFwtVBkQcEQtZD19FCUY5R1wBFA0RCgVaAFlHHA==
+
+#EXTINF:-1 tvg-logo="https://images.beinsports.com/1sKs7BXF8JtRYZchvSSZBCXjin4=/730160-730160-logo-useetv-01-1.png" group-title="LIVE STREAMING",USEE SPORT 2
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/58?token=TkdeVkBQEVkTVgcDAQMNAwwOUQ9QBgUFV1kGB19RBVUMXQUHBl4CUwlDSUNFQ0ZTVFQ6XwISCVcaQ0NCA0Y5XlFHDBUEGh9BRQgIBBQNBQABCFMGUgMKVxpDRlgCFlwVB1wAAgEaH0FUGREERFlVWmpdAEAPU1ZEDA9DXQoYRFhbOlJSXlldBxNbR1EUGxZfRklHDAhFXwoaQ1RYEkYHQ1BHDBUCAQFVE01HAllCWkJHQEcMRHl3RBpDU0kSUQhEXApYFQkaRxATTUcIRWhGU0ZNF1MHXVYUFFsUAUQYRFpUHWlUXFZdBlIVDA5YRBYMFwtVBkQcEQtZD19FCUY5R1wBFA0RCgVaAFlHHA==
+
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN 1" tvg-logo="https://i.postimg.cc/rsvgnXZf/espn11.png" group-title="LIVE STREAMING",ESPN 1
 http://zalogitv.tech:8080/padji33/33334444/1674
 #EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN 2" tvg-logo="https://i.postimg.cc/rsvgnXZf/espn11.png" group-title="LIVE STREAMING",ESPN 2
@@ -18,26 +68,6 @@ http://zalogitv.tech:8080/padji33/33334444/1675
 http://zalogitv.tech:8080/padji33/33334444/1676
 #EXTINF:-1 tvg-id="espnu.us" tvg-name="ESPN U" tvg-logo="https://i.postimg.cc/rsvgnXZf/espn11.png" group-title="LIVE STREAMING",ESPN U
 http://zalogitv.tech:8080/padji33/33334444/1677
-#EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name="FR349:RMC Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR349RMCSPORT1HD.png" group-title="LIVE STREAMING",RMC Sport 1 HD
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/27960
-#EXTINF:-1 tvg-id="rmc.sport.2.fr" tvg-name="FR350:RMC Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR350RMCSPORT2HD.png" group-title="LIVE STREAMING",RMC Sport 2 HD
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/27959
-#EXTINF:-1 tvg-id="rmc.sport.3.fr" tvg-name="FR351:RMC Sport 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR351RMCSPORT3HD.png" group-title="LIVE STREAMING",RMC Sport 3 HD
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/27958
-#EXTINF:-1 tvg-id="rmc.sport.4.fr" tvg-name="FR352:RMC Sport 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR352RMCSPORT4HD.png" group-title="LIVE STREAMING",RMC Sport 4 HD
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/27957
-#EXTINF:-1 tvg-id="rmc.sport.live.5.fr" tvg-name="FR121:RMC Sport 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR121RMCSport5.png" group-title="LIVE STREAMING",RMC Sport 5
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/28188
-#EXTINF:-1 tvg-id="rmc.decouverte.fr" tvg-name="FR348:RMC Sport 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR348RMCSport6.png" group-title="LIVE STREAMING",RMC Sport 6
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/27961
-#EXTINF:-1 tvg-id="rmc.sport.live.7.fr" tvg-name="FR129:RMC Sport 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR129RMCSport7.png" group-title="LIVE STREAMING",RMC Sport 7
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/28180
-#EXTINF:-1 tvg-id="rmc.sport.live.8.fr" tvg-name="FR130:RMC Sport 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR130RMCSport8.png" group-title="LIVE STREAMING",RMC Sport 8
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/28179
-#EXTINF:-1 tvg-id="rmc.sport.live.9.fr" tvg-name="FR254:RMC Sport 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR254RMCSport9.png" group-title="LIVE STREAMING",RMC Sport 9
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/28055
-#EXTINF:-1 tvg-id="rmc.sport.live.10.fr" tvg-name="FR256:RMC Sport 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR256RMCSport10.png" group-title="LIVE STREAMING",RMC Sport 10
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/28053
 #EXTINF:-1 tvg-id="" tvg-name="Матч" tvg-logo="http://epg.cdntv.online/img/48.png" group-title="LIVE STREAMING",Матч
 http://cdntv.online/middle/vfkxs9nh4z/48.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Satellite TV! Футбол 1" tvg-logo="http://epg.cdntv.online/img/55.png" group-title="LIVE STREAMING",Satellite TV! Футбол 1
@@ -76,38 +106,8 @@ https://95-213-224-181.livesports24.online/khlhdru.m3u8
 https://95-213-224-181.livesports24.online/matchboetsru.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Унiан" tvg-logo="http://epg.cdntv.online/img/44.png" group-title="LIVE STREAMING",Унiан
 https://95-213-224-181.livesports24.online/uniantv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="K Sport 1" tvg-logo="https://img.sport-tv-guide.live/images/tvm-station-k-sport-1-1855.png" group-title="LIVE STREAMING",K Sport 1
-http://iptvh.it/SuperIPTV_KSport1.m3u
-#EXTINF:-1 tvg-id="" tvg-name="K Sport 2" tvg-logo="https://img.sport-tv-guide.live/images/tvm-station-k-sport-2-1856.png" group-title="LIVE STREAMING",K Sport 2
-http://iptvh.it/SuperIPTV_KSport2.m3u
-#EXTINF:-1 tvg-id="" tvg-name="K Sport 3" tvg-logo="https://img.sport-tv-guide.live/images/tvm-station-k-sport-3-1857.png" group-title="LIVE STREAMING",K Sport 3
-http://iptvh.it/SuperIPTV_KSport3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="K Sport 4" tvg-logo="https://img.sport-tv-guide.live/images/tvm-station-k-sport-4-1858.png" group-title="LIVE STREAMING",K Sport 4
-http://iptvh.it/SuperIPTV_KSport4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKfFpwYAVQqlw8JDjcI6YutnXmJaxenFeYmQ&usqp=CAU" group-title="LIVE STREAMING",Super Sports 1
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/224
-#EXTINF:-1 tvg-id="" tvg-name="Super Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKfFpwYAVQqlw8JDjcI6YutnXmJaxenFeYmQ&usqp=CAU" group-title="LIVE STREAMING",Super Sports 2
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/223
-#EXTINF:-1 tvg-id="" tvg-name="Super Sports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKfFpwYAVQqlw8JDjcI6YutnXmJaxenFeYmQ&usqp=CAU" group-title="LIVE STREAMING",Super Sports 3
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/222
-#EXTINF:-1 tvg-id="" tvg-name="Super Sports 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKfFpwYAVQqlw8JDjcI6YutnXmJaxenFeYmQ&usqp=CAU" group-title="LIVE STREAMING",Super Sports 4
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/221
-#EXTINF:-1 tvg-id="" tvg-name="Super Sports 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKfFpwYAVQqlw8JDjcI6YutnXmJaxenFeYmQ&usqp=CAU" group-title="LIVE STREAMING",Super Sports 5
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/19809
-#EXTINF:-1 tvg-id="" tvg-name="Super Sports 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKfFpwYAVQqlw8JDjcI6YutnXmJaxenFeYmQ&usqp=CAU" group-title="LIVE STREAMING",Super Sports 6
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/19810
-#EXTINF:-1 tvg-id="" tvg-name="Super Sports 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKfFpwYAVQqlw8JDjcI6YutnXmJaxenFeYmQ&usqp=CAU" group-title="LIVE STREAMING",Super Sports 7
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29797
-#EXTINF:-1 tvg-id="" tvg-name="TSN Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7puO7Y2cIZVj3KOJl-i2mytMvAIcOmYcWiw&usqp=CAU" group-title="LIVE STREAMING",TSN Sport 1
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3046
-#EXTINF:-1 tvg-id="" tvg-name="TSN Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7puO7Y2cIZVj3KOJl-i2mytMvAIcOmYcWiw&usqp=CAU" group-title="LIVE STREAMING",TSN Sport 2
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3047
-#EXTINF:-1 tvg-id="" tvg-name="TSN Sport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7puO7Y2cIZVj3KOJl-i2mytMvAIcOmYcWiw&usqp=CAU" group-title="LIVE STREAMING",TSN Sport 3
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3048
-#EXTINF:-1 tvg-id="" tvg-name="TSN Sport 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7puO7Y2cIZVj3KOJl-i2mytMvAIcOmYcWiw&usqp=CAU" group-title="LIVE STREAMING",TSN Sport 4
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3049
-#EXTINF:-1 tvg-id="" tvg-name="TSN Sport 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7puO7Y2cIZVj3KOJl-i2mytMvAIcOmYcWiw&usqp=CAU" group-title="LIVE STREAMING",TSN Sport 5
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3050
+
+
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-logo="https://sattracker.kartian.my.id/wp-content/uploads/2020/06/CCTV-5%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png" group-title="LIVE STREAMING",CCTV 5+
 http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="http://iptv.lancartech.co.id:8080/images/ec6f6c0f998342a31dadfb8e594fc892.png" group-title="LIVE STREAMING",WWE Network
@@ -116,48 +116,6 @@ http://93.152.174.144:4000/play/WWE/index.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stadium TV USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/800px-Stadium_%28sports_network%29_logo.svg.png" group-title="LIVE STREAMING",Stadium TV
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-
-#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN022:BEIN SPORTS Premium 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN022BeinSport15.png" group-title="LIVE STREAMING",BEIN SPORTS Premium 1
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2120
-#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN023:BEIN SPORTS Premium 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN023BeinSport.png" group-title="LIVE STREAMING",BEIN SPORTS Premium 2
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2119
-#EXTINF:-1 tvg-id="" tvg-name="BN025:BEIN SPORTS Premium 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN025BeINGroummet.png" group-title="LIVE STREAMING",BEIN SPORTS Premium 3
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2117
-#EXTINF:-1 tvg-id="bein.sports.1hd.ae" tvg-name="BN002:BeIN Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN002BeINSport01.png" group-title="LIVE STREAMING",BeIN Sport 1 HD
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2140
-#EXTINF:-1 tvg-id="bein.sports.2.ae" tvg-name="BN003:BeIN Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN003BeINSport02.png" group-title="LIVE STREAMING",BeIN Sport 2 HD
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2139
-#EXTINF:-1 tvg-id="bein.sports.3.ae" tvg-name="BN004:BeIN Sport 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN004BeINSport03.png" group-title="LIVE STREAMING",BeIN Sport 3 HD
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2138
-#EXTINF:-1 tvg-id="bein.sports.4.ae" tvg-name="BN005:BeIN Sport 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN005BeINSport04.png" group-title="LIVE STREAMING",BeIN Sport 4 HD
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2137
-#EXTINF:-1 tvg-id="bein.sports.5.ae" tvg-name="BN006:BeIN Sport 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN006BeINSport05.png" group-title="LIVE STREAMING",BeIN Sport 5 HD
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2136
-#EXTINF:-1 tvg-id="bein.sports.6.ae" tvg-name="BN007:BeIN Sport 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN007BeINSport06.png" group-title="LIVE STREAMING",BeIN Sport 6 HD
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2135
-#EXTINF:-1 tvg-id="bein.sports.7.ae" tvg-name="BN008:BeIN Sport 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN008BeINSport07.png" group-title="LIVE STREAMING",BeIN Sport 7 HD
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2134
-#EXTINF:-1 tvg-id="bein.sports.8.ae" tvg-name="BN009:BeIN Sport 8 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN009BeINSport08.png" group-title="LIVE STREAMING",BeIN Sport 8 HD
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2133
-#EXTINF:-1 tvg-id="bein.sports.9.ae" tvg-name="BN010:BeIN Sport 9 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN010BeINSport09.png" group-title="LIVE STREAMING",BeIN Sport 9 HD
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2132
-#EXTINF:-1 tvg-id="bein.sports.10.ae" tvg-name="BN011:BeIN Sport 10 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN011BeINSport10.png" group-title="LIVE STREAMING",BeIN Sport 10 HD
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2131
-#EXTINF:-1 tvg-id="bein.sports.11.ae" tvg-name="BN012:BeIN Sport 11 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN012BeINSport11.png" group-title="LIVE STREAMING",BeIN Sport 11 HD
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2130
-#EXTINF:-1 tvg-id="bein.sports.12.ae" tvg-name="BN013:BeIN Sport 12 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN013BeINSport12.png" group-title="LIVE STREAMING",BeIN Sport 12 HD
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2129
-#EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-ten1.jpg" group-title="LIVE STREAMING",Sony TEN 1
-#http://103.131.212.138:8000/play/a027/index.m3u8
-http://208.86.19.21:80/726.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-ten2.jpg" group-title="LIVE STREAMING",Sony TEN 2
-#http://103.131.212.138:8000/play/a01b/index.m3u8
-http://208.86.19.21:80/712.stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/sm/sony-ten-3.jpg" group-title="LIVE STREAMING",Sony TEN 3
-#http://103.131.212.138:8000/play/a02q/index.m3u8
-http://208.86.19.21:80/713.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="LIVE STREAMING", BT Sport 1
 https://wopep.com/02_BTSPORTHD_1_720p/chunklist.m3u8
@@ -175,26 +133,8 @@ http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170831
 http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170832
 #EXTINF:-1   group-title="LIVE STREAMING", astrosport 4
 http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170833
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XO9yr6R.png" group-title="LIVE STREAMING",Supersport Action
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4217
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OOSoHfD.png" group-title="LIVE STREAMING",Supersport Blitz
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4218
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nCzOSks.png" group-title="LIVE STREAMING",Supersport Cricket
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4219
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vt3RvFA.png" group-title="LIVE STREAMING",Supersport Football
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4222
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3bXUFkP.png" group-title="LIVE STREAMING",Supersport Grandstand
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4224
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vgt96sG.png" group-title="LIVE STREAMING",Supersport Maximo 1
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4226
-#EXTINF:-1 tvg-logo="https://i.imgur.com/37EjPV3.png" group-title="LIVE STREAMING",Supersport Motorsport
-http://iptv.tvmalaysia.cc:80/penang174/penang174/7142
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cXB0iFd.png" group-title="LIVE STREAMING",Supersport PSL
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4228
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sglWngc.png" group-title="LIVE STREAMING",Supersport Rugby
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4231
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uBflRxR.png" group-title="LIVE STREAMING",Supersport Tennis
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4232
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8NC0zoQ.png" tvg-url="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml" group-title="LIVE STREAMING",TV Sukan
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="LIVE STREAMING",DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="LIVE STREAMING",Fox Sports Premium
@@ -211,12 +151,6 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="LIVE STREAMING",TyC Sports
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-#EXTINF: -1 tvg-id="1234" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png" group-title="LIVE STREAMING",JioFootball1HD(auto) 
-http://jo123.biz/jweb/m3u8.php?c=Jio_Football_1&q=800&e=junk.m3u8 
-#EXTINF: -1 tvg-id="1167" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png" group-title="LIVE STREAMING",JioFootball2HD(auto) 
-http://jo123.biz/jweb/m3u8.php?c=Jio_Football_2&q=800&e=junk.m3u8 
-#EXTINF: -1 tvg-id="1168" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_3.png" group-title="LIVE STREAMING",JioFootball3HD(auto) 
-http://jo123.biz/jweb/m3u8.php?c=Jio_Football_3&q=800&e=junk.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png"group-title="LIVE STREAMING",NowSports hd HongKong
 http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png"group-title="LIVE STREAMING",XtreamSports hd
@@ -229,76 +163,6 @@ https://185-82-201-79.livesports24.online/belarusss5.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="LIVE STREAMING",RingOfHonor
 https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/2000.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 1HD" tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg" group-title="LIVE STREAMING",AR: Bein Sport 1HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6872
-#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 2HD" tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg" group-title="LIVE STREAMING",AR: Bein Sport 2HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6871
-#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 3HD" tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg" group-title="LIVE STREAMING",AR: Bein Sport 3HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6870
-#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 4HD" tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg" group-title="LIVE STREAMING",AR: Bein Sport 4HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6869
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AR: Bein Sport 5HD" tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg" group-title="LIVE STREAMING",AR: Bein Sport 5HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6868
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AR: Bein Sport 6HD" tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg" group-title="LIVE STREAMING",AR: Bein Sport 6HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6867
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AR: Bein Sport 7HD" tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg" group-title="LIVE STREAMING",AR: Bein Sport 7HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6866
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AR: Bein Sport 8HD" tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg" group-title="LIVE STREAMING",AR: Bein Sport 8HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6865
-#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 9HD" tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg" group-title="LIVE STREAMING",AR: Bein Sport 9HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6864
-#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 10HD" tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg" group-title="LIVE STREAMING",AR: Bein Sport 10HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6863
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AR: Bein Sport 11HD" tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg" group-title="LIVE STREAMING",AR: Bein Sport 11HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2745
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AR: Bein Sport 12HD" tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg" group-title="LIVE STREAMING",AR: Bein Sport 12HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2746
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Sport Kosova News HD" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: Sport Kosova News HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/19812
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Sport Kosova 1 HD" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: Sport Kosova 1 HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/226
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Sport Kosova 2 HD" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: Sport Kosova 2 HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/225
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport News HD" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: Super Sport News HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/224
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 2 HD" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: Super Sport 2 HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/223
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 3 HD" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: Super Sport 3 HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/222
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 4 HD" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: Super Sport 4 HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/221
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 5 HD" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: Super Sport 5 HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/19809
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 6 HD" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: Super Sport 6 HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/19810
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Super Sport 7 HD" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: Super Sport 7 HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29797
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring Sport News HD" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: Tring Sport News HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/212
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring Sport 1 HD" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: Tring Sport 1 HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/213
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring Sport 1" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: Tring Sport 1
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2156
-#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Sport 2" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: Tring Sport 2
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2155
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring Sport 3" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: Tring Sport 3
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2154
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring Sport 4" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: Tring Sport 4
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2153
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Tring Super" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: Tring Super
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/211
-#EXTINF:-1 tvg-ID="" tvg-name="AL: Tring Tring" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: Tring Tring
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/210
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: K Sport 1" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: K Sport 1
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2115
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: K Sport 2" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: K Sport 2
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2114
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: K Sport 3" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: K Sport 3
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2113
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: K Sport 4" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: K Sport 4
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2112
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: K Sport 5" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: K Sport 5
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29798
 #EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Eurosport 1 HD" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: Eurosport 1 HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2116
 #EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Eurosport 2" tvg-logo="https://i.postimg.cc/NjWqG0f7/Inter-National-Sport-Share-Ext.png" group-title="LIVE STREAMING",AL: Eurosport 2
@@ -391,16 +255,6 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPoYbHR.png" group-title="LIVE STREAMING",Sky Thoroughbred Central
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8NC0zoQ.png" tvg-url="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml" group-title="LIVE STREAMING",TV Sukan
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J5DHUdV.png" group-title="LIVE STREAMING",Look Sport
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i0fciXm.png" group-title="LIVE STREAMING",Look Sport 2
-https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xhzU9kp.png" group-title="LIVE STREAMING",Look Sport 3
-https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H9m776N.png" group-title="LIVE STREAMING",Look Sport+
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_24_-_Logo_2020.svg/1920px-Sky_Sport_24_-_Logo_2020.svg.png" group-title="LIVE STREAMING",Sky Sport 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="LIVE STREAMING",Eurosport 1
@@ -441,28 +295,12 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 http://rr1.dens.tv/h/h10/01.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest/scale-to-width-down/200?cb=20210802132424" group-title="LIVE STREAMING",Astro Supersport 1
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/AstroSp-1.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Astro_Supersport_2.png/revision/latest/scale-to-width-down/250?cb=20180622074955" group-title="LIVE STREAMING",Astro Supersport 2
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/AstroSp-2.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Astro_Supersport_3.png/revision/latest/scale-to-width-down/250?cb=20180622075500" group-title="LIVE STREAMING",Astro Supersport 3
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/AstroSp-3.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Supersport_4.png/revision/latest/scale-to-width-down/250?cb=20180622080025" group-title="LIVE STREAMING",Astro Supersport 4
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/AstroSp-4.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/AstroSuperSport5.png/revision/latest/scale-to-width-down/250?cb=20211002110810" group-title="LIVE STREAMING",Astro Supersport 5
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/AstroSp-5.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/UseeTV_logo.svg/revision/latest/scale-to-width-down/200?cb=20210618150807" group-title="LIVE STREAMING",Useesports 1
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=useesport&gumisasakTV=default&sync=0
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/UseeTV_logo.svg/revision/latest/scale-to-width-down/200?cb=20210618150807" group-title="LIVE STREAMING",Useesports 2
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=useesports2&gumisasakTV=default&sync=0
-
-
+#EXTINF:-1 tvg-id="IPTV.MW" tvg-logo="" group-title="LOKAL",IPTV MWAFA 1
+https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
+#EXTINF:-1 tvg-id="IPTV.MW" tvg-logo="" group-title="LOKAL",IPTV MWAFA 2
+https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
+#EXTINF:-1 tvg-id="IPTV.MW" tvg-logo="" group-title="LOKAL",IPTV MWAFA 3
+https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -489,33 +327,43 @@ https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 http://210.210.155.35/session/e195c91c-9912-11eb-9546-a4e0bce47b39/qwr9ew/s/s12/01.m3u8
 
 #EXTINF:-1 tvg-id="RTV.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428243_ico.png" group-title="LOKAL",RTV BACKUP 2
-https://iptv.mwafa.net/vidio/1561/index.m3u8?token=3394
+https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-id="RTV.ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" group-title="LOKAL",MY TV
 http://sindoro.axc.my.id:25461/oxygen/SGBT5tKbQp/086
 https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="LOKAL",RCTI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
+#EXTINF:-1 tvg-id="RCT.ID" tvg-name="RCTI.id" tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="LOKAL", RCTI
+http://syarman.hexat.com/INDONESIA%20HD/rcti.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="LOKAL",RCTI BACKUP
 http://zalogitv.tech:8080/padji33/33334444/1964
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="LOKAL",RCTI BACKUP 2
-https://link.zozotv.xyz:443/707070/707070/47
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="LOKAL",RCTI BACKUP 2
+#EXTVLCOPT:network-caching=1000
+http://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="LOKAL",RCTI BACKUP 3
+#EXTINF:-1 tvg-id="RCT.ID" tvg-name="RCTI.id" tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="LOKAL", RCTI BACKUP 3
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="LOKAL",RCTI BACKUP 4
-https://fta.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
+#EXTINF:-1 tvg-logo="http://aditv.my.id/logo/rcti.png" group-title="LOKAL",RCTI BACKUP 4
+https://on-load.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="LOKAL",RCTI BACKUP 5
-https://iptv.mwafa.net/rctiplus/rcti/index.m3u8?token=3394
+
+#EXTINF:-1 tvg-logo="http://aditv.my.id/logo/rcti.png" group-title="LOKAL",RCTI BACKUP 5
+https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://aditv.my.id/logo/rcti.png" group-title="LOKAL",RCTI BACKUP 6
+https://cubmu.superzap.xyz:8279/rcti/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="LOKAL",Insert(cubmu)
+https://cubmu.superzap.xyz:8279/insert/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vvQ08bs1O1k/YAVi9kzFGGI/AAAAAAAAA70/IeP6w9cLSsUOg8Pf6a8ljvysHtuQqGl9QCLcBGAsYHQ/s0/logo_dunialain.png?v=1.0.0.1" group-title="LOKAL", Dunia Lain
+https://cubmu.superzap.xyz:8279/dunialain/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -572,7 +420,7 @@ https://link.zozotv.xyz:443/707070/707070/48
 https://fta.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png" group-title="LOKAL",GTV BACKUP 3
-https://iptv.mwafa.net/rctiplus/gtv/index.m3u8?token=3394
+https://iptv.mwafa.net/rctiplus/gtv/index.m3u8?token=1999
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -580,16 +428,10 @@ https://iptv.mwafa.net/rctiplus/gtv/index.m3u8?token=3394
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="LOKAL",SCTV 
-https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
-
-#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="LOKAL",SCTV BACKUP
-https://link.zozotv.xyz:443/707070/707070/46
-
-#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="LOKAL",SCTV BACKUP 2
-http://tevemobile.us.to/sc/play.m3u8?id=204
+E3http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="LOKAL",SCTV BACKUP 3
-https://iptv.mwafa.net/vidio/204/index.m3u8?token=3394
+https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/indosiar.png" group-title="LOKAL",INDOSIAR 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -600,7 +442,7 @@ https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/indosiar.png" group-title="LOKAL",INDOSIAR BACKUP 2
-https://iptv.mwafa.net/vidio/205/index.m3u8?token=3394
+http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 group-title="LOKAL", O Channel HD
 http://tevemobile.us.to/sc/play.m3u8?id=206
@@ -623,7 +465,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="LOKAL", TVRI BACKUP
-https://iptv.mwafa.net/vidio/6441/index.m3u8?token=3394
+https://iptv.mwafa.net/vidio/6441/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180613/vgb/kisspng-kompas-tv-television-indonesia-news-kompas-5b21b8903a7af9.3752705015289365922396.jpg" group-title="LOKAL",KOMPAS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -634,7 +476,7 @@ https://anevia114.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://icon2.cleanpng.com/20180613/vgb/kisspng-kompas-tv-television-indonesia-news-kompas-5b21b8903a7af9.3752705015289365922396.jpg" group-title="LOKAL", KOMPAS TV BACKUP 2
-https://iptv.mwafa.net/vidio/874/index.m3u8?token=3394
+https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
 
 #EXTINF:-1, tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png" group-title="LOKAL", Metro TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -645,7 +487,7 @@ https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
 https://tv.mbahnunungonline.net/playlist/metrotv.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png",Metro TV BACKUP 2
-https://iptv.mwafa.net/vidio/777/index.m3u8?token=3394
+https://iptv.mwafa.net/vidio/777/index.m3u8?token=1999
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -705,9 +547,6 @@ https://dl.dropbox.com/s/4z3cupdot7uhhxt/6cdb3402d11f58d.m3u8
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-id="RIYAN.7ba60c315b6b5d375b4a39267d475655.SHINTA" tvg-name="NET TV" tvg-logo="https://www.useetv.com/pimages/tvposter/net.png" group-title="LOKAL",NET TV Backup 3
-https://iptv.mwafa.net/vidio/875/index.m3u8?token=3394
-
-#EXTINF:-1 tvg-id="RIYAN.7ba60c315b6b5d375b4a39267d475655.SHINTA" tvg-name="NET TV" tvg-logo="https://www.useetv.com/pimages/tvposter/net.png" group-title="LOKAL",NET TV Backup 4
 https://iptv.mwafa.net/vidio/875/index.m3u8?token=1999
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg",Biznet Lifestyle
@@ -743,7 +582,10 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 https://v6.siar.us/nusantaratv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-ID="OKTV" group-title="LOKAL" tvg-logo="https://www.useetv.com/pimages/logo_seatoday_big.png", Sea Today
-https://tv.mbahnunungonline.net/playlist/seatoday.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh61tki1p6jqnPS_cdcEGtV1LkcVvVNdJZyL5hfTw=s900-c-k-c0x00ffffff-no-rj" group-title="LOKAL",Dunia Game TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra" tvg-logo="https://i.postimg.cc/kg69kdWm/Astro-Citra-HD.png" group-title="Malaysia",Astro Citra
 http://zalogitv.tech:8080/padji33/33334444/1724
@@ -793,6 +635,16 @@ http://zalogitv.tech:8080/padji33/33334444/15466
 http://zalogitv.tech:8080/padji33/33334444/20107
 #EXTINF:-1 tvg-id="RTM Sports" tvg-name="RTM" tvg-logo="" group-title="Malaysia",RTM
 http://zalogitv.tech:8080/padji33/33334444/20911
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND HD 311" tvg-name="ASTRO AOD 351 HD" tvg-logo="http://tvmalaysia.cc:80/images/266ce75d12de3edfb41bf0fb38d44e61.png" group-title="Malaysia",ASTRO AOD 351 HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6702
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 352" tvg-name=" ASTRO AOD 352 HD" tvg-logo="http://tvmalaysia.cc:80/images/c80fbc0c1c459c6f112b564e69a15440.png" group-title="Malaysia", ASTRO AOD 352 HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6703
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 353" tvg-name="ASTRO AOD 353 HD" tvg-logo="http://tvmalaysia.cc:80/images/fec06cc8554e1b382eb9592918638974.png" group-title="Malaysia",ASTRO AOD 353 HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6704
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 354" tvg-name="ASTRO AOD 354 HD" tvg-logo="http://tvmalaysia.cc:80/images/2bc91972c202879d05a1d98c8131de12.png" group-title="Malaysia",ASTRO AOD 354 HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6705
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 355" tvg-name="ASTRO AOD 355 HD" tvg-logo="http://tvmalaysia.cc:80/images/4ecbf4199ba725a25362149501b9ae90.png" group-title="Malaysia",ASTRO AOD 355 HD
+http://iptv.tvmalaysia.cc:80/321456/321456/6706
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1068,6 +920,8 @@ http://www.goldentv.tech:25461/Perfecto/170721/24990
 #EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO" tvg-logo="http://iptv.nullpress.xyz:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="MOVIES",HBO
 https://kopiku.my.id/inr/hbo2.m3u8?channel=hbo
 
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO" tvg-logo="http://iptv.nullpress.xyz:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="MOVIES",HBO BACKUP 3
+https://tvlivehometv.xyz/RHS/hbo1.m3u8?channel=hbo
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
@@ -1194,9 +1048,17 @@ http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=imc&gumisasakTV=de
 http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=imc&gumisasakTV=default&sync=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="MOVIES", Flik 
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=flik&gumisasakTV=default&sync=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="MOVIES", Flik Backup
-https://lnk.ec/FLIK?shareext.ts
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:0 group-title="MOVIES",FLIX
+#EXTVLCOPT:network-caching=1000
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 tvg-id="myfamilychannel.MACAN" tvg-name="My Family Cinema" tvg-logo="http://iptv.nullpress.xyz:8080/images/e52e88fd0a5a710ca49bed894ef50ec1.png" group-title="MOVIES",My Family Cinema
+http://zalogitv.tech:8080/padji33/33334444/25114
+#EXTINF:-1 tvg-id="mycinemaasia.MACAN" tvg-name="My Cinema Asia" tvg-logo="http://iptv.nullpress.xyz:8080/images/235fea3d7469fe2a6be533c810256351.png" group-title="MOVIES",My Cinema Asia
+http://zalogitv.tech:8080/padji33/33334444/25112
+#EXTINF:-1 tvg-id="mycinema.MACAN" tvg-name="My Cinema" tvg-logo="http://iptv.nullpress.xyz:8080/images/604a27ebedb646b79071910689965f66.png" group-title="MOVIES",My Cinema
+http://zalogitv.tech:8080/padji33/33334444/25110
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1221,11 +1083,17 @@ http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/20916
 http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/20914
 
 #EXTINF:-1 tvg-id="" tvg-name="Champions TV 1 (Vidio)" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",Champions TV 1 (Vidio)
-http://103.226.232.199:8005/play/a060/index.m3u8?shareext.m3u8
+http://www.goldentv.tech:25461/live/Perfecto/170721/26134.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Champions TV 2 (Vidio)" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS",Champions TV 2 (Vidio)
-http://103.226.232.199:8005/play/a061/index.m3u8?shareext.m3u8
+http://www.goldentv.tech:25461/live/Perfecto/170721/26135.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Champions TV 3 (Vidio)" tvg-logo="https://mantul.org/logo/champions3.png" group-title="SPORTS",Champions TV 3 (Vidio)
-http://103.226.232.199:8005/play/a062/index.m3u8?shareext.m3u8
+http://www.goldentv.tech:25461/live/Perfecto/170721/26136.m3u8
+#EXTINF:-1 tvg-id="champion1.id" tvg-name="champions1" tvg-logo="https://i.ibb.co/KDv3FGf/Champions-TV-1-HD-2021.png" group-title="SPORTS",Champions 1 HD
+https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
+#EXTINF:-1 tvg-id="champion2.id" tvg-name="champions2" tvg-logo="https://i.ibb.co/6FTbXLf/Champions-TV-2-2021.png" group-title="SPORTS",Champions 2 HD 
+https://m3u-editor.com/live/serve/fhjhddfnmh/409160917.m3u8
+#EXTINF:-1 tvg-id="champion3.id" tvg-name="champions3" tvg-logo="https://i.ibb.co/2NDgPpB/Champions-TV-3.jpg" group-title="SPORTS",Champions 3 HD
+https://m3u-editor.com/live/serve/fhjhddfnmh/409254760.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NBA (Usee)" tvg-logo="https://i.ibb.co/qd0RNHt/nba-home-tv.png" group-title="SPORTS",NBA (Usee)
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=nba&gumisasakTV=default&sync=0
@@ -1236,6 +1104,7 @@ http://www.goldentv.tech:25461/Perfecto/170721/22977
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/soccerchannel.png" group-title="SPORTS",Soccer Channel 
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="SPORTS",  Soccer Channel Plus
@@ -2032,403 +1901,4 @@ https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/20.mp3
 https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/21.mp3
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 22
-https://ia600402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/22.mp3
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 23
-vhttps://ia600402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/23.mp3
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 24
-https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/24.mp3
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 25
-https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/25.mp3
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 26
-https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/26.mp3
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 27
-https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/27.mp3
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 28
-https://ia600402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/28.mp3
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 29
-https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/29.mp3
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="TILAWAH ALQUR'AN JUZ", Juz 30
-https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/The_mummy.jpg" group-title="VOD BARAT",THE MUMMY
-https://www.googleapis.com/drive/v3/files/1iDIh3K7U9-OAPgrhjqm7UDBn5lCLbbwL?alt=media&key=AIzaSyDKk0lFQT69yWc0e0rJRouxJcSj7OsmWjc
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/MI_%E2%80%93_Fallout.jpg" group-title="VOD BARAT",Mission Impossible: Fallout
-http://srv28.nf21.net:80/files/15-2019-03-17-5e6453922248470c10be803fc6fbaca5.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Extinction.png" group-title="VOD BARAT",Extinction
-http://srv18.nf21.net:80/files/10-2018-08-02-622532ab81187c58e0b416cdb1e4eb4e.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTNjMGMxN2QtZTFkNC00MDhjLWI0ZDQtM2I5YzMxZmQxOGFiXkEyXkFqcGdeQXVyMzE2ODIxNA@@._V1_.jpg" group-title="VOD BARAT",Atlantic Rim: Resurrection 
-http://srv28.nf21.net:80/files/15-2019-02-13-3a0f53dc85236110bfb6ac9a2ce39c91.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Swordfish_movie.jpg" group-title="VOD BARAT",Swordfish
-http://srv11.nf21.net/files/14-2018-07-01-7cac6cb8081425b4596b478d9b594aca.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Skyscraper_%282018%29_film_poster.png" group-title="VOD BARAT",Skyscraper 
-http://srv22.nf21.net:80/files/10-2018-10-27-3639bebebbcb9d7b82747ac94911e8fb.mp4
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/8m4rIEstsOV3uEtussUsejbg1id.jpg" group-title="VOD BARAT",Mountain King
-https://www.dropbox.com/s/6vs7vxjsgd3iibh/wild.king.2020.mkv?dl=1
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJiNzExYjgtYWY5Yy00MGIyLWFjM2MtMzZmYTIyZWFiNGVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="VOD BARAT",Disturbing the Peace
-https://www.googleapis.com/drive/v3/files/1HPtYkaa0sE-WmyzZS3YJdc4EYJI6C4H1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f9/Spider-Man_Homecoming_poster.jpg" group-title="VOD BARAT",Spider-Man: Homecoming
-https://cdn.zaccar.ru//movies/MCU/16-Spider-Man%20Homecoming%20(2017)%20%5BBluRay%5D%20%5B720p%5D%20%5BYTS.LT%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ab/16/85/ab16850d88d1b93369014ad9d4cdd6af.jpg" group-title="VOD BARAT",Rambo: Last Blood
-https://cdn.zaccar.ru//movies/12-03-2019/rambo.last.blood.2019.1080p.bluray.x264-yts.lt.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Bloodshot_-_official_film_poster.jpeg" group-title="VOD BARAT",Rambo: Bloodshot
-https://www.dropbox.com/s/zivk90uakhkpeiy/Bloodshot.2020.720p.WEBDL.x264.GalaxyRG.mp4?dl=1
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/Captain_America_The_First_Avenger_poster.jpg" group-title="VOD BARAT",Captain America: The First Avenger
-https://cdn.zaccar.ru//movies/MCU/02-Captain%20America%20The%20First%20Avenger%20(2011)%20%5BBluRay%5D%20%5B720p%5D%20%5BYTS.LT%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/Captain_America_The_Winter_Soldier_poster.jpg" group-title="VOD BARAT",Captain America: The Winter Soldier
-https://cdn.zaccar.ru//movies/MCU/11-Captain%20America%20The%20Winter%20Soldier%20(2014)%20%5BBluRay%5D%20%5B720p%5D%20%5BYTS.LT%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_.jpg" group-title="VOD BARAT",Captain America: Civil War
-https://cdn.zaccar.ru//movies/MCU/14-Captain%20America%20Civil%20War%20(2016)%20%5BBluRay%5D%20%5B720p%5D%20%5BYTS.LT%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Charlie%27s_Angels_%28Official_2019_Film_Poster%29.png" group-title="VOD BARAT",Charlie’s Angels
-https://cdn.zaccar.ru//movies/01-10-2020/Charlies.Angel.mp4
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/812cwNk1YIL._SL1500_.jpg" group-title="VOD BARAT",Fast & Furious Presents: Hobbs & Shaw 
-https://www.dropbox.com/s/k4qimz4r99ab1kg/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.720p.Bluray-PusatFilm21.com.mp4?dl=1
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg" group-title="VOD BARAT",Avengers: Endgame
-https://www.dropbox.com/s/va1yu037yjpq80r/Avengers.Endgame.2019.720p.Bluray-PusatFilm21.com.mp4?dl=1
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Bad_Boys_for_Life_poster.jpg" group-title="VOD BARAT",Bad Boys For Life
-https://www.dropbox.com/s/z9hfde6gtr7amsr/Bad%20Boys%20for%20Life%202020.mp4?dl=1
-
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/20cs_xmen_dark_phoenix_poster-keyart_2de4ace2.jpeg" group-title="VOD BARAT",Dark Phoenix
-https://www.dropbox.com/s/bckz0xk59nndoyh/X.Men.Dark.Phoenix.2019.720p.Bluray-PusatFilm21.com.mp4?dl=1
-
-#EXTINF:-1 tvg-logo="https://d2j05qp2jb3mfw.cloudfront.net/film-artwork/5650/_filmArtworkLarge/Elsewhere_Comp25.jpg?mtime=20191009180655&focal=none&tmtime=20201106231446" group-title="VOD BARAT",Elsewhere
-https://www.dropbox.com/s/k2dn9cqnp2pgm48/Elsewhere%20%282019%29.mp4?dl=1
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Conjuring_2.jpg/220px-Conjuring_2.jpg" group-title="VOD BARAT",THE CONJURING 2
-https://www.googleapis.com/drive/v3/files/1f5YFCHuFFFiVIHrqF2Jp-cmRh6bW2SYP?alt=media&key=AIzaSyBzLcrOuNX5ztVspTiSnCrboTal8XUA4O8
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91P1wWqX63L._SL1500_.jpg" group-title="VOD BARAT",THOR
-https://cdn.zaccar.ru//movies/MCU/06-Thor%20(2011)%20%5BBluRay%5D%20%5B720p%5D%20%5BYTS.LT%5D.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Eclipse_Theatrical_One-Sheet.jpg" group-title="VOD BARAT",ECLIPSE 
-https://lh3.googleusercontent.com/-g8REJ-ZF-m-oeQaLKzTOb_0vbfgTB63y-T3iMHfMaulmMjHkIXQ6Ui0iZc5Tkl_ze1-OgNb-ZP23iFTEQ=m22
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDY0NDk5Y2YtN2FkNi00OTQ5LTg0YmMtY2QyOTQ3YWJkNWVhXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg" group-title="VOD BARAT",Final Kill
-https://www.dropbox.com/s/7c8mzu4hxuyjua3/Final%20Kill.mkv?dl=1
-
-#EXTINF:-1 group-title="VOD BARAT",Frozen 
-https://lh3.googleusercontent.com/8OLNPmNiqm3XgItbuPTbq2ythbAsHoP8aWDYM9G7Gxy8-7nFzVFdXUSwd0qeRPYe_8XvyAw_ExSgRbMH_g=m22
-
-#EXTINF:-1 group-title="VOD BARAT",Frozen II 
-https://lh3.googleusercontent.com/GZHehDjuIB4vJdnV0MWyiOwe6n875bjkqgYpnLUMnVYXm5tUrvOdPCDtYBw6mRFbUf6eK810qA2JHLmOGQ=m22
-
-#EXTINF:-1 group-title="VOD BARAT",Hotel Transylvania 
-https://lh3.googleusercontent.com/FUX6gE6s-TXiQEXywhaEfjM_rPaDR4-BT4aIvFgA609Urp6rA0Na9z835rCPCp2j46jZISj8xaxx6N1h8A=m22
-
-#EXTINF:-1 group-title="VOD BARAT",Hotel Transylvania 2 
-https://lh3.googleusercontent.com/9ZY3rYtARr5sdcwAGPrRLe8Z-Hp_U_TLDHyzv8VwYmpscPHtsPlrbQ3CzVT5llUxk-QfFuM9BvXvjurBfg=m22
-
-#EXTINF:-1 group-title="VOD BARAT",Hotel Transylvania 3: Summer Vacation 
-https://lh3.googleusercontent.com/Nz2pKxXfynzKFV7BnvBOMsRGSEzBWJQdb-_KNdR-pD5mAOkPL8IH5pS_NmgKhw7xvtnkbNx0HWUW4ih11w=m22
-
-#EXTINF:-1 group-title="VOD BARAT",How to Train Your Dragon 
-https://lh3.googleusercontent.com/ZczAPLnQ2Hk4d7nogkxJUZ3J2BV9k-17ZSaVTkPvbHbt5jDj8VG1d6eJ1TOK041LriA6FXsOBC2KhWSAxw=m22
-
-#EXTINF:-1 group-title="VOD BARAT",How to Train Your Dragon 2 
-https://lh3.googleusercontent.com/kiTH7DMcBsfNkxTn80W-dzGRkRVZQEJ47j6bDH6l7nBbO3y0lfNJiY8S_2h1j_oov_QPJ5xwTaYbdRkuqQ=m22
-
-#EXTINF:-1 group-title="VOD BARAT",How to Train Your Dragon: The Hidden World 
-https://lh3.googleusercontent.com/Nc_n2B03yXvXzXXQ2dc_BQlT0-enZtAB4cfzfiUIpdOFDVaUIbhsTxuP5aXovI_DPmI1rOtQhgzUagH0Lg=m22
-
-#EXTINF:-1 group-title="VOD BARAT",Jurassic Park 
-https://lh3.googleusercontent.com/FtPyKsn7f-Rxp9SM0FRYnYfpq0j_EWCTZRwSVEzWE7wih3SlYlP9S97VQ6IA-TVjwxGUNkhTbKmiMPXy3w=m22
-
-#EXTINF:-1 group-title="VOD BARAT",Jurassic Park III 
-https://lh3.googleusercontent.com/uzS0DmZAjntytnnu7-DY3Kj3xNwGmKcfYNNd5cBRauOsG7vfs8l6SczUjBi0XjrPUnp8KKokKfVDuc-gHA=m22
-
-#EXTINF:-1 group-title="VOD BARAT",Jurassic World 
-https://lh3.googleusercontent.com/DtgQv5-BZ5gbAkYw9HAQA71z88xKGr65NTe4VCHZcYznZfz8_dfvPvQsCcJi-SkOCheRGZMP8mGxARNxWw=m22
-
-#EXTINF:-1 group-title="VOD BARAT",Jurassic World: Fallen Kingdom 
-https://lh3.googleusercontent.com/AgxGTf9TJMf87iWFIb3ta0h0hOP3beOmORIdcV9QJHDka_aQQ5zn6yEWBoapJb3JUH5ee3qsIUc2bs2XbA=m22
-
-#EXTINF:-1 group-title="VOD BARAT",The Maze Runner
-https://lh3.googleusercontent.com/jtqRDOvPmZVqNiigYfB9MG3uW_geFkLYRPSHND__-LBL16HZwj36HU63I1zfY3bSiQy0WZ-EPkt8vWv9qA=m22
-
-#EXTINF:-1 group-title="VOD BARAT",Maze Runner: The Scorch Trials 
-https://lh3.googleusercontent.com/JgkoDIgxx_sWgy0lEpmggJjrgoljj0C13TABrgEbZFUniRtyTPewwo7OnYPGQmoxhhIWbCxRxlHaZgYm0A=m22
-
-#EXTINF:-1 group-title="VOD BARAT",Maze Runner: The Death Cure 
-https://lh3.googleusercontent.com/ddjlgOMOCJWZGr7XK9zVU1QsArlkmVMFbH3DLzaR9hddOey_U2RTG_d03xISng5LY68GnGYkZ_90C6eLTA=m22
-
-#EXTINF:-1 group-title="VOD BARAT",Terminator 2: Judgment Day 
-https://lh3.googleusercontent.com/_axhx4mYdOrRZjyDRrLE3EaHAbFYWkgotEYT_wXMXcoVG-s8cWyJg60atAqn8FozpWdSieE8F8eTuJ2EAA=m22
-
-#EXTINF:-1 group-title="VOD BARAT",Terminator 3: Rise of the Machines 
-https://lh3.googleusercontent.com/0hhSFMJXBA22ZkLJ-lX00cKMo7wcvtW_hvr9QgnYKCtxzDj3Qytq4HcywqbzRPmqYeQEl3jBB3oxQZjEIA=m22
-
-#EXTINF:-1 group-title="VOD BARAT",Terminator Salvation 
-https://lh3.googleusercontent.com/eYQa91rWIPlKDhN8w1lJS0b0DckZ_Il2XJU8o2BtblLR7ewAefCCtrRzRTH41wBNV4x85uIxFm0f2anwtw=m22
-
-#EXTINF:-1 group-title="VOD BARAT",Terminator: Dark Fate 
-https://lh3.googleusercontent.com/73B1LCEQ-UN3I_R1A1QAvaSnzVjuAexAxVOOLRsMn0Tt267WHLTYz7og-GIEUjC9yfIXbprMu2nHk0Htag=m22
-
-#EXTINF:-1 group-title="VOD BARAT",The Hobbit: An Unexpected Journey 
-https://lh3.googleusercontent.com/Qu7e3T4iKqYCprphmwlrVMmoTKVA2Mg5KUIY4sxwPU_OM3ILljKZ4L811d_CeK5amGdj2X19_FsQYfvECw=m22
-
-#EXTINF:-1 group-title="VOD BARAT",The Hobbit: The Battle of the Five Armies
-https://lh3.googleusercontent.com/NlUfsSDIUDj4Ydzn4wbtGrxJ3toHPUnHU3ihXev-xlqLIp6bdn8d3sedcX9rqAZtYQQ752iQXsQRxNfiHg=m22
-
-#EXTINF:-1 group-title="VOD BARAT",The Hobbit: The Desolation of Smaug 
-https://lh3.googleusercontent.com/oBE7QP6YN7-QXw5hE1WE_hYVddV7WDOCMKl_fY51LSP5xY16rHihYE9ycJBUyitBBpv-beFOeip96Jn60w=m22
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Action: Vanquish (2021)
-https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Action  Mortal Kombat (2021)
-https://cdn2ii.diebutx.com/own2hls/2020/361d659195519a8ba991b1bb49843180/540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Action  Nobody (2021)
-https://cdn3ii.diebutx.com/own2hls/2020/6e13167f4c5fb6e47d9dd7380b3776b5/360p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Drama  My True Fairytale (2021)
-https://cdn2ii.diebutx.com/own2hls/2020/6c67e8f8d3ce142424c126fbab8bfa36/540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Horror  Honeydew (2021)
-https://cdn2ii.diebutx.com/own2hls/2020/88e23e661ffcc09379e479f15d4fe49a/540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Horror  Held (2021)
-https://cdn3ii.diebutx.com/own2hls/2020/3524d392bd8a2d5d8e6a5ae401c03d6b/540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Action  The Marksman (2021)
-https://cdn2ii.diebutx.com/own2hls/2020/2bcc3d4ba624b78ee5efbdf192445b35/540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Action  Lazarus (2021)
-https://cdn2ii.diebutx.com/own2hls/2020/09c083af59d53871ecc6daa8c015a641/540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Action  A Writer's Odyssey (2021)
-https://cdn2ii.diebutx.com/own2hls/2020/996ee5e9d1e200255fb5565ba5f1b1b5/540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Action  Thunder Force (2021)
-https://cdn3ii.diebutx.com/own2hls/2020/769174d6904c3acda2034ecedd2179dd/540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Horror  The Oak Room (2021)
-https://cdn2ii.diebutx.com/own2hls/2020/71f856f0db9aa8d8f0f819ed1bbe955e/540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Horror  Dawn of the Beast (2021)
-https://cdn3ii.diebutx.com/own2hls/2020/dbd2e455c06d645639621c3188255832/540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Action  Assault on VA-33 (2021)
-https://cdn2ii.diebutx.com/own2hls/2020/aacc3c9262fbb8da9ff992c66a73f062/540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Adventure  Hero Dog: The Journey Home (2021)
-https://cdn2ii.diebutx.com/own2hls/2020/3043155549bcb28a7b2dbdc28f757c82/540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Horror  American Liar (2021)
-https://cdn3ii.diebutx.com/own2hls/2020/167f6a2fe5cea631ff46c0deb9704ad5/540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Drama  The Arbors (2021)
-https://cdn3ii.diebutx.com/own2hls/2020/41f907567a35e8da06f821d48407336a/360p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Crime  One and the Same (2021)
-https://cdn2ii.diebutx.com/own2hls/2020/dec3d11a485cb4e3b2d32a8d85b7056c/540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Horror  The Toll (2021)
-https://cdn3ii.diebutx.com/own2hls/2020/7d78072209cbbf5b11783145e5ba86cb/540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Horror The Seventh Day (2021)
-https://cdn3ii.diebutx.com/own2hls/2020/ce5f0c2ae334178277dec43638706378/540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="VOD BARAT",Action  The Yin Yang Master
-https://cdn3ii.diebutx.com/own2hls/2020/60a4e83ee154b971dd8daf9ec9146b66/540p/index.m3u8
-
-#EXTINF:-1 group-title="VOD MANDARIN",Ip Man 
-https://lh3.googleusercontent.com/Kv_THCCGqGkQuNFCpg4mq8XzDV0OzyW5jaOcalXQRlAD12kEHNFtREE11kdycn0pNzlM51uSZjHR80oDVg=m22
-
-#EXTINF:-1 group-title="VOD MANDARIN",Ip Man 2 
-https://lh3.googleusercontent.com/_KtBx4Pk0HlGY6SYC5AyC4JUAv94Ik6xrMBZ8owpxajiwEEjmFHsDOO_Q7vOMmIMxfW4kFEqMsZ12P_43w=m22
-
-#EXTINF:-1 group-title="VOD MANDARIN",Ip Man 3
-https://lh3.googleusercontent.com/DvzurQ8xPH2hZpeidH9wLxJgKgA2xX2oxSzajmlvbDK92KlV6iZp56iKeV8fYrk9Tb925JwR0SXTzBMUoA=m22
-
-#EXTINF:-1 group-title="VOD MANDARIN",Ip Man 4: The Finale
-https://lh3.googleusercontent.com/dyTGzlIxt52z8NgMGKju0O-Cjv880umMc5RiSU6_JLX9eD7iiLQWAfuSpIedgEPXLmxb6Dm5QdwAHEGHXw=m22
-
-#EXTINF:-1 group-title="VOD MANDARIN",Ip Man and Four Kings 
-https://lh3.googleusercontent.com/LS-IBxy2s4Y3oblmK8hydlYhefIIIcu5l-g6PlAtQP4lbJ4_HI3gIULEVsYspt89wXRQWpnhycsUh4yyLw=m22
-
-#EXTINF:-1 group-title="VOD MANDARIN",Shaolin Soccer 
-https://lh3.googleusercontent.com/UDEPk7otEZHW0Ukv4GvmAOozp1ml0KMJq8Z-CbniwVLBEdR67h6z-d92YiBYXtO6Fup90QVsY5-HSLz4hA=m22
-
-#EXTINF:-1 group-title="VOD KOREA",Train to Busan
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=25926884475c7c81d3f9634fe15662d899c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD KOREA",Parasite 
-https://lh3.googleusercontent.com/8fl4Cwk3AbDnjezfUqAeKQG43mUQ6p2oSFglkA_fOOepcgybTerTAve89Z2i5CLcfGSvRA5wwzYCiRKDQQ=m22
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f8/Bodyguard_Ugal-ugalan.jpg" group-title="VOD INDO",Bodyguard Ugal-Ugalan
-http://srv24.nf21.net:80/files/11-2018-11-09-4d0f5e263c6bc227c1b23c5145c32713.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY4NjEyOTktNDhkNC00NWI3LWE0NDMtODcxNDBlZDgwMDI4XkEyXkFqcGdeQXVyNjI3MDYxMjg@._V1_.jpg" group-title="VOD INDO",INSYA ALLAH SAH 2
-http://srv24.nf21.net:80/files/10-2018-11-04-dcbe1927ad12c18b3d39efe1e310b3b5.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg4YTE5ZjAtZWEwNi00ZTg0LThiYTYtYWVlZTdhOGZkYTg0XkEyXkFqcGdeQXVyNzkzODk2Mzc@._V1_.jpg" group-title="VOD INDO",Arini
-http://srv19.nf21.net:80/files/15-2018-08-19-4e022676b9971cfac33a65d84288c01d.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM5MjFhYmYtMzIwYy00YWMzLWJlODYtM2ZhYTBjMGJjZTlhXkEyXkFqcGdeQXVyNzkzODk2Mzc@._V1_.jpg" group-title="VOD INDO",Benyamin Biang Kerok
-http://srv19.nf21.net:80/files/15-2018-08-14-2a88269fa86b8dab2575101a66eb0732.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzJlZmY0NDEtODljOC00YWU0LWI0ZmQtYmFjZDQ4ZDExYzc3XkEyXkFqcGdeQXVyNzkzODk2Mzc@._V1_.jpg" group-title="VOD INDO",Terbang: Menembus Langit
-http://srv28.nf21.net:80/files/11-2019-01-06-a873ac71241a867fe2aaeea36ecbe60c.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg2MGE2NTEtMTU1OS00YmYyLTgwZGEtNmZlZjBkMjgwOTNmXkEyXkFqcGdeQXVyNjI3MDYxMjg@._V1_.jpg" group-title="VOD INDO",Hanum & Rangga: Faith & The City 
-http://srv28.nf21.net:80/files/11-2019-03-07-8575570eddbaea877dd7dce2a6a28d20.mp4
-
-#EXTINF:-1 tvg-logo="https://iflix-images.akamaized.net/5b4820a0e4b0fc67d2174ee5-1582775514581.jpg?transform=true" group-title="VOD INDO",London Love Story 3
-http://srv19.nf21.net:80/files/15-2018-08-14-a71af058b7e0658b357ae236e70ac799.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cf/Revan_%26_Reina_%28poster%29.jpg" group-title="VOD INDO",Revan & Reina
-http://srv19.nf21.net:80/files/15-2018-08-14-b7cf77aba6b14e81c281f9f9cc6d2474.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDUyNzQyYzktZDE1ZC00MjJhLThmZDYtM2VkYzdiZTVmZjUzXkEyXkFqcGdeQXVyNzkzODk2Mzc@._V1_.jpg" group-title="VOD INDO",Partikelir
-http://srv19.nf21.net:80/files/15-2018-08-14-2ce82962771272049ff44e8f27cf3407.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/25/Bajaj_Bajuri_The_Movie.jpg" group-title="VOD INDO",Bajaj Bajuri the Movie
-http://srv28.nf21.net:80/files/6-2019-03-05-7957077294aed7aae01ed7548527c194.mp4
-
-#EXTINF:-1 tvg-logo="https://barisandepan.com/wp-content/uploads/2019/02/49768156_352647015464469_3552492828623123428_n.jpg" group-title="VOD INDO",Foxtrot Six
-https://www.dropbox.com/s/t2i5h7kpp2yf01j/Foxtrot.Six.2019.HDTV.720p.PF21.Net.mkv?dl=1
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA1YzI5MTYtYjc5ZS00NzI2LTkwNTUtMGU0MjI3MzFkMDRiXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="VOD INDO",Ghost Writer
-https://www.dropbox.com/s/rcli4iwax3ig1q5/Ghost.Writer.2019.WEB-DL.720p-PusatFilm21.com.mp4?dl=1
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDAyYTk2ZGMtNTYyZC00NjNiLThjNzktM2IxNzQyNWIwNjljXkEyXkFqcGdeQXVyMzYzOTYxNzM@._V1_.jpg" group-title="VOD INDO",Mata Batin 2
-https://cdn.zaccar.ru//movies/01-10-2020/Mata.Batin.2.(2019).mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Mulan_%282020_film%29_poster.jpg" group-title="VOD INDO",MULAN 
-http://admin.nf21.net/go/files/17052
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/0d/66/16/0d661640a6833fd717cc1ccafc297e81.jpg" group-title="VOD INDO",Ayat-Ayat Cinta 2 (2017)
-http://srv24.nf21.net:80/files/15-2018-11-07-31623f82f631e22f304dc61fb9ae9975.mp4
-
-#EXTINF:-1 tvg-logo="https://mydirtsheet.files.wordpress.com/2018/06/alaspati_rev20april.jpg?w=640" group-title="VOD INDO", Alas Pati 
-http://srv21.nf21.net:80/files/15-2018-10-13-7548eba8d3cdfd16055c14605d86b83c.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDE4ZjQ1MTEtYTQ0Ny00Y2YxLTlmYzktYWY0ZGQyOGM4ZDFiXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="VOD INDO", Rompis 
-http://srv28.nf21.net:80/files/15-2019-02-23-ba65b1712e9d0845b97ec790b4fa2b4b.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ef/Film_The_Secret_Suster_Ngesot_Urban_Legend.png" group-title="VOD INDO", The Secret Suster Ngesot Urban Legend 
-http://srv21.nf21.net:80/files/15-2018-10-13-820280bd87facc3cb2ea0cb5297764c0.mkv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/My_Stupid_Boos_Poster.jpg/220px-My_Stupid_Boos_Poster.jpg" group-title="VOD INDO", My Stupid Bos 
-http://srv18.nf21.net:80/files/15-2018-08-03-ce61122e665966846c98cf23645c9b83.mp4
-
-#EXTINF:-1 group-title="VOD INDO",My Stupid Boss 2 
-https://lh3.googleusercontent.com/MJxDpSbZguWY_oX0O2jpJ08ywaNqfBxcSSKjQldRS5w5sSfhsXNrxpRmLKSmUwtDebsg8zmSUv2QNim0tg=m22
-
-#EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1590722248/tjcqr50ulj2bclmrmzfk.jpg" group-title="VOD INDO", Flight 555 
-http://srv19.nf21.net:80/files/15-2018-08-14-f0ddc7cdffd608547912ad3a1b33056f.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjg5MmQ5MWItZjUxNS00MzhjLWFhNGItMmJmYmUwYTQwYzdmXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_UY1200_CR104,0,630,1200_AL_.jpg" group-title="VOD INDO", 5 Cowok Jagoan 
-http://srv18.nf21.net:80/files/15-2018-08-11-a853b03a150b6a4b09f6c5b46fc73861.mp4
-
-#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/4505/734505-h" group-title="VOD INDO", Warkop DKI Reborn: Jangkrik Boss Part 2
-http://srv18.nf21.net:80/files/15-2018-08-07-651364767bef60511eefdc42d4261ccc.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/20/Cek_Toko_Sebelah.jpg" group-title="VOD INDO",Cek Toko Sebelah 
-http://srv18.nf21.net:80/files/10-2018-08-06-7dae19687c0d57fabf80cda51736f30d.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8d/Galih_dan_Ratna.jpg" group-title="VOD INDO", Galih Dan Ratna 
-http://srv18.nf21.net:80/files/15-2018-08-07-cad79a652ba7fd037ca11444b3bd3f5f.mp4
-
-#EXTINF:-1 group-title="VOD INDO",Warkop DKI - Bebas Aturan Main
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=887ea2ef509f2ed24ec267a962d472b199c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Warkop DKI - Godain Kita Dong
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=189cc63cc475284f33a6afba82f0588499c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Warkop DKI - Itu Bisa Diatur
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=c35671483bc1050cce5f3c3d8b4187a399c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Warkop DKI - Malu Malu Mau
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=8f5b034fee44157caa1cf1cd007f5b2899c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Warkop DKI - Saya Suka Kamu Punya
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=71e58f95185800ae285c9860a287fa3c99c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Ada Apa Dengan Cinta (2002)
-https://lh3.googleusercontent.com/YTu4vVg4Cl1vRdeeFxLV33XkclKYHxnlbVcm49HN05BgKbx4EvEmh1PqDIMGTiAafXrmbIqH4Pic3gV4FQ=m22
-
-#EXTINF:-1 group-title="VOD INDO",Ada Apa Dengan Cinta 2 (2016)
-https://lh3.googleusercontent.com/YTu4vVg4Cl1vRdeeFxLV33XkclKYHxnlbVcm49HN05BgKbx4EvEmh1PqDIMGTiAafXrmbIqH4Pic3gV4FQ=m22
-
-#EXTINF:-1 group-title="VOD INDO",Kartini
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=915801e052298efdd705a0020597388799c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Sesuai Aplikasi
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=bfdfefef1f0500a0dbce0e8e8ec16a6099c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Soekarno
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=ad64133fc82b863784886188cfcec30599c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Susah Sinyal
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=3e1f0e1f9e9ecb131cc76e5be1cc5099&cdy=950685268ad88e7d0f81aeb4476811ae99c04773e83da931f64885fdf14061a8
-
-#EXTINF:-1 group-title="VOD INDO",Dilan 1990 
-https://lh3.googleusercontent.com/NSb9QLl2iVFm8XJ3im0QftpPCirRvvaxtD6rdqnBx3npfKxIcOcdVDNupiZl19P5yCyo8_BcyO11y_Yzyg=m22
-
-#EXTINF:-1 group-title="VOD INDO",Dilan 1991 
-https://lh3.googleusercontent.com/i7g3xzbbl23ftxhbBGJqjfFkQg-M2iWxzdJARAv2i-zdjAwBDIicIWt6v6hqqTPVu6SfsJ-l0eVwbFVCzQ=m22
-
-#EXTINF:-1 group-title="VOD INDO",Kapal Goyang Kapten 
-https://lh3.googleusercontent.com/fqkgjzYRNfVIgDo1Kt3Ls6Z3aa1OZ5_N9phHY0CdX_BdvA4gg_Cst2GabbpAXWvi_cbwy3hykZmyRD6yoA=m22
-
-#EXTINF:-1 group-title="VOD INDO",Suzana : Burried Alive 
-https://lh3.googleusercontent.com/L1TQR6prw9IuSX77AzFPgtSndl0UeLav-7Bd7gmPcV4d90zlOzr9_MxLtKgRxYXoR6kiBLA0jHDIK0Fm8g=m22
-
-#EXTINF:-1 group-title="VOD INDO",The Raid : Redemption 
-https://lh3.googleusercontent.com/BUlYytKrg8rX0ixoM8Ogop3EzlePZv05mQkZ20PzkPTeeDdpUDNiONyTSdn6yeUjxnLUZSjql7JIWfkIiw=m22
-
-#EXTINF:-1 group-title="VOD INDO",The Raid 2 : Berandal 
-https://lh3.googleusercontent.com/r1kzl43Tk-EUmb6VFOu7fCYLTrL6kmv9C_rsME-DXxlpqz7TTS0wTEMsN9ZvS5eqQjez4_COfLBDSh2m8A=m22
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://ia600402.u
