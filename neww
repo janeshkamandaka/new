@@ -309,6 +309,7 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-id="ANT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428066_ico.png" group-title="LOKAL",ANTV Backup
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+http://202.150.172.34:4000/play/antvdigitalt2
 
 #EXTINF:-1 group-title="Asia" tvg-logo="https://i.imgur.com/0zHJS7l.png",group-title="LOKAL",TV One
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -316,7 +317,11 @@ http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 group-title="Asia" tvg-logo="https://i.imgur.com/0zHJS7l.png",group-title="LOKAL",TV One Backup
-https://iptv.mwafa.net/dm/k2uDgtBgdyXR1AoH4XD/index.m3u8?token=3394
+https://iptv.mwafa.net/dm/k2uDgtBgdyXR1AoH4XD/index.m3u8?token=1999
+http://202.150.172.34:4000/play/tvonedigitalt2
+
+#EXTINF:-1 group-title="Asia" tvg-logo="https://i.imgur.com/0zHJS7l.png",group-title="LOKAL",TV One Backup2
+https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybChwR_Fev5VZkyD0arwuHmk)/dm/3/x619221/s/live-1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -334,7 +339,7 @@ http://sindoro.axc.my.id:25461/oxygen/SGBT5tKbQp/086
 https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-id="RCT.ID" tvg-name="RCTI.id" tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="LOKAL", RCTI
-http://syarman.hexat.com/INDONESIA%20HD/rcti.m3u8
+http://202.150.172.34:4000/play/rctit2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
@@ -371,7 +376,7 @@ https://cubmu.superzap.xyz:8279/dunialain/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-aMcvtlHs7GQ/YRa7HF6-GwI/AAAAAAAABTM/fgzEO-rE8yMV_uzGaQQ6yp9TrOgHOYwiwCLcBGAsYHQ/s0/HJHmRAh.png?v=1.1.1.1" group-title="LOKAL" tvg-id="MNC TV", MNC TV BACKUP
-https://link.zozotv.xyz:443/707070/707070/49
+http://202.150.172.34:4000/play/mnctvt2
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-aMcvtlHs7GQ/YRa7HF6-GwI/AAAAAAAABTM/fgzEO-rE8yMV_uzGaQQ6yp9TrOgHOYwiwCLcBGAsYHQ/s0/HJHmRAh.png?v=1.1.1.1" group-title="LOKAL" tvg-id="MNC TV", MNC TV BACKUP 2
 https://fta.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
@@ -403,7 +408,7 @@ https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
 https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="LOKAL",iNews TV BACKUP 2
-https://fta.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
+http://202.150.172.34:4000/play/inewst2
 
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="LOKAL",iNews TV BACKUP 3
 https://iptv.mwafa.net/rctiplus/inews/index.m3u8?token=3394
@@ -417,7 +422,7 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 https://link.zozotv.xyz:443/707070/707070/48
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png" group-title="LOKAL",GTV BACKUP 2
-https://fta.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
+http://202.150.172.34:4000/play/gtvt2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png" group-title="LOKAL",GTV BACKUP 3
 https://iptv.mwafa.net/rctiplus/gtv/index.m3u8?token=1999
@@ -436,7 +441,7 @@ https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/indosiar.png" group-title="LOKAL",INDOSIAR 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd 
+http://202.150.172.34:4000/play/indosiarhdt2
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/indosiar.png" group-title="LOKAL",INDOSIAR BACKUP 
 https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
@@ -445,7 +450,7 @@ https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
 http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 group-title="LOKAL", O Channel HD
-http://tevemobile.us.to/sc/play.m3u8?id=206
+http://202.150.172.34:4000/play/ochannelhdt2
 
 #EXTINF:-1 group-title="LOKAL", O Channel HD BACKUP
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
@@ -802,10 +807,7 @@ https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="MOVIES", AXN BACKUP
 http://210.210.155.35:80/dr9445/h/h141/01.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="WXD.TW" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="MOVIES",SCM
-https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -992,11 +994,11 @@ https://raw.githubusercontent.com/pembriahmad/Iptv-Server/main/citrabioskop.m3u8
 
 
 #EXTINF:-1 tvg-id="RIYAN.2110bd0166f0bc49fc9c4fc469cfcb66.SHINTA" tvg-name="Citra Drama" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/oANgznd8LKnwF939_hOA75mnXEo=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg" group-title="MOVIES",Citra Drama
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=cdrama&gumisasakTV=default&sync=0
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/362
 
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/kGD42ZLQ-OfFt7rrrmLErptMN6c=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg" tvg-id="RIYAN.57ee1bdd1198eb580b920424a7bb5ef2.SHINTA" tvg-name"[CODAY] Citra Entertainment _VIDIO" group-title="MOVIES",Citra Entertainment
-http://gpc.my.id/vidio/citra-entertainment.m3u8
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/377
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="MOVIES",Citra Muslim
@@ -1006,7 +1008,7 @@ http://dituduhmaling.xyz/V11710/CitraMuslim.m3u8
 https://lnk.ec/GALAXYPREM?shareext.ts
 
 #EXTINF:-1 tvg-id="e37b8b887354c90880969c68f82ce7ff" tvg-name="Bioskop Indonesia" tvg-logo="http://www.transvision.co.id/images/channel/bioskop_ind.png" group-title="MOVIES",Bioskop Indonesia
-http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=bioskopindonesia&gumisasakTV=default&sync=0
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/175
 
 #EXTINF:-1 tvg-id="" tvg-name="Sinema Indonesia" tvg-logo="https://mantul.org/logo/cm.png" group-title="MOVIES",Sinema Indonesia
 http://202.83.123.80:19420/daygun/live/SinemaIndo/index.m3u8
@@ -1031,8 +1033,7 @@ http://210.210.155.35/uq2663/h/h19/01.m3u8
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=bioskopindonesia&gumisasakTV=default&sync=0
 
 #EXTINF:-1 tvg-id="" tvg-name="MOVIES" tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png" group-title="MOVIES",Chinese Drama (Usee)
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
-#EX
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/77
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/blue-ant-extreme-ca.png" group-title="MOVIES",Blue Ant Extreme
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
@@ -1044,8 +1045,7 @@ http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 http://202.83.123.80:19420/daygun/live/SinemaIndo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="MOVIES", IMC  
-http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=imc&gumisasakTV=default&sync=0
-http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=imc&gumisasakTV=default&sync=0
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/206
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="MOVIES", Flik 
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -1125,18 +1125,28 @@ https://liveanevia.mncnow.id/live/eds/MNC-Sports2/sa_dash_vmx/MNC-Sports2.mpd
 #EXTINF:-1 group-title="SPORTS",  MNC Sports 3
 https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="WXD.TW" tvg-logo="https://www.spotv.net/images/intro/m_intro_logo_menu01.png" group-title="SPORTS",SPO TV
+https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="TVRI SPORTS" tvg-logo="https://www.dropbox.com/s/swawdyuldktapcz/tvrisport.jpeg?dl=1" group-title="SPORTS",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="UseeSports.MACAN" tvg-name="UseeSports 1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="SPORTS",UseeSports 1
-http://gumisasak-vision.online/Dyos-BodreX/useesport.m3u8
+https://dik.si/SEuseeSport1?shareext.m3u8
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/57
 #EXTINF:-1 tvg-id="UseeSports2.MACAN" tvg-name="UseeSports 2" tvg-logo="http://iptv.nullpress.xyz:8080/images/2e05a7aad90719c998da399631ee06ec.png" group-title="SPORTS",UseeSports 2
-http://gumisasak-vision.online/Dyos-BodreX/useesports2.m3u8
+https://dik.si/SEuseeSPorts_2?shareext.m3u8
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/58
 #EXTINF:-1 tvg-id="Champions1.MACAN" tvg-name="Champions TV 1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",Champions TV 1
 https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/115
 #EXTINF:-1 tvg-id="Champions2.MACAN" tvg-name="Champions TV 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS",Champions TV 2
 https://m3u-editor.com/live/serve/fhjhddfnmh/409160917.m3u8
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/116 
 #EXTINF:-1 tvg-id="" tvg-name="Champions TV 3" tvg-logo="http://iptv.nullpress.xyz:8080/images/ab167b2dbfc0396a2bb76e29c6dd9332.png" group-title="SPORTS",Champions TV 3
 https://m3u-editor.com/live/serve/fhjhddfnmh/409254760.m3u8
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/247
 #EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="Bein Sport 1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="SPORTS",Bein Sport 1
 http://zalogitv.tech:8080/padji33/33334444/25256
 #EXTINF:-1 tvg-id="beINSports2.MACAN" tvg-name="Bein Sport 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png" group-title="SPORTS",Bein Sport 2
