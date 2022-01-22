@@ -14,6 +14,26 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H9m776N.png" group-title="LIVE STREAMING",Look Sport+
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LookSport_%282018%29.svg/320px-Logo_LookSport_%282018%29.svg.png" group-title="LIVE STREAMING",LookSport
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LookSport_%282018%29.svg/320px-Logo_LookSport_%282018%29.svg.png" group-title="LIVE STREAMING",LookSport (2)
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=EjMJ30iw-KK1LUMe25wPHYjSf_vZr40HrZmgBSMaf_U=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LookSport_%282018%29.svg/320px-Logo_LookSport_%282018%29.svg.png" group-title="LIVE STREAMING",LookSport 2
+https://stream1.1616.ro:1945/looksport2/livestream/chunklist_w1538106197.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LookSport_%282018%29.svg/320px-Logo_LookSport_%282018%29.svg.png" group-title="LIVE STREAMING",LookSport 2 (2)
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=VSA7jv0u-Omn3CnlShcjJEklf8e2rR8jAQ8wwDG1_GY=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LookSport_%282018%29.svg/320px-Logo_LookSport_%282018%29.svg.png" group-title="LIVE STREAMING",LookSport 3
+https://stream1.1616.ro:1945/looksport3/livestream/chunklist_w64015557.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LookSport_%282018%29.svg/320px-Logo_LookSport_%282018%29.svg.png" group-title="LIVE STREAMING",LookSport 3 (2)
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=sH1EDcTqSUok6EuiGcTMOpiFtl-7ujyDZXnBqpqqohE=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LookSport_%282018%29.svg/320px-Logo_LookSport_%282018%29.svg.png" group-title="LIVE STREAMING",LookSport +
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=q5uWnJeNO2P6lsob-adxKgsuucRYKL5XypoAiIWOAvM=
+#EXTINF:-1 tvg-logo="https://lookplus.ro/wp-content/uploads/2020/10/LookSPORT.png" group-title="LIVE STREAMING",LookSport+
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
+
+#EXTINF:-1 tvg-logo="" group-title="LIVE STREAMING",Now Sports
+http://livetv.dnsfor.me/channel.12.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:-1 tvg-logo="http://aditv.my.id/logo/assp1.png" group-title="LIVE STREAMING",Astro Supersport 1
@@ -53,6 +73,43 @@ http://iptv.tvmalaysia.cc:80/penang192/penang192/6574
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:-1 tvg-logo="http://aditv.my.id/logo/super-sport.png" group-title="LIVE STREAMING",SuperSport LaLiga
 http://iptv.tvmalaysia.cc:80/penang192/penang192/6575
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="LIVE STREAMING",SuperSport Action - TVMalaysia
+http://iptv.tvmalaysia.cc/174726/174726/6581
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="LIVE STREAMING",Supersport Blitz - TVMalaysia
+http://iptv.tvmalaysia.cc/174726/174726/6584
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="LIVE STREAMING",SuperSport Football - TVMalaysia
+http://iptv.tvmalaysia.cc/174726/174726/6576
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="LIVE STREAMING",SuperSport Grandstand - TVMalaysia
+http://iptv.tvmalaysia.cc/penang175/penang175/6572
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="LIVE STREAMING",SuperSport La Liga - TVMalaysia
+http://iptv.tvmalaysia.cc/174726/174726/6575
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="LIVE STREAMING",TNT Sports  Brasil
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="LIVE STREAMING",TNT Sports 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="LIVE STREAMING",TNT Sports 3 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="LIVE STREAMING",TNT Sports 4 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="LIVE STREAMING",TNT Sports 5 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-motorsport.png" group-title="LIVE STREAMING",SuperSport Motorsport - TVMalaysia
+http://iptv.tvmalaysia.cc/174726/174726/7142
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="LIVE STREAMING",SuperSport Premier League - TVMalaysia
+http://iptv.tvmalaysia.cc/174726/174726/6574
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="LIVE STREAMING",SuperSport PSL - TVMalaysia
+http://iptv.tvmalaysia.cc/penang175/penang175/6573
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="LIVE STREAMING",SuperSport Rugby - TVMalaysia
+http://iptv.tvmalaysia.cc/174726/174726/6582
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="LIVE STREAMING",SuperSport Variety 1 - TVMalaysia
+http://iptv.tvmalaysia.cc/174726/174726/6577
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="LIVE STREAMING",SuperSport Variety 3 - TVMalaysia
+http://iptv.tvmalaysia.cc/penang175/penang175/6579
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/6502294/screenshots/14682219/media/be0e4e9d905cc04faece09dc4aa93aa1.png" group-title="LIVE STREAMING",SuperSport Variety 4 - TVMalaysia
+http://iptv.tvmalaysia.cc/174726/174726/6580
 
 #EXTINF:-1 tvg-logo="https://images.beinsports.com/1sKs7BXF8JtRYZchvSSZBCXjin4=/730160-730160-logo-useetv-01-1.png" group-title="LIVE STREAMING",USEE SPORT 1
 http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/57?token=TkdeVkBQEVkTVgcDAQMNAwwOUQ9QBgUFV1kGB19RBVUMXQUHBl4CUwlDSUNFQ0ZTVFQ6XwISCVcaQ0NCA0Y5XlFHDBUEGh9BRQgIBBQNBQABCFMGUgMKVxpDRlgCFlwVB1wAAgEaH0FUGREERFlVWmpdAEAPU1ZEDA9DXQoYRFhbOlJSXlldBxNbR1EUGxZfRklHDAhFXwoaQ1RYEkYHQ1BHDBUCAQFVE01HAllCWkJHQEcMRHl3RBpDU0kSUQhEXApYFQkaRxATTUcIRWhGU0ZNF1MHXVYUFFsUAUQYRFpUHWlUXFZdBlIVDA5YRBYMFwtVBkQcEQtZD19FCUY5R1wBFA0RCgVaAFlHHA==
@@ -117,14 +174,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Stadium TV USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/800px-Stadium_%28sports_network%29_logo.svg.png" group-title="LIVE STREAMING",Stadium TV
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="LIVE STREAMING", BT Sport 1
-https://wopep.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="LIVE STREAMING", BT Sport 2
-https://wopep.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="LIVE STREAMING", BT Sport 3
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/BTSP3HD.m3u8
 #EXTINF:-1   group-title="LIVE STREAMING", astrosport 1
 http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170834
 #EXTINF:-1   group-title="LIVE STREAMING", astrosport 2
@@ -335,7 +384,7 @@ http://210.210.155.35/session/e195c91c-9912-11eb-9546-a4e0bce47b39/qwr9ew/s/s12/
 https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-id="RTV.ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" group-title="LOKAL",MY TV
-http://sindoro.axc.my.id:25461/oxygen/SGBT5tKbQp/086
+http://175.41.151.141/m3u8/vid_myTV.m3u8
 https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-id="RCT.ID" tvg-name="RCTI.id" tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="LOKAL", RCTI
@@ -369,6 +418,11 @@ https://cubmu.superzap.xyz:8279/rcti/playlist.m3u8
 https://cubmu.superzap.xyz:8279/insert/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vvQ08bs1O1k/YAVi9kzFGGI/AAAAAAAAA70/IeP6w9cLSsUOg8Pf6a8ljvysHtuQqGl9QCLcBGAsYHQ/s0/logo_dunialain.png?v=1.0.0.1" group-title="LOKAL", Dunia Lain
 https://cubmu.superzap.xyz:8279/dunialain/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TAqxeC5.png" group-title="LOKAL",Insert Live
+http://live.insertlive.com/insertlive/smil:insertlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ibvxPb.png" group-title="LOKAL",Jakarta Globe News Channel - LinkNet
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
@@ -435,8 +489,11 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="LOKAL",SCTV 
 E3http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
 
-#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="LOKAL",SCTV BACKUP 3
+#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="LOKAL",SCTV BACKUP 2
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="LOKAL",SCTV BACKUP 3
+http://175.41.151.141/m3u8/vid_SCTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/indosiar.png" group-title="LOKAL",INDOSIAR 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -447,13 +504,16 @@ http://202.150.172.34:4000/play/indosiarhdt2
 https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/indosiar.png" group-title="LOKAL",INDOSIAR BACKUP 2
-http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
+http://175.41.151.141/m3u8/vid_Indosiar.m3u8
 
-#EXTINF:-1 group-title="LOKAL", O Channel HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ochannel.png/320px-Ochannel.png" group-title="LOKAL", O Channel HD
 http://202.150.172.34:4000/play/ochannelhdt2
 
-#EXTINF:-1 group-title="LOKAL", O Channel HD BACKUP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ochannel.png/320px-Ochannel.png" group-title="LOKAL", O Channel HD BACKUP
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ochannel.png/320px-Ochannel.png" group-title="LOKAL", O Channel HD BACKUP 2
+http://175.41.151.141/m3u8/vid_O_Channel.m3u8
 
 #EXTINF:-1 tvg-id="JAK.ID" tvg-logo="https://pbs.twimg.com/profile_images/1170555573/twitter.jpg" group-title="LOKAL",Jak TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -462,6 +522,9 @@ https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #EXTINF:-1 tvg-id="JAK.ID" tvg-logo="https://pbs.twimg.com/profile_images/1170555573/twitter.jpg" group-title="LOKAL",Jak TV Backup
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
+
+#EXTINF:-1 tvg-id="JAK.ID" tvg-logo="https://pbs.twimg.com/profile_images/1170555573/twitter.jpg" group-title="LOKAL",Jak TV Backup 2
+http://175.41.151.141/m3u8/vid_Jak_TV.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="LOKAL", TVRI 
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
@@ -483,16 +546,29 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d
 #EXTINF:-1, tvg-logo="https://icon2.cleanpng.com/20180613/vgb/kisspng-kompas-tv-television-indonesia-news-kompas-5b21b8903a7af9.3752705015289365922396.jpg" group-title="LOKAL", KOMPAS TV BACKUP 2
 https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
 
+#EXTINF:-1, tvg-logo="https://icon2.cleanpng.com/20180613/vgb/kisspng-kompas-tv-television-indonesia-news-kompas-5b21b8903a7af9.3752705015289365922396.jpg" group-title="LOKAL", KOMPAS TV BACKUP 3
+http://175.41.151.141/m3u8/vid_Kompas_TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="LOKAL",Magna TV
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w253650234_b2692000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="LOKAL",Magna TV - Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+
 #EXTINF:-1, tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png" group-title="LOKAL", Metro TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png",Metro TV BACKUP
-https://tv.mbahnunungonline.net/playlist/metrotv.m3u8
+http://175.41.151.141/m3u8/vid_Metro_TV.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png",Metro TV BACKUP 2
 https://iptv.mwafa.net/vidio/777/index.m3u8?token=1999
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png",Metro TV BACKUP 3
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -502,8 +578,11 @@ https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 #EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428234_ico.png" group-title="LOKAL",TRANS TV BACKUP 2
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="Trans TV" tvg-logo="http://utama.lancar.tech:8080/images/04ebe1be276402086a467a487a0986a5.png" group-title="LOKAL",Trans TV
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="Trans TV" tvg-logo="http://utama.lancar.tech:8080/images/04ebe1be276402086a467a487a0986a5.png" group-title="LOKAL",Trans TV BACKUP 3
 https://iptv.mwafa.net/vidio/733/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="Trans TV" tvg-logo="http://utama.lancar.tech:8080/images/04ebe1be276402086a467a487a0986a5.png" group-title="LOKAL",Trans TV BACKUP 4
+http://175.41.151.141/m3u8/vid_Trans_TV.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -512,6 +591,21 @@ https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428233_ico.png",TRANS7 BACKUP 2
 https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428233_ico.png",TRANS7 BACKUP 3
+http://175.41.151.141/m3u8/vid_Trans_7.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="LOKAL",Trans 7 - Detik.com
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.theindonesiachannel.com/uploads/news/New_TIC_logo.jpg" group-title="LOKAL",The Indonesia Channel - Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useeprime_big1.png" group-title="LOKAL",USee Prime - Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_useephoto_big1.png" group-title="LOKAL",USee Photo - Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd
+
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="http://images.useetv.com/logo_beritasatu_big1.png",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
@@ -553,6 +647,12 @@ https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 tvg-id="RIYAN.7ba60c315b6b5d375b4a39267d475655.SHINTA" tvg-name="NET TV" tvg-logo="https://www.useetv.com/pimages/tvposter/net.png" group-title="LOKAL",NET TV Backup 3
 https://iptv.mwafa.net/vidio/875/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_116.jpg" group-title="LOKAL",NET TV Backup 4
+http://175.41.151.141/m3u8/vid_Net_TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/298px-Logo_Jawapos_TV.png" group-title="LOKAL",jawapos TV - PC24
+http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg",Biznet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
@@ -901,7 +1001,7 @@ https://m3u-editor.com/serve/5e3e1510-cb7d-11eb-96b5-790b176662ec/315134133
 http://www.goldentv.tech:25461/Perfecto/170721/38077
 
 #EXTINF:-1 tvg-logo="https://marketingmagazine.com.my/wp-content/uploads/2016/11/Boo_From_Astrothumbnail.jpg" group-title="MOVIES", BOO (Horror) 
-https://lnk.ec/BOO?shareext.m3u8
+http://iptv.tvmalaysia.cc/174726/174726/8872
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -1368,6 +1468,8 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature.id" tvg-name="Love Nature" tvg-logo="https://i.ibb.co/Q9DVNPD/love-nature-home-tv.png" group-title="KNOWLEDGE",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="KNOWLEDGE",Love Nature HD
+http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/kGmYFd1w/animal22.png" group-title="KNOWLEDGE",Animal Planet
 https://livecdn.fptplay.net/hda2/animalplanet_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="History.id" tvg-name="BBC Eart" tvg-logo="https://i.ibb.co/smgGgRB/bbc-earth-home-tv.png" group-title="KNOWLEDGE",BBC Eart
@@ -1382,7 +1484,20 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="HGTV.MACAN" tvg-name="HGTV" tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="KNOWLEDGE",HGTV
 http://www.goldentv.tech:25461/Perfecto/170721/33277
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/dccu/images/c/c0/NASA.png" group-title="KNOWLEDGE",NASA TV - Ustream
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7MEhO5t.png" group-title="KNOWLEDGE",Smithsonian Channel HD
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/izPWFcL.png" group-title="KNOWLEDGE",Techstorm - Maxstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27GGJdJ/w.jpg" group-title="KNOWLEDGE",Wixlar
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",RANS Channel - Vidio
+http://175.41.151.141/m3u8/vid_Rans_Channel.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="CIA.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/crimeinvestigation.png" group-title="Entertainment",CRIME+INVESTIGATION
