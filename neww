@@ -1,37 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="LIVE STREAMING", LIVE UFC
-https://bigsmoke.lbs.pw/boec/tracks-v1a1/mono.m3u8?token=e431c5eee3badc2f916f075680afc4b360434faf-0.4774338765508499-1647156786-1647120786
-#EXTINF:-1 group-title="LIVE STREAMING", LIVE NBA
-https://d3bh6k6cdgaj10.cloudfront.net/hls/espn/playlist.m3u8
-#EXTINF:-1 group-title="LIVE STREAMING", LIVE NBA 2
-http://stariptv.org:8080/live/nour2020/123456/150160.m3u8
-#EXTINF:-1 group-title="LIVE STREAMING",LIVE 18.30 WIB SERIE A
-http://red.ipfox.org:8080/1234/12345678/2978
-#EXTINF:-1 group-title="LIVE STREAMING",LIVE 18.30 WIB SERIE A BACKUP
-http://54.39.156.227:2080/Usuario_Nuevo_001_b/rUw76ksCv4vr/64847
-#EXTINF:-1 group-title="LIVE STREAMING",LIVE 19.00 WIB LIGA PERANCIS
-http://54.39.156.227:2080/Usuario_Nuevo_001_b/rUw76ksCv4vr/52968
-#EXTINF:-1 group-title="LIVE STREAMING",LIVE 19.00 WIB LIGA PERANCIS BACKUP
-http://iptvtree.net:8080/15247/6bc4e63e/1737
-#EXTINF:-1 group-title="LIVE STREAMING",LIVE 20.00 WIB LA LIGA SPANYOL
-http://54.39.156.227:2080/Usuario_Nuevo_001_b/rUw76ksCv4vr/71954
-#EXTINF:-1 group-title="LIVE STREAMING",LIVE 20.00 WIB LA LIGA SPANYOL BACKUP
-http://red.ipfox.org:8080/1234/12345678/2969
-#EXTINF:-1 group-title="LIVE STREAMING",LIVE 20.30 WIB BRI LIGA 1 TR KABO VS PERSIJA
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-#EXTINF:-1 group-title="LIVE STREAMING",LIVE 21.00 WIB LIGA INGGRIS
-http://red.ipfox.org:8080/1234/12345678/2971
-#EXTINF:-1 group-title="LIVE STREAMING",LIVE 21.00 WIB LIGA INGGRIS BACKUP
-http://aumaletv.com:25461/Potikina/handala90/61978
-#EXTINF:-1 group-title="LIVE STREAMING",LIVE 21.00 WIB LIGA INGGRIS BACKUP ii
-http://54.39.156.227:2080/Usuario_Nuevo_001_b/rUw76ksCv4vr/71973
-#EXTINF:-1 group-title="LIVE STREAMING",LIVE 21.30 WIB BUNDESLIGA
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-#EXTINF:-1 group-title="LIVE STREAMING",LIVE 21.30 WIB BUNDESLIGA BACKUP
-http://54.39.156.227:2080/Usuario_Nuevo_001_b/rUw76ksCv4vr/54964
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png"group-title="LIVE STREAMING",Okey_TV
 http://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20SUKAN%20RTM_NEW.jpg"group-title="LIVE STREAMING",SUKAN_RTM
@@ -40,235 +8,12 @@ http://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Unifi-Sports.png"group-title="LIVE STREAMING",UNIFI_SPORTS_2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png"group-title="LIVE STREAMING",ASSP_1_HD
-http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/146068
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png"group-title="LIVE STREAMING",ASSP_2_HD
-http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/157556
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png"group-title="LIVE STREAMING",ASSP_3_HD
-http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/157557
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png"group-title="LIVE STREAMING",ASSP_4_HD
-http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/157558
-#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/243-2430104_thai-pbs-logo-png.png"group-title="LIVE STREAMING",Thaipbs
-http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8?shareext.ts
-#EXTINF:-1  tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png" group-title="LIVE STREAMING",J_SPORTS_2
-http://211.21.12.236:11935/live/cs06.stream/playlist.m3u8?shareext.ts
-#EXTINF:-1  tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/jsports_3_4k.jpg" group-title="LIVE STREAMING",J_sports3
-http://211.21.12.236:11935/live/cs07.stream/playlist.m3u8?shareext.ts
-#EXTINF:-1  tvg-logo="https://www2.myjcom.jp/special/common/channel_logo/jsports_4_4k.jpg" group-title="LIVE STREAMING",J_sports4
-http://211.21.12.236:11935/live/cs09.stream/playlist.m3u8?shareext.ts
-#EXTINF:-1  tvg-logo="https://images.tokopedia.net/img/cache/215-square/GAnVPX/2021/9/15/463b1632-4140-438c-8ae6-ecd3303b7aff.png" group-title="LIVE STREAMING",Golf_Network
-http://211.21.12.236:11935/live/cs03.stream/playlist.m3u8?shareext.ts
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NBC_Sports_stacked_logo_%282012-present%29.svg/1200px-NBC_Sports_stacked_logo_%282012-present%29.svg.png" group-title="LIVE STREAMING",NBCsports
-http://211.21.12.236:11935/live/cs26.stream/playlist.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",SkySports_Football
-http://185.152.66.55/98780/tracks-v1a1/mono.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",SkySports_F1
-http://185.152.66.55/98783/tracks-v1a1/mono.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",SkySports_Arena
-http://185.152.66.55/98784/tracks-v1a1/mono.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",SkySports_Action
-http://185.152.66.55/98788/tracks-v1a1/mono.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",SkySports_premierLeague
-http://185.152.66.55/98774/tracks-v1a1/mono.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",SkySports_News
-http://185.152.66.55/98776/tracks-v1a1/mono.m3u8?shareext.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",SkySports_Golf
-http://185.152.66.55/98778/tracks-v1a1/mono.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",TRING_SPORT 1HD 馃嚘馃嚤 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",TRING_SPORT 1HD  
 http://45.58.122.106:8081/live/ts1/playlist.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",TRING_SPORT 2HD 馃嚘馃嚤 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",TRING_SPORT 2HD  
 http://45.58.122.106:8081/live/ts2/playlist.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",Live_Sports(pk) 馃嚨馃嚤 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",Live_Sports(pk)  
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",SONY_TEN1
-http://live.flixhub.net/hls/sonyten1.m3u8?shareext.m3u8
-http://103.166.253.222/hls/sonyten1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",SONY_TEN2
-http://live.flixhub.net/hls/sonyten2.m3u8?shareext.m3u8
-http://103.166.253.222/hls/sonyten2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",SONY_TEN3
-http://live.flixhub.net/hls/sonyten3.m3u8?shareext.m3u8
-http://103.166.253.222/hls/sonyten3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",SONY_SIX
-http://live.flixhub.net/hls/sonysix.m3u8?shareext.m3u8
-http://103.166.253.222/hls/sonysix.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",StarSport select1
-http://103.166.253.222/hls/stersports1hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",StarSport select2
-http://live.flixhub.net/hls/select2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",beINSportPremium01(480P)
-http://red.ipfox.org:8080/1234/12345678/31548
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",beINSportPremium02(480P)
-http://red.ipfox.org:8080/1234/12345678/31547
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",beINSportPremium03(480P)
-http://red.ipfox.org:8080/1234/12345678/31546
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",beINSport01(480P)
-http://red.ipfox.org:8080/1234/12345678/31555
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",beINSport02(480P)
-http://red.ipfox.org:8080/1234/12345678/31554
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",beINSport03(480P)
-http://red.ipfox.org:8080/1234/12345678/31553
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",beINSport04(480P)
-http://red.ipfox.org:8080/1234/12345678/31552
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",beINSport05(480P)
-http://red.ipfox.org:8080/1234/12345678/31551
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",beINSport06(480P)
-http://red.ipfox.org:8080/1234/12345678/31550
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",beINSport07(480P)
-http://red.ipfox.org:8080/1234/12345678/31549
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",SSC1 HD
-http://red.ipfox.org:8080/1234/12345678/37815
-#EXTINF:-1 tvg-id="" tvg-name="UK204:SuperSport Action FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK204EPL1.png" group-title="LIVE STREAMING",SuperSport_Action FHD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/28855
-#EXTINF:-1 tvg-id="" tvg-name="UK205:SuperSport Cricket FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK205EPL2.png" group-title="LIVE STREAMING",SuperSport_Cricket FHD 
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/28854
-#EXTINF:-1 tvg-id="" tvg-name="UK206:SuperSport Football FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK206EPL3.png" group-title="LIVE STREAMING",SuperSport_Football FHD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/28853
-#EXTINF:-1 tvg-id="" tvg-name="UK207:Supersport Golf (match time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK207EPL4.png" group-title="LIVE STREAMING",Supersport_Golf
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/28852
-#EXTINF:-1 tvg-id="" tvg-name="UK208:SuperSport Grandstand FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK208EPL5.png" group-title="LIVE STREAMING",SuperSport_Grandstand FHD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/28851
-#EXTINF:-1 tvg-id="" tvg-name="UK209:SuperSport LaLiga FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK209EPL6.png" group-title="LIVE STREAMING",SuperSport_LaLiga FHD 
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/28850
-#EXTINF:-1 tvg-id="" tvg-name="UK210:SuperSport Motorsport FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK210EPL7.png" group-title="LIVE STREAMING",SuperSport_Motorsport FHD 
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/28849
-#EXTINF:-1 tvg-id="" tvg-name="UK211:SuperSport Premier League FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK211EPL8.png" group-title="LIVE STREAMING",SuperSport_PremierLeague FHD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/28848
-#EXTINF:-1 tvg-id="" tvg-name="UK213:SuperSport Rugby FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK213EPL10.png" group-title="LIVE STREAMING",UK213:SuperSport_Rugby FHD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/28846
-#EXTINF:-1 tvg-id="eurosport.2.gb" tvg-name="UK241:SuperSport Variety 1 FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK241EUROSPORT2FHD.png" group-title="LIVE STREAMING",SuperSport_Variety 1 FHD 
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/28818
-#EXTINF:-1 tvg-id="" tvg-name="UK212:SuperSport PSL FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK212EPL9.png" group-title="LIVE STREAMING",SuperSport_PSL FHD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/28847
-#EXTINF:-1 tvg-id="" tvg-name="UK319:SuperSport Tennis FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK319SkySportsACTIONHD.png" group-title="LIVE STREAMING",SuperSport_Tennis FHD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/28740
-#EXTINF:-1 tvg-id="ss.tennis.za" tvg-name="ZA065:SuperSport Tennis" tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg" group-title="LIVE STREAMING",SuperSport-Tennis
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60572
-#EXTINF:-1 tvg-id="ss.la.liga.za" tvg-name="ZA066:SuperSport LaLiga" tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg" group-title="LIVE STREAMING",SuperSport-LaLiga
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60573
-#EXTINF:-1 tvg-id="ss.psl.za" tvg-name="ZA067:SuperSport PSL" tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg" group-title="LIVE STREAMING",SuperSport-PSL
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60574
-#EXTINF:-1 tvg-id="ss.premier.league.za" tvg-name="ZA068:SuperSport Premier League" tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg" group-title="LIVE STREAMING",SuperSport-Premier League
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60575
-#EXTINF:-1 tvg-id="ss.grandstand.za" tvg-name="ZA069:SuperSport Grandstand" tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg" group-title="LIVE STREAMING",SuperSport-Grandstand
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60576
-#EXTINF:-1 tvg-id="ss.variety.1.za" tvg-name="ZA070:SuperSport Variety 1" tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg" group-title="LIVE STREAMING",SuperSport-Variety 1
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60577
-#EXTINF:-1 tvg-id="ss.variety.2.za" tvg-name="ZA071:SuperSport Variety 2" tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg" group-title="LIVE STREAMING",SuperSport-Variety 2
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60578
-#EXTINF:-1 tvg-id="ss.variety.3.za" tvg-name="ZA072:SuperSport Variety 3" tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg" group-title="LIVE STREAMING",SuperSport-Variety 3
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60579
-#EXTINF:-1 tvg-id="ss.variety.4.za" tvg-name="ZA073:SuperSport Variety 4" tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg" group-title="LIVE STREAMING",SuperSport-Variety 4
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60580
-#EXTINF:-1 tvg-id="ss.action.za" tvg-name="ZA074:SuperSport Action" tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg" group-title="LIVE STREAMING",SuperSport-Action
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60581
-#EXTINF:-1 tvg-id="ss.football.za" tvg-name="ZA075:SuperSport Football" tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg" group-title="LIVE STREAMING",SuperSport-Football
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60582
-#EXTINF:-1 tvg-id="ss.rugby.za" tvg-name="ZA076:SuperSport Rugby" tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg" group-title="LIVE STREAMING",SuperSport-Rugby
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60583
-#EXTINF:-1 tvg-id="ss.blitz.za" tvg-name="ZA077:Supersport Blitz" tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg" group-title="LIVE STREAMING",Supersport-Blitz
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60584
-#EXTINF:-1 tvg-id="ss.maximo.1.za" tvg-name="ZA078:SuperSport MáXimo" tvg-logo="https://i.postimg.cc/k5rscC42/Share-Ext-Supersport.jpg" group-title="LIVE STREAMING",SuperSport-MáXimo
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60585
-
-#EXTINF:-1 tvg-id="bein.sports.news.ae" tvg-name="BN001:BeIN Sport News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN001BeINSportNews.png" group-title="LIVE STREAMING",BeINSport_News
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2141
-#EXTINF:-1 tvg-id="bein.sports.1hd.ae" tvg-name="BN002:BeIN Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN002BeINSport01.png" group-title="LIVE STREAMING",BeINSport 1 HD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2140
-#EXTINF:-1 tvg-id="bein.sports.2.ae" tvg-name="BN003:BeIN Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN003BeINSport02.png" group-title="LIVE STREAMING",BeINSport 2 HD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2139
-#EXTINF:-1 tvg-id="bein.sports.3.ae" tvg-name="BN004:BeIN Sport 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN004BeINSport03.png" group-title="LIVE STREAMING",BeINSport 3 HD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2138
-#EXTINF:-1 tvg-id="bein.sports.4.ae" tvg-name="BN005:BeIN Sport 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN005BeINSport04.png" group-title="LIVE STREAMING",BeINSport 4 HD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2137
-#EXTINF:-1 tvg-id="bein.sports.5.ae" tvg-name="BN006:BeIN Sport 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN006BeINSport05.png" group-title="LIVE STREAMING",BeINSport 5 HD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2136
-#EXTINF:-1 tvg-id="bein.sports.6.ae" tvg-name="BN007:BeIN Sport 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN007BeINSport06.png" group-title="LIVE STREAMING",BeINSport 6 HD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2135
-#EXTINF:-1 tvg-id="bein.sports.7.ae" tvg-name="BN008:BeIN Sport 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN008BeINSport07.png" group-title="LIVE STREAMING",BeINSport 7 HD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2134
-#EXTINF:-1 tvg-id="bein.sports.8.ae" tvg-name="BN009:BeIN Sport 8 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN009BeINSport08.png" group-title="LIVE STREAMING",BeINSport 8 HD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2133
-#EXTINF:-1 tvg-id="bein.sports.9.ae" tvg-name="BN010:BeIN Sport 9 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN010BeINSport09.png" group-title="LIVE STREAMING",BeINSport 9 HD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2132
-#EXTINF:-1 tvg-id="bein.sports.10.ae" tvg-name="BN011:BeIN Sport 10 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN011BeINSport10.png" group-title="LIVE STREAMING",BeINSport 10 HD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2131
-#EXTINF:-1 tvg-id="bein.sports.11.ae" tvg-name="BN012:BeIN Sport 11 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN012BeINSport11.png" group-title="LIVE STREAMING",BeINSport 11 HD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2130
-#EXTINF:-1 tvg-id="bein.sports.12.ae" tvg-name="BN013:BeIN Sport 12 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN013BeINSport12.png" group-title="LIVE STREAMING",BeINSport 12 HD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2129
-#EXTINF:-1 tvg-id="bein.sports.14.ae" tvg-name="BN019:Bein Sport 13" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN019BeinSport14.png" group-title="LIVE STREAMING",BeinSport 13
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2123
-#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN022:BEIN SPORTS Premium 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN022BeinSport15.png" group-title="LIVE STREAMING",BEINSPORTS_Premium_1
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2120
-#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN023:BEIN SPORTS Premium 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN023BeinSport.png" group-title="LIVE STREAMING",BEINSPORTS_Premium_2
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2119
-#EXTINF:-1 tvg-id="" tvg-name="BN025:BEIN SPORTS Premium 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN025BeINGroummet.png" group-title="LIVE STREAMING",BEINSPORTS_Premium_3
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2117
-
-#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="LIVE STREAMING",SuperSport_1
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1722
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="LIVE STREAMING",SuperSport_2
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1721
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="LIVE STREAMING",SuperSport_3
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1720
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="LIVE STREAMING",SuperSport_4
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1719
-#EXTINF:-1 tvg-id="" tvg-name="MY037:WWE" tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="LIVE STREAMING",MY_WWE
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1698
-#EXTINF:-1 tvg-id="" tvg-name="MY043:ASTRO ASSP4 HD" tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="LIVE STREAMING",ASSP4 HD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/59217
-#EXTINF:-1 tvg-id="" tvg-name="MY042:ASTRO ASSP3 HD" tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="LIVE STREAMING",ASSP3 HD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/59218
-#EXTINF:-1 tvg-id="" tvg-name="MY040:ASTRO ASSP HD" tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="LIVE STREAMING",ASSP HD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/59220
-#EXTINF:-1 tvg-id="" tvg-name="MY041:ASTRO ASSP2 HD" tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="LIVE STREAMING",ASSP2 HD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/59219
-#EXTINF:-1 tvg-id="" tvg-name="MY130:ASTRO ARENA HD" tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="LIVE STREAMING",ASTRO_ARENA HD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71102
-#EXTINF:-1 tvg-id="" tvg-name="MY132:beIN SPORTS" tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="LIVE STREAMING",MY_beINSPORTS
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71104
-#EXTINF:-1 tvg-id="" tvg-name="MY133:bEIN MAX" tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="LIVE STREAMING",MY_bEIN_MAX
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71105
-#EXTINF:-1 tvg-id="" tvg-name="MY134:EUROSPORT HD" tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="LIVE STREAMING",MY_EUROSPORT HD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71106
-#EXTINF:-1 tvg-id="" tvg-name="MY135:GOLF CHANNEL HD" tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="LIVE STREAMING",MY_GOLF_CHANNEL HD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71107
-#EXTINF:-1 tvg-id="" tvg-name="MY136:ASTRO RUGBY PASS TV" tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="LIVE STREAMING",ASTRO_RUGBY_PASS TV
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71108
-#EXTINF:-1 tvg-id="" tvg-name="MY137:ASTRO CRICKET" tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="LIVE STREAMING",ASTRO_CRICKET
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71109
-#EXTINF:-1 tvg-id="" tvg-name="MY180:ASTRO ASSP Plus HD" tvg-logo="https://i.postimg.cc/8CWQjZZt/ASTROTV-shareext-Group.png" group-title="LIVE STREAMING",ASSP_Plus HD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71149
-#EXTINF:-1 tvg-id="" tvg-name="PK097:PTV Sports HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",PK_PTV_Sports HD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/31641
-#EXTINF:-1 tvg-id="SonyESPN.in" tvg-name="IN054:Sony ESPN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN054SonyESPN.png" group-title="LIVE STREAMING",IN_Sony-ESPN
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1911
-#EXTINF:-1 tvg-id="SonySIX.in" tvg-name="IN060:Sony Six" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN060SonySix.png" group-title="LIVE STREAMING",Sony_Six
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1905
-#EXTINF:-1 tvg-id="SonyTEN2.in" tvg-name="IN061:Sony Ten 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN061SonyTen2.png" group-title="LIVE STREAMING",Sony_Ten 2
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1904
-#EXTINF:-1 tvg-id="SonyTEN1.in" tvg-name="IN062:Sony Ten 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN062SonyTen1.png" group-title="LIVE STREAMING",Sony_Ten 1
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1903
-#EXTINF:-1 tvg-id="SonyTEN3.in" tvg-name="IN063:Sony Ten 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN063SonyTen3.png" group-title="LIVE STREAMING",Sony_Ten 3
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1902
-#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="IN072:Star Sports 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN072StarSports1.png" group-title="LIVE STREAMING",StarSports_1
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1893
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="IN073:Star Sports 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN073StarSports2.png" group-title="LIVE STREAMING",StarSports_2
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1892
-#EXTINF:-1 tvg-id="" tvg-name="IN079:WIllow Cricket" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN079WIllowCricket.png" group-title="LIVE STREAMING",WIllow_Cricket
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1886
-#EXTINF:-1 tvg-id="" tvg-name="IN113:Star Sports Select 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN113StarSportsSelect1HD.png" group-title="LIVE STREAMING",StarSports_Select 1 HD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/55340
-#EXTINF:-1 tvg-id="" tvg-name="IN115:Star Sports Select 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN115StarSportsSelect2HD.png" group-title="LIVE STREAMING",StarSports_Select 2 HD
-http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/55338
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",beIN1_PREMIUM FHD
 http://stariptv.org:8080/wael2021/123456/141563
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",beIN2_PREMIUM FHD
@@ -293,13 +38,6 @@ http://stariptv.org:8080/wael2021/123456/141572
 http://stariptv.org:8080/wael2021/123456/132027
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="LIVE STREAMING",beIN2 XTRA HQ
 http://stariptv.org:8080/wael2021/123456/132028
-
-#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:BAND SPORTS HD" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="LIVE STREAMING",BAND_SPORTS HD
-http://latinosiptv.online:8090/notocar/xmauc84bx1/20307
-#EXTINF:-1 tvg-id="TNTSportsArgentina.us" tvg-name="LA_FHD3:TNT Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/TNT_Sports_logo.svg/1200px-TNT_Sports_logo.svg.png" group-title="LIVE STREAMING",TNT_Sports HD
-http://latinosiptv.online:8090/notocar/xmauc84bx1/20897
-#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1200px-Tigo_Sports_logo.svg.png" group-title="LIVE STREAMING",TIGO_SPORTS 1
-http://latinosiptv.online:8090/notocar/xmauc84bx1/31944
 #EXTINF:-1 tvg-id="BeInSportsenEspanol.qa" tvg-name="BEIN SPORT Ñ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/340px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="LIVE STREAMING",BEINSPORT Ñ
 http://latinosiptv.online:8090/notocar/xmauc84bx1/32291
 #EXTINF:-1 tvg-id="" tvg-name="DANZ FORMULA UNO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="LIVE STREAMING",DANZ_FORMULA_UNO HD
@@ -310,8 +48,6 @@ http://latinosiptv.online:8090/notocar/xmauc84bx1/34635
 http://latinosiptv.online:8090/notocar/xmauc84bx1/35226
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier" tvg-logo="https://e7.pngegg.com/pngimages/552/474/png-clipart-sky-sports-premier-league-sky-uk-golf-premier-league-television-text.png" group-title="LIVE STREAMING",SkySports_Premier
 http://latinosiptv.online:8090/notocar/xmauc84bx1/36290
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports LaLiga" tvg-logo="https://e7.pngegg.com/pngimages/552/474/png-clipart-sky-sports-premier-league-sky-uk-golf-premier-league-television-text.png" group-title="LIVE STREAMING",SkySports_LaLiga
-http://latinosiptv.online:8090/notocar/xmauc84bx1/36291
 #EXTINF:-1 tvg-id="ESPNAmericaLatina.us" tvg-name="ESPN ARGENTINA" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-logo.jpg" group-title="LIVE STREAMING",ESPN(ARGENTINA)
 http://latinosiptv.online:8090/notocar/xmauc84bx1/36606
 #EXTINF:-1 tvg-id="ESPN2AmericaLatina.us" tvg-name="ESPN 2 ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="LIVE STREAMING",ESPN 2 ARGENTINA
@@ -407,34 +143,7 @@ http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108537
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/125119
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J5DHUdV.png" group-title="LIVE STREAMING",Look Sport
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i0fciXm.png" group-title="LIVE STREAMING",Look Sport 2
-https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xhzU9kp.png" group-title="LIVE STREAMING",Look Sport 3
-https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H9m776N.png" group-title="LIVE STREAMING",Look Sport+
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LookSport_%282018%29.svg/320px-Logo_LookSport_%282018%29.svg.png" group-title="LIVE STREAMING",LookSport
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LookSport_%282018%29.svg/320px-Logo_LookSport_%282018%29.svg.png" group-title="LIVE STREAMING",LookSport (2)
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=EjMJ30iw-KK1LUMe25wPHYjSf_vZr40HrZmgBSMaf_U=
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LookSport_%282018%29.svg/320px-Logo_LookSport_%282018%29.svg.png" group-title="LIVE STREAMING",LookSport 2
-https://stream1.1616.ro:1945/looksport2/livestream/chunklist_w1538106197.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LookSport_%282018%29.svg/320px-Logo_LookSport_%282018%29.svg.png" group-title="LIVE STREAMING",LookSport 2 (2)
-https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=VSA7jv0u-Omn3CnlShcjJEklf8e2rR8jAQ8wwDG1_GY=
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LookSport_%282018%29.svg/320px-Logo_LookSport_%282018%29.svg.png" group-title="LIVE STREAMING",LookSport 3
-https://stream1.1616.ro:1945/looksport3/livestream/chunklist_w64015557.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LookSport_%282018%29.svg/320px-Logo_LookSport_%282018%29.svg.png" group-title="LIVE STREAMING",LookSport 3 (2)
-https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=sH1EDcTqSUok6EuiGcTMOpiFtl-7ujyDZXnBqpqqohE=
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LookSport_%282018%29.svg/320px-Logo_LookSport_%282018%29.svg.png" group-title="LIVE STREAMING",LookSport +
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=q5uWnJeNO2P6lsob-adxKgsuucRYKL5XypoAiIWOAvM=
-#EXTINF:-1 tvg-logo="https://lookplus.ro/wp-content/uploads/2020/10/LookSPORT.png" group-title="LIVE STREAMING",LookSport+
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 #EXTINF:-1 tvg-logo="" group-title="LIVE STREAMING",Now Sports
 http://livetv.dnsfor.me/channel.12.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="LIVE STREAMING",TNT Sports  Brasil
@@ -507,19 +216,15 @@ https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-id="ANT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428066_ico.png" group-title="LOKAL",ANTV Backup
-http://tvn.x10.bz/xchannel/master-12.m3u8
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574212
 
-#EXTINF:-1 group-title="Asia" tvg-logo="https://i.imgur.com/0zHJS7l.png",group-title="LOKAL",TV One
+#EXTINF:-1 group-title="Asia" tvg-logo="https://lancartech.co.id/logo/lokal/tvone.png",group-title="LOKAL",TV One
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
-#EXTINF:-1 group-title="Asia" tvg-logo="https://i.imgur.com/0zHJS7l.png",group-title="LOKAL",TV One Backup
-https://iptv.mwafa.net/dm/k2uDgtBgdyXR1AoH4XD/index.m3u8?token=1999
-http://tvn.x10.bz/xchannel/master-13.m3u8
-
-#EXTINF:-1 group-title="Asia" tvg-logo="https://i.imgur.com/0zHJS7l.png",group-title="LOKAL",TV One Backup2
-https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybChwR_Fev5VZkyD0arwuHmk)/dm/3/x619221/s/live-1.m3u8
+#EXTINF:-1 group-title="Asia" tvg-logo="https://lancartech.co.id/logo/lokal/tvone.png",group-title="LOKAL",TV One Backup
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574225
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -527,14 +232,10 @@ https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybChwR_Fev5VZkyD0ar
 https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-id="RTV.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428243_ico.png" group-title="LOKAL",RTV BACKUP
-http://210.210.155.35/session/e195c91c-9912-11eb-9546-a4e0bce47b39/qwr9ew/s/s12/01.m3u8
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574216
 
 #EXTINF:-1 tvg-id="RTV.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428243_ico.png" group-title="LOKAL",RTV BACKUP 2
-https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
-
-#EXTINF:-1 tvg-id="RTV.ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" group-title="LOKAL",MY TV
-http://175.41.151.141/m3u8/vid_myTV.m3u8
-https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574217
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -542,16 +243,14 @@ https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="LOKAL",RCTI BACKUP 2
-https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574195
+
 #EXTINF:-1 tvg-id="RCT.ID" tvg-name="RCTI.id" tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="LOKAL", RCTI BACKUP 3
-https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
-
-#EXTINF:-1 tvg-logo="http://aditv.my.id/logo/rcti.png" group-title="LOKAL",RCTI BACKUP 4
-https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/index.m3u8
-
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574196
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TAqxeC5.png" group-title="LOKAL",Insert Live
 http://live.insertlive.com/insertlive/smil:insertlive.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ibvxPb.png" group-title="LOKAL",Jakarta Globe News Channel - LinkNet
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
@@ -561,16 +260,11 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-aMcvtlHs7GQ/YRa7HF6-GwI/AAAAAAAABTM/fgzEO-rE8yMV_uzGaQQ6yp9TrOgHOYwiwCLcBGAsYHQ/s0/HJHmRAh.png?v=1.1.1.1" group-title="LOKAL" tvg-id="MNC TV", MNC TV BACKUP
-http://202.150.172.34:4000/play/mnctvt2
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574191
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-aMcvtlHs7GQ/YRa7HF6-GwI/AAAAAAAABTM/fgzEO-rE8yMV_uzGaQQ6yp9TrOgHOYwiwCLcBGAsYHQ/s0/HJHmRAh.png?v=1.1.1.1" group-title="LOKAL" tvg-id="MNC TV", MNC TV BACKUP 2
-https://fta.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574192
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-aMcvtlHs7GQ/YRa7HF6-GwI/AAAAAAAABTM/fgzEO-rE8yMV_uzGaQQ6yp9TrOgHOYwiwCLcBGAsYHQ/s0/HJHmRAh.png?v=1.1.1.1" group-title="LOKAL" tvg-id="MNC TV", MNC TV BACKUP 3
-https://iptv.mwafa.net/rctiplus/mnctv/index.m3u8?token=3394
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-aMcvtlHs7GQ/YRa7HF6-GwI/AAAAAAAABTM/fgzEO-rE8yMV_uzGaQQ6yp9TrOgHOYwiwCLcBGAsYHQ/s0/HJHmRAh.png?v=1.1.1.1" group-title="LOKAL" tvg-id="MNC TV", MNC TV BACKUP 4
-http://zalogitv.tech:8080/padji33/33334444/1317
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f8/MNCEntertainment_tegak.png/400px-MNCEntertainment_tegak.png",MNC Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -585,18 +279,13 @@ https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainmen
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="LOKAL",iNews TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
-
-#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="LOKAL",iNews TV BACKUP
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="LOKAL",iNews TV BACKUP 2
-http://202.150.172.34:4000/play/inewst2
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574200
 
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="LOKAL",iNews TV BACKUP 3
-https://iptv.mwafa.net/rctiplus/inews/index.m3u8?token=3394
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574201
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
@@ -618,31 +307,35 @@ https://iptv.mwafa.net/rctiplus/gtv/index.m3u8?token=1999
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="LOKAL",SCTV 
-E3http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574207
+
 
 #EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="LOKAL",SCTV BACKUP 2
-https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574205
 
 #EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="LOKAL",SCTV BACKUP 3
-http://175.41.151.141/m3u8/vid_SCTV.m3u8
+http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428235_ico.png" group-title="LOKAL",SCTV BACKUP 4
+https://akudandia.xyz//locs/akudandia-204.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/indosiar.png" group-title="LOKAL",INDOSIAR 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://akudandia.xyz//locs/akudandia-205.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/indosiar.png" group-title="LOKAL",INDOSIAR BACKUP 
-https://lnk.ec/shareext@indosiar
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/indosiar.png" group-title="LOKAL",INDOSIAR BACKUP 2
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574209
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/indosiar.png" group-title="LOKAL",INDOSIAR BACKUP 3
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574208
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ochannel.png/320px-Ochannel.png" group-title="LOKAL", O Channel HD
-http://202.150.172.34:4000/play/ochannelhdt2
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ochannel.png/320px-Ochannel.png" group-title="LOKAL", O Channel HD BACKUP
-http://tvn.x10.bz/xchannel/master-18.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ochannel.png/320px-Ochannel.png" group-title="LOKAL", O Channel HD BACKUP 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ochannel.png/320px-Ochannel.png" group-title="LOKAL", O Channel HD 
 https://akudandia.xyz//locs/akudandia-206.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ochannel.png/320px-Ochannel.png" group-title="LOKAL", O Channel HD 
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574204
 
 #EXTINF:-1 tvg-id="JAK.ID" tvg-logo="https://pbs.twimg.com/profile_images/1170555573/twitter.jpg" group-title="LOKAL",Jak TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -653,7 +346,7 @@ https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
 
 #EXTINF:-1 tvg-id="JAK.ID" tvg-logo="https://pbs.twimg.com/profile_images/1170555573/twitter.jpg" group-title="LOKAL",Jak TV Backup 2
-http://175.41.151.141/m3u8/vid_Jak_TV.m3u8
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574255
 
 #EXTINF:-1, tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="LOKAL", TVRI 
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
@@ -662,7 +355,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="LOKAL", TVRI BACKUP
-https://iptv.mwafa.net/vidio/6441/index.m3u8?token=1999
+https://m3u-editor.com/serve/dfe03e20-b2f7-11ec-906c-a18a31aa7363/537574235
 
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180613/vgb/kisspng-kompas-tv-television-indonesia-news-kompas-5b21b8903a7af9.3752705015289365922396.jpg" group-title="LOKAL",KOMPAS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1184,8 +877,16 @@ http://tvn.x10.bz/xchannel/master-11.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="MOVIES",Citra Muslim
 http://tvn.x10.bz/xchannel/master-9.m3u8
 
-#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="GalaxyPremium.id" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/galaxy_premium.jpg", Galaxy Premium
-https://lnk.ec/GALAXYPREM?shareext.ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png" group-title="MOVIES",GALAXY
+https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586679050-.png" group-title="MOVIES",GALAXY PREMIUM
+https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 #EXTINF:-1 tvg-id="e37b8b887354c90880969c68f82ce7ff" tvg-name="Bioskop Indonesia" tvg-logo="http://www.transvision.co.id/images/channel/bioskop_ind.png" group-title="MOVIES",Bioskop Indonesia
 http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/175
@@ -1193,8 +894,6 @@ http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/175
 #EXTINF:-1 tvg-id="" tvg-name="Sinema Indonesia" tvg-logo="https://mantul.org/logo/cm.png" group-title="MOVIES",Sinema Indonesia
 http://202.83.123.80:19420/daygun/live/SinemaIndo/index.m3u8
 
-#EXTINF:-1 tvg-id="Galaxy.MACAN" tvg-name="Galaxy.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/galaxy.jpg", Galaxy
-https://lnk.ec/galaxy?shareext.ts
 
 #EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="SonyOneHD.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/sonyone.png", Sony One
 http://210.210.155.35/uq2663/h/h143/01.m3u8
