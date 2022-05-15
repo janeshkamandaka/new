@@ -816,22 +816,27 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 https://lnk.ec/shareext@useesport
 #EXTINF:-1 tvg-id="UseeSports2.MACAN" tvg-name="UseeSports 2" tvg-logo="http://iptv.nullpress.xyz:8080/images/2e05a7aad90719c998da399631ee06ec.png" group-title="SPORTS",UseeSports 2
 https://lnk.ec/shareext@arena2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",LIGA1&2
-http://tvn.x10.bz/xchannel/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="SPORTS",Usee Sports 1
+https://link.zozotv.xyz:443/fx2/fx2/360
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="SPORTS",Usee Sports 2
+https://link.zozotv.xyz:443/fx2/fx2/361
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="SPORTS",LFCTV
 http://tvn.x10.bz/xchannel/master-3.m3u8
 
-#EXTINF:-1 tvg-id="Champions1.MACAN" tvg-name="Champions TV 1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS",Champions TV 1
-http://tvn.x10.bz/xchannel/master-6.m3u8
-#EXTINF:-1 tvg-id="Champions2.MACAN" tvg-name="Champions TV 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS",Champions TV 2
-http://tvn.x10.bz/xchannel/master-7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Champions TV 3" tvg-logo="http://iptv.nullpress.xyz:8080/images/ab167b2dbfc0396a2bb76e29c6dd9332.png" group-title="SPORTS",Champions TV 3
-http://tvn.x10.bz/xchannel/master-8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Champions TV 3" tvg-logo="https://www.webike.id/news/wp-content/uploads/2021/10/champions-tv-4-fim-ewc-indonesia.jpg" group-title="SPORTS",Champions TV 4
-http://tvn.x10.bz/xchannel/master-17.m3u8
-#EXTINF:-1 tvg-id="NBATV.id" tvg-name="NBA" tvg-logo="https://i.ibb.co/qd0RNHt/nba-home-tv.png" group-title="SPORTS",NBA
-http://zalogitv.tech:8080/padji33/33334444/436
+#EXTINF:-1 group-title="SPORTS",  Champions 1 TV
+https://akumaymd.000webhostapp.com/master-6.m3u8
+#EXTINF:-1 group-title="SPORTS",  Champions 2 TV
+https://akumaymd.000webhostapp.com/master-7.m3u8
+#EXTINF:-1 group-title="SPORTS",  Champions 3 TV
+https://akumaymd.000webhostapp.com/master-8.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="SPORTS",Fox Sports 1 
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+#EXTINF:-1 tvg-logo="TEST" group-title="SPORTS",Fox Sport 2 
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+#EXTINF:-1 tvg-logo="TEST" group-title="SPORTS",Fox Sport 3
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+
 #EXTINF:-1 tvg-id="eGG.MACAN" tvg-name="eGG TV" tvg-logo="https://cdn.kibrispdr.org/data/logo-tv-berlangganan-8.jpg" group-title="SPORTS",eGG TV
 http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=egg&gumisasakTV=default&sync=0
 
