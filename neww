@@ -1,44 +1,95 @@
 #EXTM3U
 
+#EXTINF:-1  group-title="LIVE STREAMING",ZA: SuperSport Premier League
+http://legendtvs.com:80/anwar123/12345/391206
+#EXTINF:-1 group-title="LIVE STREAMING",ZA: SuperSport Football
+http://legendtvs.com:80/anwar123/12345/391208
+#EXTINF:-1 group-title="LIVE STREAMING",ZA: SuperSport LaLiga
+http://legendtvs.com:80/anwar123/12345/391157
+#EXTINF:-1 group-title="LIVE STREAMING",BR: Band Sports
+http://legendtvs.com:80/anwar123/12345/390846
+#EXTINF:-1 group-title="LIVE STREAMING",BR: FOX SPORTS 2
+http://legendtvs.com:80/anwar123/12345/390798
+#EXTINF:-1 group-title="LIVE STREAMING",BR: SPORTV 2
+http://legendtvs.com:80/anwar123/12345/390715
+#EXTINF:-1 group-title="LIVE STREAMING",BR: SPORTV 3
+http://legendtvs.com:80/anwar123/12345/390714
+#EXTINF:-1 group-title="LIVE STREAMING",PT: ELEVEN SPORTS 1 FHD
+http://legendtvs.com:80/anwar123/12345/381450
+#EXTINF:-1 group-title="LIVE STREAMING",PT: ELEVEN SPORTS 2 FHD
+http://legendtvs.com:80/anwar123/12345/381449
+#EXTINF:-1 group-title="LIVE STREAMING",PT: ELEVEN SPORTS 3 HD
+http://legendtvs.com:80/anwar123/12345/381448
+#EXTINF:-1 group-title="LIVE STREAMING",PT: ELEVEN SPORTS 4 FHD
+http://legendtvs.com:80/anwar123/12345/381447
+#EXTINF:-1 group-title="LIVE STREAMING",PT: ELEVEN SPORTS 5 HD
+http://legendtvs.com:80/anwar123/12345/381446
+#EXTINF:-1 group-title="LIVE STREAMING",PT: ELEVEN SPORTS 6 FHD
+http://legendtvs.com:80/anwar123/12345/381445
 
-
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE STREAMING" tvg-logo="http://1.bp.blogspot.com/-4Wx5_LP1YJM/UjzhGIrKNlI/AAAAAAAACbI/4HmsX_hGkyg/s1600/imagSPORTS.jpg",LALIGA 1HD
-http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/31347
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE STREAMING" tvg-logo="http://1.bp.blogspot.com/-4Wx5_LP1YJM/UjzhGIrKNlI/AAAAAAAACbI/4HmsX_hGkyg/s1600/imagSPORTS.jpg",SPORTS LA LIGA HD
-http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/31348
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE STREAMING" tvg-logo="http://1.bp.blogspot.com/-4Wx5_LP1YJM/UjzhGIrKNlI/AAAAAAAACbI/4HmsX_hGkyg/s1600/imagSPORTS.jpg",SPORTS 11 FHD
-http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/31349
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE STREAMING" tvg-logo="http://1.bp.blogspot.com/-4Wx5_LP1YJM/UjzhGIrKNlI/AAAAAAAACbI/4HmsX_hGkyg/s1600/imagSPORTS.jpg",SPORTS 10 FHD
-http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/31350
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE STREAMING" tvg-logo="http://1.bp.blogspot.com/-4Wx5_LP1YJM/UjzhGIrKNlI/AAAAAAAACbI/4HmsX_hGkyg/s1600/imagSPORTS.jpg",SPORTS 9 FHD
-http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/31351
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE STREAMING" tvg-logo="http://1.bp.blogspot.com/-4Wx5_LP1YJM/UjzhGIrKNlI/AAAAAAAACbI/4HmsX_hGkyg/s1600/imagSPORTS.jpg",SPORTS 8 FHD
-http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/31352
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE STREAMING" tvg-logo="http://1.bp.blogspot.com/-4Wx5_LP1YJM/UjzhGIrKNlI/AAAAAAAACbI/4HmsX_hGkyg/s1600/imagSPORTS.jpg",SPORTS 7 FHD
-http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/31353
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE STREAMING" tvg-logo="http://1.bp.blogspot.com/-4Wx5_LP1YJM/UjzhGIrKNlI/AAAAAAAACbI/4HmsX_hGkyg/s1600/imagSPORTS.jpg",SPORTS 5 FHD
-http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/31354
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE STREAMING" tvg-logo="http://1.bp.blogspot.com/-4Wx5_LP1YJM/UjzhGIrKNlI/AAAAAAAACbI/4HmsX_hGkyg/s1600/imagSPORTS.jpg",SPORTS 2 FHD
-http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/31355
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE STREAMING" tvg-logo="http://1.bp.blogspot.com/-4Wx5_LP1YJM/UjzhGIrKNlI/AAAAAAAACbI/4HmsX_hGkyg/s1600/imagSPORTS.jpg",SPORTS 1 FHD
-http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/31356
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE STREAMING" tvg-logo="http://1.bp.blogspot.com/-4Wx5_LP1YJM/UjzhGIrKNlI/AAAAAAAACbI/4HmsX_hGkyg/s1600/imagSPORTS.jpg",SPORTS 3 FHD
-http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/31357
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE STREAMING" tvg-logo="http://1.bp.blogspot.com/-4Wx5_LP1YJM/UjzhGIrKNlI/AAAAAAAACbI/4HmsX_hGkyg/s1600/imagSPORTS.jpg",SPORTS 4 FHD
-http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/31358
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE STREAMING" tvg-logo="http://1.bp.blogspot.com/-4Wx5_LP1YJM/UjzhGIrKNlI/AAAAAAAACbI/4HmsX_hGkyg/s1600/imagSPORTS.jpg",SPORTS 6 FHD
-http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/31359
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE STREAMING" tvg-logo="http://1.bp.blogspot.com/-4Wx5_LP1YJM/UjzhGIrKNlI/AAAAAAAACbI/4HmsX_hGkyg/s1600/imagSPORTS.jpg",SPORTS 12 FHD
-http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/31360
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE STREAMING" tvg-logo="http://1.bp.blogspot.com/-4Wx5_LP1YJM/UjzhGIrKNlI/AAAAAAAACbI/4HmsX_hGkyg/s1600/imagSPORTS.jpg",SPORTS Ñ la liga
-http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/31362
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE STREAMING" tvg-logo="https://www.thSPORTSun.co.uk/wp-content/uploads/2018/09/NINTCHDBPICT000353771160.jpg",SPORTS:SK Y SPORTS 21
-http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/31365
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE STREAMING" tvg-logo="https://www.thSPORTSun.co.uk/wp-content/uploads/2018/09/NINTCHDBPICT000353771160.jpg",SPORTS:SK Y SPORTS 16
-http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/31366
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE STREAMING" tvg-logo="http://elmasteriptv.com:8000/images/3f76d5d70b7fb3340973142ca42cc9f3.png",SPORTS: AYM Sports MEX
-http://elmasteriptv.com:8000/Ivanmart/PEtBhjMDDkKJ/17453
-
+#EXTINF:-1 group-title="LIVE STREAMING",Матч! Футбол 1
+http://1.allnetcom.com:80/play/vmBpFr845oXscVgzlhFw9MAuzcY1-_pdT11kqlNZ7xk/ts
+#EXTINF:-1 group-title="LIVE STREAMING",KHL
+http://1.allnetcom.com:80/play/vmBpFr845oXscVgzlhFw9EBpMkk-W6ES-TfzbWxMQZk/ts
+#EXTINF:-1 group-title="LIVE STREAMING",Матч! Футбол 3
+http://1.allnetcom.com:80/play/vmBpFr845oXscVgzlhFw9GSPgNpXIlZIFbQqoBBLutk/ts
+#EXTINF:-1 group-title="LIVE STREAMING",Матч! Футбол 2
+http://1.allnetcom.com:80/play/vmBpFr845oXscVgzlhFw9JW7PsBOSxjKv5FjHcHiFAY/ts
+#EXTINF:-1 group-title="LIVE STREAMING",МАТЧ ПРЕМЬЕР
+http://1.allnetcom.com:80/play/vmBpFr845oXscVgzlhFw9Fy3Aqrt_p3fUW5yi5R9oWw/ts
+#EXTINF:-1 group-title="LIVE STREAMING",Матч ТВ
+http://1.allnetcom.com:80/play/vmBpFr845oXscVgzlhFw9GJ0Q1dvyRN_xIypclyLnwg/ts
+#EXTINF:-1tvg-logo="http://www.vod-logo.net/photos/bfa54192427f9e62269d740a46e3cac5.png" group-title="LIVE STREAMING",DE- ❤ SKY SPORT BUNDESLIGA 1 HD
+http://5gfksa.ltd:2052/live/991155/551199/77045.m3u8
+#EXTINF:-1tvg-logo="http://www.vod-logo.net/photos/bfa54192427f9e62269d740a46e3cac5.png" group-title="LIVE STREAMING",DE- ❤ SKY SPORT BUNDESLIGA 2 HD
+http://5gfksa.ltd:2052/live/991155/551199/77044.m3u8
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 1 SD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.1.png" group-title="LIVE STREAMING",BEIN SP⚽RTS ENGLISH 1 SD
+http://5gfksa.ltd:2052/live/991155/551199/180159.m3u8
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 1 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.1.png" group-title="LIVE STREAMING",BEIN SP⚽RTS ENGLISH 1 HD
+http://5gfksa.ltd:2052/live/991155/551199/180168.m3u8
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 2 SD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.2.png" group-title="LIVE STREAMING",BEIN SP⚽RTS ENGLISH 2 SD
+http://5gfksa.ltd:2052/live/991155/551199/180157.m3u8
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 2 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.2.png" group-title="LIVE STREAMING",BEIN SP⚽RTS ENGLISH 2 HD
+http://5gfksa.ltd:2052/live/991155/551199/180169.m3u8
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 SD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="LIVE STREAMING",BEIN SP⚽RTS ENGLISH 3 SD
+http://5gfksa.ltd:2052/live/991155/551199/180158.m3u8
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="LIVE STREAMING",BEIN SP⚽RTS ENGLISH 3 HD
+http://5gfksa.ltd:2052/live/991155/551199/180170.m3u8
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS PREMIUM 1 SD" tvg-logo="http://62.182.85.43/poster/BEIN- PREMIUM.1.png" group-title="LIVE STREAMING",BEIN SP⚽RTS PREMIUM 1 SD
+http://5gfksa.ltd:2052/live/991155/551199/180147.m3u8
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS PREMIUM 1 HD" tvg-logo="http://62.182.85.43/poster/BEIN- PREMIUM.1.png" group-title="LIVE STREAMING",BEIN SP⚽RTS PREMIUM 1 HD
+http://5gfksa.ltd:2052/live/991155/551199/180137.m3u8
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS PREMIUM 2 SD" tvg-logo="http://62.182.85.43/poster/BEIN- PREMIUM.2.png" group-title="LIVE STREAMING",BEIN SP⚽RTS PREMIUM 2 SD
+http://5gfksa.ltd:2052/live/991155/551199/180148.m3u8
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS PREMIUM 2 HD" tvg-logo="http://62.182.85.43/poster/BEIN- PREMIUM.2.png" group-title="LIVE STREAMING",BEIN SP⚽RTS PREMIUM 2 HD
+http://5gfksa.ltd:2052/live/991155/551199/180138.m3u8
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS PREMIUM 3 SD" tvg-logo="http://62.182.85.43/poster/BEIN- PREMIUM.3.png" group-title="LIVE STREAMING",BEIN SP⚽RTS PREMIUM 3 SD
+http://5gfksa.ltd:2052/live/991155/551199/180149.m3u8
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS PREMIUM 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- PREMIUM.3.png" group-title="LIVE STREAMINGSA",BEIN SP⚽RTS PREMIUM 3 HD
+http://5gfksa.ltd:2052/live/991155/551199/180139.m3u8
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="LIVE STREAMING",CCTV 5
+http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="LIVE STREAMING",CCTV 5-2
+http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 tvg-name="BEIN SP⚽RTS ENGLISH 3 HD" tvg-logo="http://62.182.85.43/poster/BEIN- ENGLISH.3.png" group-title="LIVE STREAMING",CCTV 5+
+http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8#EXTINF:-1 group-title="LIVE STREAMING" ,ELEVEN SPORTS 2 ðŸ‡µðŸ‡¹
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
+#EXTINF:-1 group-title="LIVE STREAMING",ELEVEN SPORTS 3 ðŸ‡µðŸ‡¹
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
+#EXTINF:-1 group-title="LIVE STREAMING",ELEVEN SPORTS 4 ðŸ‡µðŸ‡¹
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
+#EXTINF:-1 group-title="LIVE STREAMING",PT: SPORT TV +
+http://drakiptv.uno:80/mustapha/mustapha123/164289
+#EXTINF:-1 group-title="LIVE STREAMING",PT: SPORT TV 1
+http://drakiptv.uno:80/mustapha/mustapha123/164290
+#EXTINF:-1 group-title="LIVE STREAMING",PT:  SPORT TV 2
+http://drakiptv.uno:80/mustapha/mustapha123/164291
+#EXTINF:-1 group-title="LIVE STREAMING",PT:  SPORT TV 4
+http://drakiptv.uno:80/mustapha/mustapha123/164292
+#EXTINF:-1 group-title="LIVE STREAMING",PT:  SPORT TV 3
+http://drakiptv.uno:80/mustapha/mustapha123/164293
+#EXTINF:-1 group-title="LIVE STREAMING",SPORT TV 5
+http://drakiptv.uno:80/mustapha/mustapha123/164294
 #EXTINF:-1 tvg-id="LIVE STREAMING"group-title="LIVE STREAMING" tvg-logo="http://images.zaltv.club/logo/vtvcab3hd.png",ONSports
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn
